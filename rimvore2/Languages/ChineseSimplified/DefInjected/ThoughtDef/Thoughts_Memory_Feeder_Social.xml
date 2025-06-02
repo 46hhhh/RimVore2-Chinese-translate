@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 投喂社交记忆 -->
+  <RV2_FedMePrey_VeryGood.stages.0.label>用我最喜爱的方式投喂猎物</RV2_FedMePrey_VeryGood.stages.0.label>
+  <RV2_FedMePrey_Good.stages.0.label>用我喜欢的方式投喂猎物</RV2_FedMePrey_Good.stages.0.label>
+  <RV2_FedMePrey_Bad.stages.0.label>用我讨厌的方式投喂猎物</RV2_FedMePrey_Bad.stages.0.label>
+  <RV2_FedMePrey_VeryBad.stages.0.label>用我最厌恶的方式投喂猎物</RV2_FedMePrey_VeryBad.stages.0.label>
+
+
+</LanguageData>

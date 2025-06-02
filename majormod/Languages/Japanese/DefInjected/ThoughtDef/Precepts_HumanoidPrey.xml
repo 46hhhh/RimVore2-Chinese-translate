@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Disliked -->
+
+  <RV2_HumanoidPrey_Disliked.stages.0.label>人を丸呑みした</RV2_HumanoidPrey_Disliked.stages.0.label>
+  <RV2_HumanoidPrey_Disliked.stages.0.description>やるべきでは無かったはず,教えは私を歓迎しないだろう...</RV2_HumanoidPrey_Disliked.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Disliked.stages.0.label>人を丸呑みした</RV2_HumanoidPrey_Know_Disliked.stages.0.label>
+
+
+  <!-- Abhorrent -->
+
+  <RV2_HumanoidPrey_Abhorrent.stages.0.label>人の丸呑み</RV2_HumanoidPrey_Abhorrent.stages.0.label>
+  <RV2_HumanoidPrey_Abhorrent.stages.0.description>教義に反しているのに,人を丸呑みした.なんとも恐ろしい気分だ.</RV2_HumanoidPrey_Abhorrent.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Abhorrent.stages.0.label>誰かが人を丸呑みした!!</RV2_HumanoidPrey_Know_Abhorrent.stages.0.label>
+  <RV2_HumanoidPrey_Know_Abhorrent.stages.0.description>周りの誰かが人を丸呑みした,教えに反する忌々しい行為だ!</RV2_HumanoidPrey_Know_Abhorrent.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Social_Abhorrent.stages.0.label>人を丸呑みした</RV2_HumanoidPrey_Know_Social_Abhorrent.stages.0.label>
+
+
+  <!-- Liked -->
+
+  <RV2_HumanoidPrey_Liked.stages.0.label>人を丸呑みした</RV2_HumanoidPrey_Liked.stages.0.label>
+  <RV2_HumanoidPrey_Liked.stages.0.description>神聖な芸術に触れ,心が満たされる.</RV2_HumanoidPrey_Liked.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Liked.stages.0.label>人に触れた舌</RV2_HumanoidPrey_Know_Liked.stages.0.label>
+
+
+  <!-- Required -->
+
+  <RV2_HumanoidPrey_Required.stages.0.label>ヒューマノイドを丸呑みした</RV2_HumanoidPrey_Required.stages.0.label>
+  <RV2_HumanoidPrey_Required.stages.0.description>人を呑み込むことで私は信念を確信できる.</RV2_HumanoidPrey_Required.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Required.stages.0.label>誰かが人を丸呑みした!</RV2_HumanoidPrey_Know_Required.stages.0.label>
+  <RV2_HumanoidPrey_Know_Required.stages.0.description>周りの誰かが人の獲物を食べた,実に尊敬すべき行いだ!</RV2_HumanoidPrey_Know_Required.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Social_Required.stages.0.label>神聖な寵愛者</RV2_HumanoidPrey_Know_Social_Required.stages.0.label>
+
+  <RV2_NoRecentHumanoidPrey_Required.stages.0.label>人を丸呑みしたい</RV2_NoRecentHumanoidPrey_Required.stages.0.label>
+  <RV2_NoRecentHumanoidPrey_Required.stages.0.description>最後に人を丸呑みしてから大分経ってしまった.</RV2_NoRecentHumanoidPrey_Required.stages.0.description>
+
+
+</LanguageData>

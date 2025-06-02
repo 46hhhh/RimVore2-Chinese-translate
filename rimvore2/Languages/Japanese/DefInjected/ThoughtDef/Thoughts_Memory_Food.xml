@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are copied directly from base game and modified to fit the quirks that cause them. Using inheritance here is probably a bad idea -->
+
+  <RV2_AteHumanlikeMeatDirect_Predator.stages.0.label>生の人肉を食べた</RV2_AteHumanlikeMeatDirect_Predator.stages.0.label>
+  <RV2_AteHumanlikeMeatDirect_Predator.stages.0.description>せめて中で蠢いてくれたら...</RV2_AteHumanlikeMeatDirect_Predator.stages.0.description>
+
+  <RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.label>生の人肉を食べた</RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.label>
+  <RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.description>美味しい,けど生きてたらもっと...</RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.description>
+
+  <RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.label>調理済みの人肉を食べた</RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.label>
+  <RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.description>ヒト肉から作った料理なんて,なんて無駄が多いんだ.</RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.description>
+
+  <RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.label>調理済みの人肉を食べた</RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.label>
+  <RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.description>ヒト肉から作った料理なんて,美味しいけども,無駄が多い気がする.</RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.description>
+
+  <RV2_AteInsectMeatDirect_ChitinChewer.stages.0.label>昆虫の肉を食べた</RV2_AteInsectMeatDirect_ChitinChewer.stages.0.label>
+  <RV2_AteInsectMeatDirect_ChitinChewer.stages.0.description>美味しい!けど...生きてる状態で食べられたらもっと美味しいはずだったのに.</RV2_AteInsectMeatDirect_ChitinChewer.stages.0.description>
+
+  <RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.label>昆虫の肉を食べた</RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.label>
+  <RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.description>どろどろした昆虫の肉を食べた.美味しいけど,できるなら生きて抵抗を感じたかった.</RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.description>
+
+  <RV2_AteCorpse_Predator.stages.0.label>死体を食べた</RV2_AteCorpse_Predator.stages.0.label>
+  <RV2_AteCorpse_Predator.stages.0.description>死体をそのままむさぼった.これはvoreとは似て非なるものだ.</RV2_AteCorpse_Predator.stages.0.description>
+
+
+</LanguageData>

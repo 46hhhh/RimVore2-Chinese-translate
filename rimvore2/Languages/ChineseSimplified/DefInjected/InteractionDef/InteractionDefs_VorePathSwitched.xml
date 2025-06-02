@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_SwitchedGoal.label>切换吞食目的</RV2_SwitchedGoal.label>
+  <RV2_SwitchedGoal.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]改变了对[RECIPIENT_nameDef]的方针！ -> </RV2_SwitchedGoal.logRulesInitiator.rulesStrings.0>
+
+</LanguageData>

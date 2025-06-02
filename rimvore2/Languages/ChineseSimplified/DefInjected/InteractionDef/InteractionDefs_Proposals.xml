@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_Proposal.label>吞食请求</RV2_Proposal.label>
+  <RV2_Proposal.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef]提出了吞食请求。</RV2_Proposal.logRulesInitiator.rulesStrings.0>
+
+</LanguageData>

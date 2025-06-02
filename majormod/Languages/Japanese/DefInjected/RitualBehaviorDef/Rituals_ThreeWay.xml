@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- feeding ritual (endo) -->
+
+  <RV2_FeedingRitual_Endo.roles.0.label>食べさせ役</RV2_FeedingRitual_Endo.roles.0.label>
+  <RV2_FeedingRitual_Endo.roles.1.label>捕食者役</RV2_FeedingRitual_Endo.roles.1.label>
+  <RV2_FeedingRitual_Endo.roles.2.label>被食者役</RV2_FeedingRitual_Endo.roles.2.label>
+  <RV2_FeedingRitual_Endo.letterText>結合の奉儀が始まります.</RV2_FeedingRitual_Endo.letterText>
+
+  <RV2_FeedingRitual_Fatal.roles.0.label>食べさせ役</RV2_FeedingRitual_Fatal.roles.0.label>
+  <RV2_FeedingRitual_Fatal.roles.1.label>捕食者役</RV2_FeedingRitual_Fatal.roles.1.label>
+  <RV2_FeedingRitual_Fatal.roles.2.label>被食者役</RV2_FeedingRitual_Fatal.roles.2.label>
+  <RV2_FeedingRitual_Fatal.letterText>消化の奉儀が始まります.</RV2_FeedingRitual_Fatal.letterText>
+
+
+</LanguageData>

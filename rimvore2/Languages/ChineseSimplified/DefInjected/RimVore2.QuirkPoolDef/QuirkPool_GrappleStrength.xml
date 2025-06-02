@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- The system already supports grapple strength for attacker or defender sides with modifierName = 
+    "GrappleStrengthAttacker" and "GrappleStrengthDefender" 
+    but I don't know how I would implement these here and make em look good. Trait requirements already have their own special implementation, 
+    which was the only reason I would have had for att/def specific quirks -->
+
+  <GrappleStrength.label>擒抱能力</GrappleStrength.label>
+  <GrappleStrength.description>表示该角色在吞噬相关擒抱中影响成功率条的能力。同时影响攻防双方。</GrappleStrength.description>
+
+
+</LanguageData>

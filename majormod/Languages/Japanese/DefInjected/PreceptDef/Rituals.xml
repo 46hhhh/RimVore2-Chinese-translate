@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_ConsumptionRitual.label>消化の儀式</RV2_ConsumptionRitual.label>
+  <RV2_ConsumptionRitual.description>貪欲なる捕食者がスピーチを行ったのちに,指定された獲物を消化液のもとに捕食する儀式です.\n宴は消化が終わるまで続くため,消化が遅い捕食者のせいで儀式が長引き,参列者を消耗させる可能性があります.</RV2_ConsumptionRitual.description>
+
+  <RV2_ConsumptionSacrifice.label>消化の捧物</RV2_ConsumptionSacrifice.label>
+  <RV2_ConsumptionSacrifice.description>選ばれし被食者がスピーチを行ったのちに,指定された捕食者に消化される儀式です.\n宴は消化が終わるまで続くため,消化が遅い捕食者のせいで儀式が長引き,参列者を消耗させる可能性があります.</RV2_ConsumptionSacrifice.description>
+
+  <RV2_VoreBondingRitual.label>結合の儀式</RV2_VoreBondingRitual.label>
+  <RV2_VoreBondingRitual.description>貪欲なる捕食者がスピーチを行ったのちに,指定された獲物を安全に捕食する儀式です.\n宴は捕食がある程度進行するまで続き. 捕食者と被食者はvoreに対しての信念がより強まります.</RV2_VoreBondingRitual.description>
+
+  <RV2_VoreBondingSacrifice.label>結合の捧物</RV2_VoreBondingSacrifice.label>
+  <RV2_VoreBondingSacrifice.description>選ばれし被食者がスピーチを行ったのちに,指定された捕食者を安全に捕食される儀式です.\n宴は捕食がある程度進行するまで続き. 捕食者と被食者はvoreに対しての信念がより強まります.</RV2_VoreBondingSacrifice.description>
+
+
+  <!-- feast ritual -->
+
+  <RV2_VoreFeast.label>捕食の交雑祭</RV2_VoreFeast.label>
+  <RV2_VoreFeast.description>リーダーによるスピーチの後,参列者の全員が自身の好みに合わせてお互いに捕食しあう儀式です.あらゆる種類で勝手に敢行するため,うっかり消化液に晒してしまう可能性もあります.命を大事にしたければ各個の設定パネルを確認しましょう.</RV2_VoreFeast.description>
+
+
+  <!-- feeder rituals -->
+
+  <RV2_VoreFeedingRitual_Endo.label>結合の奉儀</RV2_VoreFeedingRitual_Endo.label>
+  <RV2_VoreFeedingRitual_Endo.description>捕食の調律者がスピーチを行ったのちに,被食者を捕食者に安全に食べさせる儀式です.</RV2_VoreFeedingRitual_Endo.description>
+
+  <RV2_VoreFeedingRitual_Fatal.label>消化の奉儀</RV2_VoreFeedingRitual_Fatal.label>
+  <RV2_VoreFeedingRitual_Fatal.description>捕食の調律者がスピーチを行ったのちに,被食者を捕食者に消化液のもとに食べさせる儀式です.</RV2_VoreFeedingRitual_Fatal.description>
+
+
+</LanguageData>

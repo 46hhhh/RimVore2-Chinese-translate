@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cheats.label>作弊倾向</Cheats.label>
+  <Cheats.description>某些倾向虽可存在但不宜过多...此处收纳了默认零概率的、可能影响游戏平衡的倾向。可通过设置调整概率，或在开发者模式下为个体单独启用。</Cheats.description>
+
+
+</LanguageData>

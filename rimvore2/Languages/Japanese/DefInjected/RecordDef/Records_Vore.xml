@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_Predator.label>Vore:捕食者</RV2_Predator.label>
+  <RV2_Predator.description>獲物を食べた回数です.</RV2_Predator.description>
+
+  <RV2_Prey.label>Vore:被食者</RV2_Prey.label>
+  <RV2_Prey.description>獲物になった回数です.</RV2_Prey.description>
+
+
+  <!-- increased on vore initiation -->
+
+  <RV2_Type_Oral_Predator.label>Vore:捕食者 口腔</RV2_Type_Oral_Predator.label>
+  <RV2_Type_Oral_Predator.description>獲物を呑み込んだ回数です.</RV2_Type_Oral_Predator.description>
+
+  <RV2_Type_Oral_Prey.label>Vore:被食者 口腔</RV2_Type_Oral_Prey.label>
+  <RV2_Type_Oral_Prey.description>獲物として呑み込まれた回数です.</RV2_Type_Oral_Prey.description>
+
+  <RV2_Type_Anal_Predator.label>Vore:捕食者 肛門</RV2_Type_Anal_Predator.label>
+  <RV2_Type_Anal_Predator.description>獲物を尻で呑み込んだ回数です.</RV2_Type_Anal_Predator.description>
+
+  <RV2_Type_Anal_Prey.label>Vore:被食者 肛門</RV2_Type_Anal_Prey.label>
+  <RV2_Type_Anal_Prey.description>獲物として尻に呑み込まれた回数です.</RV2_Type_Anal_Prey.description>
+
+  <RV2_Type_Cock_Predator.label>Vore:捕食者 竿</RV2_Type_Cock_Predator.label>
+  <RV2_Type_Cock_Predator.description>獲物を竿で呑み込んだ回数です.</RV2_Type_Cock_Predator.description>
+
+  <RV2_Type_Cock_Prey.label>Vore:被食者 竿</RV2_Type_Cock_Prey.label>
+  <RV2_Type_Cock_Prey.description>獲物として竿に呑み込まれた回数です.</RV2_Type_Cock_Prey.description>
+
+  <RV2_Type_Vaginal_Predator.label>Vore:捕食者 膣</RV2_Type_Vaginal_Predator.label>
+  <RV2_Type_Vaginal_Predator.description>獲物を膣で呑み込んだ回数です.</RV2_Type_Vaginal_Predator.description>
+
+  <RV2_Type_Vaginal_Prey.label>Vore:被食者 膣</RV2_Type_Vaginal_Prey.label>
+  <RV2_Type_Vaginal_Prey.description>獲物として膣に呑み込まれた回数です.</RV2_Type_Vaginal_Prey.description>
+
+  <RV2_Type_Nipple_Predator.label>Vore:捕食者 乳首</RV2_Type_Nipple_Predator.label>
+  <RV2_Type_Nipple_Predator.description>獲物を乳首で呑み込んだ回数です.</RV2_Type_Nipple_Predator.description>
+
+  <RV2_Type_Nipple_Prey.label>Vore:被食者 乳首</RV2_Type_Nipple_Prey.label>
+  <RV2_Type_Nipple_Prey.description>獲物として乳首に呑み込まれた回数です.</RV2_Type_Nipple_Prey.description>
+
+  <RV2_Type_FullTour_Predator.label>Vore:捕食者 体内ツアー</RV2_Type_FullTour_Predator.label>
+  <RV2_Type_FullTour_Predator.description>獲物を消化管に通しきる目的で呑み込んだ回数です.</RV2_Type_FullTour_Predator.description>
+
+  <RV2_Type_FullTour_Prey.label>Vore:被食者 体内ツアー</RV2_Type_FullTour_Prey.label>
+  <RV2_Type_FullTour_Prey.description>獲物として消化管を通されるために呑み込まれた回数です.</RV2_Type_FullTour_Prey.description>
+
+  <!-- increased on vore end -->
+
+  <RV2_Goal_Digest_Predator.label>Vore:捕食者 消化</RV2_Goal_Digest_Predator.label>
+  <RV2_Goal_Digest_Predator.description>獲物を消化した回数です.</RV2_Goal_Digest_Predator.description>
+
+  <RV2_Goal_Digest_Prey.label>Vore:被食者 消化</RV2_Goal_Digest_Prey.label>
+  <RV2_Goal_Digest_Prey.description>獲物として消化された回数です.</RV2_Goal_Digest_Prey.description>
+
+  <RV2_Goal_ConvertLube_Predator.label>Vore:捕食者 愛液化</RV2_Goal_ConvertLube_Predator.label>
+  <RV2_Goal_ConvertLube_Predator.description>獲物を愛液化した回数です.</RV2_Goal_ConvertLube_Predator.description>
+
+  <RV2_Goal_ConvertLube_Prey.label>Vore:被食者 愛液化</RV2_Goal_ConvertLube_Prey.label>
+  <RV2_Goal_ConvertLube_Prey.description>獲物として愛液化された回数です.</RV2_Goal_ConvertLube_Prey.description>
+
+  <RV2_Goal_ConvertMilk_Predator.label>Vore:捕食者 ミルク化</RV2_Goal_ConvertMilk_Predator.label>
+  <RV2_Goal_ConvertMilk_Predator.description>獲物をミルク化した回数です.</RV2_Goal_ConvertMilk_Predator.description>
+
+  <RV2_Goal_ConvertMilk_Prey.label>Vore:被食者 ミルク化</RV2_Goal_ConvertMilk_Prey.label>
+  <RV2_Goal_ConvertMilk_Prey.description>獲物としてミルク化された回数です.</RV2_Goal_ConvertMilk_Prey.description>
+
+  <RV2_Goal_ConvertSperm_Predator.label>Vore:捕食者 精液化</RV2_Goal_ConvertSperm_Predator.label>
+  <RV2_Goal_ConvertSperm_Predator.description>獲物を精液化した回数です.</RV2_Goal_ConvertSperm_Predator.description>
+
+  <RV2_Goal_ConvertSperm_Prey.label>Vore:被食者 精液化</RV2_Goal_ConvertSperm_Prey.label>
+  <RV2_Goal_ConvertSperm_Prey.description>獲物として精液化された回数です.</RV2_Goal_ConvertSperm_Prey.description>
+
+  <RV2_Goal_Reform_Predator.label>Vore:捕食者 再構成</RV2_Goal_Reform_Predator.label>
+  <RV2_Goal_Reform_Predator.description>獲物を再構成した回数です.</RV2_Goal_Reform_Predator.description>
+
+  <RV2_Goal_Reform_Prey.label>Vore:被食者 再構成</RV2_Goal_Reform_Prey.label>
+  <RV2_Goal_Reform_Prey.description>獲物として再構成された回数です.</RV2_Goal_Reform_Prey.description>
+
+  <RV2_Goal_Heal_Predator.label>Vore:捕食者 癒し</RV2_Goal_Heal_Predator.label>
+  <RV2_Goal_Heal_Predator.description>獲物を癒した回数です.</RV2_Goal_Heal_Predator.description>
+
+  <RV2_Goal_Heal_Prey.label>Vore:被食者 癒し</RV2_Goal_Heal_Prey.label>
+  <RV2_Goal_Heal_Prey.description>獲物として癒された回数です.</RV2_Goal_Heal_Prey.description>
+
+  <RV2_Goal_Pleasure_Predator.label>Vore:捕食者 快楽</RV2_Goal_Pleasure_Predator.label>
+  <RV2_Goal_Pleasure_Predator.description>獲物を快楽のために丸呑みした回数です.</RV2_Goal_Pleasure_Predator.description>
+
+  <RV2_Goal_Pleasure_Prey.label>Vore:被食者 快楽</RV2_Goal_Pleasure_Prey.label>
+  <RV2_Goal_Pleasure_Prey.description>獲物として快楽のために丸呑みされた回数です.</RV2_Goal_Pleasure_Prey.description>
+
+  <RV2_Goal_Store_Predator.label>Vore:捕食者 保管</RV2_Goal_Store_Predator.label>
+  <RV2_Goal_Store_Predator.description>獲物を体内に保管した回数です.</RV2_Goal_Store_Predator.description>
+
+  <RV2_Goal_Store_Prey.label>Vore:被食者 保管</RV2_Goal_Store_Prey.label>
+  <RV2_Goal_Store_Prey.description>獲物として体内に保管された回数です.</RV2_Goal_Store_Prey.description>
+
+  <RV2_Goal_Hold_Predator.label>Vore:捕食者 一時保管</RV2_Goal_Hold_Predator.label>
+  <RV2_Goal_Hold_Predator.description>獲物を体内に一時的に保管した回数です.</RV2_Goal_Hold_Predator.description>
+
+  <RV2_Goal_Hold_Prey.label>Vore:被食者 一時保管</RV2_Goal_Hold_Prey.label>
+  <RV2_Goal_Hold_Prey.description>獲物として体内に一時的に保管された回数です.</RV2_Goal_Hold_Prey.description>
+
+
+</LanguageData>

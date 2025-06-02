@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 注意：这些特性（特别是最清洁的那个）是硬编码的，用于判断机械体框架是否能从消化过程中幸存或变成废渣。
+  MH：我非常希望能将它们的名称标准化为"完全-高-正常-低-无"，并让机械体框架的处理方式由定义文件决定而非代码。 -->
+
+  <ItemDamage_Default.label>衣物肉体皆可溶</ItemDamage_Default.label>
+  <ItemDamage_Default.description>[PAWN_label]能像溶解猎物一样溶解衣物和植入物。虽然胃液并非专门针对塑钢设计，但服装和机械装置也并不具备完全的消化抗性。</ItemDamage_Default.description>
+
+  <ItemDamage_Traceless.label>消踪灭迹不留痕</ItemDamage_Traceless.label>
+  <ItemDamage_Traceless.description>[PAWN_label]完成猎物消化后不会留下任何痕迹。即使翻遍排泄物，也找不到衣物或金属碎片的踪影。</ItemDamage_Traceless.description>
+
+  <ItemDamage_Moth.label>衣物优先消化液</ItemDamage_Moth.label>
+  <ItemDamage_Moth.description>[PAWN_label]的消化道在消化猎物时，会优先分解衣物和植入物。这种习性源于[PAWN_possessive]娇嫩的肉壁结构，出于心理健康考量而反映在消化系统中。</ItemDamage_Moth.description>
+
+  <ItemDamage_FiberFriendly.label>衣物吐还派</ItemDamage_FiberFriendly.label>
+  <ItemDamage_FiberFriendly.description>[PAWN_label]的消化道会尽可能温和地处理猎物的衣物和饰品。不过这些物品仍会接触消化液，无法完全无损地排出。</ItemDamage_FiberFriendly.description>
+
+  <ItemDamage_Spotless.label>独善衣物身</ItemDamage_Spotless.label>
+  <ItemDamage_Spotless.description>[PAWN_label]的消化道极为特殊，能精准消化猎物而不损伤衣物。这些衣物会以几乎察觉不到经过消化道的洁净状态排出，植入物同样能完好无损。</ItemDamage_Spotless.description>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 抓取无效原因 -->
+  <RV2_UseGrappleGizmoInvalid_DisabledInSettings>功能已在设置中禁用</RV2_UseGrappleGizmoInvalid_DisabledInSettings>
+  <RV2_GrappleInvalid_RaceUnable>{0}种族无法抓取</RV2_GrappleInvalid_RaceUnable>
+  <RV2_GrappleInvalid_AlreadyGrappling>{0}已在抓取状态</RV2_GrappleInvalid_AlreadyGrappling>
+  <RV2_GrappleInvalid_ChanceIsZero>{0}完全没有成功可能</RV2_GrappleInvalid_ChanceIsZero>
+</LanguageData>
+
+<!-- RV2_GrappleInvalid_ -->

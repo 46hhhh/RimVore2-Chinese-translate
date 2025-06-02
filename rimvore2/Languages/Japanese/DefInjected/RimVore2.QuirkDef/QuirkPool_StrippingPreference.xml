@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- predator -->
+
+  <StrippingPreference_Predator_MothTongue.label>着衣捕食に感触の価値アリ</StrippingPreference_Predator_MothTongue.label>
+  <StrippingPreference_Predator_MothTongue.description>[PAWN_label]は肌や毛皮より布の味を好み([PAWN_pronoun]が実際に布を好むかは除き),[PAWN_possessive]獲物がどのような姿でも,そのままに呑み込もうとします.</StrippingPreference_Predator_MothTongue.description>
+
+  <StrippingPreference_Predator_None.label>舌触りに無頓着</StrippingPreference_Predator_None.label>
+  <StrippingPreference_Predator_None.description>[PAWN_label]は獲物の触感が肌でも布でも金属でも気にしません.</StrippingPreference_Predator_None.description>
+
+  <StrippingPreference_Predator_SkinTaster.label>肌をこの身で感じたい</StrippingPreference_Predator_SkinTaster.label>
+  <StrippingPreference_Predator_SkinTaster.description>[PAWN_label]は獲物本来の感触を好み,そのチャンスがあれば,[PAWN_possessive]獲物はもれなく丸裸にされます.</StrippingPreference_Predator_SkinTaster.description>
+
+
+  <!-- prey -->
+
+  <StrippingPreference_Prey_NeverNude.label>一枚越しの肉触り</StrippingPreference_Prey_NeverNude.label>
+  <StrippingPreference_Prey_NeverNude.description>[PAWN_label]は[PAWN_objective]体と[PAWN_possessive]肉壁の間に薄い布のカバーを設けることを好みます.</StrippingPreference_Prey_NeverNude.description>
+
+  <StrippingPreference_Prey_None.label>あっても無くてもそう変わらない</StrippingPreference_Prey_None.label>
+  <StrippingPreference_Prey_None.description>[PAWN_label]は獲物に脱がされても脱がされなくても,好みが無いために反応しません.</StrippingPreference_Prey_None.description>
+
+  <StrippingPreference_Prey_Nude.label>食べられ前のひと脱ぎ</StrippingPreference_Prey_Nude.label>
+  <StrippingPreference_Prey_Nude.description>[PAWN_label]は[PAWN_objective]体と[PAWN_possessive]肉壁の間に水分を吸った布のカバーを設けることを嫌います.食べられる前に脱いでおけば,洗濯かごに放り込む必要も無くなります.</StrippingPreference_Prey_Nude.description>
+
+
+</LanguageData>

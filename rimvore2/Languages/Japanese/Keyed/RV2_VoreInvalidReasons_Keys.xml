@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- VoreValidator -->
+  <RV2_VoreInvalidReasons_TooYoung>年齢を満たしていない</RV2_VoreInvalidReasons_TooYoung>
+  <RV2_VoreInvalidReasons_Animal>動物</RV2_VoreInvalidReasons_Animal>
+  <RV2_VoreInvalidReasons_WildAnimalForAuto>野生動物は自動申し出が無効</RV2_VoreInvalidReasons_WildAnimalForAuto>
+  <RV2_VoreInvalidReasons_VisitorForAuto>訪問者は自動申し出が無効</RV2_VoreInvalidReasons_VisitorForAuto>
+  <RV2_VoreInvalidReasons_SelfVore>自分をvoreすることはできない</RV2_VoreInvalidReasons_SelfVore>
+  <RV2_VoreInvalidReasons_QuirksDisabled>傾向：無視</RV2_VoreInvalidReasons_QuirksDisabled>
+  <RV2_VoreInvalidReasons_FatalDisabled>致死：無効</RV2_VoreInvalidReasons_FatalDisabled>
+  <RV2_VoreInvalidReasons_EndoDisabled>保管： 無効</RV2_VoreInvalidReasons_EndoDisabled>
+  <RV2_VoreInvalidReasons_FatalAndEndoDisabled>致死と保管：無効</RV2_VoreInvalidReasons_FatalAndEndoDisabled>
+  <RV2_VoreInvalidReasons_FatalDisabledAndQuirkFatalOnlyPredator>致死のみの捕食者(致死無効)</RV2_VoreInvalidReasons_FatalDisabledAndQuirkFatalOnlyPredator>
+  <RV2_VoreInvalidReasons_EndoDisabledAndQuirkEndoOnlyPredator>保管のみの捕食者(保管無効)</RV2_VoreInvalidReasons_EndoDisabledAndQuirkEndoOnlyPredator>
+  <RV2_VoreInvalidReasons_QuirkNeverPredator>傾向: 捕食者でない</RV2_VoreInvalidReasons_QuirkNeverPredator>
+  <RV2_VoreInvalidReasons_QuirkNeverPrey>傾向: 被食者でない</RV2_VoreInvalidReasons_QuirkNeverPrey>
+  <RV2_VoreInvalidReasons_QuirkFatalOnlyPredator>傾向: 致死のみの捕食者</RV2_VoreInvalidReasons_QuirkFatalOnlyPredator>
+  <RV2_VoreInvalidReasons_QuirkEndoOnlyPredator>傾向: 保管のみの捕食者</RV2_VoreInvalidReasons_QuirkEndoOnlyPredator>
+  <RV2_VoreInvalidReasons_PredatorCantVore>捕食者はvoreできない: </RV2_VoreInvalidReasons_PredatorCantVore>
+  <RV2_VoreInvalidReasons_PreyCantBeVored>被食者はvoreさせられない: </RV2_VoreInvalidReasons_PreyCantBeVored>
+  <RV2_VoreInvalidReasons_OngoingVore>今この捕食者に手を出せない</RV2_VoreInvalidReasons_OngoingVore>
+  <RV2_VoreInvalidReasons_NoCapacity>容量が足りない</RV2_VoreInvalidReasons_NoCapacity>
+  <RV2_VoreInvalidReasons_MentalState>精神状態</RV2_VoreInvalidReasons_MentalState>
+  <RV2_VoreInvalidReasons_NoGoals>傾向に含まれていない</RV2_VoreInvalidReasons_NoGoals>
+  <RV2_VoreInvalidReasons_NoTypes>voreの手段に含まれていない</RV2_VoreInvalidReasons_NoTypes>
+  <RV2_VoreInvalidReasons_Predator>捕食者</RV2_VoreInvalidReasons_Predator>
+  <RV2_VoreInvalidReasons_Prey>被食者</RV2_VoreInvalidReasons_Prey>
+  <RV2_VoreInvalidReasons_DesignationMissing>{0}は{1}できるようになっていない</RV2_VoreInvalidReasons_DesignationMissing>
+  <RV2_VoreInvalidReasons_NoPredatorDesignations>{0}は捕食できるようになっていない</RV2_VoreInvalidReasons_NoPredatorDesignations>
+  <RV2_VoreInvalidReasons_NoPreyDesignations>被食者にできる存在がいない</RV2_VoreInvalidReasons_NoPreyDesignations>
+  <RV2_VoreInvalidReasons_CurrentlyInitiatingVore>被食者は既にvoreに巻き込まれている</RV2_VoreInvalidReasons_CurrentlyInitiatingVore>
+  <RV2_VoreInvalidReasons_PredatorInRitual>捕食者は儀式の最中</RV2_VoreInvalidReasons_PredatorInRitual>
+  <RV2_VoreInvalidReasons_PreyInRitual>被食者は儀式の最中</RV2_VoreInvalidReasons_PreyInRitual>
+  <RV2_VoreInvalidReasons_Unavailable>使用不可</RV2_VoreInvalidReasons_Unavailable>
+  <RV2_VoreInvalidReasons_NoPreyAvailable>被食者がいない</RV2_VoreInvalidReasons_NoPreyAvailable>
+  
+  <!-- VoreGoalDef -->
+  <RV2_VoreInvalidReasons_PawnsWithoutSexNeed>どちらの対象も快楽を必要としておらず,快楽目的は行えない</RV2_VoreInvalidReasons_PawnsWithoutSexNeed>
+  <RV2_VoreInvalidReasons_AlreadyPleasured>既に満たされている</RV2_VoreInvalidReasons_AlreadyPleasured>
+  
+  <!-- VorePathDef -->
+  <!--RV2_VoreInvalidReasons_PathDisabled>Disabled by settings</RV2_VoreInvalidReasons_PathDisabled-->
+  <RV2_VoreInvalidReasons_PredatorRuleBlockingPath>捕食者のルールでの無効化</RV2_VoreInvalidReasons_PredatorRuleBlockingPath>
+  <RV2_VoreInvalidReasons_PreyRuleBlockingPath>被食者のルールでの無効化</RV2_VoreInvalidReasons_PreyRuleBlockingPath>
+  
+  <!-- VoreInteractionManager -->
+  <RV2_VoreInvalidReasons_NoPaths>方法を持たない: {0}</RV2_VoreInvalidReasons_NoPaths>
+  <RV2_VoreInvalidReasons_NoValidRole>ロールを持たない</RV2_VoreInvalidReasons_NoValidRole>
+  <RV2_VoreInvalidReasons_RoleBlacklisted>立ち位置がブラックリストにある</RV2_VoreInvalidReasons_RoleBlacklisted>
+  <RV2_VoreInvalidReasons_RoleNotWhitelisted>立ち位置がホワイトリストにない</RV2_VoreInvalidReasons_RoleNotWhitelisted>
+  <RV2_VoreInvalidReasons_TypeBlacklisted>方法がブラックリストにある</RV2_VoreInvalidReasons_TypeBlacklisted>
+  <RV2_VoreInvalidReasons_TypeNotWhitelisted>方法がホワイトリストにない</RV2_VoreInvalidReasons_TypeNotWhitelisted>
+  <RV2_VoreInvalidReasons_GoalBlacklisted>目的がブラックリストにある</RV2_VoreInvalidReasons_GoalBlacklisted>
+  <RV2_VoreInvalidReasons_GoalNotWhitelisted>目的がホワイトリストにない</RV2_VoreInvalidReasons_GoalNotWhitelisted>
+  <RV2_VoreInvalidReasons_DesignationBlacklisted>ルールがブラックリストにある</RV2_VoreInvalidReasons_DesignationBlacklisted>
+  <RV2_VoreInvalidReasons_DesignationNotWhitelisted>ルールがホワイトリストにない</RV2_VoreInvalidReasons_DesignationNotWhitelisted>
+  <RV2_VoreInvalidReasons_NoPreferredGoal>好みの目的を持たない</RV2_VoreInvalidReasons_NoPreferredGoal>
+  <RV2_VoreInvalidReasons_NoPreferredType>好みの手段を持たない</RV2_VoreInvalidReasons_NoPreferredType>
+  <RV2_VoreInvalidReasons_NoPreferredPath>好みの方法を持たない</RV2_VoreInvalidReasons_NoPreferredPath>
+  
+  <!-- ReservedPrey -->
+  <RV2_VoreInvalidReasons_AlreadyReserved>既に予定がある</RV2_VoreInvalidReasons_AlreadyReserved>
+  <RV2_VoreInvalidReasons_NoReservedPrey>予約した獲物がいない</RV2_VoreInvalidReasons_NoReservedPrey>
+  
+  <!-- Other -->
+  <RV2_VoreInvalidReasons_PawnDead>死んでいる</RV2_VoreInvalidReasons_PawnDead>
+  <RV2_VoreInvalidReasons_ProposalCooldown>申し出のクールダウン期間中</RV2_VoreInvalidReasons_ProposalCooldown>
+
+</LanguageData>
+
+
+
+<!-- RV2_VoreInvalidReasons_ -->

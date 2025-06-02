@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 厌恶态度 -->
+  <RV2_HumanoidPrey_Disliked.stages.0.label>吞噬人类</RV2_HumanoidPrey_Disliked.stages.0.label>
+  <RV2_HumanoidPrey_Disliked.stages.0.description>本不该这么做，教义不会接纳我的行为...</RV2_HumanoidPrey_Disliked.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Disliked.stages.0.label>吞噬人类者</RV2_HumanoidPrey_Know_Disliked.stages.0.label>
+
+  <!-- 极度厌恶态度 -->
+  <RV2_HumanoidPrey_Abhorrent.stages.0.label>吞噬人类</RV2_HumanoidPrey_Abhorrent.stages.0.label>
+  <RV2_HumanoidPrey_Abhorrent.stages.0.description>明知违反教义却吞噬人类，真是令人毛骨悚然的感觉。</RV2_HumanoidPrey_Abhorrent.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Abhorrent.stages.0.label>有人吞噬了人类!!</RV2_HumanoidPrey_Know_Abhorrent.stages.0.label>
+  <RV2_HumanoidPrey_Know_Abhorrent.stages.0.description>周围有人吞噬人类，这是违反教义的可憎行为！</RV2_HumanoidPrey_Know_Abhorrent.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Social_Abhorrent.stages.0.label>人类吞噬者</RV2_HumanoidPrey_Know_Social_Abhorrent.stages.0.label>
+
+  <!-- 喜爱态度 -->
+  <RV2_HumanoidPrey_Liked.stages.0.label>吞噬人类</RV2_HumanoidPrey_Liked.stages.0.label>
+  <RV2_HumanoidPrey_Liked.stages.0.description>实践神圣艺术，心灵得到满足。</RV2_HumanoidPrey_Liked.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Liked.stages.0.label>人类品尝者</RV2_HumanoidPrey_Know_Liked.stages.0.label>
+
+  <!-- 必须执行态度 -->
+  <RV2_HumanoidPrey_Required.stages.0.label>吞噬人类</RV2_HumanoidPrey_Required.stages.0.label>
+  <RV2_HumanoidPrey_Required.stages.0.description>通过吞噬人类，我能更加坚定信仰。</RV2_HumanoidPrey_Required.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Required.stages.0.label>有人吞噬了人类!</RV2_HumanoidPrey_Know_Required.stages.0.label>
+  <RV2_HumanoidPrey_Know_Required.stages.0.description>周围有人吞噬人类，这是值得尊敬的行为！</RV2_HumanoidPrey_Know_Required.stages.0.description>
+
+  <RV2_HumanoidPrey_Know_Social_Required.stages.0.label>人类侍奉者</RV2_HumanoidPrey_Know_Social_Required.stages.0.label>
+
+  <RV2_NoRecentHumanoidPrey_Required.stages.0.label>渴望吞噬人类</RV2_NoRecentHumanoidPrey_Required.stages.0.label>
+  <RV2_NoRecentHumanoidPrey_Required.stages.0.description>距离上次吞噬人类已经过去太久了。</RV2_NoRecentHumanoidPrey_Required.stages.0.description>
+
+</LanguageData>

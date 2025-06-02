@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- All rollActions related to digesting, mushing, absorbing, converting, etc. for prey consider these modifiers -->
+
+  <IncreaseDigestionProgress.actionsOnSuccess.0.name>DigestionProgress</IncreaseDigestionProgress.actionsOnSuccess.0.name>
+  <IncreaseBreakDownProgress.actionsOnSuccess.0.name>BreakDownProgress</IncreaseBreakDownProgress.actionsOnSuccess.0.name>
+  <ConvertNutritionToPredatorFood.actionsOnSuccess.1.name>PreyNutrition</ConvertNutritionToPredatorFood.actionsOnSuccess.1.name>
+
+
+  <!-- Item-Creating Presets -->
+
+  <ConvertNutritionToContainerItem.actionsOnSuccess.0.name>PreyNutrition</ConvertNutritionToContainerItem.actionsOnSuccess.0.name>
+  <ConvertNutritionToMilk.actionsOnSuccess.0.name>PreyNutrition</ConvertNutritionToMilk.actionsOnSuccess.0.name>
+  <ConvertNutritionToSperm.actionsOnSuccess.0.name>PreyNutrition</ConvertNutritionToSperm.actionsOnSuccess.0.name>
+  <ConvertNutritionToLube.actionsOnSuccess.0.name>PreyNutrition</ConvertNutritionToLube.actionsOnSuccess.0.name>
+
+
+</LanguageData>

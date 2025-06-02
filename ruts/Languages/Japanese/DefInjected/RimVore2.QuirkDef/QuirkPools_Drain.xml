@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2R_Enablers_Core_Goal_Drain.label>緩く蝕む消化液</RV2R_Enablers_Core_Goal_Drain.label>
+  <RV2R_Enablers_Core_Goal_Drain.description>[PAWN_label]は生きた獲物からエネルギーを取り出し,命を奪わずに空腹を満たすことができます.</RV2R_Enablers_Core_Goal_Drain.description>
+
+  <RV2R_GoalPreference_Predator_Drain_Obsessed.label>寄生虫の原始的本能</RV2R_GoalPreference_Predator_Drain_Obsessed.label>
+  <RV2R_GoalPreference_Predator_Drain_Obsessed.description>[PAWN_label]はまさしく寄生虫として,安全に獲物をトロトロにすることをこよなく愛しています.永遠の食事として割もいいでしょう!</RV2R_GoalPreference_Predator_Drain_Obsessed.description>
+
+  <RV2R_GoalPreference_Predator_Drain_Likes.label>安全な蕩かしへの悦び</RV2R_GoalPreference_Predator_Drain_Likes.label>
+  <RV2R_GoalPreference_Predator_Drain_Likes.description>[PAWN_label]は獲物をその命を保ったままトロトロにするのが好きです.後ろめたさのない満腹は,非常に心地よいものです.</RV2R_GoalPreference_Predator_Drain_Likes.description>
+
+  <RV2R_GoalPreference_Predator_Drain_Neutral.label>食事のただのいち手段</RV2R_GoalPreference_Predator_Drain_Neutral.label>
+  <RV2R_GoalPreference_Predator_Drain_Neutral.description>[PAWN_label]は獲物を安全に蕩かす事に際立った感情を持ち合わせていません.</RV2R_GoalPreference_Predator_Drain_Neutral.description>
+
+  <RV2R_GoalPreference_Predator_Drain_Dislikes.label>寄生虫の抵抗</RV2R_GoalPreference_Predator_Drain_Dislikes.label>
+  <RV2R_GoalPreference_Predator_Drain_Dislikes.description>[PAWN_label]は獲物を安全に蕩かすことを嫌います.人を信じられないかあるいは,友達を獲物として見てしまいたくないのです.</RV2R_GoalPreference_Predator_Drain_Dislikes.description>
+
+  <RV2R_GoalPreference_Predator_Drain_Refuses.label>奪い棄てる手段への嫌悪</RV2R_GoalPreference_Predator_Drain_Refuses.label>
+  <RV2R_GoalPreference_Predator_Drain_Refuses.description>[PAWN_label]は獲物を安全に蕩かすことを極端に嫌います.食べ物の出涸らしが恨みを持つなどあってはなりません.</RV2R_GoalPreference_Predator_Drain_Refuses.description>
+
+  <RV2R_GoalPreference_Prey_Drain_Obsessed.label>たまらない餌としての渇望</RV2R_GoalPreference_Prey_Drain_Obsessed.label>
+  <RV2R_GoalPreference_Prey_Drain_Obsessed.description>[PAWN_label]はある種の中毒と言えるほど,捕食者の軽食になることをこよなく愛しています.捕食者が平和的に味の感想を伝えてくれる手段は他にありません!</RV2R_GoalPreference_Prey_Drain_Obsessed.description>
+
+  <RV2R_GoalPreference_Prey_Drain_Likes.label>軽食としての願望</RV2R_GoalPreference_Prey_Drain_Likes.label>
+  <RV2R_GoalPreference_Prey_Drain_Likes.description>[PAWN_label]は捕食者に安全にトロトロにされるのが好きです.捕食者を助けられる安定的な手段として!</RV2R_GoalPreference_Prey_Drain_Likes.description>
+
+  <RV2R_GoalPreference_Prey_Drain_Neutral.label>ただ全て洗いだされて</RV2R_GoalPreference_Prey_Drain_Neutral.label>
+  <RV2R_GoalPreference_Prey_Drain_Neutral.description>[PAWN_label]は捕食者に安全に蕩かされる事に際立った感情を持ち合わせていません.</RV2R_GoalPreference_Prey_Drain_Neutral.description>
+
+  <RV2R_GoalPreference_Prey_Drain_Dislikes.label>吸いだされる事への嫌悪</RV2R_GoalPreference_Prey_Drain_Dislikes.label>
+  <RV2R_GoalPreference_Prey_Drain_Dislikes.description>[PAWN_label]は安全な餌に立つことを嫌います.信頼の問題か,疑似的な消化に全てを奪われる感覚を許せないのかもしれません.</RV2R_GoalPreference_Prey_Drain_Dislikes.description>
+
+  <RV2R_GoalPreference_Prey_Drain_Refuses.label>安全な餌に対する錯誤</RV2R_GoalPreference_Prey_Drain_Refuses.label>
+  <RV2R_GoalPreference_Prey_Drain_Refuses.description>[PAWN_label]にとって,"安定した食事"は少なくとも自分たちのことではありません.</RV2R_GoalPreference_Prey_Drain_Refuses.description>
+
+
+</LanguageData>

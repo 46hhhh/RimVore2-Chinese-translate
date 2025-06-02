@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- QuirkPools_Drain.xml 翻译 -->
+  <RV2R_GoalPreference_Predator_Drain.label>捕食者偏好设定(吸取)</RV2R_GoalPreference_Predator_Drain.label>
+  <RV2R_GoalPreference_Predator_Drain.description>表示该角色对安全吸取猎物体力的偏好程度。极端情况下会变成总是吸取猎物，反之亦然。</RV2R_GoalPreference_Predator_Drain.description>
+
+  <RV2R_GoalPreference_Prey_Drain.label>猎物偏好设定(吸取)</RV2R_GoalPreference_Prey_Drain.label>
+  <RV2R_GoalPreference_Prey_Drain.description>表示该角色作为猎物时对安全被吸取体力的接受程度。极端情况下会变成总是被吸取，反之亦然。</RV2R_GoalPreference_Prey_Drain.description>
+
+
+</LanguageData>

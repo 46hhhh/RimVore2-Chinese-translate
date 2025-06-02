@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- NICHE TYPES, sorted alphabetically -->
+
+  <Cleavage.label>乳沟</Cleavage.label>
+  <CockBladder.label>膀胱</CockBladder.label>
+
+  <!-- 注释掉的原始内容保留不变 -->
+  <!-- MH: in which the prey is absorbed into the horn somehow. nothing holding this up other than lack of serious demand
+  
+  <RimVore2.VoreTypeDef>
+    <defName>Horn</defName>
+    <label>Horn</label>
+    <RMBMenuLabelTranslationKey>RV2_RMB_Horn</RMBMenuLabelTranslationKey>
+  </RimVore2.VoreTypeDef> -->
+
+  <Membrane.label>皮肤</Membrane.label>
+
+  <!-- 注释掉的原始内容保留不变 -->
+  <!-- MH: nothing holding this up other than lack of serious demand
+  
+  <RimVore2.VoreTypeDef>
+    <defName>Nasal</defName>
+    <label>Nasal</label>
+    <RMBMenuLabelTranslationKey>RV2_RMB_Nasal</RMBMenuLabelTranslationKey>
+  </RimVore2.VoreTypeDef> -->
+
+  <Navel.label>肚脐</Navel.label>
+
+  <!-- 注释掉的原始内容保留不变 -->
+  <!-- MH: nothing holding this (mostly tail absorption, probably) up other than lack of serious demand
+  
+  <RimVore2.VoreTypeDef>
+    <defName>Tail</defName>
+    <label>Tail</label>
+    <RMBMenuLabelTranslationKey>RV2_RMB_Tail</RMBMenuLabelTranslationKey>
+  </RimVore2.VoreTypeDef> -->
+
+  <Tailmaw.label>尾口</Tailmaw.label>
+
+  <!-- 注释掉的原始内容保留不变 -->
+  <!-- MH: nothing holding this up other than lack of serious demand
+  
+  <RimVore2.VoreTypeDef>
+    <defName>TailStinger</defName>
+    <label>Tail (stinger)</label>
+    <RMBMenuLabelTranslationKey>RV2_RMB_TailStinger</RMBMenuLabelTranslationKey>
+  </RimVore2.VoreTypeDef> -->
+
+  <Udder.label>乳房</Udder.label>
+
+  <!-- 注释掉的原始内容保留不变 -->
+  <!-- MH: nothing holding this up other than lack of serious demand
+  
+  <RimVore2.VoreTypeDef>
+    <defName>Wing</defName>
+    <label>Wing</label>
+    <RMBMenuLabelTranslationKey>RV2_RMB_Wing</RMBMenuLabelTranslationKey>
+  </RimVore2.VoreTypeDef> -->
+
+  <VaginalBladder.label>膀胱</VaginalBladder.label>
+
+</LanguageData>

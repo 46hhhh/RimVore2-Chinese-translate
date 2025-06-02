@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 仪式.xml -->
+  <RV2_ConsumptionRitual.label>消化仪式</RV2_ConsumptionRitual.label>
+  <RV2_ConsumptionRitual.description>贪婪的捕食者发表演讲后，将指定猎物吞噬消化的仪式。\n宴会将持续到消化完成，若捕食者消化速度较慢可能导致仪式延长，消耗参与者精力。</RV2_ConsumptionRitual.description>
+
+  <RV2_ConsumptionSacrifice.label>消化献祭</RV2_ConsumptionSacrifice.label>
+  <RV2_ConsumptionSacrifice.description>被选中的被食者发表演讲后，由指定捕食者进行消化的仪式。\n宴会将持续到消化完成，消化缓慢可能延长仪式时间。</RV2_ConsumptionSacrifice.description>
+
+  <RV2_VoreBondingRitual.label>结合仪式</RV2_VoreBondingRitual.label>
+  <RV2_VoreBondingRitual.description>贪婪的捕食者演讲后安全吞噬指定猎物的仪式。\n宴会将持续到吞噬过程完成，强化参与者对吞噬的信仰。</RV2_VoreBondingRitual.description>
+
+  <RV2_VoreBondingSacrifice.label>结合献祭</RV2_VoreBondingSacrifice.label>
+  <RV2_VoreBondingSacrifice.description>被选中的被食者演讲后安全被指定捕食者吞噬的仪式。\n将增强双方对吞噬理念的认同。</RV2_VoreBondingSacrifice.description>
+
+  <!-- 盛宴仪式 -->
+  <RV2_VoreFeast.label>捕食狂欢祭</RV2_VoreFeast.label>
+  <RV2_VoreFeast.description>领袖演讲后，参与者根据喜好相互吞噬的仪式。\n可能意外触发消化行为，请提前检查个人设置确保安全。</RV2_VoreFeast.description>
+
+  <!-- 饲育仪式 -->
+  <RV2_VoreFeedingRitual_Endo.label>结合供奉</RV2_VoreFeedingRitual_Endo.label>
+  <RV2_VoreFeedingRitual_Endo.description>捕食调律者演讲后，将猎物安全喂食给捕食者的仪式。</RV2_VoreFeedingRitual_Endo.description>
+
+  <RV2_VoreFeedingRitual_Fatal.label>消化供奉</RV2_VoreFeedingRitual_Fatal.label>
+  <RV2_VoreFeedingRitual_Fatal.description>捕食调律者演讲后，将猎物在消化液中喂食给捕食者的仪式。</RV2_VoreFeedingRitual_Fatal.description>
+
+</LanguageData>

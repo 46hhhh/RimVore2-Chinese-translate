@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- settings -->
+  <RV2_Settings_TabNames_DBH>Dubs Bad Hygiene</RV2_Settings_TabNames_DBH>
+  <RV2_Settings_DBH_LimitToiletDisposalToContainers>トイレでの排泄を成れ果て向けに限定する</RV2_Settings_DBH_LimitToiletDisposalToContainers>
+  <RV2_Settings_DBH_LimitToiletDisposalToContainers_Tip>これをオフにすると,生きた獲物がトイレに排出されるようになります.</RV2_Settings_DBH_LimitToiletDisposalToContainers_Tip>
+  
+    <!-- Widgets -->
+  <RV2_DBH_ToiletAllowedForDumpingLabel>被食者の排泄許可</RV2_DBH_ToiletAllowedForDumpingLabel>
+  <RV2_DBH_ToiletAllowedForDumpingDescription>このトイレで被食者の排出を行いますか?もし排出設定がされたトイレが無ければ,捕食者は地面で排出を行います.</RV2_DBH_ToiletAllowedForDumpingDescription>
+
+</LanguageData>
+
+<!-- <RV2_Settings_DBH_ -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 基础角色类型 -->
+  <BasePawn.label>捕获</BasePawn.label>
+  <BaseAnthro.label>捕获</BaseAnthro.label>
+  <BaseDragon.label>捕获</BaseDragon.label>
+  
+  <!-- 特殊种族 -->
+  <ReviaRaceAlien.label>捕获</ReviaRaceAlien.label>
+  <GI_PawnBase.label>捕获</GI_PawnBase.label>
+
+</LanguageData>

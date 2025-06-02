@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LightGenitals_tabName>轻量生殖器</LightGenitals_tabName>
+  <LightGenitals_Male>男性</LightGenitals_Male>
+  <LightGenitals_Female>女性</LightGenitals_Female>
+
+  <LightGenitals_chanceToSpawnWithBreasts>胸部生成概率</LightGenitals_chanceToSpawnWithBreasts>
+  <LightGenitals_chanceToSpawnWithVagina>阴道生成概率</LightGenitals_chanceToSpawnWithVagina>
+  <LightGenitals_chanceToSpawnWithPenis>阴茎生成概率</LightGenitals_chanceToSpawnWithPenis>
+  <LightGenitals_canSpawnWithNoGenitals>允许无生殖器</LightGenitals_canSpawnWithNoGenitals>
+  <LightGenitals_canSpawnWithNoGenitals_Tip>启用时，角色可能没有生殖器。\n禁用时，若首次概率选择未生成生殖器，将强制应用高概率设置的生殖器。</LightGenitals_canSpawnWithNoGenitals_Tip>
+</LanguageData>

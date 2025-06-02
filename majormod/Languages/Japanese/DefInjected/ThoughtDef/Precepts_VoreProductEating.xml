@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abhorrent -->
+
+  <RV2_AteVoreProduct_Abhorrent.stages.0.label>成れ果てを食した</RV2_AteVoreProduct_Abhorrent.stages.0.label>
+  <RV2_AteVoreProduct_Abhorrent.stages.0.description>これは教義に反するはずだ,何をしているんだ?</RV2_AteVoreProduct_Abhorrent.stages.0.description>
+
+  <RV2_AteVoreProduct_Know_Abhorrent.stages.0.label>成れ果てを食した</RV2_AteVoreProduct_Know_Abhorrent.stages.0.label>
+
+
+  <!-- Preferred -->
+
+  <RV2_AteVoreProduct_Preferred.stages.0.label>成れ果てを食した</RV2_AteVoreProduct_Preferred.stages.0.label>
+  <RV2_AteVoreProduct_Preferred.stages.0.description>毎日だって食べていい</RV2_AteVoreProduct_Preferred.stages.0.description>
+
+  <RV2_AteVoreProduct_Required.stages.0.label>成れ果てを食した</RV2_AteVoreProduct_Required.stages.0.label>
+  <RV2_AteVoreProduct_Required.stages.0.description>信じる道のままに!</RV2_AteVoreProduct_Required.stages.0.description>
+
+  <RV2_NoRecentVoreProduct_Required.stages.0.label>成れ果てを食したい</RV2_NoRecentVoreProduct_Required.stages.0.label>
+  <RV2_NoRecentVoreProduct_Required.stages.0.description>丸呑みの成れ果てを最後に食べてから大分経った,また食べないと.</RV2_NoRecentVoreProduct_Required.stages.0.description>
+
+
+</LanguageData>

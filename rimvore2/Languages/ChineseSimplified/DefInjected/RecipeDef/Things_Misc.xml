@@ -1,0 +1,9 @@
+<!-- Things_Misc.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_DisassembleDigestedImplant.label>分解损坏植入物</RV2_DisassembleDigestedImplant.label>
+  <RV2_DisassembleDigestedImplant.description>分解在消化过程中损坏的植入物</RV2_DisassembleDigestedImplant.description>
+  <RV2_DisassembleDigestedImplant.jobString>正在分解植入物。</RV2_DisassembleDigestedImplant.jobString>
+
+</LanguageData>

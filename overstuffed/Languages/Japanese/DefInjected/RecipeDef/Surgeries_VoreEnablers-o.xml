@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Goal Enablers 
+  These mainly unlock new goals for a pawn's exisiting types. -->
+
+  <RV2_InstallGoalEnabler_Absorb.label>同化活性セルを適応させる</RV2_InstallGoalEnabler_Absorb.label>
+  <RV2_InstallGoalEnabler_Absorb.description>同化活性セルを体に適応させ,同化を可能にさせます.</RV2_InstallGoalEnabler_Absorb.description>
+
+  <RV2_InstallGoalEnabler_ConvertChemfuel.label>液燃料化活性シーダーを適応させる</RV2_InstallGoalEnabler_ConvertChemfuel.label>
+  <RV2_InstallGoalEnabler_ConvertChemfuel.description>液燃料化活性シーダーを体に適応させ,オイル化を可能にさせます.</RV2_InstallGoalEnabler_ConvertChemfuel.description>
+
+  <RV2_InstallGoalEnabler_ConvertEggs.label>卵化活性シーダーを適応させる</RV2_InstallGoalEnabler_ConvertEggs.label>
+  <RV2_InstallGoalEnabler_ConvertEggs.description>卵化活性シーダーを体に適応させ,卵化を可能にさせます.</RV2_InstallGoalEnabler_ConvertEggs.description>
+
+  <RV2_InstallGoalEnabler_ConvertUrine.label>尿化活性シーダーを適応させる</RV2_InstallGoalEnabler_ConvertUrine.label>
+  <RV2_InstallGoalEnabler_ConvertUrine.description>尿化活性シーダーを体に適応させ,尿化を可能にさせます.</RV2_InstallGoalEnabler_ConvertUrine.description>
+
+
+  <!-- Type Enablers 
+  These mainly unlock new types for a pawn's exisiting goals. -->
+
+  <RV2_InstallTypeEnabler_Cleavage.label>胸部陥没化スーツを適応させる</RV2_InstallTypeEnabler_Cleavage.label>
+  <RV2_InstallTypeEnabler_Cleavage.description>胸部陥没化スーツを体に適応させ,谷間から丸呑みできるようにさせます.</RV2_InstallTypeEnabler_Cleavage.description>
+
+  <RV2_InstallTypeEnabler_Membrane.label>外皮変質活性シーダーを適応させる</RV2_InstallTypeEnabler_Membrane.label>
+  <RV2_InstallTypeEnabler_Membrane.description>外皮変質活性シーダーを体に適応させ,外皮から取り込めるようにさせます.</RV2_InstallTypeEnabler_Membrane.description>
+
+  <RV2_InstallTypeEnabler_Navel.label>腹部陥没化プロープを適応させる</RV2_InstallTypeEnabler_Navel.label>
+  <RV2_InstallTypeEnabler_Navel.description>腹部陥没化プロープを体に適応させ,へそから丸呑みできるようにさせます.</RV2_InstallTypeEnabler_Navel.description>
+
+  <RV2_InstallTypeEnabler_Tailmaw.label>尻尾口腔覚醒シーダーを適応させる</RV2_InstallTypeEnabler_Tailmaw.label>
+  <RV2_InstallTypeEnabler_Tailmaw.description>尻尾口腔覚醒シーダーを体に適応させ,尾口から丸呑みできるようにさせます.</RV2_InstallTypeEnabler_Tailmaw.description>
+
+  <RV2_InstallTypeEnabler_Udder.label>乳房軟化シーダーを適応させる</RV2_InstallTypeEnabler_Udder.label>
+  <RV2_InstallTypeEnabler_Udder.description>乳房軟化シーダーを体に適応させ,乳房から丸呑みできるようにさせます.</RV2_InstallTypeEnabler_Udder.description>
+
+
+</LanguageData>

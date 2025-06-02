@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Intro button -->
+  <!-- RMB layer 0 vore header -->
+  <RV2_RMB_Home>Vore</RV2_RMB_Home>
+  
+	<!-- vore target -->
+	<!-- RMB layer 1 vore initiation role -->
+	<RV2_RMB_InitiateAsPredator>開発者:{0}をvoreする</RV2_RMB_InitiateAsPredator>
+  <RV2_RMB_InitiateAsPrey>開発者:{0}にvoreされる</RV2_RMB_InitiateAsPrey>
+  <RV2_RMB_AsFeeder>開発者:{0}を誰かにvoreさせる</RV2_RMB_AsFeeder>
+	<!--<RV2_RMB_Reserve>Reserve {0} as prey</RV2_RMB_Reserve>
+  <RV2_RMB_UnReserve>Remove {0}'s prey reservation</RV2_RMB_UnReserve>-->
+  <RV2_RMB_ManualPass>次の体内プロセスに進めさせる</RV2_RMB_ManualPass>
+  <RV2_RMB_JumpGoal>voreの目的を変える</RV2_RMB_JumpGoal>
+  <RV2_RMB_Random>ランダム</RV2_RMB_Random>
+  <RV2_RMB_RandomPreferred>好みでのランダム</RV2_RMB_RandomPreferred>
+	
+  <!-- prey Eject -->
+  <RV2_RMB_EjectPrey_Self>被食者を出す</RV2_RMB_EjectPrey_Self>
+  <RV2_RMB_EjectPrey_Target>{0} に被食者を出させる</RV2_RMB_EjectPrey_Target>
+  <RV2_RMB_AlreadyAttemptedEject>既に試みた</RV2_RMB_AlreadyAttemptedEject>
+  <RV2_RMB_EjectIncapable>暴力行為が出来ない</RV2_RMB_EjectIncapable>
+  
+
+
+  
+  <RV2_RMB_ProposeAsPredator>捕食者として {0}に申し出る</RV2_RMB_ProposeAsPredator>
+  <RV2_RMB_ProposeAsPrey>被食者として {0}に申し出る</RV2_RMB_ProposeAsPrey>
+  <RV2_RMB_ProposeAsFeederRandomPrey>食べさせ役として {0}に申し出る(獲物はランダム)</RV2_RMB_ProposeAsFeederRandomPrey>
+  <RV2_RMB_ProposeAsFeederTargetPrey>食べさせ役として {0}に申し出る(獲物を選ぶ)</RV2_RMB_ProposeAsFeederTargetPrey>
+	<!-- Overstuffed -->
+  <RV2_RMB_ConvertChemfuel>オイル化</RV2_RMB_ConvertChemfuel>
+	<RV2_RMB_ConvertEggs>卵化</RV2_RMB_ConvertEggs>
+	<RV2_RMB_ConvertUrine>小便化</RV2_RMB_ConvertUrine>
+	<RV2_RMB_Assimilate>吸収</RV2_RMB_Assimilate>
+	<RV2_RMB_Amalgamate>融合</RV2_RMB_Amalgamate>
+	
+	<RV2_RMB_Cleavage>Cleavage vore(谷間)</RV2_RMB_Cleavage>
+	<RV2_RMB_Membrane>Membrane vore(皮膚)</RV2_RMB_Membrane>
+	<RV2_RMB_Navel>Navel vore(ヘソ)</RV2_RMB_Navel>
+	<RV2_RMB_Tailmaw>Tailmaw vore(尾口)</RV2_RMB_Tailmaw>
+	<RV2_RMB_Udder>Udder vore(乳房)</RV2_RMB_Udder>
+  <RV2_RMB_VaginalBladder>Vaginal vore(膣:膀胱)</RV2_RMB_VaginalBladder>
+  <RV2_RMB_CockBladder>Cock vore(竿:膀胱)</RV2_RMB_CockBladder>
+
+	<!-- Caniplant -->
+  <RV2_RMB_Petals>植物vore</RV2_RMB_Petals>
+
+</LanguageData>

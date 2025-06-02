@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 口腔治疗 -->
+  <OralHeal.label>(治疗)口腔</OralHeal.label>
+  <OralHeal.RMBLabel>口腔吞噬(治疗)</OralHeal.RMBLabel>
+  <OralHeal.actionDescription>{PREDATOR}正试图在腹中治愈{PREY}</OralHeal.actionDescription>
+  <OralHeal.description>捕食者将伤者纳入腹部，缓慢治疗直至痊愈。治疗效果有限，如需充分治疗仍需依赖药物和医生。</OralHeal.description>
+
+  <!-- 体内巡游治疗 -->
+  <FullTourHeal.label>(治疗)体内巡游</FullTourHeal.label>
+  <FullTourHeal.RMBLabel>全身巡游吞噬(治疗)</FullTourHeal.RMBLabel>
+  <FullTourHeal.actionDescription>{PREDATOR}在规划体内巡游的同时试图治愈腹中的{PREY}</FullTourHeal.actionDescription>
+  <FullTourHeal.description>捕食者将伤者在体内循环输送，缓慢治疗直至痊愈。治疗效果有限，充分治疗仍需医疗支持。</FullTourHeal.description>
+
+  <!-- 阴道治疗 -->
+  <VaginalHeal.label>(治疗)阴道</VaginalHeal.label>
+  <VaginalHeal.RMBLabel>阴道吞噬(治疗)</VaginalHeal.RMBLabel>
+  <VaginalHeal.actionDescription>{PREDATOR}正试图在子宫内治愈{PREY}</VaginalHeal.actionDescription>
+  <VaginalHeal.description>捕食者将伤者置于子宫环境中缓慢治疗。治疗效果较弱，严重伤势仍需专业医疗。</VaginalHeal.description>
+
+  <!-- 阴茎治疗 -->
+  <CockHeal.label>(治疗)阴茎</CockHeal.label>
+  <CockHeal.RMBLabel>阴茎吞噬(治疗)</CockHeal.RMBLabel>
+  <CockHeal.actionDescription>{PREDATOR}正试图在阴囊中治愈{PREY}</CockHeal.actionDescription>
+  <CockHeal.description>捕食者将伤者置于阴囊环境中进行缓慢治疗。基础治疗效果，严重伤势建议就医。</CockHeal.description>
+
+  <!-- 乳首治疗 -->
+  <NippleHeal.label>(治疗)乳首</NippleHeal.label>
+  <NippleHeal.RMBLabel>乳首吞噬(治疗)</NippleHeal.RMBLabel>
+  <NippleHeal.actionDescription>{PREDATOR}正试图在胸腔中治愈{PREY}</NippleHeal.actionDescription>
+  <NippleHeal.description>捕食者将伤者置于胸部腔体进行缓慢康复。仅具基础疗效，重大伤势仍需专业治疗。</NippleHeal.description>
+
+</LanguageData>

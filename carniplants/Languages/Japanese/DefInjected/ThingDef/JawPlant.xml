@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NCP_JawPlant.label>ジョープラント</NCP_JawPlant.label>
+  <NCP_JawPlant.description>&lt;i&gt;俗名マンディブラ&lt;/i&gt;\n巨大な昆虫蔓延る辺境世界で,食虫植物はそれに追いつくように巨大化し,結果的に殆どの生き物を収める体と分解して栄養にする能力を得ました.\n\nこの植物は,その口を開くとき特殊なフェロモンを分泌し放出します.植物の周りに漂う甘ったるい空気に長時間さらされた生き物は幻覚が見え始め,植物に近づくよう洗脳されます.ひとたび犠牲者が根元に広がる葉を踏むと,口は獲物に向き直り,衰弱しきったその体を取り込んで行きます.茎の中央には獲物を溜め込む空間があり,強烈な酸によって跡形もなく分解されます.</NCP_JawPlant.description>
+  <NCP_JawPlant.tools.0.label>頭</NCP_JawPlant.tools.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Always Reform -->
+  <Cheat_AlwaysReform.label>常に復活</Cheat_AlwaysReform.label>
+  <!-- EN: [PAWN_label] will always self reform upon being digested. -->
+  <Cheat_AlwaysReform.description>[PAWN_label]は消化されたとしても,何度でも自力で復活することができます.</Cheat_AlwaysReform.description>
+  
+  <!-- EN: Non-Reformable -->
+  <Cheat_UnReformable.label>復活しない</Cheat_UnReformable.label>
+  <!-- EN: Due to a quirk in [PAWN_label]'s nature they are unable to be reformed by any means.(except dev menu) -->
+  <Cheat_UnReformable.description>[PAWN_label]はどのような方法を用いても,消化されたのちに復活することはありません(開発者モードの雷に打たれなければ).</Cheat_UnReformable.description>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <ProposalFrequency_None.label>对捕食无兴趣</ProposalFrequency_None.label>
+    <ProposalFrequency_None.description>[PAWN_label]对捕食行为缺乏兴趣，不会主动想要吞噬他人或提出这类建议。但这并不代表[PAWN_pronoun]会拒绝他人的捕食提议。</ProposalFrequency_None.description>
+
+    <ProposalFrequency_Low.label>偶尔会考虑</ProposalFrequency_Low.label>
+    <ProposalFrequency_Low.description>[PAWN_label]不像其他同伴那样热衷于寻求捕食机会。</ProposalFrequency_Low.description>
+
+    <ProposalFrequency_Normal.label>心血来潮型</ProposalFrequency_Normal.label>
+    <ProposalFrequency_Normal.description>[PAWN_label]和其他同伴一样，会正常地寻求捕食机会。</ProposalFrequency_Normal.description>
+
+    <ProposalFrequency_High.label>频繁幻想</ProposalFrequency_High.label>
+    <ProposalFrequency_High.description>[PAWN_label]比大多数同伴更频繁地渴望捕食行为。</ProposalFrequency_High.description>
+
+    <ProposalFrequency_VeryHigh.label>沉迷捕食...</ProposalFrequency_VeryHigh.label>
+    <ProposalFrequency_VeryHigh.description>[PAWN_label]极度渴求作为捕食者或猎物的体验，会以异常高的频率提出捕食请求。</ProposalFrequency_VeryHigh.description>
+
+</LanguageData>

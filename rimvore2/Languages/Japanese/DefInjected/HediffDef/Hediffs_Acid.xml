@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- END OF BASES -->
+
+  <RV2_StomachAcid.label>溶けかけ</RV2_StomachAcid.label>
+  <RV2_StomachAcid.description>消化によって受けたダメージです.</RV2_StomachAcid.description>
+  <RV2_StomachAcid.comps.0.labelTendedWell>治療された</RV2_StomachAcid.comps.0.labelTendedWell>
+  <RV2_StomachAcid.comps.0.labelTendedWellInner>看護された</RV2_StomachAcid.comps.0.labelTendedWellInner>
+  <RV2_StomachAcid.comps.0.labelSolidTendedWell>看護された</RV2_StomachAcid.comps.0.labelSolidTendedWell>
+  <RV2_StomachAcid.comps.HediffComp_GetsPermanent.permanentLabel>消化痕</RV2_StomachAcid.comps.HediffComp_GetsPermanent.permanentLabel>
+  <RV2_StomachAcid.injuryProps.destroyedLabel>溶けた</RV2_StomachAcid.injuryProps.destroyedLabel>
+  <RV2_StomachAcid.injuryProps.destroyedOutLabel>溶けた</RV2_StomachAcid.injuryProps.destroyedOutLabel>
+  <RV2_StomachAcid.labelNoun>消化液</RV2_StomachAcid.labelNoun>
+
+  <RV2_LubeConversionEnzymes.label>愛液になりかけ</RV2_LubeConversionEnzymes.label>
+  <RV2_LubeConversionEnzymes.description>愛液化によって受けたダメージです.</RV2_LubeConversionEnzymes.description>
+  <RV2_LubeConversionEnzymes.comps.0.labelTendedWell>治療された</RV2_LubeConversionEnzymes.comps.0.labelTendedWell>
+  <RV2_LubeConversionEnzymes.comps.0.labelTendedWellInner>看護された</RV2_LubeConversionEnzymes.comps.0.labelTendedWellInner>
+  <RV2_LubeConversionEnzymes.comps.0.labelSolidTendedWell>看護された</RV2_LubeConversionEnzymes.comps.0.labelSolidTendedWell>
+  <RV2_LubeConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>愛液化痕</RV2_LubeConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>
+  <RV2_LubeConversionEnzymes.injuryProps.destroyedLabel>愛液にされた</RV2_LubeConversionEnzymes.injuryProps.destroyedLabel>
+  <RV2_LubeConversionEnzymes.injuryProps.destroyedOutLabel>愛液にされた</RV2_LubeConversionEnzymes.injuryProps.destroyedOutLabel>
+  <RV2_LubeConversionEnzymes.labelNoun>愛液化の変質液</RV2_LubeConversionEnzymes.labelNoun>
+
+  <RV2_MilkConversionEnzymes.label>ミルクになりかけ</RV2_MilkConversionEnzymes.label>
+  <RV2_MilkConversionEnzymes.description>ミルク化によって受けたダメージです.</RV2_MilkConversionEnzymes.description>
+  <RV2_MilkConversionEnzymes.comps.0.labelTendedWell>治療された</RV2_MilkConversionEnzymes.comps.0.labelTendedWell>
+  <RV2_MilkConversionEnzymes.comps.0.labelTendedWellInner>看護された</RV2_MilkConversionEnzymes.comps.0.labelTendedWellInner>
+  <RV2_MilkConversionEnzymes.comps.0.labelSolidTendedWell>看護された</RV2_MilkConversionEnzymes.comps.0.labelSolidTendedWell>
+  <RV2_MilkConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>ミルク化痕</RV2_MilkConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>
+  <RV2_MilkConversionEnzymes.injuryProps.destroyedLabel>ミルクにされた</RV2_MilkConversionEnzymes.injuryProps.destroyedLabel>
+  <RV2_MilkConversionEnzymes.injuryProps.destroyedOutLabel>ミルクにされた</RV2_MilkConversionEnzymes.injuryProps.destroyedOutLabel>
+  <RV2_MilkConversionEnzymes.labelNoun>ミルク化の変質液</RV2_MilkConversionEnzymes.labelNoun>
+
+  <RV2_SpermConversionEnzymes.label>精液になりかけ</RV2_SpermConversionEnzymes.label>
+  <RV2_SpermConversionEnzymes.description>精液化によって受けたダメージです.</RV2_SpermConversionEnzymes.description>
+  <RV2_SpermConversionEnzymes.comps.0.labelTendedWell>治療された</RV2_SpermConversionEnzymes.comps.0.labelTendedWell>
+  <RV2_SpermConversionEnzymes.comps.0.labelTendedWellInner>看護された</RV2_SpermConversionEnzymes.comps.0.labelTendedWellInner>
+  <RV2_SpermConversionEnzymes.comps.0.labelSolidTendedWell>看護された</RV2_SpermConversionEnzymes.comps.0.labelSolidTendedWell>
+  <RV2_SpermConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>精液化痕</RV2_SpermConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>
+  <RV2_SpermConversionEnzymes.injuryProps.destroyedLabel>精液にされた</RV2_SpermConversionEnzymes.injuryProps.destroyedLabel>
+  <RV2_SpermConversionEnzymes.injuryProps.destroyedOutLabel>精液にされた</RV2_SpermConversionEnzymes.injuryProps.destroyedOutLabel>
+  <RV2_SpermConversionEnzymes.labelNoun>精液化の変質液</RV2_SpermConversionEnzymes.labelNoun>
+
+
+  <!-- Applied in case of interrupted digestion -->
+
+  <RV2_DigestionRecovery.description>このキャラクターは一瞬でも消化液に晒され,回復が始まっています.もし近いうちに同じことが起これば,脆弱性は段階的に高まり,取り返しのつかない大怪我を負ってしまうでしょう!</RV2_DigestionRecovery.description>
+  <RV2_DigestionRecovery.stages.0.label>消化から回復中 (&lt;25%)</RV2_DigestionRecovery.stages.0.label>
+  <RV2_DigestionRecovery.stages.1.label>消化から回復中 (&gt;25%)</RV2_DigestionRecovery.stages.1.label>
+  <RV2_DigestionRecovery.stages.2.label>消化から回復中 (&gt;50%)</RV2_DigestionRecovery.stages.2.label>
+  <RV2_DigestionRecovery.stages.3.label>消化から回復中 (&gt;75%)</RV2_DigestionRecovery.stages.3.label>
+  <RV2_DigestionRecovery.labelNoun>消化から回復中</RV2_DigestionRecovery.labelNoun>
+
+
+</LanguageData>

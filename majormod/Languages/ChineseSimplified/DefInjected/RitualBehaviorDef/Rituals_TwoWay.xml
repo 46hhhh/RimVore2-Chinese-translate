@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_ConsumptionRitual.roles.0.label>捕食者</RV2_ConsumptionRitual.roles.0.label>
+  <RV2_ConsumptionRitual.roles.1.label>被食者</RV2_ConsumptionRitual.roles.1.label>
+  <RV2_ConsumptionRitual.letterText>消化仪式即将开始。</RV2_ConsumptionRitual.letterText>
+
+  <RV2_ConsumptionSacrifice.roles.0.label>被食者</RV2_ConsumptionSacrifice.roles.0.label>
+  <RV2_ConsumptionSacrifice.roles.1.label>捕食者</RV2_ConsumptionSacrifice.roles.1.label>
+  <RV2_ConsumptionSacrifice.letterText>消化献祭即将开始。</RV2_ConsumptionSacrifice.letterText>
+
+  <RV2_VoreBondingRitual.roles.0.label>捕食者</RV2_VoreBondingRitual.roles.0.label>
+  <RV2_VoreBondingRitual.roles.1.label>被食者</RV2_VoreBondingRitual.roles.1.label>
+  <RV2_VoreBondingRitual.letterText>结合仪式即将开始。</RV2_VoreBondingRitual.letterText>
+
+  <RV2_VoreBondingSacrifice.roles.0.label>被食者</RV2_VoreBondingSacrifice.roles.0.label>
+  <RV2_VoreBondingSacrifice.roles.1.label>捕食者</RV2_VoreBondingSacrifice.roles.1.label>
+  <RV2_VoreBondingSacrifice.letterText>结合献祭即将开始。</RV2_VoreBondingSacrifice.letterText>
+
+</LanguageData>

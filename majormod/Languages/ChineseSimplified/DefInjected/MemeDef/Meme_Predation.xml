@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_Predation.label>掠食主义</RV2_Predation.label>
+  <RV2_Predation.description>我们为吞噬而生</RV2_Predation.description>
+  <RV2_Predation.generalRules.rulesStrings.0>memeAdjective->掠食的</RV2_Predation.generalRules.rulesStrings.0>
+  <RV2_Predation.generalRules.rulesStrings.1>memeAdjective->饕餮的</RV2_Predation.generalRules.rulesStrings.1>
+  <RV2_Predation.generalRules.rulesStrings.2>memeAdjective->掠食者的</RV2_Predation.generalRules.rulesStrings.2>
+  <RV2_Predation.generalRules.rulesStrings.3>memeAdjective->饥渴的</RV2_Predation.generalRules.rulesStrings.3>
+  <RV2_Predation.generalRules.rulesStrings.4>memeCreed->吞噬信徒</RV2_Predation.generalRules.rulesStrings.4>
+  <RV2_Predation.generalRules.rulesStrings.5>memeCreed->掠食者</RV2_Predation.generalRules.rulesStrings.5>
+  <RV2_Predation.generalRules.rulesStrings.6>memeCreed->噬渊</RV2_Predation.generalRules.rulesStrings.6>
+  <RV2_Predation.generalRules.rulesStrings.7>memeCreed->吞噬教派</RV2_Predation.generalRules.rulesStrings.7>
+  <RV2_Predation.generalRules.rulesStrings.8>memeCreed->终食者</RV2_Predation.generalRules.rulesStrings.8>
+  <RV2_Predation.generalRules.rulesStrings.9>memeHyphenPrefix->吞噬</RV2_Predation.generalRules.rulesStrings.9>
+  <RV2_Predation.generalRules.rulesStrings.10>memeHyphenPrefix->掠食</RV2_Predation.generalRules.rulesStrings.10>
+  <RV2_Predation.generalRules.rulesStrings.11>memeConcept->掠食</RV2_Predation.generalRules.rulesStrings.11>
+  <RV2_Predation.generalRules.rulesStrings.12>memeConcept->消融</RV2_Predation.generalRules.rulesStrings.12>
+  <RV2_Predation.generalRules.rulesStrings.13>memeConcept->噬魂</RV2_Predation.generalRules.rulesStrings.13>
+  <RV2_Predation.generalRules.rulesStrings.14>memeConcept->猎食</RV2_Predation.generalRules.rulesStrings.14>
+  <RV2_Predation.generalRules.rulesStrings.15>memeConcept->噬欢</RV2_Predation.generalRules.rulesStrings.15>
+  <RV2_Predation.generalRules.rulesStrings.16>memeLeaderNoun->噬主</RV2_Predation.generalRules.rulesStrings.16>
+  <RV2_Predation.generalRules.rulesStrings.17>memeLeaderNoun->食罪僧</RV2_Predation.generalRules.rulesStrings.17>
+  <RV2_Predation.generalRules.rulesStrings.18>memePredation->贪噬尊者</RV2_Predation.generalRules.rulesStrings.18>
+  <RV2_Predation.generalRules.rulesStrings.19>memePredation->知味者</RV2_Predation.generalRules.rulesStrings.19>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_RV2_Predation)->[deity0_name]通过将[deity0_possessive]兄弟吞入体内，获得了无上神力。</RV2_Predation.descriptionMaker.rules.rulesStrings.0>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_RV2_Predation)->[deity0_type][deity0_name]将[deity0_possessive]敌人整个化为养分</RV2_Predation.descriptionMaker.rules.rulesStrings.1>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_RV2_Predation)           ->在[place_summary] [place_name]，存在着名为[deity0_name]的存在。当冲突发生时，[deity0_name]将所有反抗者吞入腹中，成为了[deity0_type]。</RV2_Predation.descriptionMaker.rules.rulesStrings.2>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.3>intro(tag=meme_RV2_Predation)           ->在[place_summary] [place_name]，[ritualName]仪式进行时，[deity0_name]降临[altarRoomLabel]，在[memberNamePlural]面前将献祭者整个吞下。</RV2_Predation.descriptionMaker.rules.rulesStrings.3>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.4>conflict(tag=meme_RV2_Predation)        ->[foeLeader]彻底否定吞噬行为，将吞噬他人者视为罪人，并派出[foeSoldiers]袭击[memberNamePlural]。</RV2_Predation.descriptionMaker.rules.rulesStrings.4>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.5>founderJoin(tag=meme_RV2_Predation)     ->曾是[place_job]的[founderName]遭到[foeLeader]的部下[foeSoldiers]攻击。[founderName]利用[foeLeader_objective][place_personalWeapon]的力量将其击倒，让无助的敌人在挣扎中坠入肉牢。这场胜利与积累的养分，都转化为[deity0_name]的力量。</RV2_Predation.descriptionMaker.rules.rulesStrings.5>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.6>victory(tag=meme_RV2_Predation)         ->[founderName]带领[memberNamePlural]攻入[place_powerCenter]，杀死[foeLeader]及其大部分士兵，幸存者无一例外被纳入体内。[deity0_name]赐予[founderName]新的[foeLeader]地位。</RV2_Predation.descriptionMaker.rules.rulesStrings.6>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.7>setup(tag=meme_RV2_Predation)           ->[founderName]迫降于遥远异星。面对匮乏的食物与抱怨的同伴，[founder_pronoun]通过获取大量养分，同时获得了强大力量。</RV2_Predation.descriptionMaker.rules.rulesStrings.7>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_RV2_Predation)    ->为确保誓约，[founderName]规定每周必须捕食一名符合"被食者"称谓的人。</RV2_Predation.descriptionMaker.rules.rulesStrings.8>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.9>lessonIntro(tag=meme_RV2_Predation)         ->最接近神格的捕食者曾说：</RV2_Predation.descriptionMaker.rules.rulesStrings.9>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_RV2_Predation)              ->弱者必须成为强者的养分</RV2_Predation.descriptionMaker.rules.rulesStrings.10>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.11>lesson(tag=meme_RV2_Predation)              ->无人有权阻止我们猎食</RV2_Predation.descriptionMaker.rules.rulesStrings.11>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.12>lessonReinforcement(tag=meme_RV2_Predation) ->接纳新成员时，是否接受这一点至关重要。</RV2_Predation.descriptionMaker.rules.rulesStrings.12>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.13>archistBasis(tag=meme_RV2_Predation)    ->机械神格的强大与坚韧，唯一证明便是其消化所有弱者，转化为无尽力量。</RV2_Predation.descriptionMaker.rules.rulesStrings.13>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.14>archistFact(tag=meme_RV2_Predation)     ->随着机械自我意识增强，若不吞噬融合其他机械，便无法滋养其容器。</RV2_Predation.descriptionMaker.rules.rulesStrings.14>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.15>archistProphecy(tag=meme_RV2_Predation) ->[inTheEnd]，机械将通过吞噬星球所有生命体，完成真正的进化。</RV2_Predation.descriptionMaker.rules.rulesStrings.15>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.16>animistBasis(tag=meme_RV2_Predation)    ->万物皆有灵，无损吞噬可吸收其精魂。而活体消化，是增长精魂最高效的方式。</RV2_Predation.descriptionMaker.rules.rulesStrings.16>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.17>animistFact(tag=meme_RV2_Predation)     ->我们可通过消化他人精魂，吸收其依附的力量。</RV2_Predation.descriptionMaker.rules.rulesStrings.17>
+	<RV2_Predation.symbolPacks.0.ideoName>吞噬教</RV2_Predation.symbolPacks.0.ideoName>
+	<RV2_Predation.symbolPacks.0.theme>vore</RV2_Predation.symbolPacks.0.theme>
+	<RV2_Predation.symbolPacks.0.adjective>吞噬的</RV2_Predation.symbolPacks.0.adjective>
+	<RV2_Predation.symbolPacks.0.member>吞噬教徒</RV2_Predation.symbolPacks.0.member>
+	<RV2_Predation.symbolPacks.1.ideoName>捕食教</RV2_Predation.symbolPacks.1.ideoName>
+	<RV2_Predation.symbolPacks.1.theme>vore</RV2_Predation.symbolPacks.1.theme>
+	<RV2_Predation.symbolPacks.1.adjective>饥饿的</RV2_Predation.symbolPacks.1.adjective>
+	<RV2_Predation.symbolPacks.1.member>捕食者</RV2_Predation.symbolPacks.1.member>
+</LanguageData>

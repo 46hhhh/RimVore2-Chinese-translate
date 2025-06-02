@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 若默认值更新，这些描述也应相应调整 -->
+
+  <StorageCapacity_Godlike.label>超凡容器</StorageCapacity_Godlike.label>
+  <StorageCapacity_Godlike.description>[PAWN_label]的肌肤具有超自然的延展性，能突破所有物理法则形成惊人膨起。无论[PAWN_pronoun]体内已容纳多少猎物，看起来总有余裕再吞一个。</StorageCapacity_Godlike.description>
+
+  <StorageCapacity_VeryGood.label>弹性十足</StorageCapacity_VeryGood.label>
+  <StorageCapacity_VeryGood.description>[PAWN_label]即便塞满猎物也游刃有余。当然，[PAWN_pronoun]终究存在极限。</StorageCapacity_VeryGood.description>
+
+  <StorageCapacity_Good.label>柔软包容</StorageCapacity_Good.label>
+  <StorageCapacity_Good.description>[PAWN_label]能比普通捕食者多容纳些猎物。</StorageCapacity_Good.description>
+
+  <StorageCapacity_Normal.label>标准容量</StorageCapacity_Normal.label>
+  <StorageCapacity_Normal.description>[PAWN_label]的体内空间与常人无异。</StorageCapacity_Normal.description>
+
+  <StorageCapacity_Bad.label>逼仄内腔</StorageCapacity_Bad.label>
+  <StorageCapacity_Bad.description>[PAWN_label]体内空间狭窄，无法像其他捕食者那样容纳多个猎物。最多只能吞下体型相仿者（默认设置下）。</StorageCapacity_Bad.description>
+
+  <StorageCapacity_VeryBad.label>紧缩困境</StorageCapacity_VeryBad.label>
+  <StorageCapacity_VeryBad.description>[PAWN_label]深受身体柔韧性困扰，[PAWN_pronoun]连体型相仿者都难以吞下（默认设置下）。即便找到可吞噬对象，也很快就会饱胀。</StorageCapacity_VeryBad.description>
+
+</LanguageData>

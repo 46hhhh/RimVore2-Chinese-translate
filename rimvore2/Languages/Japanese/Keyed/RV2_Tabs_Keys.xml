@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RV2_PawnVoreTab>Vore</RV2_PawnVoreTab>
+	<RV2_Tab_HiddenPreyCount>更に{0}体の被食者</RV2_Tab_HiddenPreyCount>
+	<RV2_Tab_ExpandOrCollapse>拡大/縮小</RV2_Tab_ExpandOrCollapse>
+	<RV2_Interactive_Tab>インタラクティブビュー</RV2_Interactive_Tab>
+	<RV2_Overview_Table>オーバービュー</RV2_Overview_Table>
+	<RV2_Pawn_Source_All>全体</RV2_Pawn_Source_All>
+	<RV2_Pawn_Source_Map>マップ全域</RV2_Pawn_Source_Map>
+	<RV2_Toggle_Struggle>抵抗する・しない</RV2_Toggle_Struggle>
+	<RV2_Tab_Inspect>被食者を選択</RV2_Tab_Inspect>
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DigestionStrength_Godlike.label>神蚀胃液</DigestionStrength_Godlike.label>
+  <DigestionStrength_Godlike.description>虽然古代科技和灵能等身体强化手段尚未完全解密，但[PAWN_label]能瞬间溶解他人的消化能力，已被公认接近神迹。</DigestionStrength_Godlike.description>
+
+  <DigestionStrength_VeryGood.label>强效胃酸</DigestionStrength_VeryGood.label>
+  <DigestionStrength_VeryGood.description>[PAWN_label]能瞬间将猎物融化成浓汤，消化速度是常人的四倍。</DigestionStrength_VeryGood.description>
+
+  <DigestionStrength_Good.label>高效胃液</DigestionStrength_Good.label>
+  <DigestionStrength_Good.description>[PAWN_label]的消化速度可达普通捕食者的两倍。</DigestionStrength_Good.description>
+
+  <DigestionStrength_Normal.label>普通胃酸</DigestionStrength_Normal.label>
+  <DigestionStrength_Normal.description>[PAWN_label]具备捕食者标准的消化能力。</DigestionStrength_Normal.description>
+
+  <DigestionStrength_Bad.label>稀薄胃液</DigestionStrength_Bad.label>
+  <DigestionStrength_Bad.description>[PAWN_label]消化猎物需要花费两倍于常规的时间。</DigestionStrength_Bad.description>
+
+  <DigestionStrength_VeryBad.label>寡淡胃酸</DigestionStrength_VeryBad.label>
+  <DigestionStrength_VeryBad.description>[PAWN_label]消化猎物需耗时四倍。最终留下的白骨无法告知猎物究竟是死于溶解、饥饿还是无聊。</DigestionStrength_VeryBad.description>
+
+</LanguageData>

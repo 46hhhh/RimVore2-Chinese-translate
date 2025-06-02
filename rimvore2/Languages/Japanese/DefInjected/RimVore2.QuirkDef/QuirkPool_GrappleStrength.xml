@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- The system already supports grapple strength for attacker or defender sides with modifierName = 
+    "GrappleStrengthAttacker" and "GrappleStrengthDefender" 
+    but I don't know how I would implement these here and make em look good. Trait requirements already have their own special implementation, 
+    which was the only reason I would have had for att/def specific quirks -->
+
+  <GrappleStrength_VeryGood.label>無敵の組み伏せ</GrappleStrength_VeryGood.label>
+  <GrappleStrength_VeryGood.description>[PAWN_label]はvoreが絡む取っ組み合いになると,強烈な意欲と共に相手を圧倒します.</GrappleStrength_VeryGood.description>
+
+  <GrappleStrength_Good.label>強者の押さえつけ</GrappleStrength_Good.label>
+  <GrappleStrength_Good.description>[PAWN_label]は取っ組み合いで多少有利になる程度には腕に覚えがあります.</GrappleStrength_Good.description>
+
+  <GrappleStrength_Normal.label>普通のホカク</GrappleStrength_Normal.label>
+  <GrappleStrength_Normal.description>[PAWN_label]は取っ組み合いに特に力を発揮する事はありません.</GrappleStrength_Normal.description>
+
+  <GrappleStrength_Bad.label>握力弱め</GrappleStrength_Bad.label>
+  <GrappleStrength_Bad.description>[PAWN_label]は取っ組み合いの時に,少し不利な要素をいくつか持っています.</GrappleStrength_Bad.description>
+
+  <GrappleStrength_VeryBad.label>手負いの手関節</GrappleStrength_VeryBad.label>
+  <GrappleStrength_VeryBad.description>[PAWN_label]は取っ組み合いには非常に不利な傷跡を持っており,食欲旺盛な相手と闘わせることは自滅行為となるでしょう.</GrappleStrength_VeryBad.description>
+
+
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Goal Enablers -->
+
+  <Enablers_Overstuffed_Goal_Absorb.label>体に疼く同化力</Enablers_Overstuffed_Goal_Absorb.label>
+  <Enablers_Overstuffed_Goal_Absorb.description>[PAWN_label]は他の生命と細胞レベルで同化することが出来ます.一方通行(吸収)なものと行き戻り可能(融合)の両方が可能です.</Enablers_Overstuffed_Goal_Absorb.description>
+
+  <Enablers_Overstuffed_Goal_Amalgamate.label>体に収める融合力</Enablers_Overstuffed_Goal_Amalgamate.label>
+  <Enablers_Overstuffed_Goal_Amalgamate.description>[PAWN_label]は他の生命と細胞レベルで同化することが出来ます.ただし行き戻り可能で安全な範囲に留まり,完全な同化は不可能です.</Enablers_Overstuffed_Goal_Amalgamate.description>
+
+  <Enablers_Overstuffed_Goal_Assimilate.label>体に取り込む吸収力</Enablers_Overstuffed_Goal_Assimilate.label>
+  <Enablers_Overstuffed_Goal_Assimilate.description>[PAWN_label]は他の生命と細胞レベルで同化することが出来ます.ただし一方通行であり,生きたまま肉の一部と化して,二度と戻れない獲物の事を忘れないでください.</Enablers_Overstuffed_Goal_Assimilate.description>
+
+  <Enablers_Overstuffed_Goal_ConvertChemfuel.label>化学香る蒸留液</Enablers_Overstuffed_Goal_ConvertChemfuel.label>
+  <Enablers_Overstuffed_Goal_ConvertChemfuel.description>[PAWN_label]はその体の多くの場所で獲物を変質させ,バイオ液化燃料として使える成れ果てを生み出すことができます.</Enablers_Overstuffed_Goal_ConvertChemfuel.description>
+
+  <Enablers_Overstuffed_Goal_ConvertEggs.label>母性溢れる卵化液</Enablers_Overstuffed_Goal_ConvertEggs.label>
+  <Enablers_Overstuffed_Goal_ConvertEggs.description>[PAWN_label]は生きた獲物を溶かし,[PAWN_possessive]卵巣の中で卵に作り替える事ができます."卵にする"ことと"卵に閉じ込める"ことを決して混同しないようにしましょう.</Enablers_Overstuffed_Goal_ConvertEggs.description>
+
+  <Enablers_Overstuffed_Goal_ConvertUrine.label>腎を満たす衛生液</Enablers_Overstuffed_Goal_ConvertUrine.label>
+  <Enablers_Overstuffed_Goal_ConvertUrine.description>[PAWN_label]は生きた獲物を溶かし,[PAWN_possessive]腎臓の中で肥料に適した尿を作ることができます.</Enablers_Overstuffed_Goal_ConvertUrine.description>
+
+
+  <!-- Type Enablers -->
+
+  <Enablers_Overstuffed_Type_Cleavage.label>奥深い谷間</Enablers_Overstuffed_Type_Cleavage.label>
+  <Enablers_Overstuffed_Type_Cleavage.description>[PAWN_label]は生きた獲物を収められることが出来るほどに,胸に深い谷間を持っています.</Enablers_Overstuffed_Type_Cleavage.description>
+
+  <Enablers_Overstuffed_Type_Membrane.label>ドロドロの皮膚細胞</Enablers_Overstuffed_Type_Membrane.label>
+  <Enablers_Overstuffed_Type_Membrane.description>[PAWN_label]は外皮を柔らかくし,まるでスライムのように生きた獲物を取り込むことができます.</Enablers_Overstuffed_Type_Membrane.description>
+
+  <Enablers_Overstuffed_Type_Navel.label>奥深いへそ</Enablers_Overstuffed_Type_Navel.label>
+  <Enablers_Overstuffed_Type_Navel.description>[PAWN_label]は生きた獲物を取り込むことができるほどに,伸縮性と深さを持つへそを持っています.</Enablers_Overstuffed_Type_Navel.description>
+
+  <Enablers_Overstuffed_Type_Tailmaw.label>柔らかい尻尾口</Enablers_Overstuffed_Type_Tailmaw.label>
+  <Enablers_Overstuffed_Type_Tailmaw.description>[PAWN_label]は生きた獲物を呑み込めるほどに,伸縮と可動性のある口を携えた尻尾を持っています.</Enablers_Overstuffed_Type_Tailmaw.description>
+
+  <Enablers_Overstuffed_Type_Udder.label>柔らかい乳房</Enablers_Overstuffed_Type_Udder.label>
+  <Enablers_Overstuffed_Type_Udder.description>[PAWN_label]は生きた獲物を呑み込めるほどに,伸縮性を持つ乳房を持っています.</Enablers_Overstuffed_Type_Udder.description>
+
+
+</LanguageData>

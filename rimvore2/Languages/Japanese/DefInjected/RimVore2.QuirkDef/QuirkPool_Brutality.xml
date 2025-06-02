@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Brutality_Always.label>何もキコエマセン</Brutality_Always.label>
+  <Brutality_Always.description>[PAWN_label]は相手の意志を一切顧みることはありません.</Brutality_Always.description>
+
+  <Brutality_High.label>コインは表って出たから</Brutality_High.label>
+  <Brutality_High.description>[PAWN_label]はあるときは相手を尊重し,あるときは自欲を強行します.それぞれ半分ずつというところで,声をかけられたら取っ組み合いの準備はしておきましょう.</Brutality_High.description>
+
+  <Brutality_Normal.label>普通な感性</Brutality_Normal.label>
+  <Brutality_Normal.description>ほとんどの場合,[PAWN_label]はそうvoreに固執せず,無理に戦おうとはしません.</Brutality_Normal.description>
+
+  <Brutality_Low.label>少しは穏健</Brutality_Low.label>
+  <Brutality_Low.description>[PAWN_label]はそうvoreに固執せず,戦おう思うことはそんなにありません.</Brutality_Low.description>
+
+  <Brutality_Never.label>平和主義</Brutality_Never.label>
+  <Brutality_Never.description>[PAWN_label]は相手を尊重し,voreのために暴力を使うという考えは存在しません.</Brutality_Never.description>
+
+
+</LanguageData>

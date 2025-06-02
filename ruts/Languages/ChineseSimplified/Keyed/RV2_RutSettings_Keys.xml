@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2R_Pet>{0}在{1}体内度过了足够的时间后，成为了{1}的体内宠物。</RV2R_Pet>
+  <RV2R_PetJoined>{0}成为{1}的体内宠物后，决定加入殖民地。</RV2R_PetJoined>
+  <RV2R_RecruitAttemptsWillBegin>目标从{0}体内释放后，招募尝试将立即开始。</RV2R_RecruitAttemptsWillBegin>
+  
+  <RV2R_DesginateDevour>捕食</RV2R_DesginateDevour>
+  <RV2R_DesginateDevourDesc>指定倒下的敌对派系或野生动物，使经过捕食训练的家畜能够将其吞噬。</RV2R_DesginateDevourDesc>
+  <RV2R_DesginateDevourErr>目标必须是倒下的敌对派系或野生动物。</RV2R_DesginateDevourErr>
+  <RV2R_DesginateDevourErrHuman>根据设置，目标无法进行致命捕食或无法被体内监禁。</RV2R_DesginateDevourErrHuman>
+  <RV2R_DesginateDevourErrScaria>根据设置，目标无法进行致命捕食或无法作为狂犬病患者被体内拘束。</RV2R_DesginateDevourErrScaria>
+  <RV2R_DesginateDevourErrInsect>根据设置，目标无法进行致命捕食或无法作为虫族派系被体内拘束。</RV2R_DesginateDevourErrInsect>
+
+  <RV2R_StatsReport_VoreCapacityAcclimation>通过适应</RV2R_StatsReport_VoreCapacityAcclimation>
+  
+  <RV2R_Settings_Tab>Rut的设定</RV2R_Settings_Tab>
+
+  <RV2R_Encumberance_Section>负重</RV2R_Encumberance_Section>
+	
+  <RV2R_Settings_SizedEncumberance>新负重系统</RV2R_Settings_SizedEncumberance>
+  <RV2R_Settings_SizedEncumberance_Tip>被吞食者导致的移动力下降程度由其总重量决定。禁用后，将按被吞食者数量计算重量，但在体型差异较大的情况下会出现不合理现象。</RV2R_Settings_SizedEncumberance_Tip>
+  <RV2R_Settings_EncumberanceModifier>负重比率</RV2R_Settings_EncumberanceModifier>
+  <RV2R_Settings_EncumberanceModifier_Tip>设置捕食者受被吞食者重量影响的程度。数值越高，捕食者越容易无法移动。</RV2R_Settings_EncumberanceModifier_Tip>
+  <RV2R_Settings_EncumberanceVisible>显示“猎物负重”状态</RV2R_Settings_EncumberanceVisible>  
+  <RV2R_Settings_EncumberanceVisible_Tip>为更直观地显示移动速度下降，“猎物负重”将作为健康状态可见。此设置仅影响显示，不影响实际游戏机制。\n\n若被吞食者的重量影响移动速度，将鼠标悬停在参数上可查看详情。</RV2R_Settings_EncumberanceVisible_Tip> 
+  <RV2R_Settings_EncumberanceCap>负重上限</RV2R_Settings_EncumberanceCap>  
+  <RV2R_Settings_EncumberanceCap_Tip>设置“猎物负重”的最大强度。此设置决定了满载猎物的捕食者是否能自主吐出猎物。若捕食者与被吞食者体型相近且无特殊倾向，负重为25%。\n\n25%时，移动能力-17.5%。\n50%时，-40%。\n75%时，-65%。\n100%时，-150%。</RV2R_Settings_EncumberanceCap_Tip>  
+
+  <RV2R_Settings_EncumberanceTurnOff>启用新负重系统后，即使关闭上述设置，也不会恢复为RimVore-2原版负重系统，而是近似版本。如需完全恢复，请将“负重比率”设为0%，并删除此mod的common文件夹中的Patches/Patch_Hediffs_Vore_CapmodRemoval.xml文件。</RV2R_Settings_EncumberanceTurnOff>  
+
+  <RV2R_Acclimation_Section>适应</RV2R_Acclimation_Section>
+  
+  <RV2R_Settings_PreyCapacityAcclimation>容量适应</RV2R_Settings_PreyCapacityAcclimation>
+  <RV2R_Settings_PreyCapacityAcclimation_Tip>设置捕食者在满载猎物时的适应速度。即使设为最大值，适应速度仍较慢，且随着容量增加，适应速度会进一步减缓。</RV2R_Settings_PreyCapacityAcclimation_Tip>
+  <RV2R_Settings_PreyCapacityAcclimationLimit>容量适应阈值</RV2R_Settings_PreyCapacityAcclimationLimit>
+  <RV2R_Settings_PreyCapacityAcclimationLimit_Tip>设置捕食者适应所需的最小容量占用比例。设为1%时，所有捕食者都会缓慢增加体内容量，但满载猎物时会加快适应速度。</RV2R_Settings_PreyCapacityAcclimationLimit_Tip>
+  <RV2R_Settings_MovingCapacityAclimation>移动适应</RV2R_Settings_MovingCapacityAclimation>
+  <RV2R_Settings_MovingCapacityAclimation_Tip>设置捕食者在因猎物重量超负荷时的适应速度。即使设为最大值，适应速度仍较慢，且捕食者移动越轻便，适应速度越缓。\n\n因负重通过健康状态计算，实际效果需要时间体现。</RV2R_Settings_MovingCapacityAclimation_Tip>
+  <RV2R_Settings_MovingCapacityAclimationLimit>移动适应阈值</RV2R_Settings_MovingCapacityAclimationLimit>
+  <RV2R_Settings_MovingCapacityAclimationLimit_Tip>设置捕食者适应所需的最小移动负重比例。设为1%时，所有捕食者都会缓慢减轻重量惩罚，但满载猎物时会加快适应速度。</RV2R_Settings_MovingCapacityAclimationLimit_Tip>
+  
+  <RV2R_Tick_Section>体内存储</RV2R_Tick_Section>
+
+  <RV2R_Settings_EndoSickness>体内病强度</RV2R_Settings_EndoSickness>
+  <RV2R_Settings_EndoSickness_Tip>设置安全存储在体内的猎物罹患“体内病”的速度。默认情况下，“体内时钟”每推进一格，病情进展1%。此病无危险且提供心情加成，但会伴随一两天后遗症。\n\n此设定旨在平衡体内存储的稳定性，例如节约药品。</RV2R_Settings_EndoSickness_Tip>
+  <RV2R_Settings_EndoSicknessPacification>醉意沉默</RV2R_Settings_EndoSicknessPacification>  
+  <RV2R_Settings_EndoSicknessPacification_Tip>猎物体内病严重时，将无法反抗。</RV2R_Settings_EndoSicknessPacification_Tip>  
+  <RV2R_Settings_AgeRegression>年龄倒退强度</RV2R_Settings_AgeRegression>
+  <RV2R_Settings_AgeRegression_Tip>以“每日倒退天数”为单位，设置被困在子宫内的猎物年龄倒退速度。生理年龄不会低于成年期，且因种族而异。设为0禁用，设为1则停止衰老。\n\n(注：Rimworld及其生物的一年为60天。)</RV2R_Settings_AgeRegression_Tip>
+  <RV2R_Settings_AgeRegressionCure>慢性病年轻化治疗</RV2R_Settings_AgeRegressionCure>
+  <RV2R_Settings_AgeRegressionCure_Tip>年龄倒退的猎物有微小概率完全治愈衰老相关的慢性病。概率随年龄减小而增加。</RV2R_Settings_AgeRegressionCure_Tip>
+  <RV2R_Settings_Pets>体内宠物</RV2R_Settings_Pets>
+  <RV2R_Settings_Pets_Tip>捕食者与猎物在体内共处一定时间后，会发展为永久性正面评价的特殊关系。虽可滥用，但若宠物或捕食者任一方发生变故，双方都会感到不安。宠物仅能选择一名捕食者，而捕食者可驯服多名宠物。</RV2R_Settings_Pets_Tip>
+  <RV2R_Settings_PetsColonyOnly>仅殖民者成为宠物</RV2R_Settings_PetsColonyOnly>
+  <RV2R_Settings_PetsColonyOnly_Tip>仅殖民地成员可成为安全的体内宠物。</RV2R_Settings_PetsColonyOnly_Tip>
+  <RV2R_Settings_PetRecruitment>宠物加入</RV2R_Settings_PetRecruitment>
+  <RV2R_Settings_PetRecruitment_Tip>若成为殖民者的宠物，角色将加入派系。此设定极易被滥用。</RV2R_Settings_PetRecruitment_Tip>
+  <RV2R_Settings_EndoThoughts>关系心情</RV2R_Settings_EndoThoughts>
+  <RV2R_Settings_EndoThoughts_Tip>若捕食者与猎物存在情感纽带，双方会根据关系获得心情加成。\n\n恋人最高+5，绑定动物数量影响（2只+5），体内宠物+5。</RV2R_Settings_EndoThoughts_Tip>
+
+  <RV2R_Capture_Section>拘束</RV2R_Capture_Section>
+	
+  <RV2R_Settings_EndoCapture>体内监禁者拘束</RV2R_Settings_EndoCapture>
+  <RV2R_Settings_EndoCapture_Tip>启用后，敌对派系成员被击倒并被殖民者或家畜安全吞食时，将进入拘束状态。此设定可覆盖临时情况，例如为治疗袭击者而吞食，或训练家畜辅助招募。\n\n(经捕食训练的家畜在无法消化时，会优先治疗猎物。)</RV2R_Settings_EndoCapture_Tip>
+  <RV2R_Settings_EndoCapture_Insectoids>昆虫也可拘束</RV2R_Settings_EndoCapture_Insectoids>
+  <RV2R_Settings_EndoCapture_Insectoids_Tip>虫族派系“索恩生物”成员也可通过捕食拘束解除敌对状态，并安全驯服。\n\n此设定未考虑平衡性。</RV2R_Settings_EndoCapture_Insectoids_Tip>
+  <RV2R_Settings_EndoCapture_Scaria>狂犬病治疗</RV2R_Settings_EndoCapture_Scaria>  
+  <RV2R_Settings_EndoCapture_Scaria_Tip>通过治疗性吞食，可治愈导致动物狂暴的“狂犬病”，并对人狩集团实施类似拘束的效果。仅对已标记驯服的动物生效。</RV2R_Settings_EndoCapture_Scaria_Tip>
+  <RV2R_Settings_EndoCapture_Recruitment>体内招募牢房</RV2R_Settings_EndoCapture_Recruitment>
+  <RV2R_Settings_EndoCapture_Recruitment_Tip>若囚犯设置为“软化敌意”或“闲聊招募”，且吞食非单方面行为时，殖民者体内可逐步降低其敌意。通常看守对话更快，且对顽固囚犯无效。</RV2R_Settings_EndoCapture_Recruitment_Tip>
+    
+  <RV2R_Settings_EndoCaptureDevourFriendlies>吞食友军</RV2R_Settings_EndoCaptureDevourFriendlies> 
+  <RV2R_Settings_EndoCaptureDevourFriendlies_Tip>允许将倒下的友方派系列为捕食目标。可用于食欲失控时，或结合治疗性吞食与禁用消化规则作为救援替代方案。</RV2R_Settings_EndoCaptureDevourFriendlies_Tip>   
+  <RV2R_Settings_EndoCaptureDevourColonists>吞食殖民者</RV2R_Settings_EndoCaptureDevourColonists> 
+  <RV2R_Settings_EndoCaptureDevourColonists_Tip>允许将倒下的殖民者列为捕食目标。可用于食欲失控时，或结合治疗性吞食与禁用消化规则作为救援替代方案。</RV2R_Settings_EndoCaptureDevourColonists_Tip> 
+  <RV2R_Settings_EndoCaptureDevourColonistsFull>吞食健康殖民者</RV2R_Settings_EndoCaptureDevourColonistsFull> 
+  <RV2R_Settings_EndoCaptureDevourColonistsFull_Tip>这有什么意义？啊！\n\n(若目标无受伤，家畜仅选择安全目的吞食，消化选项将被排除。)</RV2R_Settings_EndoCaptureDevourColonistsFull_Tip> 
+ 
+  <RV2R_Lovin_Section>嘿嘿，啊啊</RV2R_Lovin_Section>
+
+  <RV2R_Settings_PreyLovin>吞食式群体亲密</RV2R_Settings_PreyLovin>
+  <RV2R_Settings_PreyLovin_Tip>捕食者进行亲密行为时，猎物也能获得心情加成。加成效果受“猎物性欲”倾向影响。</RV2R_Settings_PreyLovin_Tip>
+  <RV2R_Settings_GutLovin>体内亲密概率</RV2R_Settings_GutLovin>
+  <RV2R_Settings_GutLovin_Tip>设置恋爱关系的捕食者/猎物进行吞食式亲密的频率。此行为与普通亲密共享冷却时间，且需双方同意，受捕食者/猎物的性欲影响。</RV2R_Settings_GutLovin_Tip>
+  <RV2R_Settings_GutLovinSapient>允许智慧动物</RV2R_Settings_GutLovinSapient>
+  <RV2R_Settings_GutLovinSapient_Tip>若双方具备足够沟通能力，允许智慧动物（如Sentient Animals、Pawnmorpher前人类或Kyulen）进行体内亲密。</RV2R_Settings_GutLovinSapient_Tip>
+  <RV2R_Settings_GutLovinONS>一夜体内情</RV2R_Settings_GutLovinONS>
+  <RV2R_Settings_GutLovinONS_Tip>允许无恋爱关系的捕食者/猎物进行吞食式亲密。若已有其他恋爱关系，伴侣不在场时可进行。</RV2R_Settings_GutLovinONS_Tip>
+  <RV2R_Settings_GutLovinCheats>花心捕食者</RV2R_Settings_GutLovinCheats>
+  <RV2R_Settings_GutLovinCheats_Tip>允许有伴侣的捕食者在伴侣不在时进行亲密行为。无惩罚或负面心情，但可能造成尴尬。</RV2R_Settings_GutLovinCheats_Tip>  
+  <RV2R_Settings_GutLovinNonCon>允许强迫</RV2R_Settings_GutLovinNonCon>
+  <RV2R_Settings_GutLovinNonCon_Tip>允许心理变态或低社交评价的捕食者强迫猎物进行亲密行为。若猎物非自愿，关系将受损，但“好人”捕食者无此风险。</RV2R_Settings_GutLovinNonCon_Tip>
+
+  <RV2R_Fodder_Section>活体储备粮</RV2R_Fodder_Section>
+
+  <RV2R_Settings_Fodder_Chance>活体储备粮概率</RV2R_Settings_Fodder_Chance>
+  <RV2R_Settings_Fodder_Chance_Tip>设置殖民者将标记为“活体储备粮”的囚犯作为食物吞食的概率。若距离过远或无法以偏好目的吞食，则不会进行。\n\n若判断无其他食物来源，即使设为0%也会吞食。\n\n此设定会显著改变自动吞食频率。</RV2R_Settings_Fodder_Chance_Tip>
+  <RV2R_Settings_Fodder_AllowNamed>允许命名家畜食用</RV2R_Settings_Fodder_AllowNamed>
+  <RV2R_Settings_Fodder_AllowNamed_Tip>设置是否允许命名的殖民地动物食用“活体储备粮”囚犯。所有动物可通过“训练”选项卡命名。</RV2R_Settings_Fodder_AllowNamed_Tip>
+  <RV2R_Settings_Fodder_AllowPredators>允许肉食动物食用</RV2R_Settings_Fodder_AllowPredators>
+  <RV2R_Settings_Fodder_AllowPredators_Tip>设置是否允许殖民地肉食动物食用“活体储备粮”囚犯。概率低于殖民者。</RV2R_Settings_Fodder_AllowPredators_Tip>
+  <RV2R_Settings_Fodder_AllowAnimals>允许殖民地动物食用</RV2R_Settings_Fodder_AllowAnimals>
+  <RV2R_Settings_Fodder_AllowAnimals_Tip>设置是否允许所有殖民地动物食用“活体储备粮”囚犯。需同时启用肉食动物许可。概率低于肉食动物。</RV2R_Settings_Fodder_AllowAnimals_Tip>
+  <RV2R_Settings_Fodder_AnimalsFull>殖民地动物与非囚犯饲料</RV2R_Settings_Fodder_AnimalsFull>
+  <RV2R_Settings_Fodder_AnimalsFull_Tip>设置殖民地动物是否按以下规则选择饲料。大型殖民地可能引发混乱。畜牧用家畜不会以其他动物为食。</RV2R_Settings_Fodder_AnimalsFull_Tip>
+
+  <RV2R_Settings_MiscFodder_Chance>其他活体储备粮概率</RV2R_Settings_MiscFodder_Chance>
+  <RV2R_Settings_MiscFodder_Chance_Tip>设置将非囚犯作为食物吞食的概率。若距离过远或无法以偏好目的吞食，则不会进行。\n\n此设定会显著改变自动吞食频率。</RV2R_Settings_MiscFodder_Chance_Tip>
+
+  <RV2R_Settings_Fodder_Penned>围栏动物作为活体储备粮</RV2R_Settings_Fodder_Penned>
+  <RV2R_Settings_Fodder_Penned_Tip>设置畜牧动物是否可被选为活体储备粮。“活体储备粮”囚犯优先，且所有活体储备粮可能因社交关系或派系关系失败。每种族将保留至少一雄一雌两匹。</RV2R_Settings_Fodder_Penned_Tip>
+  <RV2R_Settings_Fodder_Animal>殖民地动物作为活体储备粮</RV2R_Settings_Fodder_Animal>
+  <RV2R_Settings_Fodder_Animal_Tip>设置非肉食或小型殖民地动物是否可被选为活体储备粮。训练程度越高优先级越低，命名动物会被保留，且每种族至少保留一雄一雌两匹。</RV2R_Settings_Fodder_Animal_Tip>
+  <RV2R_Settings_Fodder_Predator>殖民地肉食动物作为活体储备粮</RV2R_Settings_Fodder_Predator>
+  <RV2R_Settings_Fodder_Predator_Tip>设置殖民地肉食动物是否可被选为活体储备粮。训练程度越高优先级越低，命名动物会被保留，且每种族至少保留一雄一雌两匹。</RV2R_Settings_Fodder_Predator_Tip>
+  <RV2R_Settings_Fodder_Guests>访客作为活体储备粮</RV2R_Settings_Fodder_Guests>
+  <RV2R_Settings_Fodder_Guests_Tip>后果不堪设想。</RV2R_Settings_Fodder_Guests_Tip>
+  <RV2R_Settings_Fodder_Colonists>殖民者作为活体储备粮</RV2R_Settings_Fodder_Colonists>
+  <RV2R_Settings_Fodder_Colonists_Tip>若无具体对策，不建议启用。\n\n(若可处理吸食目的，并非完全无益，但部分殖民者反复进出体内将导致巨大混乱。)</RV2R_Settings_Fodder_Colonists_Tip>
+
+  <RV2R_AnimalNom_Section>动物吞食</RV2R_AnimalNom_Section>
+	
+  <RV2R_Settings_AnimalHealVore>灵活治疗</RV2R_Settings_AnimalHealVore>
+  <RV2R_Settings_AnimalHealVore_Tip>调整经治疗性吞食训练的动物治疗伤者的流程。动物会等待医生治疗，直至至少止血。</RV2R_Settings_AnimalHealVore_Tip>
+  <RV2R_Settings_AnimalCaptureVore>灵活捕获</RV2R_Settings_AnimalCaptureVore>
+  <RV2R_Settings_AnimalCaptureVore_Tip>经捕食训练的动物将优先捕获高价值或相关目标。</RV2R_Settings_AnimalCaptureVore_Tip>
+  <RV2R_Settings_AnimalRandomNomChance>嬉戏吞食平均间隔</RV2R_Settings_AnimalRandomNomChance>
+  <RV2R_Settings_AnimalRandomNomChance_Tip>设置经训练的友好家畜嬉戏吞食他人的平均间隔（小时）。家畜会像普通互动一样向殖民者展示舌头或捕食口，但行为仅限于无害安全范围。</RV2R_Settings_AnimalRandomNomChance_Tip>
+  <RV2R_Settings_AnimalRandomNomChanceModifier>嬉戏吞食时间延长</RV2R_Settings_AnimalRandomNomChanceModifier>
+  <RV2R_Settings_AnimalRandomNomChanceModifier_Tip>设置家畜因携带猎物延长下次嬉戏吞食时间的比例。默认携带1人时，间隔从24小时增至30小时，再携带1人增至36小时。</RV2R_Settings_AnimalRandomNomChanceModifier_Tip>
+  <RV2R_Settings_AnimalRandomNomPrey>嬉戏被捕食</RV2R_Settings_AnimalRandomNomPrey>
+  <RV2R_Settings_AnimalRandomNomPrey_Tip>允许具备嬉戏吞食能力的殖民地动物双向互动。</RV2R_Settings_AnimalRandomNomPrey_Tip>
+  <RV2R_Settings_AnimalRandomNomColonistModifier>殖民者嬉戏吞食概率</RV2R_Settings_AnimalRandomNomColonistModifier>
+  <RV2R_Settings_AnimalRandomNomColonistModifier_Tip>设置殖民者成为嬉戏吞食目标的概率。设为0%时，仅当“吞食纽带”启用且与殖民者存在纽带时生效。</RV2R_Settings_AnimalRandomNomColonistModifier_Tip>
+  <RV2R_Settings_AnimalRandomNomIndiscriminate>无差别吞食</RV2R_Settings_AnimalRandomNomIndiscriminate>
+  <RV2R_Settings_AnimalRandomNomIndiscriminate_Tip>允许嬉戏吞食目标超出殖民地范围时，可能误食商人或任务目标，需谨慎。</RV2R_Settings_AnimalRandomNomIndiscriminate_Tip>
+  <RV2R_Settings_AnimalRandomNomFatal>"过度嬉戏"吞食</RV2R_Settings_AnimalRandomNomFatal>
+  <RV2R_Settings_AnimalRandomNomFatal_Tip>...个人不建议启用。</RV2R_Settings_AnimalRandomNomFatal_Tip>
+  
+  <RV2R_Bonds_Section>纽带</RV2R_Bonds_Section>
+	
+  <RV2R_Settings_EndoBondChance>肉体纽带概率</RV2R_Settings_EndoBondChance>
+  <RV2R_Settings_EndoBondChance_Tip>动物与人类通过安全吞食互动时，“体内时钟”每推进一格有极低概率形成纽带。野生动物也可绑定，需注意“带狼回家”。\n\n建议设为极低值。</RV2R_Settings_EndoBondChance_Tip>
+  <RV2R_Settings_EndoBondPredOnly>仅捕食者纽带</RV2R_Settings_EndoBondPredOnly>
+  <RV2R_Settings_EndoBondPredOnly_Tip>默认仅人类为捕食者时可形成纽带。启用后，动物为捕食者时也可形成。\n\n个人不建议。</RV2R_Settings_EndoBondPredOnly_Tip>
+  <RV2R_Settings_EndoBondUnwilling>非自愿纽带</RV2R_Settings_EndoBondUnwilling>
+  <RV2R_Settings_EndoBondUnwilling_Tip>默认仅猎物自愿时可形成纽带。但若狐狸讨厌所有人的体内呢？</RV2R_Settings_EndoBondUnwilling_Tip>
+  <RV2R_Settings_VornyBonds>吞食纽带</RV2R_Settings_VornyBonds>
+  <RV2R_Settings_VornyBonds_Tip>绑定动物更易邀请主人嬉戏吞食，且绑定双方必接受邀请。</RV2R_Settings_VornyBonds_Tip>
+  
+  <RV2R_Wild_Section>自然界互动</RV2R_Wild_Section>
+  
+  <RV2R_Settings_WildProposalMod>野生互动频率</RV2R_Settings_WildProposalMod>
+  <RV2R_Settings_WildProposalMod_Tip>设置野生动物相比殖民者的吞食互动频率。高值可能影响性能。</RV2R_Settings_WildProposalMod_Tip>
+  <RV2R_Settings_WildPredatorProposals>野生肉食动物互动</RV2R_Settings_WildPredatorProposals>
+  <RV2R_Settings_WildPredatorProposals_Tip>允许野生肉食动物发起吞噬互动。可能影响性能。</RV2R_Settings_WildPredatorProposals_Tip>
+  <RV2R_Settings_WildPredatorPreyProposals>野生肉食动物双向互动</RV2R_Settings_WildPredatorPreyProposals>
+  <RV2R_Settings_WildPredatorPreyProposals_Tip>允许野生肉食动物发起或被吞噬互动。</RV2R_Settings_WildPredatorPreyProposals_Tip>
+  <RV2R_Settings_WildPreyProposals>野生猎物互动</RV2R_Settings_WildPreyProposals>
+  <RV2R_Settings_WildPreyProposals_Tip>允许非肉食野生动物请求被吞噬。可能影响性能。</RV2R_Settings_WildPreyProposals_Tip>
+  <RV2R_Settings_WildToColonistPrey>对殖民者的被捕食互动</RV2R_Settings_WildToColonistPrey>
+  <RV2R_Settings_WildToColonistPrey_Tip>允许野生动物向殖民地成员请求被吞噬。</RV2R_Settings_WildToColonistPrey_Tip>
+  <RV2R_Settings_WildToColonistPred>对殖民者的捕食互动</RV2R_Settings_WildToColonistPred>
+  <RV2R_Settings_WildToColonistPred_Tip>允许野生动物向殖民地成员发起吞噬请求。</RV2R_Settings_WildToColonistPred_Tip>
+  <RV2R_Settings_WildTotalVoreLimit>吞食总数限制</RV2R_Settings_WildTotalVoreLimit>
+  <RV2R_Settings_WildTotalVoreLimit_Tip>设置野生互动的最大吞食实例数以限制频率。超出后互动更罕见，但不会完全停止。</RV2R_Settings_WildTotalVoreLimit_Tip>
+  
+  <RV2R_Cheats_Section>作弊</RV2R_Cheats_Section>
+  
+  <RV2R_Cheats_EndoOpinion>被动关系值</RV2R_Cheats_EndoOpinion>
+  <RV2R_Cheats_EndoOpinion_Tip>允许捕食者与猎物被动获得关系值。数值取决于双方对角色的接受程度。</RV2R_Cheats_EndoOpinion_Tip>
+  <RV2R_Cheats_PreyJoy>猎物娱乐</RV2R_Cheats_PreyJoy>
+  <RV2R_Cheats_PreyJoy_Tip>不抗拒成为猎物的角色在体内持续获得娱乐需求。强制时为33%，其他情况上限50%。</RV2R_Cheats_PreyJoy_Tip>
+  <RV2R_Cheats_MetabolismBoost>消化功能影响</RV2R_Cheats_MetabolismBoost>
+  <RV2R_Cheats_MetabolismBoost_Tip>高消化功能的捕食者在分享营养或治疗猎物导致饥饿时，部分营养将返还。同时低消化功能会加速饥饿。\n\n可通过植入物强化胃与肝功能，优化作为捕食者的监牢或病房。</RV2R_Cheats_MetabolismBoost_Tip>
+  <RV2R_Cheats_NoBleedOut>无失血</RV2R_Cheats_NoBleedOut>
+  <RV2R_Cheats_NoBleedOut_Tip>猎物失血达90%时停止。治疗性吞食时可避免悲剧。</RV2R_Cheats_NoBleedOut_Tip>
+  <RV2R_Cheats_StopBleeding>减轻失血</RV2R_Cheats_StopBleeding>
+  <RV2R_Cheats_StopBleeding_Tip>猎物被吞食后失血速度逐渐降低。仅减缓失血，治愈仍需其他条件。</RV2R_Cheats_StopBleeding_Tip>
+  <RV2R_Cheats_NoExtremeTemp>无极端体温</RV2R_Cheats_NoExtremeTemp>
+  <RV2R_Cheats_NoExtremeTemp_Tip>猎物的低体温症或热射病进展上限为30%。</RV2R_Cheats_NoExtremeTemp_Tip>
+  <RV2R_Cheats_HyperHealing>超级治愈</RV2R_Cheats_HyperHealing>
+  <RV2R_Cheats_HyperHealing_Tip>治愈、愈疗、超疗。捕食者的治疗技能大幅增强，使治疗性吞食成为终极关怀。但仍逊于高技能医生与顶级药品。</RV2R_Cheats_HyperHealing_Tip>
+
+  <!--   -->
+</LanguageData>

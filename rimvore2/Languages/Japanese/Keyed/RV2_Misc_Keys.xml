@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RV2_SurgeryRemovePrey>{0}から獲物を取り出す</RV2_SurgeryRemovePrey>
+  <RV2_ThingList_None>無し</RV2_ThingList_None>
+  <RV2_DisposalUrn_Empty>空</RV2_DisposalUrn_Empty>
+  <RV2_DisposalUrn_Contents>内容物: </RV2_DisposalUrn_Contents>
+  <RV2_Time_Seconds>{0} 秒</RV2_Time_Seconds>
+  <RV2_Time_Minutes>{0} 分</RV2_Time_Minutes>
+  <RV2_Time_Hours>{0} 時間</RV2_Time_Hours>
+  <RV2_Time_Days>{0} 日</RV2_Time_Days>
+  <RV2_Time_Weeks>{0} 週</RV2_Time_Weeks>
+
+  <RV2_Dialog_RestartNotification>RimVore-2の設定の初期化処理が必要で,過去の設定を全て消すためにゲームをリセットする必要があります.\n\nリスタートしないと設定メニューの破損に繋がるため,行うことを強く推奨されます.</RV2_Dialog_RestartNotification>
+  <RV2_Dialog_RestartOkay>はい, リスタートします</RV2_Dialog_RestartOkay>
+  <RV2_Dialog_RestartNo>リスタートしません</RV2_Dialog_RestartNo>
+  <RV2_Dialog_RestartDeniedNotification>そうですか...RimVore-2のmod本体と設定メニューはほぼ確実に破損してしまうでしょう.もし復帰させたくなった場合はRV-2メニューのDebugActionsを確認し,設定を削除し直すことが出来ます.</RV2_Dialog_RestartDeniedNotification>
+
+  <RV2_PredatorSwitchedVoreGoal_Key>Vore目的が切り替わった</RV2_PredatorSwitchedVoreGoal_Key>
+  <RV2_PredatorSwitchedVoreGoal>{PREDATOR}は体内の{PREY}への目的を{PREVIOUSGOAL}から{NEWGOAL}に変えました</RV2_PredatorSwitchedVoreGoal>
+  
+  <RV2_VoreMentalBreakNoPathAvailable>原因: 精神崩壊でのVore目的が満たされなかった</RV2_VoreMentalBreakNoPathAvailable>
+</LanguageData>

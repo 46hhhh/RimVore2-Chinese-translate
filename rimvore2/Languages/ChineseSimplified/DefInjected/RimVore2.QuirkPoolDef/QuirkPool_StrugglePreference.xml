@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- The system already supports grapple strength for attacker or defender sides with modifierName = 
+    "GrappleStrengthAttacker" and "GrappleStrengthDefender" 
+    but I don't know how I would implement these here and make em look good. Trait requirements already have their own special implementation, 
+    which was the only reason I would have had for att/def specific quirks -->
+
+  <StrugglePreference.label>抵抗偏好</StrugglePreference.label>
+  <StrugglePreference.description>表示该角色作为捕食者时对猎物抵抗行为的偏好。</StrugglePreference.description>
+
+
+</LanguageData>

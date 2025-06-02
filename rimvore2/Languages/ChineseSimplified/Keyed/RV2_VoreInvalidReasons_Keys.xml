@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 吞噬无效原因 -->
+  <RV2_VoreInvalidReasons_TooYoung>年龄不符</RV2_VoreInvalidReasons_TooYoung>
+  <RV2_VoreInvalidReasons_Animal>动物</RV2_VoreInvalidReasons_Animal>
+  <RV2_VoreInvalidReasons_WildAnimalForAuto>野生动物自动请求已禁用</RV2_VoreInvalidReasons_WildAnimalForAuto>
+  <RV2_VoreInvalidReasons_VisitorForAuto>访客自动请求已禁用</RV2_VoreInvalidReasons_VisitorForAuto>
+  <RV2_VoreInvalidReasons_SelfVore>无法自我吞噬</RV2_VoreInvalidReasons_SelfVore>
+  <RV2_VoreInvalidReasons_QuirksDisabled>特性：忽略</RV2_VoreInvalidReasons_QuirksDisabled>
+  <RV2_VoreInvalidReasons_FatalDisabled>致命：禁用</RV2_VoreInvalidReasons_FatalDisabled>
+  <RV2_VoreInvalidReasons_EndoDisabled>储存：禁用</RV2_VoreInvalidReasons_EndoDisabled>
+  <RV2_VoreInvalidReasons_FatalAndEndoDisabled>致命与储存：禁用</RV2_VoreInvalidReasons_FatalAndEndoDisabled>
+  <RV2_VoreInvalidReasons_FatalDisabledAndQuirkFatalOnlyPredator>仅致命捕食者(致命禁用)</RV2_VoreInvalidReasons_FatalDisabledAndQuirkFatalOnlyPredator>
+  <RV2_VoreInvalidReasons_EndoDisabledAndQuirkEndoOnlyPredator>仅储存捕食者(储存禁用)</RV2_VoreInvalidReasons_EndoDisabledAndQuirkEndoOnlyPredator>
+  <RV2_VoreInvalidReasons_QuirkNeverPredator>特性：非捕食者</RV2_VoreInvalidReasons_QuirkNeverPredator>
+  <RV2_VoreInvalidReasons_QuirkNeverPrey>特性：非猎物</RV2_VoreInvalidReasons_QuirkNeverPrey>
+  <RV2_VoreInvalidReasons_QuirkFatalOnlyPredator>特性：仅致命捕食者</RV2_VoreInvalidReasons_QuirkFatalOnlyPredator>
+  <RV2_VoreInvalidReasons_QuirkEndoOnlyPredator>特性：仅储存捕食者</RV2_VoreInvalidReasons_QuirkEndoOnlyPredator>
+  <RV2_VoreInvalidReasons_PredatorCantVore>捕食者无法吞噬：</RV2_VoreInvalidReasons_PredatorCantVore>
+  <RV2_VoreInvalidReasons_PreyCantBeVored>猎物无法被吞噬：</RV2_VoreInvalidReasons_PreyCantBeVored>
+  <RV2_VoreInvalidReasons_OngoingVore>当前无法对此捕食者操作</RV2_VoreInvalidReasons_OngoingVore>
+  <RV2_VoreInvalidReasons_NoCapacity>容量不足</RV2_VoreInvalidReasons_NoCapacity>
+  <RV2_VoreInvalidReasons_MentalState>精神状态</RV2_VoreInvalidReasons_MentalState>
+  <RV2_VoreInvalidReasons_NoGoals>不包含在特性中</RV2_VoreInvalidReasons_NoGoals>
+  <RV2_VoreInvalidReasons_NoTypes>不包含在吞噬方式中</RV2_VoreInvalidReasons_NoTypes>
+  <RV2_VoreInvalidReasons_Predator>捕食者</RV2_VoreInvalidReasons_Predator>
+  <RV2_VoreInvalidReasons_Prey>猎物</RV2_VoreInvalidReasons_Prey>
+  <RV2_VoreInvalidReasons_DesignationMissing>{0}未启用{1}功能</RV2_VoreInvalidReasons_DesignationMissing>
+  <RV2_VoreInvalidReasons_NoPredatorDesignations>{0}未启用捕食功能</RV2_VoreInvalidReasons_NoPredatorDesignations>
+  <RV2_VoreInvalidReasons_NoPreyDesignations>无可用猎物</RV2_VoreInvalidReasons_NoPreyDesignations>
+  <RV2_VoreInvalidReasons_CurrentlyInitiatingVore>猎物已被卷入吞噬</RV2_VoreInvalidReasons_CurrentlyInitiatingVore>
+  <RV2_VoreInvalidReasons_PredatorInRitual>捕食者正在进行仪式</RV2_VoreInvalidReasons_PredatorInRitual>
+  <RV2_VoreInvalidReasons_PreyInRitual>猎物正在进行仪式</RV2_VoreInvalidReasons_PreyInRitual>
+  <RV2_VoreInvalidReasons_Unavailable>不可用</RV2_VoreInvalidReasons_Unavailable>
+  <RV2_VoreInvalidReasons_NoPreyAvailable>无可用猎物</RV2_VoreInvalidReasons_NoPreyAvailable>
+  
+  <!-- 目标相关 -->
+  <RV2_VoreInvalidReasons_PawnsWithoutSexNeed>双方均无快感需求，无法进行快感目的</RV2_VoreInvalidReasons_PawnsWithoutSexNeed>
+  <RV2_VoreInvalidReasons_AlreadyPleasured>已满足</RV2_VoreInvalidReasons_AlreadyPleasured>
+  
+  <!-- 路径相关 -->
+  <RV2_VoreInvalidReasons_PredatorRuleBlockingPath>捕食者规则限制</RV2_VoreInvalidReasons_PredatorRuleBlockingPath>
+  <RV2_VoreInvalidReasons_PreyRuleBlockingPath>猎物规则限制</RV2_VoreInvalidReasons_PreyRuleBlockingPath>
+  
+  <!-- 交互管理 -->
+  <RV2_VoreInvalidReasons_NoPaths>无可用方式：{0}</RV2_VoreInvalidReasons_NoPaths>
+  <RV2_VoreInvalidReasons_NoValidRole>无有效角色</RV2_VoreInvalidReasons_NoValidRole>
+  <RV2_VoreInvalidReasons_RoleBlacklisted>角色在黑名单中</RV2_VoreInvalidReasons_RoleBlacklisted>
+  <RV2_VoreInvalidReasons_RoleNotWhitelisted>角色不在白名单中</RV2_VoreInvalidReasons_RoleNotWhitelisted>
+  <RV2_VoreInvalidReasons_TypeBlacklisted>方式在黑名单中</RV2_VoreInvalidReasons_TypeBlacklisted>
+  <RV2_VoreInvalidReasons_TypeNotWhitelisted>方式不在白名单中</RV2_VoreInvalidReasons_TypeNotWhitelisted>
+  <RV2_VoreInvalidReasons_GoalBlacklisted>目的在黑名单中</RV2_VoreInvalidReasons_GoalBlacklisted>
+  <RV2_VoreInvalidReasons_GoalNotWhitelisted>目的不在白名单中</RV2_VoreInvalidReasons_GoalNotWhitelisted>
+  <RV2_VoreInvalidReasons_DesignationBlacklisted>规则在黑名单中</RV2_VoreInvalidReasons_DesignationBlacklisted>
+  <RV2_VoreInvalidReasons_DesignationNotWhitelisted>规则不在白名单中</RV2_VoreInvalidReasons_DesignationNotWhitelisted>
+  <RV2_VoreInvalidReasons_NoPreferredGoal>无偏好目的</RV2_VoreInvalidReasons_NoPreferredGoal>
+  <RV2_VoreInvalidReasons_NoPreferredType>无偏好方式</RV2_VoreInvalidReasons_NoPreferredType>
+  <RV2_VoreInvalidReasons_NoPreferredPath>无偏好路径</RV2_VoreInvalidReasons_NoPreferredPath>
+  
+  <!-- 预定猎物 -->
+  <RV2_VoreInvalidReasons_AlreadyReserved>已有预定</RV2_VoreInvalidReasons_AlreadyReserved>
+  <RV2_VoreInvalidReasons_NoReservedPrey>无预定猎物</RV2_VoreInvalidReasons_NoReservedPrey>
+  
+  <!-- 其他 -->
+  <RV2_VoreInvalidReasons_PawnDead>已死亡</RV2_VoreInvalidReasons_PawnDead>
+  <RV2_VoreInvalidReasons_ProposalCooldown>请求冷却中</RV2_VoreInvalidReasons_ProposalCooldown>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StrippingPreference_Predator.label>捕食者脱衣偏好</StrippingPreference_Predator.label>
+  <StrippingPreference_Predator.description>表示该角色作为捕食者时是否倾向卸除猎物装备。实际效果受双方倾向共同影响。</StrippingPreference_Predator.description>
+
+  <StrippingPreference_Prey.label>猎物脱衣偏好</StrippingPreference_Prey.label>
+  <StrippingPreference_Prey.description>表示该角色作为猎物时是否倾向卸除自身装备。实际效果受双方倾向共同影响。</StrippingPreference_Prey.description>
+
+</LanguageData>

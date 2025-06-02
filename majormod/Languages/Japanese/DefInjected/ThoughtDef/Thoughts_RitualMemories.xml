@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_VoreRitual_Terrible.stages.0.label>うんざりする丸呑み儀式</RV2_VoreRitual_Terrible.stages.0.label>
+  <RV2_VoreRitual_Terrible.stages.0.description>とんでもない時間の無駄だった!</RV2_VoreRitual_Terrible.stages.0.description>
+
+  <RV2_VoreRitual_Boring.stages.0.label>退屈な丸呑み儀式</RV2_VoreRitual_Boring.stages.0.label>
+  <RV2_VoreRitual_Boring.stages.0.description>もう少し何とかなった気がする.</RV2_VoreRitual_Boring.stages.0.description>
+
+  <RV2_VoreRitual_Satisfying.stages.0.label>楽しい丸呑み儀式</RV2_VoreRitual_Satisfying.stages.0.label>
+  <RV2_VoreRitual_Satisfying.stages.0.description>実に楽しい時間だった!</RV2_VoreRitual_Satisfying.stages.0.description>
+
+  <RV2_VoreRitual_Spectacular.stages.0.label>忘れられない丸呑み儀式</RV2_VoreRitual_Spectacular.stages.0.label>
+  <RV2_VoreRitual_Spectacular.stages.0.description>あの儀式に立ち会えてよかった!</RV2_VoreRitual_Spectacular.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 目标激活器
+  这些主要为角色现有类型解锁新目标 -->
+
+  <RV2_InstallGoalEnabler_ConvertLube.label>植入润滑活化种子</RV2_InstallGoalEnabler_ConvertLube.label>
+  <RV2_InstallGoalEnabler_ConvertLube.description>将润滑活化种子植入体内，使其具备润滑转化能力。</RV2_InstallGoalEnabler_ConvertLube.description>
+  <RV2_InstallGoalEnabler_ConvertLube.jobString>正在植入捕食扩展装置</RV2_InstallGoalEnabler_ConvertLube.jobString>
+
+  <RV2_InstallGoalEnabler_ConvertMilk.label>植入乳汁活化种子</RV2_InstallGoalEnabler_ConvertMilk.label>
+  <RV2_InstallGoalEnabler_ConvertMilk.description>将乳汁活化种子植入体内，使其具备乳汁转化能力。</RV2_InstallGoalEnabler_ConvertMilk.description>
+  <RV2_InstallGoalEnabler_ConvertMilk.jobString>正在植入捕食扩展装置</RV2_InstallGoalEnabler_ConvertMilk.jobString>
+
+  <RV2_InstallGoalEnabler_ConvertSperm.label>植入精液活化种子</RV2_InstallGoalEnabler_ConvertSperm.label>
+  <RV2_InstallGoalEnabler_ConvertSperm.description>将精液活化种子植入体内，使其具备精液转化能力。</RV2_InstallGoalEnabler_ConvertSperm.description>
+  <RV2_InstallGoalEnabler_ConvertSperm.jobString>正在植入捕食扩展装置</RV2_InstallGoalEnabler_ConvertSperm.jobString>
+
+  <RV2_InstallGoalEnabler_Digest.label>植入消化活化种子</RV2_InstallGoalEnabler_Digest.label>
+  <RV2_InstallGoalEnabler_Digest.description>将消化活化种子植入体内，使其具备消化能力。</RV2_InstallGoalEnabler_Digest.description>
+  <RV2_InstallGoalEnabler_Digest.jobString>正在植入捕食扩展装置</RV2_InstallGoalEnabler_Digest.jobString>
+
+  <RV2_InstallGoalEnabler_TempEndo.label>植入体内环境调节种子(临时储存/快感)</RV2_InstallGoalEnabler_TempEndo.label>
+  <RV2_InstallGoalEnabler_TempEndo.description>将体内环境调节种子植入体内，改善内部环境。</RV2_InstallGoalEnabler_TempEndo.description>
+  <RV2_InstallGoalEnabler_TempEndo.jobString>正在植入捕食扩展装置</RV2_InstallGoalEnabler_TempEndo.jobString>
+
+  <RV2_InstallGoalEnabler_Store.label>植入体内环境调节种子(长期储存)</RV2_InstallGoalEnabler_Store.label>
+  <RV2_InstallGoalEnabler_Store.description>将体内环境调节种子植入体内，改善内部环境。</RV2_InstallGoalEnabler_Store.description>
+  <RV2_InstallGoalEnabler_Store.jobString>正在植入捕食扩展装置</RV2_InstallGoalEnabler_Store.jobString>
+
+  <RV2_InstallGoalEnabler_Heal.label>植入人工再生腺体(治疗)</RV2_InstallGoalEnabler_Heal.label>
+  <RV2_InstallGoalEnabler_Heal.description>将人工再生腺体植入体内，使其能够治疗猎物。</RV2_InstallGoalEnabler_Heal.description>
+  <RV2_InstallGoalEnabler_Heal.jobString>正在植入捕食扩展装置</RV2_InstallGoalEnabler_Heal.jobString>
+
+  <RV2_InstallGoalEnabler_Reform.label>植入生殖调节种子(重组)</RV2_InstallGoalEnabler_Reform.label>
+  <RV2_InstallGoalEnabler_Reform.description>将生殖调节种子植入体内，使其具备重组能力。</RV2_InstallGoalEnabler_Reform.description>
+  <RV2_InstallGoalEnabler_Reform.jobString>正在植入捕食扩展装置</RV2_InstallGoalEnabler_Reform.jobString>
+
+
+  <!-- 类型激活器
+  这些主要为角色现有目标解锁新类型 -->
+
+  <RV2_InstallTypeEnabler_Oral.label>植入口腔软化种子</RV2_InstallTypeEnabler_Oral.label>
+  <RV2_InstallTypeEnabler_Oral.description>将口腔软化种子植入体内，使其能够通过口腔吞噬猎物。</RV2_InstallTypeEnabler_Oral.description>
+  <RV2_InstallTypeEnabler_Oral.jobString>正在植入捕食扩展装置</RV2_InstallTypeEnabler_Oral.jobString>
+
+  <RV2_InstallTypeEnabler_Anal.label>植入肛门软化种子</RV2_InstallTypeEnabler_Anal.label>
+  <RV2_InstallTypeEnabler_Anal.description>将肛门软化种子植入体内，使其能够通过肛门吞噬猎物。</RV2_InstallTypeEnabler_Anal.description>
+  <RV2_InstallTypeEnabler_Anal.jobString>正在植入捕食扩展装置</RV2_InstallTypeEnabler_Anal.jobString>
+
+  <RV2_InstallTypeEnabler_Vaginal.label>植入阴道软化种子</RV2_InstallTypeEnabler_Vaginal.label>
+  <RV2_InstallTypeEnabler_Vaginal.description>将阴道软化种子植入体内，使其能够通过阴道吞噬猎物。</RV2_InstallTypeEnabler_Vaginal.description>
+  <RV2_InstallTypeEnabler_Vaginal.jobString>正在植入捕食扩展装置</RV2_InstallTypeEnabler_Vaginal.jobString>
+
+  <RV2_InstallTypeEnabler_Cock.label>植入阴茎软化种子</RV2_InstallTypeEnabler_Cock.label>
+  <RV2_InstallTypeEnabler_Cock.description>将阴茎软化种子植入体内，使其能够通过阴茎吞噬猎物。</RV2_InstallTypeEnabler_Cock.description>
+  <RV2_InstallTypeEnabler_Cock.jobString>正在植入捕食扩展装置</RV2_InstallTypeEnabler_Cock.jobString>
+
+  <RV2_InstallTypeEnabler_Nipple.label>植入乳头软化种子</RV2_InstallTypeEnabler_Nipple.label>
+  <RV2_InstallTypeEnabler_Nipple.description>将乳头软化种子植入体内，使其能够通过乳头吞噬猎物。</RV2_InstallTypeEnabler_Nipple.description>
+  <RV2_InstallTypeEnabler_Nipple.jobString>正在植入捕食扩展装置</RV2_InstallTypeEnabler_Nipple.jobString>
+
+</LanguageData>

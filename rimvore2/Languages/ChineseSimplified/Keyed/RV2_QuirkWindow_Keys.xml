@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RV2_Category_None>未分类</RV2_Category_None>
+  <RV2_QuirkWindow_Header>吞噬特性</RV2_QuirkWindow_Header>
+  <RV2_QuirkWindow_RerollButtonLabel>全部重抽</RV2_QuirkWindow_RerollButtonLabel>
+  <RV2_QuirkWindow_RerollPool>重抽当前板块</RV2_QuirkWindow_RerollPool>
+
+  <RV2_QuirkWindow_CycleQuirk>更换特性</RV2_QuirkWindow_CycleQuirk>
+  <RV2_QuirkWindow_RemoveQuirk>移除特性</RV2_QuirkWindow_RemoveQuirk>
+  <RV2_QuirkWindow_InvalidButton>此项无效。原因请查看开发者模式说明。\n\n请移除该特性或通过其他方式解决冲突！</RV2_QuirkWindow_InvalidButton>
+  <RV2_QuirkWindow_HiddenButton>此项通常不可见，因开发者模式已开启才显示。</RV2_QuirkWindow_HiddenButton>
+  <RV2_QuirkWindow_TemporaryButton>此项为临时特性，将在特定时间点失效并被移除或替换。</RV2_QuirkWindow_TemporaryButton>
+  <RV2_QuirkWindow_IdeologyButton>此项由角色意识形态设定，可强制赋予角色原本不具备的特性。</RV2_QuirkWindow_IdeologyButton>
+  <RV2_QuirkWindow_IdeologySuppressingQuirk>当前抑制的特性：</RV2_QuirkWindow_IdeologySuppressingQuirk>
+</LanguageData>

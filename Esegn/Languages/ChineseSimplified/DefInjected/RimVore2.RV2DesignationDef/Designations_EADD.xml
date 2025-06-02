@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <heal_wait.label>等待体内疗剂</heal_wait.label>
+    <heal_wait.description>当进行治愈性吞噬时，该角色会先等待体内疗剂再进行治疗。</heal_wait.description>
+    <heal_wait.tipEnabledManually>当前该角色可不使用体内疗剂治疗猎物\n(玩家手动设置)</heal_wait.tipEnabledManually>
+    <heal_wait.tipDisabledManually>当前该角色必须使用体内疗剂才能治疗猎物\n(玩家手动设置)</heal_wait.tipDisabledManually>
+    <heal_wait.tipEnabledAutomatically>当前该角色可不使用体内疗剂治疗猎物\n(系统自动设置)</heal_wait.tipEnabledAutomatically>
+    <heal_wait.tipDisabledAutomatically>当前该角色必须使用体内疗剂才能治疗猎物\n(系统自动设置)</heal_wait.tipDisabledAutomatically>
+    <heal_wait.tipBlocked>此提示不应出现...希望没人看到这条信息。</heal_wait.tipBlocked>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Premature Reformation -->
+  <Rv2Reformers_PreyReformedPrematuraly.stages.Premature_Reformation.label>过早复活</Rv2Reformers_PreyReformedPrematuraly.stages.Premature_Reformation.label>
+  <!-- EN: I feel queesy from my prey being reformed while their remains were still in me. -->
+  <Rv2Reformers_PreyReformedPrematuraly.stages.Premature_Reformation.description>猎物的残骸还在体内时就被再生了...这让我感到莫名空虚。</Rv2Reformers_PreyReformedPrematuraly.stages.Premature_Reformation.description>
+
+  <!-- EN: I was reformed! -->
+  <Rv2Reformers_Reformed.stages.I_was_reformed.label>我复活了！</Rv2Reformers_Reformed.stages.I_was_reformed.label>
+  <!-- EN: I'm back baby! -->
+  <Rv2Reformers_Reformed.stages.I_was_reformed.description>朋友们，我回来了！</Rv2Reformers_Reformed.stages.I_was_reformed.description>
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 系统已通过modifierName="GrappleStrengthAttacker"和"GrappleStrengthDefender"支持攻击方或防御方的擒抱强度，
+  但我不知道如何在这里实现它们并使它们看起来美观。特性要求已经有自己特殊的实现方式，
+  这也是我本可以为攻击/防御特定特性提供的唯一理由 -->
+
+  <StrugglePreference_Hated.label>娇嫩肉壁</StrugglePreference_Hated.label>
+  <StrugglePreference_Hated.description>[PAWN_label]拥有敏感的肉壁结构，非常厌恶猎物在[PAWN_possessive]体内挣扎的行为。</StrugglePreference_Hated.description>
+
+  <StrugglePreference_Normal.label>常规肉牢</StrugglePreference_Normal.label>
+  <StrugglePreference_Normal.description>[PAWN_label]和其他捕食者一样，当猎物在[PAWN_possessive]体内挣扎时会感到一定程度的不适。</StrugglePreference_Normal.description>
+
+  <StrugglePreference_Loved.label>按摩级享受</StrugglePreference_Loved.label>
+  <StrugglePreference_Loved.description>[PAWN_label]拥有敏感的肉壁结构，反而十分享受猎物在体内进行的"按摩"运动。</StrugglePreference_Loved.description>
+</LanguageData>

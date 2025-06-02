@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 消化产物容器 -->
+  <RV2_Container_Sack.label>膨胀包裹</RV2_Container_Sack.label>
+  <RV2_Container_Sack.description>经过精心消化处理的猎物残余，被整洁地包裹着等待回收。</RV2_Container_Sack.description>
+
+  <RV2_Container_Bones.label>骨堆</RV2_Container_Bones.label>
+  <RV2_Container_Bones.description>由猎物骨骼组成的堆积物。翻动后可能会发现未完全溶解的残留物。</RV2_Container_Bones.description>
+
+  <!-- 液体容器 -->
+  <RV2_Container_LubePuddle.label>润滑液水洼</RV2_Container_LubePuddle.label>
+  <RV2_Container_LubePuddle.description>不会渗漏的润滑液积聚，表面可能漂浮着未完全溶解的物质。</RV2_Container_LubePuddle.description>
+
+  <RV2_Container_Condom.label>精液容器</RV2_Container_Condom.label>
+  <RV2_Container_Condom.description>装满被转化为精液的猎物，打开后可能从浑浊液体中发现残留物。</RV2_Container_Condom.description>
+
+  <RV2_Container_CumPuddle.label>精液水洼</RV2_Container_CumPuddle.label>
+  <RV2_Container_CumPuddle.description>浓稠的精液积聚，表面可能漂浮着未完全溶解的物质。</RV2_Container_CumPuddle.description>
+
+  <RV2_Container_MilkJug.label>乳汁容器</RV2_Container_MilkJug.label>
+  <RV2_Container_MilkJug.description>盛装被转化为乳汁的猎物的容器。打开后可能会发现未完全转化的残留物。</RV2_Container_MilkJug.description>
+
+  <RV2_Container_MilkPuddle.label>乳汁水洼</RV2_Container_MilkPuddle.label>
+  <RV2_Container_MilkPuddle.description>浓稠的乳汁积聚，表面可能漂浮着未完全溶解的物质。</RV2_Container_MilkPuddle.description>
+
+  <!-- 基础消化产物 -->
+  <RV2_Container_Scat.label>消化残渣</RV2_Container_Scat.label>
+  <RV2_Container_Scat.description>散发恶臭的猎物残骸，消化过程的最终产物。不介意弄脏手的话，或许能从残渣中发现些什么。</RV2_Container_Scat.description>
+
+  <RV2_Container_None.label>空置标记</RV2_Container_None.label>
+  <RV2_Container_None.description>仅作为消化产物排放的定位标记，实际空无一物。</RV2_Container_None.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VorePrey.label>猎物</VorePrey.label>
+  <VorePred.label>捕食者</VorePred.label>
+  <VorePart.label>所处部位</VorePart.label>
+  <VorePartGoal.label>阶段</VorePartGoal.label>
+  <VoreStageProgress.label>进度</VoreStageProgress.label>
+  <VoreStruggle.label>挣扎进度</VoreStruggle.label>
+  <VoreGoal.label>目标</VoreGoal.label>
+  <VoreButtons.label></VoreButtons.label>
+
+</LanguageData>

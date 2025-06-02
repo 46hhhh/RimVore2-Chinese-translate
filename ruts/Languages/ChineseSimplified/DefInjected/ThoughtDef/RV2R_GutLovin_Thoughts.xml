@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食者视角 -->
+  <RV2R_PredLovin_VeryGood.stages.0.label>隔肉示爱</RV2R_PredLovin_VeryGood.stages.0.label>
+
+  <RV2R_PredLovin_VeryGood_Mood.stages.0.label>隔肉示爱</RV2R_PredLovin_VeryGood_Mood.stages.0.label>
+  <RV2R_PredLovin_VeryGood_Mood.stages.0.description>床笫之间的肌肤相亲，无论触及何处都能带来愉悦的悸动。</RV2R_PredLovin_VeryGood_Mood.stages.0.description>
+
+  <RV2R_PredLovin_Good.stages.0.label>隔肉示爱</RV2R_PredLovin_Good.stages.0.label>
+
+  <RV2R_PredLovin_Good_Mood.stages.0.label>隔肉示爱</RV2R_PredLovin_Good_Mood.stages.0.label>
+  <RV2R_PredLovin_Good_Mood.stages.0.description>床笫之间的肌肤相亲，无论触及何处都令人愉悦。</RV2R_PredLovin_Good_Mood.stages.0.description>
+
+  <RV2R_PredLovin_Normal.stages.0.label>隔肉示爱</RV2R_PredLovin_Normal.stages.0.label>
+
+  <RV2R_PredLovin_Normal_Mood.stages.0.label>隔肉示爱</RV2R_PredLovin_Normal_Mood.stages.0.label>
+  <RV2R_PredLovin_Normal_Mood.stages.0.description>床笫之间的肌肤相亲能带来愉悦的悸动。</RV2R_PredLovin_Normal_Mood.stages.0.description>
+
+  <RV2R_PredLovin_Meh.stages.0.label>隔肉摩擦</RV2R_PredLovin_Meh.stages.0.label>
+
+  <!-- 猎物视角 -->
+  <RV2R_PreyLovin_VeryGood.stages.0.label>隔肉承欢</RV2R_PreyLovin_VeryGood.stages.0.label>
+  <RV2R_PreyLovin_VeryGood.stages.0.description>隔着一层肉壁的肌肤相亲，其带来的悸动无与伦比。</RV2R_PreyLovin_VeryGood.stages.0.description>
+
+  <RV2R_PreyLovin_Good.stages.0.label>隔肉承欢</RV2R_PreyLovin_Good.stages.0.label>
+  <RV2R_PreyLovin_Good.stages.0.description>隔着一层肉壁的肌肤相亲，是最能撩动心弦的方式。</RV2R_PreyLovin_Good.stages.0.description>
+
+  <RV2R_PreyLovin_Normal.stages.0.label>隔肉承欢</RV2R_PreyLovin_Normal.stages.0.label>
+  <RV2R_PreyLovin_Normal.stages.0.description>隔着一层肉壁的肌肤相亲，是撩动心弦的好方式。</RV2R_PreyLovin_Normal.stages.0.description>
+
+  <RV2R_PreyLovin_Meh.stages.0.label>被迫隔肉摩擦</RV2R_PreyLovin_Meh.stages.0.label>
+
+  <RV2R_PreyLovin_Bad.stages.0.label>身心俱疲</RV2R_PreyLovin_Bad.stages.0.label>
+  <RV2R_PreyLovin_Bad.stages.0.description>再没有什么比病态的癖好更能摧毁一个人的日常了。</RV2R_PreyLovin_Bad.stages.0.description>
+
+</LanguageData>

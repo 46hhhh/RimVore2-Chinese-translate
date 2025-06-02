@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 膀胱暂存 -->
+  <VaginalBladderHold.label>(暂存)阴道:膀胱</VaginalBladderHold.label>
+  <VaginalBladderHold.RMBLabel>阴道吞噬(膀胱暂存)</VaginalBladderHold.RMBLabel>
+  <VaginalBladderHold.actionDescription>{0}正尝试将{1}暂存于膀胱</VaginalBladderHold.actionDescription>
+  <VaginalBladderHold.description>捕食者通过阴道将猎物输送至膀胱进行临时储存。</VaginalBladderHold.description>
+
+  <CockBladderHold.label>(暂存)阴茎:膀胱</CockBladderHold.label>
+  <CockBladderHold.RMBLabel>阴茎吞噬(膀胱暂存)</CockBladderHold.RMBLabel>
+  <CockBladderHold.actionDescription>{0}正尝试将{1}暂存于膀胱</CockBladderHold.actionDescription>
+  <CockBladderHold.description>捕食者通过阴茎将猎物输送至膀胱进行临时储存。</CockBladderHold.description>
+
+  <!-- 乳沟暂存 -->
+  <CleavageHold.label>(暂存)乳沟</CleavageHold.label>
+  <CleavageHold.RMBLabel>乳沟吞噬(暂存)</CleavageHold.RMBLabel>
+  <CleavageHold.actionDescription>{0}正尝试将{1}暂存于乳沟</CleavageHold.actionDescription>
+  <CleavageHold.description>捕食者通过乳沟对猎物进行临时储存。</CleavageHold.description>
+
+  <!-- 皮下暂存 -->
+  <MembraneHold.label>(暂存)皮下</MembraneHold.label>
+  <MembraneHold.RMBLabel>皮下吞噬(暂存)</MembraneHold.RMBLabel>
+  <MembraneHold.actionDescription>{0}正尝试通过皮肤吸收{1}进行暂存</MembraneHold.actionDescription>
+  <MembraneHold.description>捕食者以黏液状吸收方式将猎物暂存于体内。</MembraneHold.description>
+
+  <!-- 脐部暂存 -->
+  <NavelHold.label>(暂存)脐部</NavelHold.label>
+  <NavelHold.RMBLabel>脐部吞噬(暂存)</NavelHold.RMBLabel>
+  <NavelHold.actionDescription>{0}正尝试将{1}暂存于脐部</NavelHold.actionDescription>
+  <NavelHold.description>捕食者通过脐部对猎物进行临时储存。</NavelHold.description>
+
+  <!-- 尾口暂存 -->
+  <TailmawHold.label>(暂存)尾口</TailmawHold.label>
+  <TailmawHold.RMBLabel>尾口吞噬(暂存)</TailmawHold.RMBLabel>
+  <TailmawHold.actionDescription>{0}正尝试将{1}暂存于尾部腔道</TailmawHold.actionDescription>
+  <TailmawHold.description>捕食者通过尾部开口将猎物暂存于尾喉部位。</TailmawHold.description>
+
+  <!-- 乳房暂存 -->
+  <UdderHold.label>(暂存)乳房</UdderHold.label>
+  <UdderHold.RMBLabel>乳房吞噬(暂存)</UdderHold.RMBLabel>
+  <UdderHold.actionDescription>{0}正尝试将{1}暂存于乳房</UdderHold.actionDescription>
+  <UdderHold.description>捕食者通过乳房对猎物进行临时储存。</UdderHold.description>
+
+</LanguageData>

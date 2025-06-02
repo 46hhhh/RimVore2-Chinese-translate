@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 性行为中排出猎物特性 -->
+  <RV2_RJW_SexEjectChance_Always.label>极度松弛</RV2_RJW_SexEjectChance_Always.label>
+  <RV2_RJW_SexEjectChance_Always.description>[PAWN_label]在兴奋时难以保持猎物，[PAWN_pronoun]经常在性行为中排出猎物，并且毫不抗拒这种感受。</RV2_RJW_SexEjectChance_Always.description>
+
+  <RV2_RJW_SexEjectChance_Often.label>松弛</RV2_RJW_SexEjectChance_Often.label>
+  <RV2_RJW_SexEjectChance_Often.description>[PAWN_label]对猎物的束缚较为宽松，[PAWN_pronoun]在高潮后释放猎物的概率比其他捕食者高50%。</RV2_RJW_SexEjectChance_Often.description>
+
+  <RV2_RJW_SexEjectChance_Normal.label>普通</RV2_RJW_SexEjectChance_Normal.label>
+  <RV2_RJW_SexEjectChance_Normal.description>[PAWN_label]拥有和其他捕食者相当的束缚能力。</RV2_RJW_SexEjectChance_Normal.description>
+
+  <RV2_RJW_SexEjectChance_Rare.label>紧缚</RV2_RJW_SexEjectChance_Rare.label>
+  <RV2_RJW_SexEjectChance_Rare.description>[PAWN_label]懂得如何在性行为中保持猎物，[PAWN_pronoun]排出[PAWN_possessive]猎物的概率比其他捕食者低一半。</RV2_RJW_SexEjectChance_Rare.description>
+
+  <RV2_RJW_SexEjectChance_Never.label>铁壁束缚</RV2_RJW_SexEjectChance_Never.label>
+  <RV2_RJW_SexEjectChance_Never.description>[PAWN_label]拥有坚固的入口，内脏记忆着强烈的束缚感，[PAWN_pronoun]绝不会排出猎物或转移给他人。</RV2_RJW_SexEjectChance_Never.description>
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Goal Enablers 
+  These mainly unlock new goals for a pawn's exisiting types. -->
+
+  <RV2_MakeGoalEnabler_ConvertLube.label>愛液化活性シーダーを作る (愛液化)</RV2_MakeGoalEnabler_ConvertLube.label>
+  <RV2_MakeGoalEnabler_ConvertLube.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeGoalEnabler_ConvertLube.description>
+  <RV2_MakeGoalEnabler_ConvertLube.jobString>vore拡張装置を作製している</RV2_MakeGoalEnabler_ConvertLube.jobString>
+
+  <RV2_MakeGoalEnabler_ConvertMilk.label>乳化活性シーダーを作る (ミルク化)</RV2_MakeGoalEnabler_ConvertMilk.label>
+  <RV2_MakeGoalEnabler_ConvertMilk.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeGoalEnabler_ConvertMilk.description>
+  <RV2_MakeGoalEnabler_ConvertMilk.jobString>vore拡張装置を作製している</RV2_MakeGoalEnabler_ConvertMilk.jobString>
+
+  <RV2_MakeGoalEnabler_ConvertSperm.label>精液化活性シーダーを作る (精液化)</RV2_MakeGoalEnabler_ConvertSperm.label>
+  <RV2_MakeGoalEnabler_ConvertSperm.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeGoalEnabler_ConvertSperm.description>
+  <RV2_MakeGoalEnabler_ConvertSperm.jobString>vore拡張装置を作製している</RV2_MakeGoalEnabler_ConvertSperm.jobString>
+
+  <RV2_MakeGoalEnabler_Digest.label>消化活性シーダーを作る (消化)</RV2_MakeGoalEnabler_Digest.label>
+  <RV2_MakeGoalEnabler_Digest.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeGoalEnabler_Digest.description>
+  <RV2_MakeGoalEnabler_Digest.jobString>vore拡張装置を作製している</RV2_MakeGoalEnabler_Digest.jobString>
+
+  <RV2_MakeGoalEnabler_Tempendo.label>体内環境矯正シーダーを作る (一時的保管, 快楽)</RV2_MakeGoalEnabler_Tempendo.label>
+  <RV2_MakeGoalEnabler_Tempendo.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeGoalEnabler_Tempendo.description>
+  <RV2_MakeGoalEnabler_Tempendo.jobString>vore拡張装置を作製している</RV2_MakeGoalEnabler_Tempendo.jobString>
+
+  <RV2_MakeGoalEnabler_Store.label>体内環境矯正シーダーを作る (長期保管)</RV2_MakeGoalEnabler_Store.label>
+  <RV2_MakeGoalEnabler_Store.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeGoalEnabler_Store.description>
+  <RV2_MakeGoalEnabler_Store.jobString>vore拡張装置を作製している</RV2_MakeGoalEnabler_Store.jobString>
+
+  <RV2_MakeGoalEnabler_Heal.label>人工再生腺を作る (癒し)</RV2_MakeGoalEnabler_Heal.label>
+  <RV2_MakeGoalEnabler_Heal.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeGoalEnabler_Heal.description>
+  <RV2_MakeGoalEnabler_Heal.jobString>vore拡張装置を作製している</RV2_MakeGoalEnabler_Heal.jobString>
+
+  <RV2_MakeGoalEnabler_Reform.label>生殖矯正シーダーを作る (再構成)</RV2_MakeGoalEnabler_Reform.label>
+  <RV2_MakeGoalEnabler_Reform.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeGoalEnabler_Reform.description>
+  <RV2_MakeGoalEnabler_Reform.jobString>vore拡張装置を作製している</RV2_MakeGoalEnabler_Reform.jobString>
+
+
+  <!-- Type Enablers 
+  These mainly unlock new types for a pawn's exisiting goals. -->
+
+  <RV2_MakeTypeEnabler_Oral.label>口腔軟化シーダーを作る</RV2_MakeTypeEnabler_Oral.label>
+  <RV2_MakeTypeEnabler_Oral.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeTypeEnabler_Oral.description>
+  <RV2_MakeTypeEnabler_Oral.jobString>vore拡張装置を作製している</RV2_MakeTypeEnabler_Oral.jobString>
+
+  <RV2_MakeTypeEnabler_Anal.label>肛門軟化シーダーを作る</RV2_MakeTypeEnabler_Anal.label>
+  <RV2_MakeTypeEnabler_Anal.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeTypeEnabler_Anal.description>
+  <RV2_MakeTypeEnabler_Anal.jobString>vore拡張装置を作製している</RV2_MakeTypeEnabler_Anal.jobString>
+
+  <RV2_MakeTypeEnabler_Vaginal.label>膣軟化シーダーを作る</RV2_MakeTypeEnabler_Vaginal.label>
+  <RV2_MakeTypeEnabler_Vaginal.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeTypeEnabler_Vaginal.description>
+  <RV2_MakeTypeEnabler_Vaginal.jobString>vore拡張装置を作製している</RV2_MakeTypeEnabler_Vaginal.jobString>
+
+  <RV2_MakeTypeEnabler_Cock.label>竿軟化シーダーを作る</RV2_MakeTypeEnabler_Cock.label>
+  <RV2_MakeTypeEnabler_Cock.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeTypeEnabler_Cock.description>
+  <RV2_MakeTypeEnabler_Cock.jobString>vore拡張装置を作製している</RV2_MakeTypeEnabler_Cock.jobString>
+
+  <RV2_MakeTypeEnabler_Nipple.label>乳首軟化シーダーを作る</RV2_MakeTypeEnabler_Nipple.label>
+  <RV2_MakeTypeEnabler_Nipple.description>voreに関する能力を引き出す,特殊なナノマシン装置を作成します.</RV2_MakeTypeEnabler_Nipple.description>
+  <RV2_MakeTypeEnabler_Nipple.jobString>vore拡張装置を作製している</RV2_MakeTypeEnabler_Nipple.jobString>
+
+
+</LanguageData>

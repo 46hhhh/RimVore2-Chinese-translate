@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NCP_PetalPlant.label>ペタルプラント</NCP_PetalPlant.label>
+  <NCP_PetalPlant.labelPlural>ペタルプラント</NCP_PetalPlant.labelPlural>
+  <NCP_PetalPlant.labelMale>オスのペタルプラント</NCP_PetalPlant.labelMale>
+  <NCP_PetalPlant.labelMalePlural>オスのペタルプラント</NCP_PetalPlant.labelMalePlural>
+  <NCP_PetalPlant.labelFemale>メスのペタルプラント</NCP_PetalPlant.labelFemale>
+  <NCP_PetalPlant.labelFemalePlural>メスのペタルプラント</NCP_PetalPlant.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+ 
+    <RV2_GoalEnabler_Absorb.label>同化性細胞</RV2_GoalEnabler_Absorb.label>
+    <RV2_GoalEnabler_Absorb.description>この遺伝子を持つ者は生命体をその体から直接同化吸収する能力を持ちます.一時的なもの(融合)と永久のもの(吸収)の両方が含まれます.</RV2_GoalEnabler_Absorb.description>
+
+ 
+    <RV2_GoalEnabler_ConvertChemfuel.label>オイル化の変質液</RV2_GoalEnabler_ConvertChemfuel.label>
+    <RV2_GoalEnabler_ConvertChemfuel.description>この遺伝子を持つ者は性器または胸部に強力な変質液を生成し,それぞれの体内の生命体をバイオ液化燃料に作り変えることができます.</RV2_GoalEnabler_ConvertChemfuel.description>
+
+ 
+    <RV2_GoalEnabler_ConvertEggs.label>卵化の変質液</RV2_GoalEnabler_ConvertEggs.label>
+    <RV2_GoalEnabler_ConvertEggs.description>この遺伝子を持つ者は卵巣に強力な変質液を生成し,生命体を卵に作り変えることができます.</RV2_GoalEnabler_ConvertEggs.description>
+ 
+    <RV2_GoalEnabler_ConvertUrine.label>尿化の変質液</RV2_GoalEnabler_ConvertUrine.label>
+    <RV2_GoalEnabler_ConvertUrine.description>この遺伝子を持つ者は腎臓に強力な変質液を生成し,生命体を尿に作り変えることができます.</RV2_GoalEnabler_ConvertUrine.description>
+ 
+    <RV2_GoalEnabler_Cleavage.label>谷間の深み</RV2_GoalEnabler_Cleavage.label>
+    <RV2_GoalEnabler_Cleavage.description>この遺伝子を持つ者は改造された深い谷間を持ち,対象をその中に収めることができます.</RV2_GoalEnabler_Cleavage.description>
+ 
+    <RV2_TypeEnabler_Membrane.label>溶解性の皮膚</RV2_TypeEnabler_Membrane.label>
+    <RV2_TypeEnabler_Membrane.description>この遺伝子を持つ者は特殊な皮膜を持ち,スライムのように対象を体内に収めることができます.</RV2_TypeEnabler_Membrane.description>
+
+    <RV2_TypeEnabler_Navel.label>柔らかい臍帯</RV2_TypeEnabler_Navel.label>
+    <RV2_TypeEnabler_Navel.description>この遺伝子を持つ者は処理不要の柔らかい臍帯を保持していて,へそを通して対象を収めることができます.</RV2_TypeEnabler_Navel.description>
+ 
+    <RV2_TypeEnabler_Tailmaw.label>尻尾口</RV2_TypeEnabler_Tailmaw.label>
+    <RV2_TypeEnabler_Tailmaw.description>この遺伝子を持つ者の尾は花びらのように開閉する口を持っていて,それを通して獲物を胃袋に収めることができます.</RV2_TypeEnabler_Tailmaw.description>
+ 
+    <RV2_TypeEnabler_Udder.label>柔らかい乳房</RV2_TypeEnabler_Udder.label>
+    <RV2_TypeEnabler_Udder.description>この遺伝子を持つ者は柔軟な乳首と腹部乳房を持っていて,乳房での丸呑みが可能です.</RV2_TypeEnabler_Udder.description>
+ 
+
+</LanguageData>

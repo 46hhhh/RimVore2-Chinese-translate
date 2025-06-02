@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MH: 非常希望能根据食人特性或人类角色的饮食偏好来决定这个特性。问题是，最终产物中并未记录猎物原本的种族信息 -->
+
+  <ProductPreference_Loves.label>生命精华沁入吞噬本能</ProductPreference_Loves.label>
+  <ProductPreference_Loves.description>[PAWN_label]痴迷于捕食者精心熔炼的猎物排泄物风味。</ProductPreference_Loves.description>
+
+  <ProductPreference_Likes.label>对生命精华的偏好</ProductPreference_Likes.label>
+  <ProductPreference_Likes.description>[PAWN_label]乐于享用捕食者特制的美味排泄物。</ProductPreference_Likes.description>
+
+  <ProductPreference_Neutral.label>排泄物即食物</ProductPreference_Neutral.label>
+  <ProductPreference_Neutral.description>[PAWN_label]对食用猎物排泄物既无抵触也不热衷。</ProductPreference_Neutral.description>
+
+  <ProductPreference_Dislikes.label>排斥排泄物</ProductPreference_Dislikes.label>
+  <ProductPreference_Dislikes.description>[PAWN_label]宁愿直接食用猎物本体，对排泄物形式抱有厌恶。</ProductPreference_Dislikes.description>
+
+  <ProductPreference_Hates.label>难以忍受的排泄物</ProductPreference_Hates.label>
+  <ProductPreference_Hates.description>[PAWN_label]对捕食者加工产生的排泄物怀有本能的质疑与抗拒。[PAWN_possessive]味蕾尚未勇敢到能品味这种炼金产物。</ProductPreference_Hates.description>
+
+</LanguageData>

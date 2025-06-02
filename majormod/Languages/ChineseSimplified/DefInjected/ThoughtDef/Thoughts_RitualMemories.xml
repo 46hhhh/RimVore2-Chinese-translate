@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 吞噬仪式记忆 -->
+  <RV2_VoreRitual_Terrible.stages.0.label>糟糕的吞噬仪式</RV2_VoreRitual_Terrible.stages.0.label>
+  <RV2_VoreRitual_Terrible.stages.0.description>完全是浪费时间！</RV2_VoreRitual_Terrible.stages.0.description>
+
+  <RV2_VoreRitual_Boring.stages.0.label>无聊的吞噬仪式</RV2_VoreRitual_Boring.stages.0.label>
+  <RV2_VoreRitual_Boring.stages.0.description>本可以做得更好一些的。</RV2_VoreRitual_Boring.stages.0.description>
+
+  <RV2_VoreRitual_Satisfying.stages.0.label>愉快的吞噬仪式</RV2_VoreRitual_Satisfying.stages.0.label>
+  <RV2_VoreRitual_Satisfying.stages.0.description>真是段美好的时光！</RV2_VoreRitual_Satisfying.stages.0.description>
+
+  <RV2_VoreRitual_Spectacular.stages.0.label>难忘的吞噬仪式</RV2_VoreRitual_Spectacular.stages.0.label>
+  <RV2_VoreRitual_Spectacular.stages.0.description>能参与那个仪式真是太棒了！</RV2_VoreRitual_Spectacular.stages.0.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RV2_StatsReport_FactorForBodySize>体格</RV2_StatsReport_FactorForBodySize>
+  <RV2_StatsReport_InfluencedMeleeImpact>格闘スキルの掛け率</RV2_StatsReport_InfluencedMeleeImpact>
+  <RV2_StatsReport_DefaultGrappleChance>基本的なホカク確率(設定)</RV2_StatsReport_DefaultGrappleChance>
+  <RV2_StatsReport_MaxGrappleChance>最大のホカク確率(設定)</RV2_StatsReport_MaxGrappleChance>
+  <RV2_StatsReport_VoredPrey>Voreされた被食者</RV2_StatsReport_VoredPrey>
+  <RV2_StatsReport_VoreProductContainerContents>内容物</RV2_StatsReport_VoreProductContainerContents>
+  <RV2_StatsReport_VoreCapacityMultiplier>体格に対する体内容量の比率</RV2_StatsReport_VoreCapacityMultiplier>
+  <RV2_StatsReport_VoreCapacityMinimum>(チート) 最小容量の設定</RV2_StatsReport_VoreCapacityMinimum>
+</LanguageData>

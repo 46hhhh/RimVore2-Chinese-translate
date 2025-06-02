@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_ExternalEjectChance.label>外部排出成功率</RV2_ExternalEjectChance.label>
+  <RV2_ExternalEjectChance.description>尝试让其他捕食者吐出猎物时的成功概率。</RV2_ExternalEjectChance.description>
+
+</LanguageData>

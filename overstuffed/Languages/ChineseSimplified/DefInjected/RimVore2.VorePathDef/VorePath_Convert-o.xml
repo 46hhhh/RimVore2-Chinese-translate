@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 阴道转化 -->
+  <VaginalConvertChemfuel.label>(油化)阴道</VaginalConvertChemfuel.label>
+  <VaginalConvertChemfuel.RMBLabel>阴道吞噬(油化)</VaginalConvertChemfuel.RMBLabel>
+  <VaginalConvertChemfuel.actionDescription>{0}正试图通过阴道将{1}转化为燃油</VaginalConvertChemfuel.actionDescription>
+  <VaginalConvertChemfuel.description>捕食者将猎物压入阴道，转化为类似波玛洛普生物燃油。此过程不满足捕食者饥饿需求，默认需要活性装置辅助。</VaginalConvertChemfuel.description>
+
+  <VaginalConvertEggs.label>(卵化)阴道</VaginalConvertEggs.label>
+  <VaginalConvertEggs.RMBLabel>阴道吞噬(卵化)</VaginalConvertEggs.RMBLabel>
+  <VaginalConvertEggs.actionDescription>{0}正试图通过阴道将{1}转化为卵</VaginalConvertEggs.actionDescription>
+  <VaginalConvertEggs.description>捕食者将猎物压回子宫转化为卵。此过程不满足捕食者饥饿需求，默认需要活性装置辅助。</VaginalConvertEggs.description>
+
+  <!-- 阴茎转化 -->
+  <CockConvertChemfuel.label>(油化)阴茎</CockConvertChemfuel.label>
+  <CockConvertChemfuel.RMBLabel>阴茎吞噬(油化)</CockConvertChemfuel.RMBLabel>
+  <CockConvertChemfuel.actionDescription>{0}正试图通过阴茎将{1}转化为燃油</CockConvertChemfuel.actionDescription>
+  <CockConvertChemfuel.description>捕食者将猎物压入阴茎转化为生物燃油。此过程不满足饥饿需求，默认需要活性装置。</CockConvertChemfuel.description>
+
+  <!-- 乳首转化 -->
+  <NippleConvertChemfuel.label>(油化)乳首</NippleConvertChemfuel.label>
+  <NippleConvertChemfuel.RMBLabel>乳首吞噬(油化)</NippleConvertChemfuel.RMBLabel>
+  <NippleConvertChemfuel.actionDescription>{0}正试图通过乳首将{1}转化为燃油</NippleConvertChemfuel.actionDescription>
+  <NippleConvertChemfuel.description>捕食者将猎物压入胸部转化为生物燃油。此过程不满足饥饿需求，默认需要活性装置。</NippleConvertChemfuel.description>
+
+  <!-- 膀胱转化 -->
+  <CockBladderConvertUrine.label>(尿化)阴茎:膀胱</CockBladderConvertUrine.label>
+  <CockBladderConvertUrine.RMBLabel>阴茎吞噬(尿化)</CockBladderConvertUrine.RMBLabel>
+  <CockBladderConvertUrine.actionDescription>{0}正试图通过阴茎将{1}转化为尿液</CockBladderConvertUrine.actionDescription>
+  <CockBladderConvertUrine.description>捕食者将猎物压入阴茎并输送至肾脏，转化为可用作肥料的尿液。此过程不满足饥饿需求。</CockBladderConvertUrine.description>
+
+  <VaginalBladderConvertUrine.label>(尿化)阴道:膀胱</VaginalBladderConvertUrine.label>
+  <VaginalBladderConvertUrine.RMBLabel>阴道吞噬(尿化)</VaginalBladderConvertUrine.RMBLabel>
+  <VaginalBladderConvertUrine.actionDescription>{0}正试图通过阴道将{1}转化为尿液</VaginalBladderConvertUrine.actionDescription>
+  <VaginalBladderConvertUrine.description>捕食者将猎物压入阴道并输送至肾脏转化为肥料用尿液。此过程不满足饥饿需求。</VaginalBladderConvertUrine.description>
+
+  <!-- 乳房转化 -->
+  <UdderConvertChemfuel.label>(油化)乳房</UdderConvertChemfuel.label>
+  <UdderConvertChemfuel.RMBLabel>乳房吞噬(油化)</UdderConvertChemfuel.RMBLabel>
+  <UdderConvertChemfuel.actionDescription>{0}正试图通过乳房将{1}转化为燃油</UdderConvertChemfuel.actionDescription>
+  <UdderConvertChemfuel.description>捕食者将猎物压入乳房转化为生物燃油。此过程不满足饥饿需求，默认需要活性装置。</UdderConvertChemfuel.description>
+
+  <UdderConvertMilk.label>(乳汁化)乳房</UdderConvertMilk.label>
+  <UdderConvertMilk.RMBLabel>乳房吞噬(乳汁化)</UdderConvertMilk.RMBLabel>
+  <UdderConvertMilk.actionDescription>{0}正试图通过乳房将{1}转化为乳汁</UdderConvertMilk.actionDescription>
+  <UdderConvertMilk.description>捕食者将猎物封闭在乳房中转化为具有营养价值的乳汁。此过程不满足饥饿需求。</UdderConvertMilk.description>
+
+</LanguageData>

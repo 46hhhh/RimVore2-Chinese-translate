@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 消化目标 -->
+  <RV2_Goal_Digest.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef]。</RV2_Goal_Digest.rulePack.rulesStrings.0>
+  <RV2_Goal_Digest.rulePack.rulesStrings.1>RV2_addendum->为了填饱肚子</RV2_Goal_Digest.rulePack.rulesStrings.1>
+  <RV2_Goal_Digest.rulePack.rulesStrings.2>RV2_adverb->危险地</RV2_Goal_Digest.rulePack.rulesStrings.2>
+  <RV2_Goal_Digest.rulePack.rulesStrings.3>RV2_adverb->饥渴地</RV2_Goal_Digest.rulePack.rulesStrings.3>
+  <RV2_Goal_Digest.rulePack.rulesStrings.4>RV2_adverb->致命地</RV2_Goal_Digest.rulePack.rulesStrings.4>
+  <RV2_Goal_Digest.rulePack.rulesStrings.5>RV2_adjective->致命</RV2_Goal_Digest.rulePack.rulesStrings.5>
+  <RV2_Goal_Digest.rulePack.rulesStrings.6>RV2_adjective->饥饿</RV2_Goal_Digest.rulePack.rulesStrings.6>
+  <RV2_Goal_Digest.rulePack.rulesStrings.7>RV2_adjective->死亡</RV2_Goal_Digest.rulePack.rulesStrings.7>
+  <RV2_Goal_Digest.rulePack.rulesStrings.8>RV2_goalProduct->无定形团块</RV2_Goal_Digest.rulePack.rulesStrings.8>
+  <RV2_Goal_Digest.rulePack.rulesStrings.9>RV2_goalProduct->糊状物</RV2_Goal_Digest.rulePack.rulesStrings.9>
+  <RV2_Goal_Digest.rulePack.rulesStrings.10>RV2_goalProduct->浆状物</RV2_Goal_Digest.rulePack.rulesStrings.10>
+  <RV2_Goal_Digest.rulePack.rulesStrings.11>RV2_goalFinish_verb->消化了</RV2_Goal_Digest.rulePack.rulesStrings.11>
+  <RV2_Goal_Digest.rulePack.rulesStrings.12>RV2_goalFinish_noun->消化</RV2_Goal_Digest.rulePack.rulesStrings.12>
+  <RV2_Goal_Digest.rulePack.rulesStrings.13>RV2_goalFinish_tale_noun->[PREY_definite]变成了[RV2_goalProduct]</RV2_Goal_Digest.rulePack.rulesStrings.13>
+  <RV2_Goal_Digest.rulePack.rulesStrings.14>RV2_goalFinish_tale_noun->[PREY_definite]在[PREDATOR_definite]体内变成了[RV2_goalProduct]</RV2_Goal_Digest.rulePack.rulesStrings.14>
+  <RV2_Goal_Digest.rulePack.rulesStrings.15>RV2_goalFinish_desc_sentence->[PREY_definite]被转化成了[RV2_goalProduct]。</RV2_Goal_Digest.rulePack.rulesStrings.15>
+  <RV2_Goal_Digest.rulePack.rulesStrings.16>RV2_goalFinish_desc_sentence->[PREY_definite]没有留下任何可辨认的残骸。</RV2_Goal_Digest.rulePack.rulesStrings.16>
+
+  <!-- 欢愉目标 -->
+  <RV2_Goal_Pleasure.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef]。</RV2_Goal_Pleasure.rulePack.rulesStrings.0>
+  <RV2_Goal_Pleasure.rulePack.rulesStrings.1>RV2_adverb->情欲高涨地</RV2_Goal_Pleasure.rulePack.rulesStrings.1>
+  <RV2_Goal_Pleasure.rulePack.rulesStrings.2>RV2_adverb->充满爱意地</RV2_Goal_Pleasure.rulePack.rulesStrings.2>
+  <RV2_Goal_Pleasure.rulePack.rulesStrings.3>RV2_adverb->色情地</RV2_Goal_Pleasure.rulePack.rulesStrings.3>
+  <RV2_Goal_Pleasure.rulePack.rulesStrings.4>RV2_adjective->情欲</RV2_Goal_Pleasure.rulePack.rulesStrings.4>
+  <RV2_Goal_Pleasure.rulePack.rulesStrings.5>RV2_adjective->爱意</RV2_Goal_Pleasure.rulePack.rulesStrings.5>
+  <RV2_Goal_Pleasure.rulePack.rulesStrings.6>RV2_adjective->色情</RV2_Goal_Pleasure.rulePack.rulesStrings.6>
+  <RV2_Goal_Pleasure.rulePack.rulesStrings.7>RV2_goalFinish_verb->玩弄了</RV2_Goal_Pleasure.rulePack.rulesStrings.7>
+  <RV2_Goal_Pleasure.rulePack.rulesStrings.8>RV2_goalFinish_noun->玩弄</RV2_Goal_Pleasure.rulePack.rulesStrings.8>
+  <RV2_Goal_Pleasure.rulePack.rulesStrings.9>RV2_goalFinish_desc_sentence->[PREDATOR_definite]露出了极乐的笑容。</RV2_Goal_Pleasure.rulePack.rulesStrings.9>
+
+
+ <RV2_Goal_Store.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef].</RV2_Goal_Store.rulePack.rulesStrings.0>
+  <RV2_Goal_Store.rulePack.rulesStrings.1>RV2_adverb->在怜爱中</RV2_Goal_Store.rulePack.rulesStrings.1>
+  <RV2_Goal_Store.rulePack.rulesStrings.2>RV2_adjective->怜爱</RV2_Goal_Store.rulePack.rulesStrings.2>
+  <RV2_Goal_Store.rulePack.rulesStrings.3>RV2_goalFinish_verb->保管</RV2_Goal_Store.rulePack.rulesStrings.3>
+  <RV2_Goal_Store.rulePack.rulesStrings.4>RV2_goalFinish_noun->保管</RV2_Goal_Store.rulePack.rulesStrings.4>
+
+  <RV2_Goal_Hold.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef].</RV2_Goal_Hold.rulePack.rulesStrings.0>
+  <RV2_Goal_Hold.rulePack.rulesStrings.1>RV2_adverb->在怜爱中</RV2_Goal_Hold.rulePack.rulesStrings.1>
+  <RV2_Goal_Hold.rulePack.rulesStrings.2>RV2_adverb->笨拙地</RV2_Goal_Hold.rulePack.rulesStrings.2>
+  <RV2_Goal_Hold.rulePack.rulesStrings.3>RV2_adjective->怜爱</RV2_Goal_Hold.rulePack.rulesStrings.3>
+  <RV2_Goal_Hold.rulePack.rulesStrings.4>RV2_goalFinish_verb->抱住</RV2_Goal_Hold.rulePack.rulesStrings.4>
+  <RV2_Goal_Hold.rulePack.rulesStrings.5>RV2_goalFinish_verb->暂时保管</RV2_Goal_Hold.rulePack.rulesStrings.5>
+  <RV2_Goal_Hold.rulePack.rulesStrings.6>RV2_goalFinish_noun->抱住</RV2_Goal_Hold.rulePack.rulesStrings.6>
+  <RV2_Goal_Hold.rulePack.rulesStrings.7>RV2_goalFinish_noun->暂时保管</RV2_Goal_Hold.rulePack.rulesStrings.7>
+
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef].</RV2_Goal_ConvertLube.rulePack.rulesStrings.0>
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings.1>RV2_adverb->在情欲中</RV2_Goal_ConvertLube.rulePack.rulesStrings.1>
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings.2>RV2_adverb->在怜爱中</RV2_Goal_ConvertLube.rulePack.rulesStrings.2>
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings.3>RV2_adverb->在色情中</RV2_Goal_ConvertLube.rulePack.rulesStrings.3>
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings.4>RV2_adjective->色情</RV2_Goal_ConvertLube.rulePack.rulesStrings.4>
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings.5>RV2_addendum->为了将[PREY_definite]变成爱液</RV2_Goal_ConvertLube.rulePack.rulesStrings.5>
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings.6>RV2_addendum->为了在[PREDATOR_possessive]阴道中消化[PREY_definite]</RV2_Goal_ConvertLube.rulePack.rulesStrings.6>
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings.7>RV2_goalFinish_verb->变成爱液</RV2_Goal_ConvertLube.rulePack.rulesStrings.7>
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings.8>RV2_goalFinish_noun->变成爱液</RV2_Goal_ConvertLube.rulePack.rulesStrings.8>
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings.9>RV2_goalFinish_tale_noun->[PREY_definite]化为了[PREDATOR_definite]的爱液</RV2_Goal_ConvertLube.rulePack.rulesStrings.9>
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings.10>RV2_goalFinish_image->[PREY_definite]没有留下任何可以辨认的残骸.</RV2_Goal_ConvertLube.rulePack.rulesStrings.10>
+
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef].</RV2_Goal_ConvertMilk.rulePack.rulesStrings.0>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.1>RV2_adverb->充满母性地</RV2_Goal_ConvertMilk.rulePack.rulesStrings.1>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.2>RV2_adverb->在情欲中</RV2_Goal_ConvertMilk.rulePack.rulesStrings.2>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.3>RV2_adverb->在怜爱中</RV2_Goal_ConvertMilk.rulePack.rulesStrings.3>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.4>RV2_adverb->在色情中</RV2_Goal_ConvertMilk.rulePack.rulesStrings.4>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.5>RV2_adjective->色情</RV2_Goal_ConvertMilk.rulePack.rulesStrings.5>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.6>RV2_addendum->为了将[PREY_definite]变成乳汁</RV2_Goal_ConvertMilk.rulePack.rulesStrings.6>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.7>RV2_addendum->为了在[PREDATOR_possessive]胸中消化[PREY_definite]</RV2_Goal_ConvertMilk.rulePack.rulesStrings.7>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.8>RV2_goalFinish_verb->变成乳汁</RV2_Goal_ConvertMilk.rulePack.rulesStrings.8>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.9>RV2_goalFinish_noun->变成乳汁</RV2_Goal_ConvertMilk.rulePack.rulesStrings.9>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.10>RV2_goalFinish_tale_noun->[PREY_definite]化为了[PREDATOR_definite]的乳汁</RV2_Goal_ConvertMilk.rulePack.rulesStrings.10>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings.11>RV2_goalFinish_image->[PREY_definite]没有留下任何可以辨认的残骸.</RV2_Goal_ConvertMilk.rulePack.rulesStrings.11>
+
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef].</RV2_Goal_ConvertSperm.rulePack.rulesStrings.0>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.1>RV2_adverb->在情欲中</RV2_Goal_ConvertSperm.rulePack.rulesStrings.1>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.2>RV2_adverb->在怜爱中</RV2_Goal_ConvertSperm.rulePack.rulesStrings.2>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.3>RV2_adverb->在色情中</RV2_Goal_ConvertSperm.rulePack.rulesStrings.3>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.4>RV2_adjective->色情</RV2_Goal_ConvertSperm.rulePack.rulesStrings.4>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.5>RV2_material->精液</RV2_Goal_ConvertSperm.rulePack.rulesStrings.5>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.6>RV2_material->精液</RV2_Goal_ConvertSperm.rulePack.rulesStrings.6>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.7>RV2_addendum->为了将[PREY_definite]变成精液</RV2_Goal_ConvertSperm.rulePack.rulesStrings.7>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.8>RV2_addendum->为了在[PREDATOR_possessive]睾丸中消化[PREY_definite]</RV2_Goal_ConvertSperm.rulePack.rulesStrings.8>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.9>RV2_addendum->为了在[PREDATOR_possessive]睾丸中消化[PREY_definite]</RV2_Goal_ConvertSperm.rulePack.rulesStrings.9>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.10>RV2_goalFinish_verb->变成[RV2_material]</RV2_Goal_ConvertSperm.rulePack.rulesStrings.10>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.11>RV2_goalFinish_noun->变成[RV2_material]</RV2_Goal_ConvertSperm.rulePack.rulesStrings.11>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.12>RV2_goalFinish_tale_noun->[PREY_definite]化为了[PREDATOR_definite]的精液</RV2_Goal_ConvertSperm.rulePack.rulesStrings.12>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings.13>RV2_goalFinish_image->[PREY_definite]没有留下任何可以辨认的残骸.</RV2_Goal_ConvertSperm.rulePack.rulesStrings.13>
+
+  <RV2_Goal_Heal.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef].</RV2_Goal_Heal.rulePack.rulesStrings.0>
+  <RV2_Goal_Heal.rulePack.rulesStrings.1>RV2_adverb->担心地</RV2_Goal_Heal.rulePack.rulesStrings.1>
+  <RV2_Goal_Heal.rulePack.rulesStrings.2>RV2_adverb->在怜爱中</RV2_Goal_Heal.rulePack.rulesStrings.2>
+  <RV2_Goal_Heal.rulePack.rulesStrings.3>RV2_adjective->怜爱</RV2_Goal_Heal.rulePack.rulesStrings.3>
+  <RV2_Goal_Heal.rulePack.rulesStrings.4>RV2_addendum->为了治愈[PREY_definite]的伤口</RV2_Goal_Heal.rulePack.rulesStrings.4>
+  <RV2_Goal_Heal.rulePack.rulesStrings.5>RV2_addendum->为了给[PREY_definite]带来休息</RV2_Goal_Heal.rulePack.rulesStrings.5>
+  <RV2_Goal_Heal.rulePack.rulesStrings.6>RV2_goalFinish_verb->治愈</RV2_Goal_Heal.rulePack.rulesStrings.6>
+  <RV2_Goal_Heal.rulePack.rulesStrings.7>RV2_goalFinish_noun->治愈</RV2_Goal_Heal.rulePack.rulesStrings.7>
+  <RV2_Goal_Heal.rulePack.rulesStrings.8>RV2_goalFinish_tale_noun->[PREY_definite]被治愈了</RV2_Goal_Heal.rulePack.rulesStrings.8>
+  <RV2_Goal_Heal.rulePack.rulesStrings.9>RV2_goalFinish_image->[PREY_definite]充满了神奇的活力.</RV2_Goal_Heal.rulePack.rulesStrings.9>
+   
+  <RV2_Goal_Reform.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef].</RV2_Goal_Reform.rulePack.rulesStrings.0>
+  <RV2_Goal_Reform.rulePack.rulesStrings.1>RV2_adverb->充满母性地</RV2_Goal_Reform.rulePack.rulesStrings.1>
+  <RV2_Goal_Reform.rulePack.rulesStrings.2>RV2_adjective->充满爱意地</RV2_Goal_Reform.rulePack.rulesStrings.2>
+  <RV2_Goal_Reform.rulePack.rulesStrings.3>RV2_addendum->为了将[PREY_definite]按照[PREDATOR_definite]的想象重塑</RV2_Goal_Reform.rulePack.rulesStrings.3>
+  <RV2_Goal_Reform.rulePack.rulesStrings.4>RV2_addendum->为了重组[PREY_definite]</RV2_Goal_Reform.rulePack.rulesStrings.4>
+  <RV2_Goal_Reform.rulePack.rulesStrings.5>RV2_goalFinish_verb->重组</RV2_Goal_Reform.rulePack.rulesStrings.5>
+  <RV2_Goal_Reform.rulePack.rulesStrings.6>RV2_goalFinish_noun->重组</RV2_Goal_Reform.rulePack.rulesStrings.6>
+  <RV2_Goal_Reform.rulePack.rulesStrings.7>RV2_goalFinish_tale_noun->[PREY_definite]被重生</RV2_Goal_Reform.rulePack.rulesStrings.7>
+  <RV2_Goal_Reform.rulePack.rulesStrings.8>RV2_goalFinish_image->[PREY_definite]在[PREY_possessive]中获得了新的形态.</RV2_Goal_Reform.rulePack.rulesStrings.8>
+
+</LanguageData>

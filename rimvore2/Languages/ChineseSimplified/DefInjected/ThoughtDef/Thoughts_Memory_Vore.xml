@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- 口腔消化 -->
+    <RV2_PredatorOralDigestSuccess.stages.0.label>消化了{0}</RV2_PredatorOralDigestSuccess.stages.0.label>
+    <RV2_PredatorOralDigestSuccess.stages.0.description>将{1}溶解消化。真是一顿美餐!</RV2_PredatorOralDigestSuccess.stages.0.description>
+
+    <RV2_PredatorOralDigestInterrupted.stages.0.label>{0}的消化被打断</RV2_PredatorOralDigestInterrupted.stages.0.label>
+    <RV2_PredatorOralDigestInterrupted.stages.0.description>吞下了{1}但还没消化就被排出。下一个该吃谁呢?</RV2_PredatorOralDigestInterrupted.stages.0.description>
+
+    <RV2_PreyOralDigestInterrupted.stages.0.label>从吞噬中逃脱</RV2_PreyOralDigestInterrupted.stages.0.label>
+    <RV2_PreyOralDigestInterrupted.stages.0.description>{1}居然想吃掉我!我才不是食物!</RV2_PreyOralDigestInterrupted.stages.0.description>
+
+    <!-- 口腔快感 -->
+    <RV2_PredatorOralPleasureSuccess.stages.0.label>按摩了{0}</RV2_PredatorOralPleasureSuccess.stages.0.label>
+    <RV2_PredatorOralPleasureSuccess.stages.0.description>让{1}在胃袋中放松。感到无比满足!</RV2_PredatorOralPleasureSuccess.stages.0.description>
+
+    <RV2_PredatorOralPleasureInterrupted.stages.0.label>{0}的按摩被打断</RV2_PredatorOralPleasureInterrupted.stages.0.label>
+    <RV2_PredatorOralPleasureInterrupted.stages.0.description>本想给{1}提供胃袋按摩却被排出。太遗憾了</RV2_PredatorOralPleasureInterrupted.stages.0.description>
+
+    <RV2_PreyOralPleasureSuccess.stages.0.label>被{0}按摩</RV2_PreyOralPleasureSuccess.stages.0.label>
+    <RV2_PreyOralPleasureSuccess.stages.0.description>{1}让我在胃袋中放松。无比舒适愉悦!</RV2_PreyOralPleasureSuccess.stages.0.description>
+
+    <RV2_PreyOralPleasureInterrupted.stages.0.label>{0}的按摩被打断</RV2_PreyOralPleasureInterrupted.stages.0.label>
+    <RV2_PreyOralPleasureInterrupted.stages.0.description>正在享受{1}的胃袋按摩却被排出。太遗憾了</RV2_PreyOralPleasureInterrupted.stages.0.description>
+
+    <!-- 口腔储存 -->
+    <RV2_PredatorOralStoreEnd.stages.0.label>释放了胃袋中的{0}</RV2_PredatorOralStoreEnd.stages.0.label>
+    <RV2_PredatorOralStoreEnd.stages.0.description>感觉轻松多了!</RV2_PredatorOralStoreEnd.stages.0.description>
+
+    <RV2_PreyOralStoreEnd.stages.0.label>离开了{0}的胃袋</RV2_PreyOralStoreEnd.stages.0.label>
+    <RV2_PreyOralStoreEnd.stages.0.description>明明很舒适，感觉还能伸展更多空间</RV2_PreyOralStoreEnd.stages.0.description>
+
+    <!-- 口腔治疗 -->
+    <RV2_PredatorOralHealSuccess.stages.0.label>在胃袋中治愈了{0}</RV2_PredatorOralHealSuccess.stages.0.label>
+    <RV2_PredatorOralHealSuccess.stages.0.description>焕然一新!</RV2_PredatorOralHealSuccess.stages.0.description>
+
+    <RV2_PreyOralHealSuccess.stages.0.label>在{0}的胃袋中被治愈</RV2_PreyOralHealSuccess.stages.0.label>
+    <RV2_PreyOralHealSuccess.stages.0.description>就像泡温泉一样舒服</RV2_PreyOralHealSuccess.stages.0.description>
+
+    <!-- 体内巡游储存 -->
+    <RV2_PredatorFullTourStoreEnd.stages.0.label>通过巡游释放了{0}</RV2_PredatorFullTourStoreEnd.stages.0.label>
+    <RV2_PredatorFullTourStoreEnd.stages.0.description>感觉轻松多了!</RV2_PredatorFullTourStoreEnd.stages.0.description>
+
+    <RV2_PreyFullTourStoreEnd.stages.0.label>通过巡游离开了{0}的体内</RV2_PreyFullTourStoreEnd.stages.0.label>
+    <RV2_PreyFullTourStoreEnd.stages.0.description>明明很舒适，感觉还能伸展更多空间</RV2_PreyFullTourStoreEnd.stages.0.description>
+
+    <!-- 体内巡游快感 -->
+    <RV2_PredatorFullTourPleasureSuccess.stages.0.label>带{0}完成了体内巡游</RV2_PredatorFullTourPleasureSuccess.stages.0.label>
+    <RV2_PredatorFullTourPleasureSuccess.stages.0.description>为{1}提供体内巡游服务。感觉内脏都变干净了!</RV2_PredatorFullTourPleasureSuccess.stages.0.description>
+
+    <RV2_PredatorFullTourPleasureInterrupted.stages.0.label>{0}的巡游被打断</RV2_PredatorFullTourPleasureInterrupted.stages.0.label>
+    <RV2_PredatorFullTourPleasureInterrupted.stages.0.description>本想带{1}巡游体内却被排出。太遗憾了</RV2_PredatorFullTourPleasureInterrupted.stages.0.description>
+
+    <RV2_PreyFullTourPleasureSuccess.stages.0.label>体验了{0}的体内巡游</RV2_PreyFullTourPleasureSuccess.stages.0.label>
+    <RV2_PreyFullTourPleasureSuccess.stages.0.description>{1}带我进行了美妙的体内巡游。无比愉悦!</RV2_PreyFullTourPleasureSuccess.stages.0.description>
+
+    <RV2_PreyFullTourPleasureInterrupted.stages.0.label>{0}的巡游被打断</RV2_PreyFullTourPleasureInterrupted.stages.0.label>
+    <RV2_PreyFullTourPleasureInterrupted.stages.0.description>正在享受{1}的体内巡游却被排出。太遗憾了</RV2_PreyFullTourPleasureInterrupted.stages.0.description>
+
+    <!-- 体内巡游治疗 -->
+    <RV2_PredatorFullTourHealSuccess.stages.0.label>在体内治愈了{0}</RV2_PredatorFullTourHealSuccess.stages.0.label>
+    <RV2_PredatorFullTourHealSuccess.stages.0.description>焕然一新!</RV2_PredatorFullTourHealSuccess.stages.0.description>
+
+    <RV2_PreyFullTourHealSuccess.stages.0.label>在{0}体内被治愈</RV2_PreyFullTourHealSuccess.stages.0.label>
+    <RV2_PreyFullTourHealSuccess.stages.0.description>就像泡温泉一样舒服</RV2_PreyFullTourHealSuccess.stages.0.description>
+
+    <!-- 肛门消化 -->
+    <RV2_PredatorAnalDigestSuccess.stages.0.label>从肛门消化了{0}</RV2_PredatorAnalDigestSuccess.stages.0.label>
+    <RV2_PredatorAnalDigestSuccess.stages.0.description>{1}在臀下消失了...再也找不到了</RV2_PredatorAnalDigestSuccess.stages.0.description>
+
+    <RV2_PredatorAnalDigestInterrupted.stages.0.label>{0}的肛门消化被打断</RV2_PredatorAnalDigestInterrupted.stages.0.label>
+    <RV2_PredatorAnalDigestInterrupted.stages.0.description>试图用肛门消化{1}，但{1}却逃脱了。下一个该用臀部收纳谁呢?</RV2_PredatorAnalDigestInterrupted.stages.0.description>
+
+    <RV2_PreyAnalDigestInterrupted.stages.0.label>从肛门吞噬中逃脱</RV2_PreyAnalDigestInterrupted.stages.0.label>
+    <RV2_PreyAnalDigestInterrupted.stages.0.description>{1}想把我变成臀部的养料。我才不是肛门饲料!</RV2_PreyAnalDigestInterrupted.stages.0.description>
+
+    <!-- 肛门快感 -->
+    <RV2_PredatorAnalPleasureSuccess.stages.0.label>将{0}作为玩具纳入臀部</RV2_PredatorAnalPleasureSuccess.stages.0.label>
+    <RV2_PredatorAnalPleasureSuccess.stages.0.description>{1}钻进了臀部深处...终于出来了</RV2_PredatorAnalPleasureSuccess.stages.0.description>
+
+    <RV2_PredatorAnalPleasureInterrupted.stages.0.label>{0}的玩具使用被打断</RV2_PredatorAnalPleasureInterrupted.stages.0.label>
+    <RV2_PredatorAnalPleasureInterrupted.stages.0.description>试图将{1}塞入臀部但被排出了。太遗憾了</RV2_PredatorAnalPleasureInterrupted.stages.0.description>
+
+    <RV2_PreyAnalPleasureSuccess.stages.0.label>被{0}作为玩具塞入臀部</RV2_PreyAnalPleasureSuccess.stages.0.label>
+    <RV2_PreyAnalPleasureSuccess.stages.0.description>{1}把我推入腹部深处。像在探索洞穴!</RV2_PreyAnalPleasureSuccess.stages.0.description>
+
+    <RV2_PreyAnalPleasureInterrupted.stages.0.label>{0}的玩具使用被打断</RV2_PreyAnalPleasureInterrupted.stages.0.label>
+    <RV2_PreyAnalPleasureInterrupted.stages.0.description>{1}试图把我塞入臀部但被排出了。太遗憾了</RV2_PreyAnalPleasureInterrupted.stages.0.description>
+
+    <!-- 肛门储存 -->
+    <RV2_PredatorAnalStoreEnd.stages.0.label>从肠道仓库释放了{0}</RV2_PredatorAnalStoreEnd.stages.0.label>
+    <RV2_PredatorAnalStoreEnd.stages.0.description>感觉轻松多了!</RV2_PredatorAnalStoreEnd.stages.0.description>
+
+    <RV2_PreyAnalStoreEnd.stages.0.label>离开了{0}的肠道仓库</RV2_PreyAnalStoreEnd.stages.0.label>
+    <RV2_PreyAnalStoreEnd.stages.0.description>明明很舒适，感觉还能伸展更多空间</RV2_PreyAnalStoreEnd.stages.0.description>
+
+    <!-- 阴道转化 -->
+    <RV2_PredatorVaginalConvertLubeSuccess.stages.0.label>在子宫内将{0}转化为爱液</RV2_PredatorVaginalConvertLubeSuccess.stages.0.label>
+    <RV2_PredatorVaginalConvertLubeSuccess.stages.0.description>让{1}回归子宫，溶解为爱液。ta的一生始于(大概)某人的子宫，终于我的子宫</RV2_PredatorVaginalConvertLubeSuccess.stages.0.description>
+
+    <RV2_PredatorVaginalConvertLubeInterrupted.stages.0.label>{0}的爱液转化被打断</RV2_PredatorVaginalConvertLubeInterrupted.stages.0.label>
+    <RV2_PredatorVaginalConvertLubeInterrupted.stages.0.description>试图在子宫内将{1}转化为爱液，但{1}却逃脱了。失去了一次高潮机会...</RV2_PredatorVaginalConvertLubeInterrupted.stages.0.description>
+
+    <RV2_PreyVaginalConvertLubeInterrupted.stages.0.label>逃脱了{0}的子宫转化</RV2_PreyVaginalConvertLubeInterrupted.stages.0.label>
+    <RV2_PreyVaginalConvertLubeInterrupted.stages.0.description>{1}想在子宫内把我变成爱液!我才不是一次性玩具!</RV2_PreyVaginalConvertLubeInterrupted.stages.0.description>
+
+    <!-- 阴道重构 -->
+    <RV2_PredatorVaginalReformSuccess.stages.0.label>重塑了{0}</RV2_PredatorVaginalReformSuccess.stages.0.label>
+    <RV2_PredatorVaginalReformSuccess.stages.0.description>被我的基因充分浸染了呢</RV2_PredatorVaginalReformSuccess.stages.0.description>
+
+    <RV2_PredatorVaginalReformInterrupted.stages.0.label>{0}的重塑被打断</RV2_PredatorVaginalReformInterrupted.stages.0.label>
+    <RV2_PredatorVaginalReformInterrupted.stages.0.description>太遗憾了</RV2_PredatorVaginalReformInterrupted.stages.0.description>
+
+    <RV2_PreyVaginalReformSuccess.stages.0.label>被{0}重塑</RV2_PreyVaginalReformSuccess.stages.0.label>
+    <RV2_PreyVaginalReformSuccess.stages.0.description>我...我是谁?</RV2_PreyVaginalReformSuccess.stages.0.description>
+
+    <RV2_PreyVaginalReformInterrupted.stages.0.label>逃脱了{0}的重塑</RV2_PreyVaginalReformInterrupted.stages.0.label>
+    <RV2_PreyVaginalReformInterrupted.stages.0.description>差点失去了自我...</RV2_PreyVaginalReformInterrupted.stages.0.description>
+
+    <!-- 阴道快感 -->
+    <RV2_PredatorVaginalPleasureSuccess.stages.0.label>将{0}作为玩具纳入子宫</RV2_PredatorVaginalPleasureSuccess.stages.0.label>
+    <RV2_PredatorVaginalPleasureSuccess.stages.0.description>用{1}达到了高潮...光是回想就令人战栗!</RV2_PredatorVaginalPleasureSuccess.stages.0.description>
+
+    <RV2_PredatorVaginalPleasureInterrupted.stages.0.label>{0}的玩具使用被打断</RV2_PredatorVaginalPleasureInterrupted.stages.0.label>
+    <RV2_PredatorVaginalPleasureInterrupted.stages.0.description>想用{1}自慰却被排出了。真想多相处一会儿</RV2_PredatorVaginalPleasureInterrupted.stages.0.description>
+
+    <RV2_PreyVaginalPleasureSuccess.stages.0.label>被{0}作为活体玩具纳入子宫</RV2_PreyVaginalPleasureSuccess.stages.0.label>
+    <RV2_PreyVaginalPleasureSuccess.stages.0.description>{1}想把我变成活体玩具!虽然有点晕但更令人燥热!</RV2_PreyVaginalPleasureSuccess.stages.0.description>
+
+    <RV2_PreyVaginalPleasureInterrupted.stages.0.label>{0}的玩具使用被打断</RV2_PreyVaginalPleasureInterrupted.stages.0.label>
+    <RV2_PreyVaginalPleasureInterrupted.stages.0.description>{1}想把我变成活体玩具但被排出了。人家明明也很享受</RV2_PreyVaginalPleasureInterrupted.stages.0.description>
+
+    <!-- 阴道储存 -->
+    <RV2_PredatorVaginalStoreEnd.stages.0.label>从子宫仓库释放了{0}</RV2_PredatorVaginalStoreEnd.stages.0.label>
+    <RV2_PredatorVaginalStoreEnd.stages.0.description>腰都快断了!</RV2_PredatorVaginalStoreEnd.stages.0.description>
+
+    <RV2_PreyVaginalStoreEnd.stages.0.label>离开了{0}的子宫仓库</RV2_PreyVaginalStoreEnd.stages.0.label>
+    <RV2_PreyVaginalStoreEnd.stages.0.description>明明很舒适，感觉还能伸展更多空间</RV2_PreyVaginalStoreEnd.stages.0.description>
+
+    <!-- 阴道治愈 -->
+
+    <RV2_PredatorVaginalHealSuccess.stages.0.label>在子宫中治愈了{0}</RV2_PredatorVaginalHealSuccess.stages.0.label>
+    <RV2_PredatorVaginalHealSuccess.stages.0.description>焕然一新！</RV2_PredatorVaginalHealSuccess.stages.0.description>
+
+    <RV2_PreyVaginalHealSuccess.stages.0.label>在{0}的子宫中被治愈</RV2_PreyVaginalHealSuccess.stages.0.label>
+    <RV2_PreyVaginalHealSuccess.stages.0.description>感觉像是泡了温泉一样.</RV2_PreyVaginalHealSuccess.stages.0.description>
+
+
+    <!-- 阴茎转化 -->
+
+    <RV2_PredatorCockConvertSpermSuccess.stages.0.label>将{0}液化成了精液</RV2_PredatorCockConvertSpermSuccess.stages.0.label>
+    <RV2_PredatorCockConvertSpermSuccess.stages.0.description>将{1}收入阴茎并转化为精液.曾经的生物,如今成了生命的素材...</RV2_PredatorCockConvertSpermSuccess.stages.0.description>
+
+    <RV2_PredatorCockConvertSpermInterrupted.stages.0.label>{0}的精液化被中断</RV2_PredatorCockConvertSpermInterrupted.stages.0.label>
+    <RV2_PredatorCockConvertSpermInterrupted.stages.0.description>试图在睾丸中将{1}融化成精液,{1}却逃脱了,失去了释放的机会...</RV2_PredatorCockConvertSpermInterrupted.stages.0.description>
+
+    <RV2_PreyCockConvertSpermInterrupted.stages.0.label>从{0}的精液化中逃脱</RV2_PreyCockConvertSpermInterrupted.stages.0.label>
+    <RV2_PreyCockConvertSpermInterrupted.stages.0.description>{1}想把我变成精液！我才不是一次性玩具！</RV2_PreyCockConvertSpermInterrupted.stages.0.description>
+
+
+    <!-- 阴茎快感 -->
+
+    <RV2_PredatorCockPleasureSuccess.stages.0.label>将{0}作为玩具收入阴囊</RV2_PredatorCockPleasureSuccess.stages.0.label>
+    <RV2_PredatorCockPleasureSuccess.stages.0.description>把{1}当成尿道棒一样玩弄...终于拔出来了.</RV2_PredatorCockPleasureSuccess.stages.0.description>
+
+    <RV2_PredatorCockPleasureInterrupted.stages.0.label>将{0}作为玩具收入阴囊的行为被中断</RV2_PredatorCockPleasureInterrupted.stages.0.label>
+    <RV2_PredatorCockPleasureInterrupted.stages.0.description>试图把{1}当成尿道棒,却被推出来了.明明只是想多待一会儿...</RV2_PredatorCockPleasureInterrupted.stages.0.description>
+
+    <RV2_PreyCockPleasureSuccess.stages.0.label>作为玩具被{0}收入阴囊</RV2_PreyCockPleasureSuccess.stages.0.label>
+    <RV2_PreyCockPleasureSuccess.stages.0.description>{1}想把我变成尿道棒！虽然有点恍惚,但更多的是燥热！</RV2_PreyCockPleasureSuccess.stages.0.description>
+
+    <RV2_PreyCockPleasureInterrupted.stages.0.label>被{0}收入阴囊作为玩具的行为被中断</RV2_PreyCockPleasureInterrupted.stages.0.label>
+    <RV2_PreyCockPleasureInterrupted.stages.0.description>{1}想把我当成尿道棒,却被推出来了.我明明也很享受...</RV2_PreyCockPleasureInterrupted.stages.0.description>
+
+
+    <!-- 阴茎存储 -->
+
+    <RV2_PredatorCockStoreEnd.stages.0.label>将{0}从阴囊仓库中取出</RV2_PredatorCockStoreEnd.stages.0.label>
+    <RV2_PredatorCockStoreEnd.stages.0.description>肩膀上的重担,或者说睾丸上的重担终于卸下了.</RV2_PredatorCockStoreEnd.stages.0.description>
+
+    <RV2_PreyCockStoreEnd.stages.0.label>从{0}的阴囊仓库中出来</RV2_PreyCockStoreEnd.stages.0.label>
+    <RV2_PreyCockStoreEnd.stages.0.description>明明很舒适,但感觉还有伸展的空间.</RV2_PreyCockStoreEnd.stages.0.description>
+
+
+    <!-- 阴茎治愈 -->
+
+    <RV2_PredatorCockHealSuccess.stages.0.label>在阴囊中治愈了{0}</RV2_PredatorCockHealSuccess.stages.0.label>
+    <RV2_PredatorCockHealSuccess.stages.0.description>焕然一新！</RV2_PredatorCockHealSuccess.stages.0.description>
+
+    <RV2_PreyCockHealSuccess.stages.0.label>在{0}的阴囊中被治愈</RV2_PreyCockHealSuccess.stages.0.label>
+    <RV2_PreyCockHealSuccess.stages.0.description>感觉像是泡了温泉一样.</RV2_PreyCockHealSuccess.stages.0.description>
+
+
+    <!-- 乳头转化 -->
+
+    <RV2_PredatorNippleConvertMilkSuccess.stages.0.label>将{0}转化为乳汁</RV2_PredatorNippleConvertMilkSuccess.stages.0.label>
+    <RV2_PredatorNippleConvertMilkSuccess.stages.0.description>将{1}收入胸部并转化为乳汁.做得真棒!</RV2_PredatorNippleConvertMilkSuccess.stages.0.description>
+
+    <RV2_PredatorNippleConvertMilkInterrupted.stages.0.label>{0}的乳汁化被中断</RV2_PredatorNippleConvertMilkInterrupted.stages.0.label>
+    <RV2_PredatorNippleConvertMilkInterrupted.stages.0.description>试图在胸部将{1}转化为乳汁,却被逃脱了.乳头感到寂寞...</RV2_PredatorNippleConvertMilkInterrupted.stages.0.description>
+
+    <RV2_PreyNippleConvertMilkInterrupted.stages.0.label>从{0}的乳汁化中逃脱</RV2_PreyNippleConvertMilkInterrupted.stages.0.label>
+    <RV2_PreyNippleConvertMilkInterrupted.stages.0.description>{1}想把我变成乳汁！我才不是钙源！</RV2_PreyNippleConvertMilkInterrupted.stages.0.description>
+
+
+    <!-- 乳头快感 -->
+
+    <RV2_PredatorNipplePleasureSuccess.stages.0.label>将{0}作为玩具收入胸部</RV2_PredatorNipplePleasureSuccess.stages.0.label>
+    <RV2_PredatorNipplePleasureSuccess.stages.0.description>{1}从里到外都在按摩我！下次应该叫上朋友,或者再来一个...</RV2_PredatorNipplePleasureSuccess.stages.0.description>
+
+    <RV2_PredatorNipplePleasureInterrupted.stages.0.label>将{0}作为玩具收入胸部的行为被中断</RV2_PredatorNipplePleasureInterrupted.stages.0.label>
+    <RV2_PredatorNipplePleasureInterrupted.stages.0.description>试图为{1}提供乳汁浴,却被推出来了.明明只是想多待一会儿...</RV2_PredatorNipplePleasureInterrupted.stages.0.description>
+
+    <RV2_PreyNipplePleasureSuccess.stages.0.label>作为玩具被{0}收入胸部</RV2_PreyNipplePleasureSuccess.stages.0.label>
+    <RV2_PreyNipplePleasureSuccess.stages.0.description>{1}为我提供了温暖的乳汁浴.在独特的源泉中,彻底放松了！</RV2_PreyNipplePleasureSuccess.stages.0.description>
+
+    <RV2_PreyNipplePleasureInterrupted.stages.0.label>被{0}收入胸部作为玩具的行为被中断</RV2_PreyNipplePleasureInterrupted.stages.0.label>
+    <RV2_PreyNipplePleasureInterrupted.stages.0.description>{1}想为我提供乳汁浴,却被推出来了.明明想好好享受水疗的...</RV2_PreyNipplePleasureInterrupted.stages.0.description>
+
+
+    <!-- 乳头存储 -->
+
+    <RV2_PredatorNippleStoreEnd.stages.0.label>将{0}从胸部仓库中取出</RV2_PredatorNippleStoreEnd.stages.0.label>
+    <RV2_PredatorNippleStoreEnd.stages.0.description>脊髓还远远没到极限！</RV2_PredatorNippleStoreEnd.stages.0.description>
+
+    <RV2_PreyNippleStoreEnd.stages.0.label>从{0}的胸部仓库中出来</RV2_PreyNippleStoreEnd.stages.0.label>
+    <RV2_PreyNippleStoreEnd.stages.0.description>明明很舒适,但感觉还有伸展的空间.</RV2_PreyNippleStoreEnd.stages.0.description>
+
+
+    <!-- 乳头治愈 -->
+
+    <RV2_PredatorNippleHealSuccess.stages.0.label>在胸部中治愈了{0}</RV2_PredatorNippleHealSuccess.stages.0.label>
+    <RV2_PredatorNippleHealSuccess.stages.0.description>焕然一新！</RV2_PredatorNippleHealSuccess.stages.0.description>
+
+    <RV2_PreyNippleHealSuccess.stages.0.label>在{0}的胸部中被治愈</RV2_PreyNippleHealSuccess.stages.0.label>
+    <RV2_PreyNippleHealSuccess.stages.0.description>感觉像是泡了温泉一样.</RV2_PreyNippleHealSuccess.stages.0.description>
+
+</LanguageData>

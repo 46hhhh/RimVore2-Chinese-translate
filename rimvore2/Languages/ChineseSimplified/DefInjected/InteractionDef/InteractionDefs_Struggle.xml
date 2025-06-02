@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RV2_SuccessfulStruggle.label>抵抗成功</RV2_SuccessfulStruggle.label>
+    <RV2_SuccessfulStruggle.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]成功从[RECIPIENT_nameDef]体内逃脱。</RV2_SuccessfulStruggle.logRulesInitiator.rulesStrings.0>
+
+    <RV2_FailedStruggle.label>抵抗失败</RV2_FailedStruggle.label>
+    <RV2_FailedStruggle.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]未能从[RECIPIENT_nameDef]体内逃脱。</RV2_FailedStruggle.logRulesInitiator.rulesStrings.0>
+
+    <RV2_ActiveStruggle.label>正在抵抗</RV2_ActiveStruggle.label>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]在[RECIPIENT_nameDef]体内尝试抵抗。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.0>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]的脚印从[RECIPIENT_nameDef]的隆起处浮现。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.1>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]的手印从[RECIPIENT_nameDef]的隆起处浮现。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.2>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef]在[RECIPIENT_nameDef]体内[struggle_action_past]。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.3>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef]通过[struggle_action_past]击中要害，让[RECIPIENT_nameDef]痛苦喘息。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.4>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef]试图在[RECIPIENT_nameDef]体内完全伸展身体。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.5>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.6>r_logentry->[RECIPIENT_nameDef]因[INITIATOR_nameDef]的[struggle_action_gerund]而扭曲了面容。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.6>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.7>r_logentry->[RECIPIENT_nameDef]因[INITIATOR_nameDef]的[struggle_action_gerund]而失去平衡。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.7>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef]的抵抗动摇了[RECIPIENT_nameDef]的身体。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.8>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef]的抵抗干扰了[RECIPIENT_nameDef]的行动。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.9>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.10>r_logentry->沉闷的尖叫从[RECIPIENT_nameDef]体内传出。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.10>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.11>struggle_action_past->猛击</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.11>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.12>struggle_action_past->抓挠</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.12>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.13>struggle_action_past->狠咬</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.13>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.14>struggle_action_past->折磨</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.14>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.15>struggle_action_past->摇晃</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.15>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.16>struggle_action_past->猛踢</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.16>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.17>struggle_action_gerund->击打</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.17>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.18>struggle_action_gerund->抓挠</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.18>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.19>struggle_action_gerund->撕咬</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.19>
+    <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.20>struggle_action_gerund->踢踹</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.20>
+
+</LanguageData>

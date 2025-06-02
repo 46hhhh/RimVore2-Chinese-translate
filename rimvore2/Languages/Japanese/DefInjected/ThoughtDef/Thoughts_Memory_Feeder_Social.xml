@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- social -->
+
+  <RV2_FedMePrey_VeryGood.stages.0.label>大好きな方法で獲物を食べさせてくれた</RV2_FedMePrey_VeryGood.stages.0.label>
+  <RV2_FedMePrey_Good.stages.0.label>好きな方法で獲物を食べさせてくれた</RV2_FedMePrey_Good.stages.0.label>
+  <RV2_FedMePrey_Bad.stages.0.label>嫌いな方法で獲物を食べさせてきた</RV2_FedMePrey_Bad.stages.0.label>
+  <RV2_FedMePrey_VeryBad.stages.0.label>大嫌いな方法で獲物を食べさせてきた</RV2_FedMePrey_VeryBad.stages.0.label>
+
+
+</LanguageData>

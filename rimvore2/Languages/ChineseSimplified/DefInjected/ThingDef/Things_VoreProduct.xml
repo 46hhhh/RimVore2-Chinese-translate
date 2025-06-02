@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 可食用产物 -->
+  <RV2_Resource_Cum.label>精粹转化物</RV2_Resource_Cum.label>
+  <RV2_Resource_Cum.description>生命体被转化为风味独特的精粹物质。\n可作为食物消耗。</RV2_Resource_Cum.description>
+
+  <RV2_Resource_Milk.label>乳质转化物</RV2_Resource_Milk.label>
+  <RV2_Resource_Milk.description>生命体被转化为风味独特的乳质物质。\n可作为食物消耗。</RV2_Resource_Milk.description>
+
+  <!-- 资源类产物 -->
+  <RV2_Resource_Scat.label>消化残渣</RV2_Resource_Scat.label>
+  <RV2_Resource_Scat.description>散发恶臭的猎物残余物。\n可在工艺工作台加工成肥料。</RV2_Resource_Scat.description>
+
+  <RV2_Resource_Bones.label>骨质残骸</RV2_Resource_Bones.label>
+  <RV2_Resource_Bones.description>被消化液剥离血肉后的猎物骨骼。\n可在工艺工作台加工成肥料。</RV2_Resource_Bones.description>
+
+  <!-- 加工产物 -->
+  <RV2_Manufactured_Fertilizer.label>营养肥料</RV2_Manufactured_Fertilizer.label>
+  <RV2_Manufactured_Fertilizer.description>富含营养物质的袋装肥料，可用于改良土壤肥力。</RV2_Manufactured_Fertilizer.description>
+
+</LanguageData>

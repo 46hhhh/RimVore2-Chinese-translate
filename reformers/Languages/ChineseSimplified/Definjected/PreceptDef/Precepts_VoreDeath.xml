@@ -1,0 +1,19 @@
+<!-- Precepts_VoreDeath.xml -->
+<LanguageData>
+  <Rv2Reformers_Death.label>捕食致死</Rv2Reformers_Death.label>
+
+  <Rv2Reformers_VoreDeath_Normal.label>消化只是死亡的一种形式</Rv2Reformers_VoreDeath_Normal.label>
+  <Rv2Reformers_VoreDeath_Normal.description>被消化不过是死亡的一种表现形式。</Rv2Reformers_VoreDeath_Normal.description>
+
+  <Rv2Reformers_VoreDeath_Reforms.label>若能再生便无需在意</Rv2Reformers_VoreDeath_Reforms.label>
+  <Rv2Reformers_VoreDeath_Reforms.description>被消化虽是死亡的一种形式，但通过再生复活被视为逃脱这种死亡的方式。</Rv2Reformers_VoreDeath_Reforms.description>
+
+  <Rv2Reformers_VoreDeath_ReformerExists.label>被接纳的再生</Rv2Reformers_VoreDeath_ReformerExists.label>
+  <Rv2Reformers_VoreDeath_ReformerExists.description>只要重塑者在场，即便耗时长久，消化也不会终结生命。</Rv2Reformers_VoreDeath_ReformerExists.description>
+
+  <Rv2Reformers_VoreDeath_Cached.label>灵魂是否掌握在手</Rv2Reformers_VoreDeath_Cached.label>
+  <Rv2Reformers_VoreDeath_Cached.description>只要生命被记录为可再生对象，便无需考虑死亡。</Rv2Reformers_VoreDeath_Cached.description>
+
+  <Rv2Reformers_VoreDeath_DontCare.label>毫不在意</Rv2Reformers_VoreDeath_DontCare.label>
+  <Rv2Reformers_VoreDeath_DontCare.description>消化是生命抵达的真相，无论其后有何际遇皆无需介怀。</Rv2Reformers_VoreDeath_DontCare.description>
+</LanguageData>

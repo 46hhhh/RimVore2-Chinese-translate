@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Disliked -->
+
+  <RV2_Feeding_Disliked.label>嫌悪</RV2_Feeding_Disliked.label>
+  <RV2_Feeding_Disliked.description>我々は,他人のvoreのために生きている訳ではない.</RV2_Feeding_Disliked.description>
+
+
+  <!-- Abhorrent -->
+
+  <RV2_Feeding_Abhorrent.label>ぞっとする</RV2_Feeding_Abhorrent.label>
+  <RV2_Feeding_Abhorrent.description>傍観者としてVoreに加担する者は排除されるべきだ.</RV2_Feeding_Abhorrent.description>
+
+
+  <!-- Liked -->
+
+  <RV2_Feeding_Liked.label>好む</RV2_Feeding_Liked.label>
+  <RV2_Feeding_Liked.description>捕食者に与することは勧められ,そして讃えられるべきだ.</RV2_Feeding_Liked.description>
+
+
+  <!-- Required -->
+
+  <RV2_Feeding_Required.label>必須</RV2_Feeding_Required.label>
+  <RV2_Feeding_Required.description>我々はvoreをもたらす指であり,最良の相手を見出すことは我々の義務である.</RV2_Feeding_Required.description>
+  <RV2_Feeding_Required.comps.3.description>{VORERELATEDINTERVAL}日間誰も食べさせていない</RV2_Feeding_Required.comps.3.description>
+
+
+</LanguageData>

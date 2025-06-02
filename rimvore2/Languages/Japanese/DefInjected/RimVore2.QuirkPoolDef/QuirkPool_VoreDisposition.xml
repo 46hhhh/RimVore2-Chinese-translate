@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PredatorDisposition.label>捕食者の立ち位置</PredatorDisposition.label>
+  <PredatorDisposition.description>このキャラクターが捕食者の立場に着くことをどれだけ好むかを示します.極端な話になると,捕食者に一切なりたがらないか,常に捕食者になりたがるようになります.</PredatorDisposition.description>
+
+  <PreyDisposition.label>被食者の立ち位置</PreyDisposition.label>
+  <PreyDisposition.description>このキャラクターが被食者の立場に着くことをどれだけ好むかを示します.極端な話になると,被食者に一切なりたがらないか,常に被食者になりたがるようになります.</PreyDisposition.description>
+
+  <FeederDisposition.label>食べさせの立ち位置</FeederDisposition.label>
+  <FeederDisposition.description>このキャラクターが捕食者に獲物を運ぶ立場に着くことをどれだけ好むかを示します.極端な話になると,食べさせ役に一切なりたがらないか,常に捕食者に空腹かどうか聞きまわるようになります.</FeederDisposition.description>
+
+
+  <!-- feeding preference as predator -->
+
+  <FeederDisposition_Predator.label>食べさせの立ち位置 (食べさせられ役)</FeederDisposition_Predator.label>
+  <FeederDisposition_Predator.description>このキャラクターが獲物を運んでくるかどうか聞かれた時,捕食者として受け入れるかどうかを示します.</FeederDisposition_Predator.description>
+
+
+  <!-- feeding preference as prey -->
+
+  <FeederDisposition_Prey.label>食べさせの立ち位置 (食べられ役)</FeederDisposition_Prey.label>
+  <FeederDisposition_Prey.description>このキャラクターが獲物として運んでいいかどうか聞かれた時,被食者として受け入れるかどうかを示します.</FeederDisposition_Prey.description>
+
+
+</LanguageData>

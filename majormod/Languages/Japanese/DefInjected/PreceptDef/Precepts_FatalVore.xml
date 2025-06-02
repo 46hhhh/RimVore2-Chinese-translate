@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Disliked -->
+
+  <RV2_FatalVore_Disliked.label>嫌悪</RV2_FatalVore_Disliked.label>
+  <RV2_FatalVore_Disliked.description>罪のない獲物を消化することは好まれるべきでない.</RV2_FatalVore_Disliked.description>
+
+
+  <!-- Abhorrent -->
+
+  <RV2_FatalVore_Abhorrent.label>ぞっとする</RV2_FatalVore_Abhorrent.label>
+  <RV2_FatalVore_Abhorrent.description>voreを殺人の手段に捉えることは断じて許されてはいけない.</RV2_FatalVore_Abhorrent.description>
+
+
+  <!-- Liked -->
+
+  <RV2_FatalVore_Liked.label>好む</RV2_FatalVore_Liked.label>
+  <RV2_FatalVore_Liked.description>消化を伴うvoreは勧められ,そして讃えられるべきだ.</RV2_FatalVore_Liked.description>
+
+
+  <!-- Required -->
+
+  <RV2_FatalVore_Required.label>必須</RV2_FatalVore_Required.label>
+  <RV2_FatalVore_Required.description>我らは生来他を食らって生きてきた,丸呑みし消化することはそれを確認するための義務のようなものだ.</RV2_FatalVore_Required.description>
+  <RV2_FatalVore_Required.comps.3.description>{VORERELATEDINTERVAL}日間誰も消化していない</RV2_FatalVore_Required.comps.3.description>
+
+
+</LanguageData>

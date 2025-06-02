@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- should the default value get updated, it would be reasonable to update these as well -->
+
+  <StorageCapacity.label>体内キャパシティ</StorageCapacity.label>
+  <StorageCapacity.description>このキャラクターがどれだけの獲物を詰め込めるかを示します.獲物の大きさはそのまま"大きさ"数値が適応され,捕食者のキャパは,キャラクターの"大きさ"に 傾向や設定から倍率が掛けられていきます.</StorageCapacity.description>
+
+
+</LanguageData>

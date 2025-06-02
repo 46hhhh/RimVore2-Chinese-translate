@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- TargetComponentCombination -->
+  <RV2_TargetComponentCombination_Or>どちらか</RV2_TargetComponentCombination_Or>
+  <RV2_TargetComponentCombination_And>両方</RV2_TargetComponentCombination_And>
+
+  <!-- RuleTargetRole -->
+  <RV2_RuleTargetRole_All>全て</RV2_RuleTargetRole_All>
+  <RV2_RuleTargetRole_Predator>捕食者</RV2_RuleTargetRole_Predator>
+  <RV2_RuleTargetRole_Prey>被食者</RV2_RuleTargetRole_Prey>
+  <RV2_RuleTargetRole_Feeder>食べさせ</RV2_RuleTargetRole_Feeder>
+
+  <!-- CorpseProcessingType-->
+  <RV2_CorpseProcessingType_Dessicate>骨だけ</RV2_CorpseProcessingType_Dessicate>
+  <RV2_CorpseProcessingType_Rot>腐敗</RV2_CorpseProcessingType_Rot>
+  <RV2_CorpseProcessingType_Destroy>消滅</RV2_CorpseProcessingType_Destroy>
+  <RV2_CorpseProcessingType_Fresh>新鮮</RV2_CorpseProcessingType_Fresh>
+  <RV2_CorpseProcessingType_None>未処理</RV2_CorpseProcessingType_None>
+
+  <!-- StruggleForceMode -->
+  <RV2_StruggleForceMode_Invalid>無効</RV2_StruggleForceMode_Invalid>
+  <RV2_StruggleForceMode_WhenForced>強要された時</RV2_StruggleForceMode_WhenForced>
+  <RV2_StruggleForceMode_WhenNotForced>強要されない時</RV2_StruggleForceMode_WhenNotForced>
+  <RV2_StruggleForceMode_Never>抵抗しない</RV2_StruggleForceMode_Never>
+  <RV2_StruggleForceMode_Always>常にする</RV2_StruggleForceMode_Always>
+
+  <!-- QuirkRarity -->
+  <RV2_QuirkRarity_Invalid>無効</RV2_QuirkRarity_Invalid>
+  <RV2_QuirkRarity_ForcedOnly>強制時のみ</RV2_QuirkRarity_ForcedOnly>
+  <RV2_QuirkRarity_Guaranteed>確実</RV2_QuirkRarity_Guaranteed>
+  <RV2_QuirkRarity_Abundant>ありきたり</RV2_QuirkRarity_Abundant>
+  <RV2_QuirkRarity_Common>一般的</RV2_QuirkRarity_Common>
+  <RV2_QuirkRarity_Uncommon>非凡</RV2_QuirkRarity_Uncommon>
+  <RV2_QuirkRarity_Rare>希少</RV2_QuirkRarity_Rare>
+  <RV2_QuirkRarity_VeryRare>かなり奇特</RV2_QuirkRarity_VeryRare>
+</LanguageData>

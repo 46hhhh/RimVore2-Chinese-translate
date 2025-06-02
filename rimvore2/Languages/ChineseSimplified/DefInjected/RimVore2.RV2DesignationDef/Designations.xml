@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 致命目标 -->
+
+  <predator.label>捕食</predator.label>
+  <predator.description>捕食者可以吞噬其他角色</predator.description>
+  <predator.tipEnabledManually>当前该角色可以捕食其他角色。\n已由玩家手动设置</predator.tipEnabledManually>
+  <predator.tipDisabledManually>当前该角色不会捕食其他角色。\n已由玩家手动设置</predator.tipDisabledManually>
+  <predator.tipEnabledAutomatically>当前该角色可以捕食其他角色。\n根据设置自动决定</predator.tipEnabledAutomatically>
+  <predator.tipDisabledAutomatically>当前该角色不会捕食其他角色。\n根据设置自动决定</predator.tipDisabledAutomatically>
+  <predator.tipBlocked>该角色无法进行捕食。</predator.tipBlocked>
+ 
+  <fatal.label>致命吞噬</fatal.label>
+  <fatal.description>其他角色可以吞噬该角色以达到消化等目的</fatal.description>
+  <fatal.tipEnabledManually>当前该角色可被其他角色消化。\n已由玩家手动设置</fatal.tipEnabledManually>
+  <fatal.tipDisabledManually>当前该角色不会被其他角色消化。\n已由玩家手动设置</fatal.tipDisabledManually>
+  <fatal.tipEnabledAutomatically>当前该角色可被其他角色消化。\n根据设置自动决定</fatal.tipEnabledAutomatically>
+  <fatal.tipDisabledAutomatically>当前该角色不会被其他角色消化。\n根据设置自动决定</fatal.tipDisabledAutomatically>
+  <fatal.tipBlocked>该角色无法被安全捕食。</fatal.tipBlocked>
+
+  <endo.label>安全吞噬</endo.label>
+  <endo.description>其他角色可以吞噬该角色以达到储存等目的</endo.description>
+  <endo.tipEnabledManually>当前该角色可被其他角色安全吞噬。\n已由玩家手动设置</endo.tipEnabledManually>
+  <endo.tipDisabledManually>当前该角色不会被其他角色安全吞噬。\n已由玩家手动设置</endo.tipDisabledManually>
+  <endo.tipEnabledAutomatically>当前该角色可被其他角色安全吞噬。\n根据设置自动决定</endo.tipEnabledAutomatically>
+  <endo.tipDisabledAutomatically>当前该角色不会被其他角色安全吞噬。\n根据设置自动决定</endo.tipDisabledAutomatically>
+  <endo.tipBlocked>该角色无法被消化。</endo.tipBlocked>
+
+</LanguageData>

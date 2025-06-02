@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 吞噬转移记录 -->
+  <RV2_RJW_VoreTransfer_Receiver.label>吞噬：性行为中接收猎物</RV2_RJW_VoreTransfer_Receiver.label>
+  <RV2_RJW_VoreTransfer_Receiver.description>记录该角色在性行为过程中从对方体内接收猎物的次数。</RV2_RJW_VoreTransfer_Receiver.description>
+
+  <RV2_RJW_VoreTransfer_Giver.label>吞噬：性行为中转移猎物</RV2_RJW_VoreTransfer_Giver.label>
+  <RV2_RJW_VoreTransfer_Giver.description>记录该角色在性行为过程中向对方转移猎物的次数。</RV2_RJW_VoreTransfer_Giver.description>
+
+</LanguageData>

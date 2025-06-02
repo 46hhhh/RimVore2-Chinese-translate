@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食者食用记忆 (基于原版游戏修改适配特性) -->
+
+  <RV2_AteHumanlikeMeatDirect_Predator.stages.0.label>生食类人肉</RV2_AteHumanlikeMeatDirect_Predator.stages.0.label>
+  <RV2_AteHumanlikeMeatDirect_Predator.stages.0.description>至少该让它在体内蠕动一下...</RV2_AteHumanlikeMeatDirect_Predator.stages.0.description>
+
+  <RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.label>生食类人肉(食人者)</RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.label>
+  <RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.description>美味，但活体进食会更...</RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.description>
+
+  <RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.label>食用含人肉料理</RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.label>
+  <RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.description>把人肉做成料理，多么浪费啊</RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.description>
+
+  <RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.label>食用含人肉料理(食人者)</RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.label>
+  <RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.description>人肉料理虽然美味，但总觉得有些浪费</RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.description>
+
+  <!-- 甲壳食用者记忆 -->
+  <RV2_AteInsectMeatDirect_ChitinChewer.stages.0.label>生食昆虫肉</RV2_AteInsectMeatDirect_ChitinChewer.stages.0.label>
+  <RV2_AteInsectMeatDirect_ChitinChewer.stages.0.description>美味！但...活体进食应该会更美味</RV2_AteInsectMeatDirect_ChitinChewer.stages.0.description>
+
+  <RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.label>食用昆虫肉料理</RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.label>
+  <RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.description>吃下了黏糊的昆虫肉。美味，但更希望能感受到活体挣扎</RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.description>
+
+  <!-- 尸体食用记忆 -->
+  <RV2_AteCorpse_Predator.stages.0.label>吞食尸体</RV2_AteCorpse_Predator.stages.0.label>
+  <RV2_AteCorpse_Predator.stages.0.description>直接啃食尸体。这与活体吞食有着本质区别</RV2_AteCorpse_Predator.stages.0.description>
+
+</LanguageData>

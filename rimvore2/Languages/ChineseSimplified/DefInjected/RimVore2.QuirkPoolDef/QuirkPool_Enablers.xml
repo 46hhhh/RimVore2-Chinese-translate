@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Enablers_Goals_Core.label>捕食目的开关</Enablers_Goals_Core.label>
+  <Enablers_Goals_Core.description>该角色进行吞噬行为所需的核心倾向，分别表示其能以何种目的将猎物纳入体内。通过手术安装吞噬扩展装置可无视设置增加此项能力。</Enablers_Goals_Core.description>
+
+  <Enablers_Types_Core.label>捕食方式开关</Enablers_Types_Core.label>
+  <Enablers_Types_Core.description>该角色进行吞噬行为所需的核心倾向，分别表示其能以何种方式将猎物纳入体内。通过手术安装吞噬扩展装置可无视设置增加此项能力。</Enablers_Types_Core.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- THE ESSENTIAL TYPES -->
+
+  <Oral.label>口腔</Oral.label>
+  <Anal.label>肛门</Anal.label>
+  <Vaginal.label>阴道</Vaginal.label>
+  <Cock.label>阴茎</Cock.label>
+  <Nipple.label>乳头</Nipple.label>
+  <FullTour.label>体内巡游</FullTour.label>
+
+</LanguageData>

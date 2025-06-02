@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <DietaryPreference_Predator_Animals.label>猎物偏好（动物）</DietaryPreference_Predator_Animals.label>
+    <DietaryPreference_Predator_Animals.description>决定该角色如何看待动物作为猎物。极端情况下，可能完全拒绝同伴带来的动物作为食物，或只专注于寻找动物猎物。游戏机制中昆虫属于动物类别，但此处不包含。</DietaryPreference_Predator_Animals.description>
+
+    <DietaryPreference_Predator_Humanoids.label>猎物偏好（类人生物）</DietaryPreference_Predator_Humanoids.label>
+    <DietaryPreference_Predator_Humanoids.description>决定该角色如何看待类人生物作为猎物。极端情况下，可能完全拒绝同伴带来的类人生物作为食物，或只专注于寻找类人猎物。若无食人特性，即使偏好类人猎物也不愿消化。若不想修改内部数据，可通过场景编辑器设置食人特性普遍化。</DietaryPreference_Predator_Humanoids.description>
+
+    <DietaryPreference_Predator_Insectoids.label>猎物偏好（昆虫）</DietaryPreference_Predator_Insectoids.label>
+    <DietaryPreference_Predator_Insectoids.description>决定该角色如何看待昆虫作为猎物。极端情况下，可能完全拒绝同伴带来的昆虫作为食物，或只专注于寻找昆虫猎物。</DietaryPreference_Predator_Insectoids.description>
+
+    <DietaryPreference_Predator_Mechanoids.label>猎物偏好（机械族）</DietaryPreference_Predator_Mechanoids.label>
+    <DietaryPreference_Predator_Mechanoids.description>决定该角色如何看待机械族作为猎物。极端情况下，可能完全拒绝同伴带来的机械族作为食物，或只专注于寻找机械族猎物。机械族通常不可消化，但具有此偏好的角色可能具备消化能力，或至少能将其困在体内。</DietaryPreference_Predator_Mechanoids.description>
+
+    <DietaryPreference_Prey_Animals.label>捕食者偏好（动物）</DietaryPreference_Prey_Animals.label>
+    <DietaryPreference_Prey_Animals.description>决定该角色如何看待动物作为捕食者。极端情况下，可能完全拒绝同伴提出的成为其食物的提议，或只专注于寻找动物捕食者。游戏机制中昆虫属于动物类别，但此处不包含。</DietaryPreference_Prey_Animals.description>
+
+    <DietaryPreference_Prey_Humanoids.label>捕食者偏好（类人生物）</DietaryPreference_Prey_Humanoids.label>
+    <DietaryPreference_Prey_Humanoids.description>决定该角色如何看待类人生物作为捕食者。极端情况下，可能完全拒绝同伴提出的成为其食物的提议，或只专注于寻找类人捕食者。无论捕食者是否有食人特性，此偏好均不受影响。</DietaryPreference_Prey_Humanoids.description>
+
+    <DietaryPreference_Prey_Insectoids.label>捕食者偏好（昆虫）</DietaryPreference_Prey_Insectoids.label>
+    <DietaryPreference_Prey_Insectoids.description>决定该角色如何看待昆虫作为捕食者。极端情况下，可能完全拒绝同伴提出的成为其食物的提议，或只专注于寻找昆虫捕食者。</DietaryPreference_Prey_Insectoids.description>
+
+    <DietaryPreference_Prey_Mechanoids.label>捕食者偏好（机械族）</DietaryPreference_Prey_Mechanoids.label>
+    <DietaryPreference_Prey_Mechanoids.description>决定该角色如何看待机械族作为捕食者。极端情况下，可能完全拒绝同伴提出的成为其食物的提议，或只专注于寻找机械族捕食者。</DietaryPreference_Prey_Mechanoids.description>
+
+</LanguageData>

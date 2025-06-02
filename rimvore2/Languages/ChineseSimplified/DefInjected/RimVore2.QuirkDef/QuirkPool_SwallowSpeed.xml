@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SwallowSpeed_VeryGood.label>光速吞噬者</SwallowSpeed_VeryGood.label>
+  <SwallowSpeed_VeryGood.description>[PAWN_label]能以普通捕食者四倍的速度吞咽猎物。[PAWN_pronoun]的才能足以在吞噬比赛中名列前茅。</SwallowSpeed_VeryGood.description>
+
+  <SwallowSpeed_Good.label>速食专家</SwallowSpeed_Good.label>
+  <SwallowSpeed_Good.description>[PAWN_label]吞咽猎物的速度是普通捕食者的两倍。</SwallowSpeed_Good.description>
+
+  <SwallowSpeed_Normal.label>标准吞咽</SwallowSpeed_Normal.label>
+  <SwallowSpeed_Normal.description>[PAWN_label]以完全平均的速度吞咽猎物。</SwallowSpeed_Normal.description>
+
+  <SwallowSpeed_Bad.label>慢食主义者</SwallowSpeed_Bad.label>
+  <SwallowSpeed_Bad.description>[PAWN_label]会以普通捕食者一半的速度缓慢吞咽猎物。</SwallowSpeed_Bad.description>
+
+  <SwallowSpeed_VeryBad.label>磨蹭吞咽</SwallowSpeed_VeryBad.label>
+  <SwallowSpeed_VeryBad.description>不知是为了避免反胃还是纯粹出于兴趣，[PAWN_label]会以普通捕食者四分之一的速度慢慢吞咽猎物。</SwallowSpeed_VeryBad.description>
+
+</LanguageData>

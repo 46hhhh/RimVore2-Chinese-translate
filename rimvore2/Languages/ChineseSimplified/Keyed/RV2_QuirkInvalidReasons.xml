@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RV2_QuirkInvalid_Reason_NoPoolForQuirk>特性无可用来源</RV2_QuirkInvalid_Reason_NoPoolForQuirk>
+  <RV2_QuirkInvalid_BackstoryBlocking>背景故事阻止该特性</RV2_QuirkInvalid_BackstoryBlocking>
+  <RV2_QuirkInvalid_DisabledInSettings>设置中已禁用</RV2_QuirkInvalid_DisabledInSettings>
+  <RV2_QuirkInvalid_AlreadyHasQuirk>已拥有该特性</RV2_QuirkInvalid_AlreadyHasQuirk>
+  <RV2_QuirkInvalid_Reason_WouldRemoveRequiredQuirk>将移除{1}所需的{0}</RV2_QuirkInvalid_Reason_WouldRemoveRequiredQuirk>
+  <RV2_QuirkInvalid_Reason_WouldRemoveBackstoryForcedQuirk>将移除背景强制的{0}</RV2_QuirkInvalid_Reason_WouldRemoveBackstoryForcedQuirk>
+  <RV2_QuirkInvalid_Reason_WouldRemoveHediffForcedQuirk>将移除健康状态强制的{0}</RV2_QuirkInvalid_Reason_WouldRemoveHediffForcedQuirk>
+  <RV2_QuirkInvalid_Reason_OtherQuirkBlocks>被其他特性阻止</RV2_QuirkInvalid_Reason_OtherQuirkBlocks>
+  <RV2_QuirkInvalid_Reason_BackstoryBlocks>被背景故事阻止</RV2_QuirkInvalid_Reason_BackstoryBlocks>
+
+  <RV2_QuirkInvalid_Blocking>阻止 {0} {1}</RV2_QuirkInvalid_Blocking>
+  <RV2_QuirkInvalid_Required>需要 {0} {1}</RV2_QuirkInvalid_Required>
+  <RV2_QuirkInvalid_CouldNotAddWithReason>无法添加特性 {0}: {1}</RV2_QuirkInvalid_CouldNotAddWithReason>
+</LanguageData>

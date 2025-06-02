@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Disliked -->
+
+  <RV2_AnimalPredator_Disliked.stages.0.label>動物に呑まれた</RV2_AnimalPredator_Disliked.stages.0.label>
+  <RV2_AnimalPredator_Disliked.stages.0.description>やるべきでは無かったはず,教えは私を歓迎しないだろう...</RV2_AnimalPredator_Disliked.stages.0.description>
+
+  <RV2_AnimalPredator_Know_Disliked.stages.0.label>動物に丸呑みされた</RV2_AnimalPredator_Know_Disliked.stages.0.label>
+
+
+  <!-- Abhorrent -->
+
+  <RV2_AnimalPredator_Abhorrent.stages.0.label>動物の丸呑み</RV2_AnimalPredator_Abhorrent.stages.0.label>
+  <RV2_AnimalPredator_Abhorrent.stages.0.description>教義に反しているのに,動物に丸呑みされた.なんとも恐ろしい気分だ.</RV2_AnimalPredator_Abhorrent.stages.0.description>
+
+  <RV2_AnimalPredator_Know_Abhorrent.stages.0.label>誰かが動物に呑まれた!!</RV2_AnimalPredator_Know_Abhorrent.stages.0.label>
+  <RV2_AnimalPredator_Know_Abhorrent.stages.0.description>周りの誰かが動物に丸呑みされた,教えに反する忌々しい行為だ!</RV2_AnimalPredator_Know_Abhorrent.stages.0.description>
+
+  <RV2_AnimalPredator_Know_Social_Abhorrent.stages.0.label>動物に丸呑みされた</RV2_AnimalPredator_Know_Social_Abhorrent.stages.0.label>
+
+
+  <!-- Liked -->
+
+  <RV2_AnimalPredator_Liked.stages.0.label>動物に呑まれた</RV2_AnimalPredator_Liked.stages.0.label>
+  <RV2_AnimalPredator_Liked.stages.0.description>神聖な芸術に触れ,心が満たされる.</RV2_AnimalPredator_Liked.stages.0.description>
+
+  <RV2_AnimalPredator_Know_Liked.stages.0.label>動物のエサ</RV2_AnimalPredator_Know_Liked.stages.0.label>
+
+
+  <!-- Required -->
+
+  <RV2_AnimalPredator_Required.stages.0.label>動物に丸呑みされた</RV2_AnimalPredator_Required.stages.0.label>
+  <RV2_AnimalPredator_Required.stages.0.description>動物に丸呑みされることで,私は信念を確信できる.</RV2_AnimalPredator_Required.stages.0.description>
+
+  <RV2_AnimalPredator_Know_Required.stages.0.label>誰かが動物に呑まれた!</RV2_AnimalPredator_Know_Required.stages.0.label>
+  <RV2_AnimalPredator_Know_Required.stages.0.description>周りの誰かが動物に食べられた,実に尊敬すべき行いだ!</RV2_AnimalPredator_Know_Required.stages.0.description>
+
+  <RV2_AnimalPredator_Know_Social_Required.stages.0.label>神聖な動物奉仕者</RV2_AnimalPredator_Know_Social_Required.stages.0.label>
+
+  <RV2_NoRecentAnimalPredator_Required.stages.0.label>動物に丸呑みされたい</RV2_NoRecentAnimalPredator_Required.stages.0.label>
+  <RV2_NoRecentAnimalPredator_Required.stages.0.description>最後に動物に丸呑みされてから大分経ってしまった.</RV2_NoRecentAnimalPredator_Required.stages.0.description>
+
+
+  <!-- abhorrent venerated -->
+
+  <RV2_AnimalPredator_Abhorrent_Venerated.stages.0.label>神聖な動物に呑み込まれた!</RV2_AnimalPredator_Abhorrent_Venerated.stages.0.label>
+  <RV2_AnimalPredator_Abhorrent_Venerated.stages.0.description>神聖な生き物の腹を膨らませた自分は,コロニーの恥だ.</RV2_AnimalPredator_Abhorrent_Venerated.stages.0.description>
+
+  <RV2_AnimalPredator_Know_Abhorrent_Venerated.stages.0.label>神聖な動物の虐待者</RV2_AnimalPredator_Know_Abhorrent_Venerated.stages.0.label>
+
+
+  <!-- liked venerated -->
+
+  <RV2_AnimalPredator_Liked_Venerated.stages.0.label>神聖な動物に呑み込まれた</RV2_AnimalPredator_Liked_Venerated.stages.0.label>
+  <RV2_AnimalPredator_Liked_Venerated.stages.0.description>神聖な動物に丸呑みされるのは実に名誉なことだ.</RV2_AnimalPredator_Liked_Venerated.stages.0.description>
+
+  <RV2_AnimalPredator_Know_Liked_Venerated.stages.0.label>神聖な食べもの</RV2_AnimalPredator_Know_Liked_Venerated.stages.0.label>
+
+
+</LanguageData>

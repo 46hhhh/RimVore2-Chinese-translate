@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Comfort_Excellent.label>云端之床</Comfort_Excellent.label>
+  <Comfort_Excellent.description>被[PAWN_label]吞入体内的猎物，必须小心不要沉迷于这种极致的舒适感。</Comfort_Excellent.description>
+
+  <Comfort_VeryGood.label>柔软枕榻</Comfort_VeryGood.label>
+  <Comfort_VeryGood.description>被[PAWN_label]吞入体内的猎物会深深陷入柔软的肉壁中，被温柔包裹。稍不留神闭眼休息，就可能不知不觉过去数小时。</Comfort_VeryGood.description>
+
+  <Comfort_Good.label>舒适腔体</Comfort_Good.label>
+  <Comfort_Good.description>虽然会被[PAWN_label]体内的肉壁翻搅把玩，但对猎物而言反而像按摩般带来些许治愈与休息。</Comfort_Good.description>
+
+  <Comfort_Normal.label>平淡无奇</Comfort_Normal.label>
+  <Comfort_Normal.description>被[PAWN_label]吞入体内的猎物虽无特别优待，但找到个不难受的固定位置倒也不难。</Comfort_Normal.description>
+
+  <Comfort_Bad.label>粗糙腔体</Comfort_Bad.label>
+  <Comfort_Bad.description>被[PAWN_label]吞入体内的猎物，很难在那扭曲的体内找到安稳的容身之处。</Comfort_Bad.description>
+
+  <Comfort_VeryBad.label>锉刀肉壁</Comfort_VeryBad.label>
+  <Comfort_VeryBad.description>被[PAWN_label]吞入体内的猎物根本无法在那粗糙的腔体中获得安宁。或许该从[PAWN_possessive]释放猎物后的态度来揣测其真实意图。</Comfort_VeryBad.description>
+
+  <Comfort_Terrible.label>粉身碎骨</Comfort_Terrible.label>
+  <Comfort_Terrible.description>被[PAWN_label]吞入体内的猎物会遭受混凝土般的坚硬和搅拌机般的粗暴对待。[PAWN_possessive]猎物恐怕需要麻醉才能勉强入睡。</Comfort_Terrible.description>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2R_Predator_GutLibido_Voraphile.label>吞噬即情欲</RV2R_Predator_GutLibido_Voraphile.label>
+  <RV2R_Predator_GutLibido_Voraphile.description>在[PAWN_label]的价值观里，性行为不过是吞噬的前戏。用血肉与精元填满我吧，宝贝！</RV2R_Predator_GutLibido_Voraphile.description>
+
+  <RV2R_Predator_GutLibido_VeryHigh.label>饕餮捕食者的情欲</RV2R_Predator_GutLibido_VeryHigh.label>
+  <RV2R_Predator_GutLibido_VeryHigh.description>[PAWN_label]痴迷于隔着一层肉壁的翻云覆雨。热烈的夜晚根本不需要多余的身体动作。</RV2R_Predator_GutLibido_VeryHigh.description>
+
+  <RV2R_Predator_GutLibido_High.label>捕食者的情欲</RV2R_Predator_GutLibido_High.label>
+  <RV2R_Predator_GutLibido_High.description>[PAWN_label]会视情况享受肉壁间的欢愉。如果只在体外缠绵，岂不是太乏味了？</RV2R_Predator_GutLibido_High.description>
+
+  <RV2R_Predator_GutLibido_Normal.label>普通情欲</RV2R_Predator_GutLibido_Normal.label>
+  <RV2R_Predator_GutLibido_Normal.description>[PAWN_label]和常人一样享受隔着肉壁的亲密行为。</RV2R_Predator_GutLibido_Normal.description>
+
+  <RV2R_Predator_GutLibido_Low.label>纯洁捕食者</RV2R_Predator_GutLibido_Low.label>
+  <RV2R_Predator_GutLibido_Low.description>[PAWN_label]无法完全享受肉壁间的亲密行为。除非被某些变态强迫，否则ta最多只会拥抱猎物。</RV2R_Predator_GutLibido_Low.description>
+
+  <RV2R_Predator_GutLibido_None.label>毫无兴趣</RV2R_Predator_GutLibido_None.label>
+  <RV2R_Predator_GutLibido_None.description>[PAWN_label]永远无法享受肉壁间的云雨之事。虽然确实有那个器官，但不该深入探索。</RV2R_Predator_GutLibido_None.description>
+
+  <RV2R_Prey_GutLibido_Voraphile.label>吞噬即情欲</RV2R_Prey_GutLibido_Voraphile.label>
+  <RV2R_Prey_GutLibido_Voraphile.description>在[PAWN_label]的价值观里，性不过是吞噬的前戏。用血肉与精元填满我吧，宝贝！</RV2R_Prey_GutLibido_Voraphile.description>
+
+  <RV2R_Prey_GutLibido_VeryHigh.label>饕餮猎物的情欲</RV2R_Prey_GutLibido_VeryHigh.label>
+  <RV2R_Prey_GutLibido_VeryHigh.description>[PAWN_label]极度痴迷隔着一层肉壁的欢愉。腹部的震颤与摩擦，就该在最能感受这一切的地方享受。</RV2R_Prey_GutLibido_VeryHigh.description>
+
+  <RV2R_Prey_GutLibido_High.label>猎物的情欲</RV2R_Prey_GutLibido_High.label>
+  <RV2R_Prey_GutLibido_High.description>[PAWN_label]会视情况享受肉壁间的云雨。既然要享受，当然要用全身心来感受才划算。</RV2R_Prey_GutLibido_High.description>
+
+  <RV2R_Prey_GutLibido_Normal.label>普通情欲</RV2R_Prey_GutLibido_Normal.label>
+  <RV2R_Prey_GutLibido_Normal.description>[PAWN_label]和常人一样享受隔着肉壁的亲密行为。</RV2R_Prey_GutLibido_Normal.description>
+
+  <RV2R_Prey_GutLibido_Low.label>纯洁猎物</RV2R_Prey_GutLibido_Low.label>
+  <RV2R_Prey_GutLibido_Low.description>[PAWN_label]不像其他人那样享受在体内被揉捏的感觉。虽然捕食者的热情动作偶尔能带来快感，但ta通常更喜欢单纯的依偎。</RV2R_Prey_GutLibido_Low.description>
+
+  <RV2R_Prey_GutLibido_None.label>毫无兴趣</RV2R_Prey_GutLibido_None.label>
+  <RV2R_Prey_GutLibido_None.description>[PAWN_label]永远无法享受肉壁间的欢愉。想在那种地方寻找爱意，只会被肉壁阻隔。</RV2R_Prey_GutLibido_None.description>
+
+</LanguageData>

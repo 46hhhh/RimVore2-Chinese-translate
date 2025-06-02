@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 口腔融合 -->
+  <OralAmalgamate.label>(融合)唇部</OralAmalgamate.label>
+  <OralAmalgamate.RMBLabel>唇部融合</OralAmalgamate.RMBLabel>
+  <OralAmalgamate.actionDescription>{0}正试图将{1}融入唇部永久保存</OralAmalgamate.actionDescription>
+  <OralAmalgamate.description>捕食者通过唇部融合猎物可永久性增强唇部丰满度与润泽感(游戏内无视觉变化)。</OralAmalgamate.description>
+
+  <!-- 肛门融合 -->
+  <AnalAmalgamate.label>(融合)臀部</AnalAmalgamate.label>
+  <AnalAmalgamate.RMBLabel>臀部融合</AnalAmalgamate.RMBLabel>
+  <AnalAmalgamate.actionDescription>{0}正试图将{1}融入臀部永久保存</AnalAmalgamate.actionDescription>
+  <AnalAmalgamate.description>通过臀部融合可永久增强臀部丰满度与弹性(游戏内无视觉变化)。</AnalAmalgamate.description>
+
+  <!-- 阴道融合 -->
+  <VaginalAmalgamate.label>(融合)阴唇</VaginalAmalgamate.label>
+  <VaginalAmalgamate.RMBLabel>阴唇融合</VaginalAmalgamate.RMBLabel>
+  <VaginalAmalgamate.actionDescription>{0}正试图将{1}融入阴道永久保存</VaginalAmalgamate.actionDescription>
+  <VaginalAmalgamate.description>阴唇融合可永久增强私处丰满度与情色质感(游戏内无视觉变化)。</VaginalAmalgamate.description>
+
+  <!-- 阴茎融合 -->
+  <CockAmalgamate.label>(融合)阴茎</CockAmalgamate.label>
+  <CockAmalgamate.RMBLabel>阴茎融合</CockAmalgamate.RMBLabel>
+  <CockAmalgamate.actionDescription>{0}正试图将{1}融入阴茎永久保存</CockAmalgamate.actionDescription>
+  <CockAmalgamate.description>阴茎融合可永久增强尺寸与情色表现(游戏内无视觉变化)。</CockAmalgamate.description>
+
+  <!-- 乳首融合 -->
+  <NippleAmalgamate.label>(融合)乳尖</NippleAmalgamate.label>
+  <NippleAmalgamate.RMBLabel>乳尖融合</NippleAmalgamate.RMBLabel>
+  <NippleAmalgamate.actionDescription>{0}正试图将{1}融入乳尖永久保存</NippleAmalgamate.actionDescription>
+  <NippleAmalgamate.description>乳尖融合可永久增强胸部丰满度与情色质感(游戏内无视觉变化)。</NippleAmalgamate.description>
+
+  <!-- 乳沟融合 -->
+  <CleavageAmalgamate.label>(融合)乳沟</CleavageAmalgamate.label>
+  <CleavageAmalgamate.RMBLabel>乳沟融合</CleavageAmalgamate.RMBLabel>
+  <CleavageAmalgamate.actionDescription>{0}正试图将{1}融入乳沟永久保存</CleavageAmalgamate.actionDescription>
+  <CleavageAmalgamate.description>乳沟融合可永久增强胸部丰满度与曲线美(游戏内无视觉变化)。</CleavageAmalgamate.description>
+
+  <!-- 脐部融合 -->
+  <NavelAmalgamate.label>(融合)脐部</NavelAmalgamate.label>
+  <NavelAmalgamate.RMBLabel>脐部融合</NavelAmalgamate.RMBLabel>
+  <NavelAmalgamate.actionDescription>{0}正试图将{1}融入脐部永久保存</NavelAmalgamate.actionDescription>
+  <NavelAmalgamate.description>脐部融合可永久增强腹部丰满度与柔软质感(游戏内无视觉变化)。</NavelAmalgamate.description>
+
+  <!-- 乳房融合 -->
+  <UdderAmalgamate.label>(融合)乳房</UdderAmalgamate.label>
+  <UdderAmalgamate.RMBLabel>乳房融合</UdderAmalgamate.RMBLabel>
+  <UdderAmalgamate.actionDescription>{0}正试图将{1}融入乳房永久保存</UdderAmalgamate.actionDescription>
+  <UdderAmalgamate.description>乳房融合可永久增强胸部丰满度与曲线美(游戏内无视觉变化)。</UdderAmalgamate.description>
+
+</LanguageData>

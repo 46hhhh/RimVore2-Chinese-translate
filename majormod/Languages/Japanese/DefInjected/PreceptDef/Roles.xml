@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_IdeoRole_AlphaPredator.label>貪欲なる捕食者</RV2_IdeoRole_AlphaPredator.label>
+  <RV2_IdeoRole_AlphaPredator.description>貪欲なる捕食者は捕食者主体となる儀式を取り仕切り,他を圧倒する力を誇る代わりに,雑務を行うことは出来なくなります.</RV2_IdeoRole_AlphaPredator.description>
+
+  <RV2_IdeoRole_ChosenPrey.label>選ばれし被食者</RV2_IdeoRole_ChosenPrey.label>
+  <RV2_IdeoRole_ChosenPrey.description>選ばれし被食者は被食者主体となる儀式を取り仕切り,より高い社交スキルを持ち傷の治りも早いです.</RV2_IdeoRole_ChosenPrey.description>
+
+  <RV2_IdeoRole_Feeder.label>捕食の調律者</RV2_IdeoRole_Feeder.label>
+  <RV2_IdeoRole_Feeder.description>捕食の調律者は儀式の間,捕食者と被食者の間でvoreを取り仕切る役目を負います.</RV2_IdeoRole_Feeder.description>
+
+
+</LanguageData>

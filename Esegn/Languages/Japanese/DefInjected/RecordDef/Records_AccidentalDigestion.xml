@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_EADD_AccidentalDigestion_Predator.label>Vore:捕食者 不本意消化</RV2_EADD_AccidentalDigestion_Predator.label>
+  <RV2_EADD_AccidentalDigestion_Predator.description>獲物を不本意に消化し始めた回数です.</RV2_EADD_AccidentalDigestion_Predator.description>
+
+  <RV2_EADD_AccidentalDigestion_Prey.label>Vore:被食者 不本意消化</RV2_EADD_AccidentalDigestion_Prey.label>
+  <RV2_EADD_AccidentalDigestion_Prey.description>獲物として不本意に消化され始めた回数です.</RV2_EADD_AccidentalDigestion_Prey.description>
+
+
+</LanguageData>

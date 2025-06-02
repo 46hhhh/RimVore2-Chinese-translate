@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Struggle Situations -->
+  <RV2_PreyStruggling.stages.0.label>挣扎的猎物</RV2_PreyStruggling.stages.0.label>
+  <RV2_PreyStruggling.stages.0.description>感觉并不舒服...</RV2_PreyStruggling.stages.0.description>
+  <RV2_PreyStruggling.stages.1.label>多人的抵抗</RV2_PreyStruggling.stages.1.label>
+  <RV2_PreyStruggling.stages.1.description>像是消化不良的感觉...</RV2_PreyStruggling.stages.1.description>
+
+  <RV2_PreyStruggling_Loved.stages.0.label>挣扎的猎物</RV2_PreyStruggling_Loved.stages.0.label>
+  <RV2_PreyStruggling_Loved.stages.0.description>感觉非常舒服</RV2_PreyStruggling_Loved.stages.0.description>
+  <RV2_PreyStruggling_Loved.stages.1.label>多人的抵抗</RV2_PreyStruggling_Loved.stages.1.label>
+  <RV2_PreyStruggling_Loved.stages.1.description>啊，再多...再多挣扎一下吧！</RV2_PreyStruggling_Loved.stages.1.description>
+
+  <RV2_PreyStruggling_Hated.stages.0.label>挣扎的猎物</RV2_PreyStruggling_Hated.stages.0.label>
+  <RV2_PreyStruggling_Hated.stages.0.description>简直是恐怖的感觉</RV2_PreyStruggling_Hated.stages.0.description>
+  <RV2_PreyStruggling_Hated.stages.1.label>多人的抵抗</RV2_PreyStruggling_Hated.stages.1.label>
+  <RV2_PreyStruggling_Hated.stages.1.description>好想吐...讨厌...！别挣扎了...！</RV2_PreyStruggling_Hated.stages.1.description>
+
+
+</LanguageData>

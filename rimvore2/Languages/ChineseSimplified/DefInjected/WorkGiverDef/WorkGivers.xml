@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_ProposeVore.label>发起捕食请求</RV2_ProposeVore.label>
+  <RV2_ProposeVore.verb>请求</RV2_ProposeVore.verb>
+  <RV2_ProposeVore.gerund>正在向{0}发起捕食请求</RV2_ProposeVore.gerund>
+
+</LanguageData>

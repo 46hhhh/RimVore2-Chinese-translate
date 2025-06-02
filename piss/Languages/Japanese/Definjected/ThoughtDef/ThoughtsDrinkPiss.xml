@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <RV2_ConsumedDigestedPrey_Piss.stages.0.label>尿化された獲物を食べた</RV2_ConsumedDigestedPrey_Piss.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Piss.stages.0.description>それなりの味,抵抗する程のものでもない.</RV2_ConsumedDigestedPrey_Piss.stages.0.description>
+  
+  <RV2_ConsumedDigestedPrey_Piss_VeryGood.stages.0.label>大好きな尿化された獲物を食べた</RV2_ConsumedDigestedPrey_Piss_VeryGood.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Piss_VeryGood.stages.0.description>まるで神のカンロのように,舌の上で至高の味が踊る!</RV2_ConsumedDigestedPrey_Piss_VeryGood.stages.0.description>
+  
+  <RV2_ConsumedDigestedPrey_Piss_Good.stages.0.label>好きな尿化された獲物を食べた</RV2_ConsumedDigestedPrey_Piss_Good.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Piss_Good.stages.0.description>良い喉越しがして,濃厚な後味におかわりが欲しくなる.</RV2_ConsumedDigestedPrey_Piss_Good.stages.0.description>
+  
+  <RV2_ConsumedDigestedPrey_Piss_Bad.stages.0.label>嫌いな尿化された獲物を食べた</RV2_ConsumedDigestedPrey_Piss_Bad.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Piss_Bad.stages.0.description>おえっ...本当に飲んだなんて.</RV2_ConsumedDigestedPrey_Piss_Bad.stages.0.description>
+  
+  <RV2_ConsumedDigestedPrey_Piss_VeryBad.stages.0.label>大嫌いな尿化された獲物を食べた</RV2_ConsumedDigestedPrey_Piss_VeryBad.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Piss_VeryBad.stages.0.description>あ" ぁっ!きつい匂いが喉に残る...</RV2_ConsumedDigestedPrey_Piss_VeryBad.stages.0.description>
+</LanguageData>

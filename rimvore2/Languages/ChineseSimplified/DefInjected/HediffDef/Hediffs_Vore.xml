@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Anus -->
+
+    <RV2_PreyInAnus.label>肛门中的猎物</RV2_PreyInAnus.label>
+
+    <RV2_PreyInAnusDumping.label>肛门中的猎物</RV2_PreyInAnusDumping.label>
+    <RV2_PreyInAnusDumping.description>这个角色正试图将猎物残渣从肛门排出。</RV2_PreyInAnusDumping.description>
+
+    <RV2_PreyInAnusExiting.label>肛门中的猎物</RV2_PreyInAnusExiting.label>
+    <RV2_PreyInAnusExiting.description>这个角色正试图将猎物从肛门排出。</RV2_PreyInAnusExiting.description>
+
+    <RV2_PreyInAnusPassing.label>肛门中的猎物</RV2_PreyInAnusPassing.label>
+    <RV2_PreyInAnusPassing.description>这个角色正试图将猎物推入肛门。</RV2_PreyInAnusPassing.description>
+
+    <RV2_PreyInAnusPleasuring.label>肛门中的猎物</RV2_PreyInAnusPleasuring.label>
+    <RV2_PreyInAnusPleasuring.description>这个角色正将猎物当作玩具在肛门中玩弄。</RV2_PreyInAnusPleasuring.description>
+
+
+    <!-- Breasts -->
+
+    <RV2_PreyInBreasts.label>乳房中的猎物</RV2_PreyInBreasts.label>
+
+    <RV2_PreyInBreastsConvertingMilk.label>乳房中的猎物</RV2_PreyInBreastsConvertingMilk.label>
+    <RV2_PreyInBreastsConvertingMilk.description>这个角色正试图将猎物残渣转化为乳汁。</RV2_PreyInBreastsConvertingMilk.description>
+
+    <RV2_PreyInBreastsDissolving.label>乳房中的猎物</RV2_PreyInBreastsDissolving.label>
+    <RV2_PreyInBreastsDissolving.description>这个角色正试图在乳房中溶解猎物。此过程无法满足饥饿。</RV2_PreyInBreastsDissolving.description>
+
+    <RV2_PreyInBreastsMushing.label>乳房中的猎物</RV2_PreyInBreastsMushing.label>
+    <RV2_PreyInBreastsMushing.description>这个角色正试图在乳房中分解猎物。此过程无法满足饥饿。</RV2_PreyInBreastsMushing.description>
+
+    <RV2_PreyInBreastsPleasuring.label>乳房中的猎物</RV2_PreyInBreastsPleasuring.label>
+    <RV2_PreyInBreastsPleasuring.description>这个角色正从乳房中的猎物获得快感。</RV2_PreyInBreastsPleasuring.description>
+
+    <RV2_PreyInBreastsStoring.label>乳房中的猎物</RV2_PreyInBreastsStoring.label>
+    <RV2_PreyInBreastsStoring.description>这个角色将猎物囚禁在乳房中。</RV2_PreyInBreastsStoring.description>
+
+    <RV2_PreyInBreastsWarming.label>乳房中的猎物</RV2_PreyInBreastsWarming.label>
+    <RV2_PreyInBreastsWarming.description>这个角色正在分泌下一步处理所需要的酶</RV2_PreyInBreastsWarming.description>
+
+    <RV2_PreyInBreastsHealing.label>乳房中的猎物</RV2_PreyInBreastsHealing.label>
+    <RV2_PreyInBreastsHealing.description>这个角色正在乳房中治愈猎物。</RV2_PreyInBreastsHealing.description>
+
+
+    <!-- Intestines -->
+
+    <RV2_PreyInIntestines.label>肠道中的猎物</RV2_PreyInIntestines.label>
+
+    <RV2_PreyInIntestinesExiting.label>肠道中的猎物</RV2_PreyInIntestinesExiting.label>
+    <RV2_PreyInIntestinesExiting.description>这个角色正试图将猎物从肠道送入肛门。</RV2_PreyInIntestinesExiting.description>
+
+    <RV2_PreyInIntestinesPassing.label>肠道中的猎物</RV2_PreyInIntestinesPassing.label>
+    <RV2_PreyInIntestinesPassing.description>这个角色正试图将猎物从肠道推回胃部。</RV2_PreyInIntestinesPassing.description>
+
+    <RV2_PreyInIntestinesPleasuring.label>肠道中的猎物</RV2_PreyInIntestinesPleasuring.label>
+    <RV2_PreyInIntestinesPleasuring.description>这个角色正从肠道中的猎物获得快感。</RV2_PreyInIntestinesPleasuring.description>
+
+    <RV2_PreyInIntestinesProcessing.label>肠道中的猎物</RV2_PreyInIntestinesProcessing.label>
+    <RV2_PreyInIntestinesProcessing.description>这个角色正试图从肠道中的猎物残渣吸收营养。</RV2_PreyInIntestinesProcessing.description>
+
+    <RV2_PreyInIntestinesStoring.label>肠道中的猎物</RV2_PreyInIntestinesStoring.label>
+    <RV2_PreyInIntestinesStoring.description>这个角色将猎物囚禁在肠道中。</RV2_PreyInIntestinesStoring.description>
+
+
+    <!-- Mouth -->
+
+    <RV2_PreyInMouth.label>口中的猎物</RV2_PreyInMouth.label>
+
+    <RV2_PreyInMouthPassing.label>口中的猎物</RV2_PreyInMouthPassing.label>
+    <RV2_PreyInMouthPassing.description>这个角色正试图将猎物送入胃部，因此说话和呼吸变得有些困难。</RV2_PreyInMouthPassing.description>
+
+    <RV2_PreyInMouthPleasuring.label>口中的猎物</RV2_PreyInMouthPleasuring.label>
+    <RV2_PreyInMouthPleasuring.description>这个角色正用舌头玩弄被即将被吞下的猎物，因此说话和呼吸变得有些困难。</RV2_PreyInMouthPleasuring.description>
+
+    <RV2_PreyInMouthExiting.label>口中的猎物</RV2_PreyInMouthExiting.label>
+    <RV2_PreyInMouthExiting.description>这个角色正试图将猎物从胃部吐出，因此说话和呼吸变得有些困难。</RV2_PreyInMouthExiting.description>
+
+    <RV2_PreyExitingMouthPleasuring.label>口中的猎物</RV2_PreyExitingMouthPleasuring.label>
+    <RV2_PreyExitingMouthPleasuring.description>这个角色正用舌头玩弄即将吐出的猎物，因此说话和呼吸变得有些困难。</RV2_PreyExitingMouthPleasuring.description>
+
+    <!-- Nipple -->
+    <RV2_PreyInNipple.label>乳头中的猎物</RV2_PreyInNipple.label>
+
+    <RV2_PreyInNippleDumping.label>乳头中的猎物</RV2_PreyInNippleDumping.label>
+    <RV2_PreyInNippleDumping.description>这个角色正试图将猎物的残骸从乳头中排出。</RV2_PreyInNippleDumping.description>
+
+    <RV2_PreyInNippleExiting.label>乳头中的猎物</RV2_PreyInNippleExiting.label>
+    <RV2_PreyInNippleExiting.description>这个角色正试图将猎物从乳头中排出。</RV2_PreyInNippleExiting.description>
+
+    <RV2_PreyInNipplePassing.label>乳头中的猎物</RV2_PreyInNipplePassing.label>
+    <RV2_PreyInNipplePassing.description>这个角色正试图将猎物塞入乳头中。</RV2_PreyInNipplePassing.description>
+
+    <RV2_PreyInNipplePleasuring.label>乳头中的猎物</RV2_PreyInNipplePleasuring.label>
+    <RV2_PreyInNipplePleasuring.description>这个角色正试图通过乳头中的猎物获得快感。</RV2_PreyInNipplePleasuring.description>
+
+    <!-- Stomach -->
+    <RV2_PreyInStomach.label>胃中的猎物</RV2_PreyInStomach.label>
+
+    <RV2_PreyInStomachChurning.label>胃中的猎物</RV2_PreyInStomachChurning.label>
+    <RV2_PreyInStomachChurning.description>这个角色正试图将半溶解的猎物完全转化为汤汁。</RV2_PreyInStomachChurning.description>
+
+    <RV2_PreyInStomachDigesting.label>胃中的猎物</RV2_PreyInStomachDigesting.label>
+    <RV2_PreyInStomachDigesting.description>这个角色正在消化猎物。</RV2_PreyInStomachDigesting.description>
+
+    <RV2_PreyInStomachPleasuring.label>胃中的猎物</RV2_PreyInStomachPleasuring.label>
+    <RV2_PreyInStomachPleasuring.description>这个角色正通过胃中的猎物获得快感。</RV2_PreyInStomachPleasuring.description>
+
+    <RV2_PreyInStomachStoring.label>胃中的猎物</RV2_PreyInStomachStoring.label>
+    <RV2_PreyInStomachStoring.description>这个角色将猎物囚禁在胃中。</RV2_PreyInStomachStoring.description>
+
+    <RV2_PreyInStomachWarming.label>胃中的猎物</RV2_PreyInStomachWarming.label>
+    <RV2_PreyInStomachWarming.description>这个角色正在分泌下一步处理所需要的酶</RV2_PreyInStomachWarming.description>
+
+    <RV2_PreyInStomachHealing.label>胃中的猎物</RV2_PreyInStomachHealing.label>
+    <RV2_PreyInStomachHealing.description>这个角色正在胃中治愈猎物。</RV2_PreyInStomachHealing.description>
+
+    <!-- Cock -->
+
+    <RV2_PreyInCock.label>阴茎中的猎物</RV2_PreyInCock.label>
+
+    <RV2_PreyInCockDumping.label>阴茎中的猎物</RV2_PreyInCockDumping.label>
+    <RV2_PreyInCockDumping.description>这个角色正试图将猎物的残骸从阴茎中排出。无论是高潮般的猛烈，还是无力地流淌，最终产物都不会改变。</RV2_PreyInCockDumping.description>
+
+    <RV2_PreyInCockExiting.label>阴茎中的猎物</RV2_PreyInCockExiting.label>
+    <RV2_PreyInCockExiting.description>这个角色正试图将猎物从阴茎中排出。</RV2_PreyInCockExiting.description>
+
+    <RV2_PreyInCockPassing.label>阴茎中的猎物</RV2_PreyInCockPassing.label>
+    <RV2_PreyInCockPassing.description>这个角色正试图将猎物推入阴茎中。</RV2_PreyInCockPassing.description>
+
+    <RV2_PreyInCockPleasuring.label>阴茎中的猎物</RV2_PreyInCockPleasuring.label>
+    <RV2_PreyInCockPleasuring.description>这个角色将阴茎中的猎物当作尿道棒一样使用。</RV2_PreyInCockPleasuring.description>
+
+    <!-- Testicles -->
+
+    <RV2_PreyInTesticles.label>睾丸中的猎物</RV2_PreyInTesticles.label>
+
+    <RV2_PreyInTesticlesConvertingSperm.label>睾丸中的猎物</RV2_PreyInTesticlesConvertingSperm.label>
+    <RV2_PreyInTesticlesConvertingSperm.description>这个角色正试图将猎物的残骸转化为精液。</RV2_PreyInTesticlesConvertingSperm.description>
+
+    <RV2_PreyInTesticlesDissolving.label>睾丸中的猎物</RV2_PreyInTesticlesDissolving.label>
+    <RV2_PreyInTesticlesDissolving.description>这个角色正试图在睾丸中溶解猎物。此过程无法满足饥饿感。</RV2_PreyInTesticlesDissolving.description>
+
+    <RV2_PreyInTesticlesMushing.label>睾丸中的猎物</RV2_PreyInTesticlesMushing.label>
+    <RV2_PreyInTesticlesMushing.description>这个角色正试图在睾丸中分解猎物。此过程无法满足饥饿感。</RV2_PreyInTesticlesMushing.description>
+
+    <RV2_PreyInTesticlesPleasuring.label>睾丸中的猎物</RV2_PreyInTesticlesPleasuring.label>
+    <RV2_PreyInTesticlesPleasuring.description>这个角色正通过睾丸中的猎物获得快感。</RV2_PreyInTesticlesPleasuring.description>
+
+    <RV2_PreyInTesticlesStoring.label>睾丸中的猎物</RV2_PreyInTesticlesStoring.label>
+    <RV2_PreyInTesticlesStoring.description>这个角色将猎物囚禁在睾丸中。</RV2_PreyInTesticlesStoring.description>
+
+    <RV2_PreyInTesticlesWarming.label>睾丸中的猎物</RV2_PreyInTesticlesWarming.label>
+    <RV2_PreyInTesticlesWarming.description>这个角色正在分泌下一步处理所需要的酶</RV2_PreyInTesticlesWarming.description>
+
+    <RV2_PreyInTesticlesHealing.label>睾丸中的猎物</RV2_PreyInTesticlesHealing.label>
+    <RV2_PreyInTesticlesHealing.description>这个角色正在睾丸中治愈猎物。</RV2_PreyInTesticlesHealing.description>
+
+    <!-- Vagina -->
+
+    <RV2_PreyInVagina.label>阴道中的猎物</RV2_PreyInVagina.label>
+
+    <RV2_PreyInVaginaDumping.label>阴道中的猎物</RV2_PreyInVaginaDumping.label>
+    <RV2_PreyInVaginaDumping.description>这个角色正试图将猎物的残骸从阴道中排出。无论是高潮般的猛烈，还是无力地流淌，最终产物都不会改变。</RV2_PreyInVaginaDumping.description>
+
+    <RV2_PreyInVaginaExiting.label>阴道中的猎物</RV2_PreyInVaginaExiting.label>
+    <RV2_PreyInVaginaExiting.description>这个角色正试图将猎物从阴道中排出。</RV2_PreyInVaginaExiting.description>
+
+    <RV2_PreyInVaginaPassing.label>阴道中的猎物</RV2_PreyInVaginaPassing.label>
+    <RV2_PreyInVaginaPassing.description>这个角色正试图将猎物推入阴道中。</RV2_PreyInVaginaPassing.description>
+
+    <RV2_PreyInVaginaPleasuring.label>阴道中的猎物</RV2_PreyInVaginaPleasuring.label>
+    <RV2_PreyInVaginaPleasuring.description>这个角色将阴道中的猎物当作假阴茎一样使用。</RV2_PreyInVaginaPleasuring.description>
+
+    <!-- Womb -->
+    <RV2_PreyInWomb.label>子宫中的猎物</RV2_PreyInWomb.label>
+
+    <RV2_PreyInWombConvertingLube.label>子宫中的猎物</RV2_PreyInWombConvertingLube.label>
+    <RV2_PreyInWombConvertingLube.description>这个角色正试图将猎物的残骸转化为爱液。</RV2_PreyInWombConvertingLube.description>
+
+    <RV2_PreyInWombDissolving.label>子宫中的猎物</RV2_PreyInWombDissolving.label>
+    <RV2_PreyInWombDissolving.description>这个角色正试图在子宫中溶解猎物。此过程无法满足饥饿。</RV2_PreyInWombDissolving.description>
+
+    <RV2_PreyInWombMushing.label>子宫中的猎物</RV2_PreyInWombMushing.label>
+    <RV2_PreyInWombMushing.description>这个角色正试图在子宫中分解猎物。此过程无法满足饥饿。</RV2_PreyInWombMushing.description>
+
+    <RV2_PreyInWombPleasuring.label>子宫中的猎物</RV2_PreyInWombPleasuring.label>
+    <RV2_PreyInWombPleasuring.description>这个角色正通过子宫中的猎物获得快感。</RV2_PreyInWombPleasuring.description>
+
+    <RV2_PreyInWombStoring.label>子宫中的猎物</RV2_PreyInWombStoring.label>
+    <RV2_PreyInWombStoring.description>这个角色将猎物囚禁在子宫中。</RV2_PreyInWombStoring.description>
+
+    <RV2_PreyInWombWarming.label>子宫中的猎物</RV2_PreyInWombWarming.label>
+    <RV2_PreyInWombWarming.description>这个角色正在做某种准备工作</RV2_PreyInWombWarming.description>
+
+    <RV2_PreyInWombReforming.label>子宫中的猎物</RV2_PreyInWombReforming.label>
+    <RV2_PreyInWombReforming.description>这个角色正试图在子宫中重塑猎物。</RV2_PreyInWombReforming.description>
+
+    <RV2_PreyInWombHealing.label>子宫中的猎物</RV2_PreyInWombHealing.label>
+    <RV2_PreyInWombHealing.description>这个角色正在子宫中治愈猎物。</RV2_PreyInWombHealing.description>
+
+</LanguageData>

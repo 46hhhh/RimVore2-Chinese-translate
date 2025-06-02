@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Predator side -->
+
+  <!-- 捕食者侧偏好 -->
+  <GoalPreference_Predator_Digest.label>捕食者目的偏好（消化）</GoalPreference_Predator_Digest.label>
+  <GoalPreference_Predator_Digest.description>表示该角色偏好将猎物消化并转化为排泄物的程度。极端情况下可能总是消化猎物，反之亦然。</GoalPreference_Predator_Digest.description>
+
+  <GoalPreference_Predator_Pleasure.label>捕食者目的偏好（快感）</GoalPreference_Predator_Pleasure.label>
+  <GoalPreference_Predator_Pleasure.description>表示该角色偏好为快感而使用猎物的程度。极端情况下可能总是玩弄猎物，反之亦然。</GoalPreference_Predator_Pleasure.description>
+
+  <GoalPreference_Predator_Store.label>捕食者目的偏好（储存）</GoalPreference_Predator_Store.label>
+  <GoalPreference_Predator_Store.description>表示该角色偏好储存猎物的程度。极端情况下可能总是囚禁猎物，反之亦然。</GoalPreference_Predator_Store.description>
+
+  <GoalPreference_Predator_Hold.label>捕食者目的偏好（暂存）</GoalPreference_Predator_Hold.label>
+  <GoalPreference_Predator_Hold.description>表示该角色偏好暂时储存猎物的程度。</GoalPreference_Predator_Hold.description>
+
+  <GoalPreference_Predator_Heal.label>捕食者目的偏好（治疗）</GoalPreference_Predator_Heal.label>
+  <GoalPreference_Predator_Heal.description>表示该角色偏好治疗猎物的程度。</GoalPreference_Predator_Heal.description>
+
+  <!-- 猎物侧偏好 -->
+  <GoalPreference_Prey_Digest.label>猎物目的偏好（消化）</GoalPreference_Prey_Digest.label>
+  <GoalPreference_Prey_Digest.description>表示该角色偏好被消化程度的程度。极端情况下可能总是寻求被消化（需注意调整此倾向出现率，否则捕食者可能很快会变成排泄物）。</GoalPreference_Prey_Digest.description>
+
+  <GoalPreference_Prey_Pleasure.label>猎物目的偏好（快感）</GoalPreference_Prey_Pleasure.label>
+  <GoalPreference_Prey_Pleasure.description>表示该角色偏好为快感而被使用的程度。极端情况下可能总是寻求快感，反之亦然。</GoalPreference_Prey_Pleasure.description>
+
+  <GoalPreference_Prey_Store.label>猎物目的偏好（储存）</GoalPreference_Prey_Store.label>
+  <GoalPreference_Prey_Store.description>表示该角色偏好被囚禁程度的程度。极端情况下可能总是寻求被囚禁（需注意调整此倾向出现率，否则可能许多角色会长期待在他人体内）。</GoalPreference_Prey_Store.description>
+
+  <GoalPreference_Prey_Hold.label>猎物目的偏好（暂存）</GoalPreference_Prey_Hold.label>
+  <GoalPreference_Prey_Hold.description>表示该角色偏好被暂时储存程度的程度。极端情况下可能总是寻求进入体内，反之亦然。</GoalPreference_Prey_Hold.description>
+
+  <GoalPreference_Prey_Heal.label>猎物目的偏好（治疗）</GoalPreference_Prey_Heal.label>
+  <GoalPreference_Prey_Heal.description>表示该角色偏好被治疗程度的程度。极端情况下可能总是寻求治疗，反之亦然。</GoalPreference_Prey_Heal.description>
+
+
+</LanguageData>

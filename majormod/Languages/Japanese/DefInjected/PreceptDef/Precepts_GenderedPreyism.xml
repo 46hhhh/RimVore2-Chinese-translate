@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <RV2_GenderedPreyism_FemaleOnly.label>女性捕食者のみ</RV2_GenderedPreyism_FemaleOnly.label>
+  <RV2_GenderedPreyism_FemaleOnly.description>メスの身体だけが捕食者としてふさわしい.</RV2_GenderedPreyism_FemaleOnly.description>
+
+  <RV2_GenderedPreyism_FemalePreferred.label>女性捕食者尊重</RV2_GenderedPreyism_FemalePreferred.label>
+  <RV2_GenderedPreyism_FemalePreferred.description>その身体は捕食者として拡げられるべきだ.</RV2_GenderedPreyism_FemalePreferred.description>
+
+  <RV2_GenderedPreyism_MalePreferred.label>男性捕食者尊重</RV2_GenderedPreyism_MalePreferred.label>
+  <RV2_GenderedPreyism_MalePreferred.description>その身体は捕食者として拡げられるべきだ.</RV2_GenderedPreyism_MalePreferred.description>
+
+  <RV2_GenderedPreyism_MaleOnly.label>男性捕食者のみ</RV2_GenderedPreyism_MaleOnly.label>
+  <RV2_GenderedPreyism_MaleOnly.description>オスの身体だけが捕食者としてふさわしい.</RV2_GenderedPreyism_MaleOnly.description>
+
+</LanguageData>

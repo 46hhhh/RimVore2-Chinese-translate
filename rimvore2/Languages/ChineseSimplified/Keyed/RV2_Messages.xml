@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 自动吞噬通知 -->
+  <RV2_Message_VoreProposalForced>{INITIATOR} 正在向 {TARGET} 提出吞噬请求</RV2_Message_VoreProposalForced>
+  <RV2_Message_VoreProposalAccepted>{TARGET} 接受了 {INITIATOR} 的吞噬请求</RV2_Message_VoreProposalAccepted>
+  <RV2_Message_VoreProposalDenied>{TARGET} 拒绝了 {INITIATOR} 的吞噬请求</RV2_Message_VoreProposalDenied>
+  <RV2_Message_VoreProposalAccepted_Feeder_Predator>{PREDATOR} 接受了 {FEEDER} 提供的食物</RV2_Message_VoreProposalAccepted_Feeder_Predator>
+  <RV2_Message_VoreProposalForced_Feeder_Predator>{FEEDER} 决定强行给 {PREDATOR} 喂食</RV2_Message_VoreProposalForced_Feeder_Predator>
+  <RV2_Message_VoreProposalDenied_Feeder_Predator>{PREDATOR} 拒绝了 {FEEDER} 提供的食物</RV2_Message_VoreProposalDenied_Feeder_Predator>
+  <RV2_Message_VoreProposalAccepted_Feeder_Prey>{PREY} 接受了 {FEEDER} 提出的成为 {PREDATOR} 食物的请求</RV2_Message_VoreProposalAccepted_Feeder_Prey>
+  <RV2_Message_VoreProposalForced_Feeder_Prey>{FEEDER} 决定强行将 {PREY} 喂给 {PREDATOR}</RV2_Message_VoreProposalForced_Feeder_Prey>
+  <RV2_Message_VoreProposalDenied_Feeder_Prey>{PREY} 拒绝了 {FEEDER} 提出的成为 {PREDATOR} 食物的请求</RV2_Message_VoreProposalDenied_Feeder_Prey>
+  
+  <!-- 重组失败 -->
+  <RV2_Message_ReformationFailed_PawnDead>{0} 在重组前就已经死亡</RV2_Message_ReformationFailed_PawnDead>
+  
+  <!-- 精神状态 -->
+  <RV2_Message_AsPredatorTargetChange>{0} 决定改为吞噬 {1}</RV2_Message_AsPredatorTargetChange>
+  <RV2_Message_AsPreyTargetChange>{0} 决定改为进入 {1} 体内</RV2_Message_AsPreyTargetChange>
+
+  <!-- 仪式 -->
+  <MessageRitualRoleMustBeColonyAnimal>{0} 应该是殖民地的动物</MessageRitualRoleMustBeColonyAnimal>
+  
+  <!-- 挣扎 -->
+  <RV2_Message_StrugglingBrokeFree>{0} 挣扎着从 {1} 体内逃脱</RV2_Message_StrugglingBrokeFree>
+  
+  <!-- 驯服失败 -->
+  <RV2_Message_FailedTameVore_Title>看起来是美味的食物</RV2_Message_FailedTameVore_Title>
+  <RV2_Message_FailedTameVore_Description>在尝试驯服 {0} 时，{1} 对 {0} 产生了食欲</RV2_Message_FailedTameVore_Description>
+ 
+  <!-- 外部排出失败 -->
+  <RV2_Message_ExternalEjectFailed>{INITIATOR} 未能将 {PREY} 从 {TARGET} 体内排出</RV2_Message_ExternalEjectFailed>
+</LanguageData>

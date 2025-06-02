@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 厌恶态度 -->
+  <RV2_OralVore_Disliked.stages.0.label>参与口腔吞噬</RV2_OralVore_Disliked.stages.0.label>
+  <RV2_OralVore_Disliked.stages.0.description>本不该这么做，教义不会接纳我的行为...</RV2_OralVore_Disliked.stages.0.description>
+
+  <RV2_OralVore_Know_Disliked.stages.0.label>口腔吞噬参与者</RV2_OralVore_Know_Disliked.stages.0.label>
+
+  <!-- 极度厌恶态度 -->
+  <RV2_OralVore_Abhorrent.stages.0.label>进行口腔吞噬</RV2_OralVore_Abhorrent.stages.0.label>
+  <RV2_OralVore_Abhorrent.stages.0.description>明知违反教义却参与了口腔吞噬，真是令人毛骨悚然的感觉。</RV2_OralVore_Abhorrent.stages.0.description>
+
+  <RV2_OralVore_Know_Abhorrent.stages.0.label>有人进行了口腔吞噬!!</RV2_OralVore_Know_Abhorrent.stages.0.label>
+  <RV2_OralVore_Know_Abhorrent.stages.0.description>周围有人参与了口腔吞噬，这是违反教义的可憎行为！</RV2_OralVore_Know_Abhorrent.stages.0.description>
+
+  <RV2_OralVore_Know_Social_Abhorrent.stages.0.label>口腔吞噬行为</RV2_OralVore_Know_Social_Abhorrent.stages.0.label>
+
+  <!-- 喜爱态度 -->
+  <RV2_OralVore_Liked.stages.0.label>进行口腔吞噬</RV2_OralVore_Liked.stages.0.label>
+  <RV2_OralVore_Liked.stages.0.description>接触神圣艺术，心灵得到满足。</RV2_OralVore_Liked.stages.0.description>
+
+  <RV2_OralVore_Know_Liked.stages.0.label>口腔吞噬参与者</RV2_OralVore_Know_Liked.stages.0.label>
+
+  <!-- 必须执行态度 -->
+  <RV2_OralVore_Required.stages.0.label>完成口腔吞噬</RV2_OralVore_Required.stages.0.label>
+  <RV2_OralVore_Required.stages.0.description>为彰显信仰而行的神圣之举。</RV2_OralVore_Required.stages.0.description>
+
+  <RV2_OralVore_Know_Required.stages.0.label>有人完成了口腔吞噬!!</RV2_OralVore_Know_Required.stages.0.label>
+  <RV2_OralVore_Know_Required.stages.0.description>周围有人完成了口腔吞噬，这是无比崇高的行为！</RV2_OralVore_Know_Required.stages.0.description>
+
+  <RV2_OralVore_Know_Social_Required.stages.0.label>神圣口腔吞噬参与者</RV2_OralVore_Know_Social_Required.stages.0.label>
+
+  <RV2_NoRecentOralVore_Required.stages.0.label>渴望参与口腔吞噬</RV2_NoRecentOralVore_Required.stages.0.label>
+  <RV2_NoRecentOralVore_Required.stages.0.description>距离上次参与口腔吞噬已经过去太久了。</RV2_NoRecentOralVore_Required.stages.0.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- 被消化物品 -->
+  <RV2_DestroyedImplant.label>已消化植入体</RV2_DestroyedImplant.label>
+  <RV2_DestroyedImplant.description>未能经受消化过程而损坏的植入装置。可通过精密工作台回收部分材料。</RV2_DestroyedImplant.description>
+
+
+</LanguageData>

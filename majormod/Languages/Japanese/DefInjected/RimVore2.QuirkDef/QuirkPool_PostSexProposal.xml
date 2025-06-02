@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_RJW_PostSexProposalChance_Always.label>湧き出る独占欲</RV2_RJW_PostSexProposalChance_Always.label>
+  <RV2_RJW_PostSexProposalChance_Always.description>[PAWN_label]は誰かを自身の体に入れていないと本当の絶頂を感じられず,[PAWN_pronoun]はセックスの後に必ず"続き"としてvoreの提案をしようとします.</RV2_RJW_PostSexProposalChance_Always.description>
+
+  <RV2_RJW_PostSexProposalChance_Often.label>盛んで多感</RV2_RJW_PostSexProposalChance_Often.label>
+  <RV2_RJW_PostSexProposalChance_Often.description>[PAWN_label]はセックスの後に体内マッサージを楽しもうとし,普通より二倍ほどの頻度でセックス後のvoreをせがんできます.</RV2_RJW_PostSexProposalChance_Often.description>
+
+  <RV2_RJW_PostSexProposalChance_Normal.label>無頓着</RV2_RJW_PostSexProposalChance_Normal.label>
+  <RV2_RJW_PostSexProposalChance_Normal.description>[PAWN_label]はvoreに対して別段変わった観念を抱いてはおらず,セックス後にvoreを提案する頻度は人並です.</RV2_RJW_PostSexProposalChance_Normal.description>
+
+  <RV2_RJW_PostSexProposalChance_Rare.label>関心なし</RV2_RJW_PostSexProposalChance_Rare.label>
+  <RV2_RJW_PostSexProposalChance_Rare.description>[PAWN_label]はセックスにvoreを持ち込むことにあまり関心は無く,提案する確率は人の半分ほどです.</RV2_RJW_PostSexProposalChance_Rare.description>
+
+  <RV2_RJW_PostSexProposalChance_Never.label>嫌悪感</RV2_RJW_PostSexProposalChance_Never.label>
+  <RV2_RJW_PostSexProposalChance_Never.description>[PAWN_label]はセックスの快感にvoreを持ち込むことは理解できず,自ら提案することはありません.やるならベッドの外で.</RV2_RJW_PostSexProposalChance_Never.description>
+
+
+</LanguageData>

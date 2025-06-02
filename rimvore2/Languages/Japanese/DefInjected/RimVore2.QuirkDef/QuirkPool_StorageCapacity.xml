@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- should the default value get updated, it would be reasonable to update these as well -->
+
+  <StorageCapacity_Godlike.label>超越者の器量</StorageCapacity_Godlike.label>
+  <StorageCapacity_Godlike.description>[PAWN_label]の肌は超自然的に伸び縮みし,あらゆる論理を薙ぎ倒す膨らみをその身体に作ることが出来ます. [PAWN_pronoun]がどれだけ獲物をその内に収めても,常にもう一人分の余裕があるように見えます.</StorageCapacity_Godlike.description>
+
+  <StorageCapacity_VeryGood.label>のびのび伸縮自在</StorageCapacity_VeryGood.label>
+  <StorageCapacity_VeryGood.description>[PAWN_label]は獲物を沢山詰め込んだとて動じる事はありません.ただそれでも,[PAWN_pronoun]に限界はあります.</StorageCapacity_VeryGood.description>
+
+  <StorageCapacity_Good.label>やわらか</StorageCapacity_Good.label>
+  <StorageCapacity_Good.description>[PAWN_label]は獲物を他よりやや多めに詰め込むことができます.</StorageCapacity_Good.description>
+
+  <StorageCapacity_Normal.label>普通な容量</StorageCapacity_Normal.label>
+  <StorageCapacity_Normal.description>[PAWN_label]は他と同じ程度の体内容量を持ちます.</StorageCapacity_Normal.description>
+
+  <StorageCapacity_Bad.label>狭苦しい</StorageCapacity_Bad.label>
+  <StorageCapacity_Bad.description>[PAWN_label]は狭い体内を持ち,他の捕食者のように多くの獲物を収めることはできません.せいぜい同体格がやっとです(デフォルト設定であれば).</StorageCapacity_Bad.description>
+
+  <StorageCapacity_VeryBad.label>搾られるよう</StorageCapacity_VeryBad.label>
+  <StorageCapacity_VeryBad.description>[PAWN_label]はその柔軟性について悩みを抱えていて,[PAWN_pronoun]は同体格相手に手も口も出ません(デフォルト設定であれば).食べられる相手がいても,すぐ満腹になるでしょう.</StorageCapacity_VeryBad.description>
+
+
+</LanguageData>

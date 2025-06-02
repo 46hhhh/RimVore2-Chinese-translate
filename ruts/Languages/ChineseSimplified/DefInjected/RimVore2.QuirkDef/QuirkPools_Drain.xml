@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2R_Enablers_Core_Goal_Drain.label>缓慢侵蚀的消化液</RV2R_Enablers_Core_Goal_Drain.label>
+  <RV2R_Enablers_Core_Goal_Drain.description>[PAWN_label]能从活体猎物中汲取能量，在不夺走性命的情况下满足饥饿。</RV2R_Enablers_Core_Goal_Drain.description>
+
+  <RV2R_GoalPreference_Predator_Drain_Obsessed.label>寄生虫的原始本能</RV2R_GoalPreference_Predator_Drain_Obsessed.label>
+  <RV2R_GoalPreference_Predator_Drain_Obsessed.description>[PAWN_label]作为纯粹的寄生虫，无比热爱将猎物安全地融化成绵软状态。作为永续食粮也不错！</RV2R_GoalPreference_Predator_Drain_Obsessed.description>
+
+  <RV2R_GoalPreference_Predator_Drain_Likes.label>安全消融的愉悦</RV2R_GoalPreference_Predator_Drain_Likes.label>
+  <RV2R_GoalPreference_Predator_Drain_Likes.description>[PAWN_label]喜欢在不伤害生命的前提下将猎物变得绵软。毫无负罪感的饱腹感令人无比惬意。</RV2R_GoalPreference_Predator_Drain_Likes.description>
+
+  <RV2R_GoalPreference_Predator_Drain_Neutral.label>仅是进食手段</RV2R_GoalPreference_Predator_Drain_Neutral.label>
+  <RV2R_GoalPreference_Predator_Drain_Neutral.description>[PAWN_label]对安全消融猎物没有特别感受。</RV2R_GoalPreference_Predator_Drain_Neutral.description>
+
+  <RV2R_GoalPreference_Predator_Drain_Dislikes.label>对寄生虫本能的抗拒</RV2R_GoalPreference_Predator_Drain_Dislikes.label>
+  <RV2R_GoalPreference_Predator_Drain_Dislikes.description>[PAWN_label]厌恶安全消融猎物。或许是无法信任他人，亦或是不愿将朋友视为猎物。</RV2R_GoalPreference_Predator_Drain_Dislikes.description>
+
+  <RV2R_GoalPreference_Predator_Drain_Refuses.label>对榨取行为的憎恶</RV2R_GoalPreference_Predator_Drain_Refuses.label>
+  <RV2R_GoalPreference_Predator_Drain_Refuses.description>[PAWN_label]极度排斥安全消融猎物。被榨取的食物若怀恨在心就糟糕了。</RV2R_GoalPreference_Predator_Drain_Refuses.description>
+
+  <RV2R_GoalPreference_Prey_Drain_Obsessed.label>难以抗拒的饵食渴望</RV2R_GoalPreference_Prey_Drain_Obsessed.label>
+  <RV2R_GoalPreference_Prey_Drain_Obsessed.description>[PAWN_label]如同上瘾般痴迷于成为捕食者的点心。这是捕食者能和平传达味觉感受的唯一方式！</RV2R_GoalPreference_Prey_Drain_Obsessed.description>
+
+  <RV2R_GoalPreference_Prey_Drain_Likes.label>作为点心的愿望</RV2R_GoalPreference_Prey_Drain_Likes.label>
+  <RV2R_GoalPreference_Prey_Drain_Likes.description>[PAWN_label]喜欢被捕食者安全地融化成绵软状态。这是帮助捕食者的稳定方式！</RV2R_GoalPreference_Prey_Drain_Likes.description>
+
+  <RV2R_GoalPreference_Prey_Drain_Neutral.label>被彻底榨取也无感</RV2R_GoalPreference_Prey_Drain_Neutral.label>
+  <RV2R_GoalPreference_Prey_Drain_Neutral.description>[PAWN_label]对被安全消融没有特别感受。</RV2R_GoalPreference_Prey_Drain_Neutral.description>
+
+  <RV2R_GoalPreference_Prey_Drain_Dislikes.label>对汲取行为的厌恶</RV2R_GoalPreference_Prey_Drain_Dislikes.label>
+  <RV2R_GoalPreference_Prey_Drain_Dislikes.description>[PAWN_label]厌恶成为安全饵食。或许是信任问题，亦或是无法忍受被伪消化夺走一切的感受。</RV2R_GoalPreference_Prey_Drain_Dislikes.description>
+
+  <RV2R_GoalPreference_Prey_Drain_Refuses.label>对安全饵食的认知错误</RV2R_GoalPreference_Prey_Drain_Refuses.label>
+  <RV2R_GoalPreference_Prey_Drain_Refuses.description>对[PAWN_label]而言，"稳定食粮"至少不该是自己。</RV2R_GoalPreference_Prey_Drain_Refuses.description>
+
+</LanguageData>

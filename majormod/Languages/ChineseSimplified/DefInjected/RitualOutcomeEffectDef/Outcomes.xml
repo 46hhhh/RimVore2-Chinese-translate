@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_ConsumptionOutcome.description>根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}~{MAXMOOD}的心情加成。</RV2_ConsumptionOutcome.description>
+  <RV2_ConsumptionOutcome.outcomeChances.0.label>令人作呕</RV2_ConsumptionOutcome.outcomeChances.0.label>
+  <RV2_ConsumptionOutcome.outcomeChances.0.description>{0}的结果糟糕透顶！演讲结结巴巴、内容乏味，捕食过程也毫无亮点。捕食者吞咽猎物的动作极其缓慢，所有人都在茫然等待结束。</RV2_ConsumptionOutcome.outcomeChances.0.description>
+  <RV2_ConsumptionOutcome.outcomeChances.1.label>无聊</RV2_ConsumptionOutcome.outcomeChances.1.label>
+  <RV2_ConsumptionOutcome.outcomeChances.1.description>{0}的结果令人昏昏欲睡。演讲内容毫无新意，捕食过程也频频出错。全程感受不到一丝威严。</RV2_ConsumptionOutcome.outcomeChances.1.description>
+  <RV2_ConsumptionOutcome.outcomeChances.2.label>愉快</RV2_ConsumptionOutcome.outcomeChances.2.label>
+  <RV2_ConsumptionOutcome.outcomeChances.2.description>{0}的结果令人满意。演讲引人入胜，捕食过程也充分展现了威严。</RV2_ConsumptionOutcome.outcomeChances.2.description>
+  <RV2_ConsumptionOutcome.outcomeChances.3.label>难忘</RV2_ConsumptionOutcome.outcomeChances.3.label>
+  <RV2_ConsumptionOutcome.outcomeChances.3.description>{0}的结果令人终生难忘！演讲感动全场，捕食时威严的气势让所有参与者为之倾倒！</RV2_ConsumptionOutcome.outcomeChances.3.description>
+  <RV2_ConsumptionOutcome.comps.0.label>参与者数量</RV2_ConsumptionOutcome.comps.0.label>
+
+  <RV2_VoreBondingOutcome.description>根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}~{MAXMOOD}的心情加成。</RV2_VoreBondingOutcome.description>
+  <RV2_VoreBondingOutcome.outcomeChances.0.label>令人作呕</RV2_VoreBondingOutcome.outcomeChances.0.label>
+  <RV2_VoreBondingOutcome.outcomeChances.0.description>{0}的结果糟糕透顶！演讲结结巴巴、内容乏味，捕食过程也毫无亮点。捕食者吞咽猎物的动作极其缓慢，所有人都在茫然等待结束。</RV2_VoreBondingOutcome.outcomeChances.0.description>
+  <RV2_VoreBondingOutcome.outcomeChances.1.label>无聊</RV2_VoreBondingOutcome.outcomeChances.1.label>
+  <RV2_VoreBondingOutcome.outcomeChances.1.description>{0}的结果令人昏昏欲睡。演讲内容毫无新意，捕食过程也频频出错。全程感受不到一丝威严。</RV2_VoreBondingOutcome.outcomeChances.1.description>
+  <RV2_VoreBondingOutcome.outcomeChances.2.label>愉快</RV2_VoreBondingOutcome.outcomeChances.2.label>
+  <RV2_VoreBondingOutcome.outcomeChances.2.description>{0}的结果令人满意。演讲引人入胜，捕食过程也充分展现了威严。</RV2_VoreBondingOutcome.outcomeChances.2.description>
+  <RV2_VoreBondingOutcome.outcomeChances.3.label>难忘</RV2_VoreBondingOutcome.outcomeChances.3.label>
+  <RV2_VoreBondingOutcome.outcomeChances.3.description>{0}的结果令人终生难忘！演讲感动全场，捕食时威严的气势让所有参与者为之倾倒！</RV2_VoreBondingOutcome.outcomeChances.3.description>
+  <RV2_VoreBondingOutcome.comps.0.label>参与者数量</RV2_VoreBondingOutcome.comps.0.label>
+
+  <RV2_VoreFeastOutcome.description>根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}~{MAXMOOD}的心情加成。</RV2_VoreFeastOutcome.description>
+  <RV2_VoreFeastOutcome.outcomeChances.0.label>令人作呕</RV2_VoreFeastOutcome.outcomeChances.0.label>
+  <RV2_VoreFeastOutcome.outcomeChances.0.description>{0}的结果糟糕透顶！演讲结结巴巴、内容乏味，捕食过程也毫无亮点。捕食者吞咽猎物的动作极其缓慢，所有人都在茫然推进仪式。</RV2_VoreFeastOutcome.outcomeChances.0.description>
+  <RV2_VoreFeastOutcome.outcomeChances.1.label>无聊</RV2_VoreFeastOutcome.outcomeChances.1.label>
+  <RV2_VoreFeastOutcome.outcomeChances.1.description>{0}的结果令人昏昏欲睡。演讲内容毫无新意，捕食过程也频频出错。全程很少有人感受到乐趣。</RV2_VoreFeastOutcome.outcomeChances.1.description>
+  <RV2_VoreFeastOutcome.outcomeChances.2.label>愉快</RV2_VoreFeastOutcome.outcomeChances.2.label>
+  <RV2_VoreFeastOutcome.outcomeChances.2.description>{0}的结果令人满意。演讲引人入胜，所有人的捕食过程都带来了欢乐。</RV2_VoreFeastOutcome.outcomeChances.2.description>
+  <RV2_VoreFeastOutcome.outcomeChances.3.label>难忘</RV2_VoreFeastOutcome.outcomeChances.3.label>
+  <RV2_VoreFeastOutcome.outcomeChances.3.description>{0}的结果令人终生难忘！演讲感动全场，捕食时的氛围满足了参与者的食欲与情感！</RV2_VoreFeastOutcome.outcomeChances.3.description>
+  <RV2_VoreFeastOutcome.outcomeChances.4.label>令人作呕</RV2_VoreFeastOutcome.outcomeChances.4.label>
+  <RV2_VoreFeastOutcome.outcomeChances.4.description>{0}的结果糟糕透顶！</RV2_VoreFeastOutcome.outcomeChances.4.description>
+  <RV2_VoreFeastOutcome.outcomeChances.5.label>无聊</RV2_VoreFeastOutcome.outcomeChances.5.label>
+  <RV2_VoreFeastOutcome.outcomeChances.5.description>{0}的结果令人昏昏欲睡。</RV2_VoreFeastOutcome.outcomeChances.5.description>
+  <RV2_VoreFeastOutcome.outcomeChances.6.label>愉快</RV2_VoreFeastOutcome.outcomeChances.6.label>
+  <RV2_VoreFeastOutcome.outcomeChances.6.description>{0}的结果令人满意。</RV2_VoreFeastOutcome.outcomeChances.6.description>
+  <RV2_VoreFeastOutcome.outcomeChances.7.label>难忘</RV2_VoreFeastOutcome.outcomeChances.7.label>
+  <RV2_VoreFeastOutcome.outcomeChances.7.description>{0}的结果令人终生难忘！</RV2_VoreFeastOutcome.outcomeChances.7.description>
+  <RV2_VoreFeastOutcome.comps.0.label>参与者数量</RV2_VoreFeastOutcome.comps.0.label>
+
+  <RV2_ConsumptionOutcome.extraPredictedOutcomeDescriptions.0>如果{0}获得愉快结果，可能会有一名参与者受到鼓舞。</RV2_ConsumptionOutcome.extraPredictedOutcomeDescriptions.0>
+  <RV2_VoreBondingOutcome.extraPredictedOutcomeDescriptions.0>如果{0}获得愉快结果，目标的信仰可能会增强。</RV2_VoreBondingOutcome.extraPredictedOutcomeDescriptions.0>
+  <RV2_VoreBondingOutcome.extraPredictedOutcomeDescriptions.1>同时可能有一名参与者受到鼓舞。</RV2_VoreBondingOutcome.extraPredictedOutcomeDescriptions.1>
+  <RV2_VoreFeastOutcome.extraPredictedOutcomeDescriptions.0>同时可能有一名参与者受到鼓舞。</RV2_VoreFeastOutcome.extraPredictedOutcomeDescriptions.0>
+
+</LanguageData>

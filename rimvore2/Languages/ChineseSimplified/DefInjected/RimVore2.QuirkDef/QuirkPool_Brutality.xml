@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Brutality_Always.label>冷酷无情</Brutality_Always.label>
+    <Brutality_Always.description>[PAWN_label]完全不会考虑他人的意愿。</Brutality_Always.description>
+
+    <Brutality_High.label>反复无常</Brutality_High.label>
+    <Brutality_High.description>[PAWN_label]时而尊重他人，时而强求私欲。各占一半的概率，如果[PAWN_pronoun]开口搭话，最好做好肢体冲突的准备。</Brutality_High.description>
+
+    <Brutality_Normal.label>普通观念</Brutality_Normal.label>
+    <Brutality_Normal.description>大多数情况下，[PAWN_label]不会执着于捕食行为，也不会强行挑起争斗。</Brutality_Normal.description>
+
+    <Brutality_Low.label>较为温和</Brutality_Low.label>
+    <Brutality_Low.description>[PAWN_label]不太执着于捕食行为，很少会产生争斗的念头。</Brutality_Low.description>
+
+    <Brutality_Never.label>和平主义</Brutality_Never.label>
+    <Brutality_Never.description>[PAWN_label]尊重他人，根本不会有为捕食而使用暴力的想法。</Brutality_Never.description>
+
+</LanguageData>

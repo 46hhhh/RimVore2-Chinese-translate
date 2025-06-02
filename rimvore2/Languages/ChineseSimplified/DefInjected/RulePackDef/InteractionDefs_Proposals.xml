@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]点头同意了。</RV2_Proposal_Accepted.rulePack.rulesStrings.0>
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]愉快地接受了。</RV2_Proposal_Accepted.rulePack.rulesStrings.1>
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]点了点头。</RV2_Proposal_Accepted.rulePack.rulesStrings.2>
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef]接受了。</RV2_Proposal_Accepted.rulePack.rulesStrings.3>
+
+  <RV2_Proposal_Denied.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]断然拒绝了提议。</RV2_Proposal_Denied.rulePack.rulesStrings.0>
+  <RV2_Proposal_Denied.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]无视了这个提议。</RV2_Proposal_Denied.rulePack.rulesStrings.1>
+  <RV2_Proposal_Denied.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]把头扭向一边。</RV2_Proposal_Denied.rulePack.rulesStrings.2>
+  <RV2_Proposal_Denied.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef]转身就走。</RV2_Proposal_Denied.rulePack.rulesStrings.3>
+  <RV2_Proposal_Denied.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef]显得不太感兴趣。</RV2_Proposal_Denied.rulePack.rulesStrings.4>
+  <RV2_Proposal_Denied.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef]没有回应。</RV2_Proposal_Denied.rulePack.rulesStrings.5>
+
+  <RV2_Proposal_Forced.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]无法反抗。</RV2_Proposal_Forced.rulePack.rulesStrings.0>
+  <RV2_Proposal_Forced.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]被迫点头同意。</RV2_Proposal_Forced.rulePack.rulesStrings.1>
+  <RV2_Proposal_Forced.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]的回应被无视了。</RV2_Proposal_Forced.rulePack.rulesStrings.2>
+  <RV2_Proposal_Forced.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef]别无选择。</RV2_Proposal_Forced.rulePack.rulesStrings.3>
+
+</LanguageData>

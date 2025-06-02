@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 所有与消化、分解、吸收、转化猎物相关的行动都考虑以下修正值 -->
+  <IncreaseDigestionProgress.actionsOnSuccess.0.name>消化进度</IncreaseDigestionProgress.actionsOnSuccess.0.name>
+  <IncreaseBreakDownProgress.actionsOnSuccess.0.name>分解进度</IncreaseBreakDownProgress.actionsOnSuccess.0.name>
+  <ConvertNutritionToPredatorFood.actionsOnSuccess.1.name>猎物营养价值</ConvertNutritionToPredatorFood.actionsOnSuccess.1.name>
+
+  <!-- 物品生成预设 -->
+  <ConvertNutritionToContainerItem.actionsOnSuccess.0.name>猎物营养价值</ConvertNutritionToContainerItem.actionsOnSuccess.0.name>
+  <ConvertNutritionToMilk.actionsOnSuccess.0.name>猎物营养价值</ConvertNutritionToMilk.actionsOnSuccess.0.name>
+  <ConvertNutritionToSperm.actionsOnSuccess.0.name>猎物营养价值</ConvertNutritionToSperm.actionsOnSuccess.0.name>
+  <ConvertNutritionToLube.actionsOnSuccess.0.name>猎物营养价值</ConvertNutritionToLube.actionsOnSuccess.0.name>
+
+</LanguageData>

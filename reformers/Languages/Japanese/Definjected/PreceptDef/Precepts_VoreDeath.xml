@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rv2Reformers_VoreDeath_Normal.label>消化は死の形のひとつ</Rv2Reformers_VoreDeath_Normal.label>
+  <Rv2Reformers_VoreDeath_Normal.description>消化されることは死の形のひとつに過ぎない.</Rv2Reformers_VoreDeath_Normal.description>
+
+  <Rv2Reformers_VoreDeath_Reforms.label>再生されれば気にしない</Rv2Reformers_VoreDeath_Reforms.label>
+  <Rv2Reformers_VoreDeath_Reforms.description>消化されることは死の形のひとつに過ぎないが,再生され復活することはその死から逃げる形として認められる.</Rv2Reformers_VoreDeath_Reforms.description>
+
+  <Rv2Reformers_VoreDeath_ReformerExists.label>受け入れられた再生</Rv2Reformers_VoreDeath_ReformerExists.label>
+  <Rv2Reformers_VoreDeath_ReformerExists.description>リフォーマーがその場にあれば,時間はかかれども 消化は生を終える事にはならない.</Rv2Reformers_VoreDeath_ReformerExists.description>
+
+  <Rv2Reformers_VoreDeath_Cached.label>魂が手にあるかどうか</Rv2Reformers_VoreDeath_Cached.label>
+  <Rv2Reformers_VoreDeath_Cached.description>その命が再生対象として記録されてさえいれば,死を考えることはない.</Rv2Reformers_VoreDeath_Cached.description>
+
+  <Rv2Reformers_VoreDeath_DontCare.label>気にしない</Rv2Reformers_VoreDeath_DontCare.label>
+  <Rv2Reformers_VoreDeath_DontCare.description>消化は生のたどりつく真実であり,その先に何があろうと意に介すべきではない.</Rv2Reformers_VoreDeath_DontCare.description>
+
+
+</LanguageData>

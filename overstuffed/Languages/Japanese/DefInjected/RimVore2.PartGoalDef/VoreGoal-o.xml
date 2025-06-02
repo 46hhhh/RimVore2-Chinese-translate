@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Reshape.label>再形成</Reshape.label>
+  <Purge.label>除去</Purge.label>
+
+  <Loosen.label>準備</Loosen.label>
+
+  <Contact.label>接合</Contact.label>
+  <Reform.label>再構成</Reform.label>
+  <Process.label>処理</Process.label>
+
+  <Dissolve.label>溶解</Dissolve.label>
+  <Mush.label>圧壊</Mush.label>
+
+  <Assimilate.label>吸収</Assimilate.label>
+  <Amalgamate.label>融合</Amalgamate.label>
+  <Ovify.label>卵化</Ovify.label>
+  <Oleify.label>オイル化</Oleify.label>
+  <Urify.label>尿化</Urify.label>
+  <Lactify.label>ミルク化</Lactify.label>
+  <Spermify.label>精液化</Spermify.label>
+  <Lubrify.label>愛液化</Lubrify.label>
+
+
+</LanguageData>

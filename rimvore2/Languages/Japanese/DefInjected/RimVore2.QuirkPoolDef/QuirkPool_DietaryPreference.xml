@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MH: this will all need revisited when we're ready to work on dlc support. besides, right now, i don't really know how precepts hook into/override thoughts anyways -->
+
+  <DietaryPreference_Predator_Animals.label>獲物の好み (動物)</DietaryPreference_Predator_Animals.label>
+  <DietaryPreference_Predator_Animals.description>このキャラクターが動物を獲物としてどのような目を向けているかに関わっています.極端な話になると,仲間の連れてくるエサとしてでも一切拒否したり,他の獲物に目もくれず動物を探すようになります.昆虫はゲーム的に動物カテゴリですが,この中には含まれていません.</DietaryPreference_Predator_Animals.description>
+
+
+  <!-- MH: While most prey types work on a simple scale of love to hate, humanoids have to be a little more complicated, in order to mirror vanilla behavior regarding cannibalism.
+  To this end, cannibals can get their own variants on Obsessed and Likes which include digesting humanoid prey (as well as the non-cannibal variants), while non-cannibals are limited to non-cannibal variants.
+  Cannibals MAY roll a general distaste for human prey, which MAY eventually be split into their own quirks with appropriate thoughts or something, later.
+  These will need updated every time a new goal is introduced! -->
+
+  <DietaryPreference_Predator_Humanoids.label>獲物の好み (ヒト)</DietaryPreference_Predator_Humanoids.label>
+  <DietaryPreference_Predator_Humanoids.description>このキャラクターがヒト型の生き物を獲物としてどのような目を向けているかに関わっています.極端な話になると,仲間の連れてくるエサとしてでも一切拒否したり,他の獲物に目もくれずヒトを探すようになります.食人嗜好者の特性が無ければ,いくらヒトが好きでも消化はしたくありません.内部データを弄って設定を変えたくなければ,シナリオエディタで食人嗜好者の普遍化を設定することができます.</DietaryPreference_Predator_Humanoids.description>
+
+
+  <!-- Retired, but still potentially desirable
+  <RimVore2.QuirkDef>
+    <defName>DietaryPreference_Predator_Humanoids_NeutralEndo</defName>
+    <label>Light holo-anthropophage</label>
+    <description>[PAWN_label] enjoys having people as prey, preferably safely. [PAWN_pronoun] doesn't have any qualms about digestion per se, but it's not [PAWN_possessive] thing.</description>
+    <rarity>Common</rarity>
+    <comps>
+      <li Class="RimVore2.QuirkComp_ThoughtOverride">
+        <originalThought>AteHumanlikeMeatDirect</originalThought>
+        <overrideThought>RV2_AteHumanlikeMeatDirect_Predator</overrideThought>
+        <priority>1</priority>
+      </li>
+      <li Class="RimVore2.QuirkComp_ThoughtOverride">
+        <originalThought>AteHumanlikeMeatDirectCannibal</originalThought>
+        <overrideThought>RV2_AteHumanlikeMeatDirectCannibal_Predator</overrideThought>
+        <priority>1</priority>
+      </li>
+      <li Class="RimVore2.QuirkComp_ThoughtOverride">
+        <originalThought>AteHumanlikeMeatAsIngredient</originalThought>
+        <overrideThought>RV2_AteHumanlikeMeatAsIngredient_Predator</overrideThought>
+        <priority>1</priority>
+      </li>
+      <li Class="RimVore2.QuirkComp_ThoughtOverride">
+        <originalThought>AteHumanlikeMeatAsIngredientCannibal</originalThought>
+        <overrideThought>RV2_AteHumanlikeMeatAsIngredientCannibal_Predator</overrideThought>
+        <priority>1</priority>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>Digest</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>ConvertChemfuel</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>ConvertEggs</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>ConvertLube</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>ConvertSperm</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>ConvertUrine</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>Pleasure</voreGoal>
+        </selectors>
+        <modifierValue>2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>Store</voreGoal>
+        </selectors>
+        <modifierValue>2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_PostVoreMemory">
+        <keywords>
+          <li>PawnIsPredator</li>
+		  <li>PreyIsHumanlike</li>
+		  <li>VoreGoal_Pleasure</li>
+        </keywords>
+        <memory>RV2_DietaryQuirkSatisfactionPredator_Good</memory>
+      </li>
+	  <li Class="RimVore2.QuirkComp_PostVoreMemory">
+        <keywords>
+          <li>PawnIsPredator</li>
+		  <li>PreyIsHumanlike</li>
+		  <li>VoreGoal_Store</li>
+        </keywords>
+        <memory>RV2_DietaryQuirkSatisfactionPredator_Good</memory>
+      </li>
+    </comps>
+  </RimVore2.QuirkDef> -->
+
+  <DietaryPreference_Predator_Insectoids.label>獲物の好み (昆虫)</DietaryPreference_Predator_Insectoids.label>
+  <DietaryPreference_Predator_Insectoids.description>このキャラクターが昆虫を獲物としてどのような目を向けているかに関わっています.極端な話になると,仲間の連れてくるエサとしてでも一切拒否したり,他の獲物に目もくれず昆虫を探すようになります.</DietaryPreference_Predator_Insectoids.description>
+
+  <DietaryPreference_Predator_Mechanoids.label>獲物の好み (メカノイド)</DietaryPreference_Predator_Mechanoids.label>
+  <DietaryPreference_Predator_Mechanoids.description>このキャラクターがメカノイドを獲物としてどのような目を向けているかに関わっています.極端な話になると,仲間の連れてくるエサとしてでも一切拒否したり,他の獲物に目もくれずメカノイドを探すようになります.メカノイドは基本的に消化されませんが,この傾向にて好むキャラクターは消化が可能で,そうでなくとも体内で閉じ込めたりすることは出来ます.</DietaryPreference_Predator_Mechanoids.description>
+
+  <DietaryPreference_Prey_Animals.label>体内の好み (動物)</DietaryPreference_Prey_Animals.label>
+  <DietaryPreference_Prey_Animals.description>このキャラクターが動物を捕食者としてどのような目を向けているかに関わっています.極端な話になると,仲間からエサになることを持ち掛けられても一切拒否したり,他の獲物に目もくれず動物の捕食者を探すようになります.昆虫はゲーム的に動物カテゴリですが,この中には含まれていません.</DietaryPreference_Prey_Animals.description>
+
+  <DietaryPreference_Prey_Humanoids.label>体内の好み (ヒト)</DietaryPreference_Prey_Humanoids.label>
+  <DietaryPreference_Prey_Humanoids.description>このキャラクターがヒト型の生き物を捕食者としてどのような目を向けているかに関わっています.極端な話になると,仲間からエサになることを持ち掛けられても一切拒否したり,他の獲物に目もくれずヒトの捕食者を探すようになります.食べる側はどうあれ,食人嗜好者の特性はこちらに響くことはありません.</DietaryPreference_Prey_Humanoids.description>
+
+  <DietaryPreference_Prey_Insectoids.label>体内の好み (昆虫)</DietaryPreference_Prey_Insectoids.label>
+  <DietaryPreference_Prey_Insectoids.description>このキャラクターが昆虫を捕食者としてどのような目を向けているかに関わっています.極端な話になると,仲間からエサになることを持ち掛けられても一切拒否したり,他の獲物に目もくれず昆虫の捕食者を探すようになります.</DietaryPreference_Prey_Insectoids.description>
+
+  <DietaryPreference_Prey_Mechanoids.label>体内の好み (メカノイド)</DietaryPreference_Prey_Mechanoids.label>
+  <DietaryPreference_Prey_Mechanoids.description>このキャラクターがメカノイドを捕食者としてどのような目を向けているかに関わっています.極端な話になると,仲間からエサになることを持ち掛けられても一切拒否したり,他の獲物に目もくれずメカノイドの捕食者を探すようになります.</DietaryPreference_Prey_Mechanoids.description>
+
+
+</LanguageData>

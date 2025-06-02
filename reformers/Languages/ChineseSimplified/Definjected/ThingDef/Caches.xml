@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Caches.xml -->
+<LanguageData>
+  <!-- >Abstract reformers< -->
+  <Rv2R_ReformerCache_Base.label>缓存基座</Rv2R_ReformerCache_Base.label>
+  <Rv2R_ReformerCache_Base.description>用于保存再生记录的缓存装置。</Rv2R_ReformerCache_Base.description>
+
+  <!-- >Implimented Reformers< -->
+  <Rv2R_ReformerCache_Basic.label>基础重塑者缓存</Rv2R_ReformerCache_Basic.label>
+  <Rv2R_ReformerCache_Basic.description>代替重塑者收集并保存再生对象记录的辅助机械。</Rv2R_ReformerCache_Basic.description>
+
+  <Rv2R_ReformerCache_Global.label>广域重塑者缓存</Rv2R_ReformerCache_Global.label>
+  <Rv2R_ReformerCache_Global.description>代替重塑者在大范围内收集并保存再生对象记录的辅助机械。</Rv2R_ReformerCache_Global.description>
+</LanguageData>

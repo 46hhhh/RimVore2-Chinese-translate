@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 胃部能量汲取 -->
+  <RV2R_PreyInStomachDrain.stages.0.label>用胃囊汲取猎物能量</RV2R_PreyInStomachDrain.stages.0.label>
+  <RV2R_PreyInStomachDrain.stages.0.description>感谢款待！真是美味的点心！</RV2R_PreyInStomachDrain.stages.0.description>
+  <RV2R_PreyInStomachDrain.stages.1.label>用胃囊汲取双人能量</RV2R_PreyInStomachDrain.stages.1.label>
+  <RV2R_PreyInStomachDrain.stages.1.description>来吧，下一个也一起享用！</RV2R_PreyInStomachDrain.stages.1.description>
+  <RV2R_PreyInStomachDrain.stages.2.label>用胃囊汲取三人能量</RV2R_PreyInStomachDrain.stages.2.label>
+  <RV2R_PreyInStomachDrain.stages.2.description>三个小可爱，全都在我体内！</RV2R_PreyInStomachDrain.stages.2.description>
+  <RV2R_PreyInStomachDrain.stages.3.label>用胃囊汲取群体能量</RV2R_PreyInStomachDrain.stages.3.label>
+  <RV2R_PreyInStomachDrain.stages.3.description>好撑...！~</RV2R_PreyInStomachDrain.stages.3.description>
+
+  <!-- 胃部温柔消化 -->
+  <RV2R_PreyInStomachSoftChurning.stages.0.label>用胃囊温柔消化猎物</RV2R_PreyInStomachSoftChurning.stages.0.label>
+  <RV2R_PreyInStomachSoftChurning.stages.0.description>嗝~！嗯嗯，多谢款待。</RV2R_PreyInStomachSoftChurning.stages.0.description>
+  <RV2R_PreyInStomachSoftChurning.stages.1.label>用胃囊温柔消化双人</RV2R_PreyInStomachSoftChurning.stages.1.label>
+  <RV2R_PreyInStomachSoftChurning.stages.1.description>咕呃！啊~，幸福感满溢！</RV2R_PreyInStomachSoftChurning.stages.1.description>
+  <RV2R_PreyInStomachSoftChurning.stages.2.label>用胃囊温柔消化三人</RV2R_PreyInStomachSoftChurning.stages.2.label>
+  <RV2R_PreyInStomachSoftChurning.stages.2.description>连空气都充满幸福！</RV2R_PreyInStomachSoftChurning.stages.2.description>
+  <RV2R_PreyInStomachSoftChurning.stages.3.label>用胃囊温柔消化群体</RV2R_PreyInStomachSoftChurning.stages.3.label>
+  <RV2R_PreyInStomachSoftChurning.stages.3.description>呕哇啊！哈啊、哈啊...</RV2R_PreyInStomachSoftChurning.stages.3.description>
+
+  <!-- 肠道处理 -->
+  <RV2R_PreyInIntestinesSoftProcessing.stages.0.label>将猎物从肠道排出</RV2R_PreyInIntestinesSoftProcessing.stages.0.label>
+  <RV2R_PreyInIntestinesSoftProcessing.stages.0.description>看来已经昏过去了。</RV2R_PreyInIntestinesSoftProcessing.stages.0.description>
+  <RV2R_PreyInIntestinesSoftProcessing.stages.1.label>将双人从肠道排出</RV2R_PreyInIntestinesSoftProcessing.stages.1.label>
+  <RV2R_PreyInIntestinesSoftProcessing.stages.1.description>体内还在消化中...</RV2R_PreyInIntestinesSoftProcessing.stages.1.description>
+  <RV2R_PreyInIntestinesSoftProcessing.stages.2.label>将三人从肠道排出</RV2R_PreyInIntestinesSoftProcessing.stages.2.label>
+  <RV2R_PreyInIntestinesSoftProcessing.stages.2.description>应该都失去意识了吧...</RV2R_PreyInIntestinesSoftProcessing.stages.2.description>
+  <RV2R_PreyInIntestinesSoftProcessing.stages.3.label>将群体从肠道排出</RV2R_PreyInIntestinesSoftProcessing.stages.3.label>
+  <RV2R_PreyInIntestinesSoftProcessing.stages.3.description>像榨汁般...把最后一点也挤出来...！</RV2R_PreyInIntestinesSoftProcessing.stages.3.description>
+
+  <!-- 捕食者偏好特质 -->
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_VeryGood.stages.0.label>兴高采烈地汲取了{0}</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_VeryGood.stages.0.label>
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_VeryGood.stages.0.description>哼，反正谁都没死对吧？</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_VeryGood.stages.0.description>
+
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_Good.stages.0.label>愉快地汲取了{0}</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_Good.stages.0.label>
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_Good.stages.0.description>毫无愧疚的进食真是美妙。</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_Good.stages.0.description>
+
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_Bad.stages.0.label>不情不愿地汲取了{0}</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_Bad.stages.0.label>
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_Bad.stages.0.description>感觉并不太好。</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_Bad.stages.0.description>
+
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_VeryBad.stages.0.label>在抗拒中汲取了{0}</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_VeryBad.stages.0.label>
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_VeryBad.stages.0.description>只剩下空虚的营养与怨恨。</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Predator_VeryBad.stages.0.description>
+
+  <!-- 猎物偏好特质 -->
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_VeryGood.stages.0.label>被{0}兴高采烈地汲取</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_VeryGood.stages.0.label>
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_VeryGood.stages.0.description>肚子饱饱的，全身暖洋洋。</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_VeryGood.stages.0.description>
+
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_Good.stages.0.label>被{0}愉快地汲取</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_Good.stages.0.label>
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_Good.stages.0.description>奉献自我的感觉真不错。</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_Good.stages.0.description>
+
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_Bad.stages.0.label>被{0}不情不愿地汲取</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_Bad.stages.0.label>
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_Bad.stages.0.description>得睡一会儿恢复...</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_Bad.stages.0.description>
+
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_VeryBad.stages.0.label>在抗拒中被{0}汲取</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_VeryBad.stages.0.label>
+  <RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_VeryBad.stages.0.description>谁要当这种鲁莽捕食者的点心啊！</RV2R_GoalPreferenceQuirkSatisfaction_Drain_Prey_VeryBad.stages.0.description>
+
+  <!-- 交互事件 -->
+  <RV2R_PredatorOralDrainSuccess.stages.0.label>为汲取能量而吞食{0}</RV2R_PredatorOralDrainSuccess.stages.0.label>
+  <RV2R_PredatorOralDrainSuccess.stages.0.description>消化{1}的过程真是享受！美味的一餐！</RV2R_PredatorOralDrainSuccess.stages.0.description>
+
+  <RV2R_PredatorOralDrainInterrupted.stages.0.label>对{0}的口腔汲取被中断</RV2R_PredatorOralDrainInterrupted.stages.0.label>
+  <RV2R_PredatorOralDrainInterrupted.stages.0.description>正要吞下{1}却被打断了。下次该吃什么呢？</RV2R_PredatorOralDrainInterrupted.stages.0.description>
+
+  <RV2R_PreyOralDrainInterrupted.stages.0.label>从口腔汲取中逃脱</RV2R_PreyOralDrainInterrupted.stages.0.label>
+  <RV2R_PreyOralDrainInterrupted.stages.0.description>{1}居然想吃掉我！我才不是食物！</RV2R_PreyOralDrainInterrupted.stages.0.description>
+
+  <RV2R_PredatorAnalDrainSuccess.stages.0.label>为汲取能量而吞入{0}</RV2R_PredatorAnalDrainSuccess.stages.0.label>
+  <RV2R_PredatorAnalDrainSuccess.stages.0.description>通过下半身将{1}榨取殆尽！</RV2R_PredatorAnalDrainSuccess.stages.0.description>
+
+  <RV2R_PredatorAnalDrainInterrupted.stages.0.label>对{0}的肛门汲取被中断</RV2R_PredatorAnalDrainInterrupted.stages.0.label>
+  <RV2R_PredatorAnalDrainInterrupted.stages.0.description>正要通过肛门吸收{1}却被排出。下次该用什么填满呢？</RV2R_PredatorAnalDrainInterrupted.stages.0.description>
+
+  <RV2R_PreyAnalDrainInterrupted.stages.0.label>从肛门汲取中逃脱</RV2R_PreyAnalDrainInterrupted.stages.0.label>
+  <RV2R_PreyAnalDrainInterrupted.stages.0.description>{1}居然想用肛门吞噬我！我才不是排泄物！</RV2R_PreyAnalDrainInterrupted.stages.0.description>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PostVoreAssimilation_Masterful.label>大师级同化术</PostVoreAssimilation_Masterful.label>
+  <PostVoreAssimilation_Masterful.description>凭借大师级同化术，被[PAWN_label]吸收的猎物将永远作为[PAWN_possessive]美的组成部分存在。</PostVoreAssimilation_Masterful.description>
+
+  <PostVoreAssimilation_Normal.label>普通同化术</PostVoreAssimilation_Normal.label>
+  <PostVoreAssimilation_Normal.description>依靠普通水平的同化术，[PAWN_label]能通过吸收猎物提升[PAWN_possessive]美感，但若肉体增幅过度可能导致失控。</PostVoreAssimilation_Normal.description>
+
+  <PostVoreAssimilation_Clumsy.label>拙劣同化术</PostVoreAssimilation_Clumsy.label>
+  <PostVoreAssimilation_Clumsy.description>由于同化技术拙劣，[PAWN_label]无法利用吸收的猎物提升[PAWN_possessive]美感。残留的肉体增幅反而会作为违和感长期存在。</PostVoreAssimilation_Clumsy.description>
+
+  <PostVoreAssimilation_Unaffected.label>纯净派同化术</PostVoreAssimilation_Unaffected.label>
+  <PostVoreAssimilation_Unaffected.description>秉持纯净理念的同化术使[PAWN_label]能精巧处理吸收的猎物，在不改变[PAWN_possessive]外观的前提下完成同化。</PostVoreAssimilation_Unaffected.description>
+
+</LanguageData>

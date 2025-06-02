@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2R_EndoSick.stages.1.label>初期の体内病</RV2R_EndoSick.stages.1.label>
+  <RV2R_EndoSick.stages.1.description>めまいがするけど,温かさが身体に染みわたっている.</RV2R_EndoSick.stages.1.description>
+  <RV2R_EndoSick.stages.2.label>体内病</RV2R_EndoSick.stages.2.label>
+  <RV2R_EndoSick.stages.2.description>めまいがして疲労感もある,まるで身体が溶けて広がるようなこの感覚は...とても心地いい.</RV2R_EndoSick.stages.2.description>
+  <RV2R_EndoSick.stages.3.label>重度の体内病</RV2R_EndoSick.stages.3.label>
+  <RV2R_EndoSick.stages.3.description>まともにものが考えられなくなってきた.疲れているし,それに...ああそうだ,気持ちいい.</RV2R_EndoSick.stages.3.description>
+  <RV2R_EndoSick.stages.4.label>体内病による酩酊</RV2R_EndoSick.stages.4.label>
+  <RV2R_EndoSick.stages.4.description>つかれ...た,でも...あぁ,いい気分だ...</RV2R_EndoSick.stages.4.description>
+  <RV2R_EndoSick.stages.5.label>体内病による泥酔</RV2R_EndoSick.stages.5.label>
+  <RV2R_EndoSick.stages.5.description>ちょっと,寝たい...寝...</RV2R_EndoSick.stages.5.description>
+
+  <RV2R_Drained.stages.drained-0.label>ドレインされた</RV2R_Drained.stages.drained-0.label>
+  <RV2R_Drained.stages.drained-0.description>ややめまいが残るけど,大分よくなってきた.</RV2R_Drained.stages.drained-0.description>
+  <RV2R_Drained.stages.drained-1.label>ドレインされた</RV2R_Drained.stages.drained-1.label>
+  <RV2R_Drained.stages.drained-1.description>疲労と病気に打ちひしがれた様に,体が警告している.</RV2R_Drained.stages.drained-1.description>
+  <RV2R_Drained.stages.drained-2.label>ドレインされた</RV2R_Drained.stages.drained-2.label>
+  <RV2R_Drained.stages.drained-2.description>頭はぼやけて,感覚の末端にも感覚が巡ってこない.このまま気を失ってしまうのか...</RV2R_Drained.stages.drained-2.description>
+  <RV2R_Drained.stages.numb.label>何も感じられない</RV2R_Drained.stages.numb.label>
+  <RV2R_Drained.stages.numb.description>疲れ以外に何も感じられない.少し寝ないと...</RV2R_Drained.stages.numb.description>
+
+  <RV2R_LoverPred.stages.0.label>愛しい獲物</RV2R_LoverPred.stages.0.label>
+  <RV2R_LoverPred.stages.0.description>こうして護っている時が,私たちの正しい姿に感じている.</RV2R_LoverPred.stages.0.description>
+
+  <RV2R_LoverPrey.stages.0.label>肉の抱擁</RV2R_LoverPrey.stages.0.label>
+  <RV2R_LoverPrey.stages.0.description>こうして護られている時が,私たちの正しい姿に感じている.</RV2R_LoverPrey.stages.0.description>
+
+  <RV2R_BondPred.stages.0.label>絆で繋がった獲物</RV2R_BondPred.stages.0.label>
+  <RV2R_BondPred.stages.0.description>自分を信じる動物が,空腹でない私の何かを満たしている.</RV2R_BondPred.stages.0.description>
+
+  <RV2R_BondPred.stages.1.label>絆で繋がった獲物</RV2R_BondPred.stages.1.label>
+  <RV2R_BondPred.stages.1.description>自分を信じる動物たちが,空腹でない私の何かを満たしている.</RV2R_BondPred.stages.1.description>
+
+  <RV2R_BondPrey.stages.0.label>絆で繋がった捕食者</RV2R_BondPrey.stages.0.label>
+  <RV2R_BondPrey.stages.0.description>自分を信じる動物の中.護られる気分だ.</RV2R_BondPrey.stages.0.description>
+
+  <RV2R_PetPred.stages.0.label>体内のペット</RV2R_PetPred.stages.0.label>
+  <RV2R_PetPred.stages.0.description>自分のペットが,あるべき場所に居る.</RV2R_PetPred.stages.0.description>
+
+  <RV2R_PetPrey.stages.0.label>体内ペット</RV2R_PetPrey.stages.0.label>
+  <RV2R_PetPrey.stages.0.description>ペットとして,私のあるべき場所に居る.</RV2R_PetPrey.stages.0.description>
+
+  <RV2R_Relation_PredDied.stages.0.label>私の捕食者 {0}が死んだ</RV2R_Relation_PredDied.stages.0.label>
+  <RV2R_Relation_PredDied.stages.0.description>私の捕食者が死んだ.私のあるべき 私の家が...いなくなってしまった.</RV2R_Relation_PredDied.stages.0.description>
+
+  <RV2R_Relation_PredLost.stages.0.label>私の捕食者 {0}を失った</RV2R_Relation_PredLost.stages.0.label>
+  <RV2R_Relation_PredLost.stages.0.description>私の捕食者を失ってしまった.獲物としてついて行けていたら...</RV2R_Relation_PredLost.stages.0.description>
+
+  <RV2R_KilledMyPred.stages.0.label>私の捕食者を殺した</RV2R_KilledMyPred.stages.0.label>
+
+  <RV2R_Relation_PreyDied.stages.0.label>私のペット {0}が死んだ</RV2R_Relation_PreyDied.stages.0.label>
+  <RV2R_Relation_PreyDied.stages.0.description>私のペットが死んだ.護ることができなかった...</RV2R_Relation_PreyDied.stages.0.description>
+
+  <RV2R_Relation_PreyLost.stages.0.label>私のペット {0}を失った</RV2R_Relation_PreyLost.stages.0.label>
+  <RV2R_Relation_PreyLost.stages.0.description>私のペットを失ってしまった.外に出すべきではなかったんだ...</RV2R_Relation_PreyLost.stages.0.description>
+
+  <RV2R_KilledMyPrey.stages.0.label>私のペットを殺した</RV2R_KilledMyPrey.stages.0.label>
+
+  <RV2R_SoldPred.stages.0.label>捕食者売買</RV2R_SoldPred.stages.0.label>
+  <!--<RV2R_SoldPred.labelSocial>私の捕食者を売った</RV2R_SoldPred.labelSocial>-->
+  <RV2R_SoldPred.stages.predator_sold.labelSocial>私の捕食者を売った</RV2R_SoldPred.stages.predator_sold.labelSocial>
+  <RV2R_SoldPred.stages.0.description>私の捕食者が,物みたいにトレーダーへ売られた.</RV2R_SoldPred.stages.0.description>
+
+  <RV2R_SoldPrey.stages.0.label>獲物売買</RV2R_SoldPrey.stages.0.label>
+  <!--<RV2R_SoldPrey.labelSocial>私の獲物を売った</RV2R_SoldPrey.labelSocial>-->
+  <RV2R_SoldPrey.stages.prey_sold.labelSocial>私の獲物を売った</RV2R_SoldPrey.stages.prey_sold.labelSocial>
+  <RV2R_SoldPrey.stages.0.description>私の獲物が,物みたいにトレーダーへ売られた.</RV2R_SoldPrey.stages.0.description>
+
+  <RV2R_ActivePred_Reluctant.stages.0.labelSocial>私の中</RV2R_ActivePred_Reluctant.stages.0.labelSocial>
+  <RV2R_ActivePred.stages.0.labelSocial>私の中</RV2R_ActivePred.stages.0.labelSocial>
+  <RV2R_ActivePred_Vorny.stages.0.labelSocial>私のもの</RV2R_ActivePred_Vorny.stages.0.labelSocial>
+
+  <RV2R_ActivePrey_Reluctant.stages.0.labelSocial>食べられた</RV2R_ActivePrey_Reluctant.stages.0.labelSocial>
+  <RV2R_ActivePrey.stages.0.labelSocial>食べられた</RV2R_ActivePrey.stages.0.labelSocial>
+  <RV2R_ActivePrey_Vorny.stages.0.labelSocial>貪られた</RV2R_ActivePrey_Vorny.stages.0.labelSocial>
+
+</LanguageData>

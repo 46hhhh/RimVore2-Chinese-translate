@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 特殊：由RimTrans生成的地形蓝图和框架 -->
+  <RV2_FertilizedSoil_Blueprint.label>肥沃土壤(蓝图)</RV2_FertilizedSoil_Blueprint.label>
+  <RV2_FertilizedSoil_Frame.label>肥沃土壤(施工中)</RV2_FertilizedSoil_Frame.label>
+  <RV2_FertilizedSoil_Frame.description>正在改良土地。</RV2_FertilizedSoil_Frame.description>
+
+</LanguageData>

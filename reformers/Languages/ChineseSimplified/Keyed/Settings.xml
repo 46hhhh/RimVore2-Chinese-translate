@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RV2Reformer-Settings_Reset>重置</RV2Reformer-Settings_Reset>
+
+	<RV2Reformer-SettingsGeneral>再生装置</RV2Reformer-SettingsGeneral>
+	<RV2Reformer-SettingsPatches>再生装置-补丁</RV2Reformer-SettingsPatches>
+
+	<Settings_BaseReformTickRequirement>基础再生时间</Settings_BaseReformTickRequirement>
+	<SettingsTooltip_BaseReformTickRequirement>设置角色再生所需的时间。60000约为游戏中的一天。</SettingsTooltip_BaseReformTickRequirement>
+	<Settings_MaxReformRecords>再生记录最大值</Settings_MaxReformRecords>
+	<Settings_MaxReformRecords>再生记录用于存储被消化角色的信息，以便后续再生。此选项设置任意时间内可保存的再生记录最大数量。</Settings_MaxReformRecords>
+	<Settings_DoAutoReform>自动再生</Settings_DoAutoReform>
+	<SettingsTooltip_DoAutoReform>角色被消化时自动执行再生。</SettingsTooltip_DoAutoReform>
+	<Settings_ReformAbortedNotification>再生中断通知</Settings_ReformAbortedNotification>
+	<SettingsTooltip_ReformAbortedNotification>因电力不足等原因导致角色再生失败时的通知。</SettingsTooltip_ReformAbortedNotification>
+	<Settings_ReformUnexpectedFailedNotification>未知原因中断通知</Settings_ReformUnexpectedFailedNotification>
+	<SettingsTooltip_ReformUnexpectedFailedNotification>因未知原因导致角色再生失败时的通知。</SettingsTooltip_ReformUnexpectedFailedNotification>
+	<Settings_ReformCompleteNotification>再生完成通知</Settings_ReformCompleteNotification>
+	<SettingsTooltip_ReformCompleteNotification>角色再生成功时的通知。</SettingsTooltip_ReformCompleteNotification>
+	
+	<Settings_PatchIdeoMemberDeath>意识形态死亡补丁</Settings_PatchIdeoMemberDeath>
+	<SettingsTooltip_PatchIdeoMemberDeath>启用自动再生时，屏蔽因意识形态触发的通知。</SettingsTooltip_PatchIdeoMemberDeath>
+	<Settings_PatchPlayerDeathNotification>死亡通知补丁</Settings_PatchPlayerDeathNotification>
+	<SettingsTooltip_PatchPlayerDeathNotification>启用自动再生时，屏蔽死亡通知。</SettingsTooltip_PatchPlayerDeathNotification>
+	<Settings_PatchRelationTracker>关系追踪补丁</Settings_PatchRelationTracker>
+	<SettingsTooltip_PatchRelationTracker>启用自动再生时，屏蔽因角色关系触发的通知。</SettingsTooltip_PatchRelationTracker>
+	<Settings_PatchThoughtsUtility>心情优化补丁</Settings_PatchThoughtsUtility>
+	<SettingsTooltip_PatchThoughtsUtility>当再生可用时，防止因角色被吞噬触发的心情效果（例如"杀害了我的兄弟"）。</SettingsTooltip_PatchThoughtsUtility>
+	
+	<Settings_MaxSelfReformTime>自我再生最大时间</Settings_MaxSelfReformTime>
+	<Settings_MinSelfReformTime>自我再生最小时间</Settings_MinSelfReformTime>
+	<SettingsTooltips_MaxSelfReformTime>设置角色依靠自身力量自动再生所需的最大时间。</SettingsTooltips_MaxSelfReformTime>
+	<SettingsTooltips_MinSelfReformTime>设置角色依靠自身力量自动再生所需的最小时间。</SettingsTooltips_MinSelfReformTime>
+	
+	<Settings_PatchVanillaExpandedPawnKilled>Vanilla Social Interactions Expanded补丁</Settings_PatchVanillaExpandedPawnKilled>
+	<SettingsTooltip_PatchVanillaExpandedPawnKilled>启用自动再生时，防止vanilla social interactions expanded补丁触发。</SettingsTooltip_PatchVanillaExpandedPawnKilled>
+
+	<Settings_ImmortalsReformationOption>不死者再生设置</Settings_ImmortalsReformationOption>
+	<SettingsTooltip_ImmortalsReformationOption>设置不死者与再生系统的交互方式</SettingsTooltip_ImmortalsReformationOption>
+
+	<Settings_ImmortalTransferOption>不死者传承设置</Settings_ImmortalTransferOption>
+	<SettingsTooltip_ImmortalTransferOption>设置不死特性转移/快速继承规则。"始终转移"允许角色通过吞噬不死者获得不死特性（原不死者将失去特性）。</SettingsTooltip_ImmortalTransferOption>
+	
+	<Settings_QuickScheduleOnDisposal>排泄时加速再生</Settings_QuickScheduleOnDisposal>
+	<SettingsTooltip_QuickScheduleOnDisposal>设置通过非机械方式预定的自动再生角色，是否在捕食者排泄后立即快速再生（而非等待完整时间）。</SettingsTooltip_QuickScheduleOnDisposal>
+
+</LanguageData>

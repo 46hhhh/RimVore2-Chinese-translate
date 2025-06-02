@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2R_Goal_Drain_Predator.label>Vore:捕食者 ドレイン</RV2R_Goal_Drain_Predator.label>
+  <RV2R_Goal_Drain_Predator.description>獲物をドレインした回数です.</RV2R_Goal_Drain_Predator.description>
+
+  <RV2R_Goal_Drain_Prey.label>Vore:被食者 ドレイン</RV2R_Goal_Drain_Prey.label>
+  <RV2R_Goal_Drain_Prey.description>獲物としてドレインされた回数です.</RV2R_Goal_Drain_Prey.description>
+
+
+</LanguageData>

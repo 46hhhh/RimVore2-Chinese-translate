@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ReformChip.label>重塑芯片</ReformChip.label>
+  <ReformChip.description>能在持有者意外卷入消化系统事故时自动复活其的稀有植入体。</ReformChip.description>
+  <ReformChip.comps.0.useLabel>使用并植入芯片</ReformChip.comps.0.useLabel>
+</LanguageData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 厌恶态度 -->
+  <RV2_FeederInitiatedVore_Disliked.stages.0.label>喂养他人</RV2_FeederInitiatedVore_Disliked.stages.0.label>
+  <RV2_FeederInitiatedVore_Disliked.stages.0.description>本不该这么做，教义不会接纳我的行为...</RV2_FeederInitiatedVore_Disliked.stages.0.description>
+
+  <RV2_FeederInitiatedVore_Know_Disliked.stages.0.label>可憎的饲育者</RV2_FeederInitiatedVore_Know_Disliked.stages.0.label>
+
+  <!-- 极度厌恶态度 -->
+  <RV2_FeederInitiatedVore_Abhorrent.stages.0.label>协助喂养</RV2_FeederInitiatedVore_Abhorrent.stages.0.label>
+  <RV2_FeederInitiatedVore_Abhorrent.stages.0.description>竟然协助他人进食，违背信条的感觉令人毛骨悚然。</RV2_FeederInitiatedVore_Abhorrent.stages.0.description>
+
+  <RV2_FeederInitiatedVore_Know_Abhorrent.stages.0.label>有人协助喂养!!</RV2_FeederInitiatedVore_Know_Abhorrent.stages.0.label>
+  <RV2_FeederInitiatedVore_Know_Abhorrent.stages.0.description>周围有人协助捕食者进食，这是违反教义的可憎行为！</RV2_FeederInitiatedVore_Know_Abhorrent.stages.0.description>
+
+  <RV2_FeederInitiatedVore_Know_Social_Abhorrent.stages.0.label>渎神饲育者</RV2_FeederInitiatedVore_Know_Social_Abhorrent.stages.0.label>
+
+  <!-- 喜爱态度 -->
+  <RV2_FeederInitiatedVore_Liked.stages.0.label>喂养他人</RV2_FeederInitiatedVore_Liked.stages.0.label>
+  <RV2_FeederInitiatedVore_Liked.stages.0.description>参与神圣仪式，心灵得到满足。</RV2_FeederInitiatedVore_Liked.stages.0.description>
+
+  <RV2_FeederInitiatedVore_Know_Liked.stages.0.label>光荣饲育者</RV2_FeederInitiatedVore_Know_Liked.stages.0.label>
+
+  <!-- 必须执行态度 -->
+  <RV2_FeederInitiatedVore_Required.stages.0.label>完成喂养</RV2_FeederInitiatedVore_Required.stages.0.label>
+  <RV2_FeederInitiatedVore_Required.stages.0.description>通过将猎物送入捕食者口中，我能更加坚定信仰。</RV2_FeederInitiatedVore_Required.stages.0.description>
+
+  <RV2_FeederInitiatedVore_Know_Required.stages.0.label>有人完成了喂养!</RV2_FeederInitiatedVore_Know_Required.stages.0.label>
+  <RV2_FeederInitiatedVore_Know_Required.stages.0.description>周围有人协助捕食者完成进食，场面何其壮观！</RV2_FeederInitiatedVore_Know_Required.stages.0.description>
+
+  <RV2_FeederInitiatedVore_Know_Social_Required.stages.0.label>神圣饲育者</RV2_FeederInitiatedVore_Know_Social_Required.stages.0.label>
+
+  <RV2_NoRecentFeederInitiatedVore_Required.stages.0.label>渴望协助喂养</RV2_NoRecentFeederInitiatedVore_Required.stages.0.label>
+  <RV2_NoRecentFeederInitiatedVore_Required.stages.0.description>距离上次协助他人进食已经过去太久了。</RV2_NoRecentFeederInitiatedVore_Required.stages.0.description>
+
+</LanguageData>

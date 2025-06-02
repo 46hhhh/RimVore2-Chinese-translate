@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Goal Enablers 
+  These mainly unlock new goals for a pawn's exisiting types. -->
+
+  <RV2_GoalEnabler_ConvertLube.label>膣を湿らす潤滑液</RV2_GoalEnabler_ConvertLube.label>
+  <RV2_GoalEnabler_ConvertLube.description>このキャラクターは,強力な変質液のもとに,生きた獲物を子宮の中で愛液に作り替えることができます.</RV2_GoalEnabler_ConvertLube.description>
+
+  <RV2_GoalEnabler_ConvertMilk.label>乳を満たす分泌液</RV2_GoalEnabler_ConvertMilk.label>
+  <RV2_GoalEnabler_ConvertMilk.description>このキャラクターは,強力な変質液のもとに,生きた獲物を乳房の中でミルクに作り替えることができます.</RV2_GoalEnabler_ConvertMilk.description>
+
+  <RV2_GoalEnabler_ConvertSperm.label>玉を満たす白濁液</RV2_GoalEnabler_ConvertSperm.label>
+  <RV2_GoalEnabler_ConvertSperm.description>このキャラクターは,強力な変質液のもとに,生きた獲物を玉の中で精液に作り替えることができます.</RV2_GoalEnabler_ConvertSperm.description>
+
+  <RV2_GoalEnabler_Digest.label>腹をうねる消化液</RV2_GoalEnabler_Digest.label>
+  <RV2_GoalEnabler_Digest.description>このキャラクターは,強力な消化液のもとに,生きた獲物を胃の中で消化することができます.</RV2_GoalEnabler_Digest.description>
+
+  <RV2_GoalEnabler_Heal.label>獲物を癒す再生液</RV2_GoalEnabler_Heal.label>
+  <RV2_GoalEnabler_Heal.description>このキャラクターは,特殊な変質液のもとに,医療用ベッドの代わりに獲物へ睡眠と回復,そして治療をもたらすことが出来ます.</RV2_GoalEnabler_Heal.description>
+
+  <RV2_GoalEnabler_Reform.label>獲物を作り替える潤滑液</RV2_GoalEnabler_Reform.label>
+  <RV2_GoalEnabler_Reform.description>このキャラクターは,特殊な変質液のもとに,獲物の遺伝子を解きほぐし,自分の遺伝子をコピーさせることが出来ます.</RV2_GoalEnabler_Reform.description>
+
+  <RV2_GoalEnabler_Tempendo.label>安全かつ快適な体</RV2_GoalEnabler_Tempendo.label>
+  <RV2_GoalEnabler_Tempendo.description>このキャラクターは,快適な体内環境のもとに,獲物に娯楽や居場所を確保することが出来ます.</RV2_GoalEnabler_Tempendo.description>
+
+  <RV2_GoalEnabler_Store.label>獲物を閉じ込める肉牢</RV2_GoalEnabler_Store.label>
+  <RV2_GoalEnabler_Store.description>このキャラクターは,強固な体内環境のもとに,獲物をずっと閉じ込めることが出来ます.</RV2_GoalEnabler_Store.description>
+
+
+  <!-- Type Enablers 
+  These mainly unlock new types for a pawn's exisiting goals. -->
+
+  <RV2_TypeEnabler_Oral.label>柔らかい口</RV2_TypeEnabler_Oral.label>
+  <RV2_TypeEnabler_Oral.description>このキャラクターは,強靭かつ柔軟な喉を持ち,生きた獲物を丸呑みすることができます.</RV2_TypeEnabler_Oral.description>
+
+  <RV2_TypeEnabler_Anal.label>柔らかい尻</RV2_TypeEnabler_Anal.label>
+  <RV2_TypeEnabler_Anal.description>このキャラクターは,柔軟な肛門と強靭な腸を持ち,生きた獲物を尻から丸呑みすることができます.</RV2_TypeEnabler_Anal.description>
+
+  <RV2_TypeEnabler_Vaginal.label>柔らかい膣</RV2_TypeEnabler_Vaginal.label>
+  <RV2_TypeEnabler_Vaginal.description>このキャラクターは,柔軟な子宮とその入り口を持ち,生きた獲物を膣から丸呑みすることができます.</RV2_TypeEnabler_Vaginal.description>
+
+  <RV2_TypeEnabler_Cock.label>柔らかい竿</RV2_TypeEnabler_Cock.label>
+  <RV2_TypeEnabler_Cock.description>このキャラクターは,柔軟な尿道と精嚢を持ち,生きた獲物を竿から丸吞みすることができます.</RV2_TypeEnabler_Cock.description>
+
+  <RV2_TypeEnabler_Nipple.label>柔らかい乳首</RV2_TypeEnabler_Nipple.label>
+  <RV2_TypeEnabler_Nipple.description>このキャラクターは,柔軟な乳首と乳房を持ち,生きた獲物を乳首から丸呑みすることが出来ます.</RV2_TypeEnabler_Nipple.description>
+
+
+</LanguageData>

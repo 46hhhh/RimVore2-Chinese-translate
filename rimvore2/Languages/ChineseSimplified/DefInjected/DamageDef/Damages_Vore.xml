@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_StomachAcid.label>胃酸消化伤害</RV2_StomachAcid.label>
+  <RV2_StomachAcid.deathMessage>{0}被完全消化掉了</RV2_StomachAcid.deathMessage>
+
+  <RV2_LubeConversionEnzymes.label>爱液化伤害</RV2_LubeConversionEnzymes.label>
+  <RV2_LubeConversionEnzymes.deathMessage>{0}被转化成了爱液</RV2_LubeConversionEnzymes.deathMessage>
+
+  <RV2_MilkConversionEnzymes.label>乳汁化伤害</RV2_MilkConversionEnzymes.label>
+  <RV2_MilkConversionEnzymes.deathMessage>{0}被转化成了乳汁</RV2_MilkConversionEnzymes.deathMessage>
+
+  <RV2_SpermConversionEnzymes.label>精液化伤害</RV2_SpermConversionEnzymes.label>
+  <RV2_SpermConversionEnzymes.deathMessage>{0}被转化成了精液</RV2_SpermConversionEnzymes.deathMessage>
+</LanguageData>

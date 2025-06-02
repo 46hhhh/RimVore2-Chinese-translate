@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mobility.label>機動性</Mobility.label>
+  <Mobility.description>このキャラクターが獲物を抱えている状態で,どれだけ移動速度が減少するかを示します.獲物の量が過ぎると動けなくなりますが,体内容量が許す限りは無理やり食べさせることが可能です.</Mobility.description>
+
+
+</LanguageData>

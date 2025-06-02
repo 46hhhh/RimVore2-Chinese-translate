@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 口腔取乐 -->
+  <OralPleasure.label>(取乐)口腔</OralPleasure.label>
+  <OralPleasure.RMBLabel>口腔吞噬(取乐)</OralPleasure.RMBLabel>
+  <OralPleasure.actionDescription>{PREDATOR}正为寻求快感而将{PREY}纳入腹中</OralPleasure.actionDescription>
+  <OralPleasure.description>捕食者通过口腔将猎物存入胃袋以获取性快感。</OralPleasure.description>
+
+  <!-- 体内巡游取乐 -->
+  <FullTourPleasure.label>(取乐)体内巡游</FullTourPleasure.label>
+  <FullTourPleasure.RMBLabel>体内巡游吞噬(取乐)</FullTourPleasure.RMBLabel>
+  <FullTourPleasure.actionDescription>{PREDATOR}计划进行体内巡游同时为获取快感而将{PREY}纳入腹中</FullTourPleasure.actionDescription>
+  <FullTourPleasure.description>捕食者通过口腔将猎物存入胃袋以获取性快感，排出时将经由肠道。</FullTourPleasure.description>
+
+  <!-- 肛门取乐 -->
+  <AnalPleasure.label>(取乐)肛门</AnalPleasure.label>
+  <AnalPleasure.RMBLabel>肛门吞噬(取乐)</AnalPleasure.RMBLabel>
+  <AnalPleasure.actionDescription>{PREDATOR}正为寻求快感而将{PREY}纳入臀部</AnalPleasure.actionDescription>
+  <AnalPleasure.description>捕食者通过肛门将猎物存入肠道以获取性快感。</AnalPleasure.description>
+
+  <!-- 阴道取乐 -->
+  <VaginalPleasure.label>(取乐)阴道</VaginalPleasure.label>
+  <VaginalPleasure.RMBLabel>阴道吞噬(取乐)</VaginalPleasure.RMBLabel>
+  <VaginalPleasure.actionDescription>{PREDATOR}正为寻求快感而将{PREY}纳入阴道</VaginalPleasure.actionDescription>
+  <VaginalPleasure.description>捕食者通过阴道将猎物存入子宫以获取性快感。</VaginalPleasure.description>
+
+  <!-- 阴茎取乐 -->
+  <CockPleasure.label>(取乐)阴茎</CockPleasure.label>
+  <CockPleasure.RMBLabel>阴茎吞噬(取乐)</CockPleasure.RMBLabel>
+  <CockPleasure.actionDescription>{PREDATOR}正为寻求快感而将{PREY}纳入阴茎</CockPleasure.actionDescription>
+  <CockPleasure.description>捕食者通过阴茎将猎物存入阴囊以获取性快感。</CockPleasure.description>
+
+  <!-- 乳首取乐 -->
+  <NipplePleasure.label>(取乐)乳首</NipplePleasure.label>
+  <NipplePleasure.RMBLabel>乳首吞噬(取乐)</NipplePleasure.RMBLabel>
+  <NipplePleasure.actionDescription>{PREDATOR}正为寻求快感而将{PREY}纳入乳首</NipplePleasure.actionDescription>
+  <NipplePleasure.description>捕食者通过乳首将猎物存入乳房以获取性快感。</NipplePleasure.description>
+
+</LanguageData>

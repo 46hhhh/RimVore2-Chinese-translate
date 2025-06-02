@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Persuasiveness_VeryGood.label>天下無双のタラシ体質</Persuasiveness_VeryGood.label>
+  <Persuasiveness_VeryGood.description>社交力を差し置いてでも,[PAWN_label]の舌技は,その舌の向こうへと宝の山を錯覚させます.ターゲットになったキャラクターが[PAWN_possessive]頷く可能性はぐっと高くなるでしょう.</Persuasiveness_VeryGood.description>
+
+  <Persuasiveness_Good.label>タラシな傾向</Persuasiveness_Good.label>
+  <Persuasiveness_Good.description>[PAWN_label]は強力な舌技をその身にしています.ターゲットになったキャラクターが[PAWN_possessive]頷く可能性は少し高くなるでしょう.</Persuasiveness_Good.description>
+
+  <Persuasiveness_Normal.label>フツーな魅力</Persuasiveness_Normal.label>
+  <Persuasiveness_Normal.description>[PAWN_label]はvoreに関して,特に際立った説得力を持ち合わせていません.</Persuasiveness_Normal.description>
+
+  <Persuasiveness_Bad.label>ぼあいナンパ下手</Persuasiveness_Bad.label>
+  <Persuasiveness_Bad.description>[PAWN_label]は相手を説得するだけの十分な語彙を持ち合わせていません.ターゲットになったキャラクターが[PAWN_possessive]頷く可能性は少し低くなるでしょう.</Persuasiveness_Bad.description>
+
+  <Persuasiveness_VeryBad.label>食っても食われもしてくれない</Persuasiveness_VeryBad.label>
+  <Persuasiveness_VeryBad.description>[PAWN_label]は暴れる肉食獣にさえ,[PAWN_objective]食べない事を受け入れさせられます...[PAWN_pronoun]が食べられようとしている限りは.ターゲットになったキャラクターが[PAWN_possessive]頷く可能性はかなり低くなるでしょう.</Persuasiveness_VeryBad.description>
+
+
+</LanguageData>

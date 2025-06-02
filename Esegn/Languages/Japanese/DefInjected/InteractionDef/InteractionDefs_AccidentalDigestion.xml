@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_EADD_AccidentalDigestionInteraction.label>不本意な消化</RV2_EADD_AccidentalDigestionInteraction.label>
+  <RV2_EADD_AccidentalDigestionInteraction.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]を不本意に消化し始めた! -> </RV2_EADD_AccidentalDigestionInteraction.logRulesInitiator.rulesStrings.0>
+
+
+</LanguageData>

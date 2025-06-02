@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abhorrent -->
+
+  <RV2_VoreProductEating_Abhorrent.label>ぞっとする</RV2_VoreProductEating_Abhorrent.label>
+  <RV2_VoreProductEating_Abhorrent.description>命の行きつく先では決してない.</RV2_VoreProductEating_Abhorrent.description>
+
+
+  <!-- Preferred -->
+
+  <RV2_VoreProductEating_Preferred.label>好む</RV2_VoreProductEating_Preferred.label>
+  <RV2_VoreProductEating_Preferred.description>命の凝縮した味はこれより他にない.</RV2_VoreProductEating_Preferred.description>
+
+  <RV2_VoreProductEating_Required.label>必須</RV2_VoreProductEating_Required.label>
+  <RV2_VoreProductEating_Required.description>日々の食事として取り入れられるべきだ.</RV2_VoreProductEating_Required.description>
+  <RV2_VoreProductEating_Required.comps.1.description>{VORERELATEDINTERVAL}日間成れ果てを食べていない</RV2_VoreProductEating_Required.comps.1.description>
+
+
+</LanguageData>

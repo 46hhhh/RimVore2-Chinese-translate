@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_ReleaseSpotProduct.label>消化产物排放点</RV2_ReleaseSpotProduct.label>
+  <RV2_ReleaseSpotProduct.description>用于排出体内充分消化后的猎物残渣。\n仅支持自动排放，无法通过命令手动操作。</RV2_ReleaseSpotProduct.description>
+
+  <RV2_ReleaseSpotPawn.label>活体猎物排放点</RV2_ReleaseSpotPawn.label>
+  <RV2_ReleaseSpotPawn.description>用于排出存活猎物的专用位置。\n仅支持自动排放，无法通过命令手动操作。</RV2_ReleaseSpotPawn.description>
+
+</LanguageData>

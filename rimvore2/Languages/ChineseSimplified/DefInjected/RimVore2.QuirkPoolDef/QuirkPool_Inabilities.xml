@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Inabilities.label>能力限制</Inabilities.label>
+  <Inabilities.description>表示该角色在吞噬行为上的特殊限制。当前仅有能否消化的限制，未来可能追加更细致的约束。</Inabilities.description>
+
+</LanguageData>

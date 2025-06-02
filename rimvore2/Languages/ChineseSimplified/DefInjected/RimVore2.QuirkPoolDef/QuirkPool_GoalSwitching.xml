@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GoalSwitching.label>目的切换</GoalSwitching.label>
+  <GoalSwitching.description>具有此倾向的角色可先提出猎物偏好的目的，之后切换为其他目的。</GoalSwitching.description>
+
+
+</LanguageData>

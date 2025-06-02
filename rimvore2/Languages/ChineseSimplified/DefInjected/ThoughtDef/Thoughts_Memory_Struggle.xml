@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Struggle Memories -->
+  <RV2_SuccessfulStruggle_Prey.stages.0.label>从体内逃脱</RV2_SuccessfulStruggle_Prey.stages.0.label>
+  <RV2_SuccessfulStruggle_Prey.stages.0.description>虽然被吃掉了，但总算从{1}的体内逃出来了！</RV2_SuccessfulStruggle_Prey.stages.0.description>
+
+  <RV2_SuccessfulStruggle_Predator.stages.0.label>猎物逃走了</RV2_SuccessfulStruggle_Predator.stages.0.label>
+  <RV2_SuccessfulStruggle_Predator.stages.0.description>{1}从体内逃走了。怎么会这样！</RV2_SuccessfulStruggle_Predator.stages.0.description>
+
+
+</LanguageData>

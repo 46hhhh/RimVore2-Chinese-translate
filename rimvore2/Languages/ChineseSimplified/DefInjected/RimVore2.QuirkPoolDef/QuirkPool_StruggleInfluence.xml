@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StruggleCapability.label>抵抗能力</StruggleCapability.label>
+  <StruggleCapability.description>表示该角色作为捕食者或猎物时是否具备抵抗能力。</StruggleCapability.description>
+
+  <StruggleStrength_Prey.label>抵抗强度（猎物）</StruggleStrength_Prey.label>
+  <StruggleStrength_Prey.description>表示该角色被吞噬时的抵抗能力强度。</StruggleStrength_Prey.description>
+
+  <StruggleStrength_Predator.label>抵抗容忍度（捕食者）</StruggleStrength_Predator.label>
+  <StruggleStrength_Predator.description>表示该角色作为捕食者时允许猎物抵抗的程度。</StruggleStrength_Predator.description>
+
+</LanguageData>

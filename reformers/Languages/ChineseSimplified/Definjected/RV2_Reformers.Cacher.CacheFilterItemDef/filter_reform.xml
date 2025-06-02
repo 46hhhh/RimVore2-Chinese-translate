@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Colonist.Name>殖民者</Colonist.Name>
+  <Colonist.description>殖民者将被缓存保存</Colonist.description>
+  <ColonyAnimal.Name>家养动物</ColonyAnimal.Name>
+  <ColonyAnimal.description>玩家殖民地的动物成员将被缓存保存</ColonyAnimal.description>
+  <WildAnimal.Name>野生动物</WildAnimal.Name>
+  <WildAnimal.description>野生动物将被缓存保存</WildAnimal.description>
+  <AnyAnimal.Name>所有动物</AnyAnimal.Name>
+  <AnyAnimal.description>所有动物将被缓存保存</AnyAnimal.description>
+  <Hostile.Name>敌对派系</Hostile.Name>
+  <Hostile.description>掠夺者或其他敌对派系成员将被缓存保存</Hostile.description>
+  <Slaves.Name>奴隶</Slaves.Name>
+  <Slaves.description>奴隶将被缓存保存</Slaves.description>
+  <Prisoners.Name>囚犯</Prisoners.Name>
+  <Prisoners.description>囚犯将被缓存保存</Prisoners.description>
+  <Traders.Name>商人</Traders.Name>
+  <Traders.description>商队成员将被缓存保存</Traders.description>
+  <Guests.Name>访客</Guests.Name>
+  <Guests.description>访客将被缓存保存</Guests.description>
+  <Any.Name>全部</Any.Name>
+  <Any.description>所有存在将被缓存保存</Any.description>
+  
+</LanguageData>

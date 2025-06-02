@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 目标启用器 -->
+
+  <Enablers_Overstuffed_Goal_Absorb.label>体内躁动的同化力</Enablers_Overstuffed_Goal_Absorb.label>
+  <Enablers_Overstuffed_Goal_Absorb.description>[PAWN_label]能在细胞层面与其他生命同化。既可单向吸收，也可双向融合。</Enablers_Overstuffed_Goal_Absorb.description>
+
+  <Enablers_Overstuffed_Goal_Amalgamate.label>体内包容的融合力</Enablers_Overstuffed_Goal_Amalgamate.label>
+  <Enablers_Overstuffed_Goal_Amalgamate.description>[PAWN_label]能在细胞层面与其他生命同化，但仅限可逆的安全范围，无法完全吸收。</Enablers_Overstuffed_Goal_Amalgamate.description>
+
+  <Enablers_Overstuffed_Goal_Assimilate.label>体内吞噬的吸收力</Enablers_Overstuffed_Goal_Assimilate.label>
+  <Enablers_Overstuffed_Goal_Assimilate.description>[PAWN_label]能在细胞层面单向同化其他生命。请谨记：猎物将永远化为活体血肉，再无回头之路。</Enablers_Overstuffed_Goal_Assimilate.description>
+
+  <Enablers_Overstuffed_Goal_ConvertChemfuel.label>化学异香蒸馏液</Enablers_Overstuffed_Goal_ConvertChemfuel.label>
+  <Enablers_Overstuffed_Goal_ConvertChemfuel.description>[PAWN_label]能在体内多处转化猎物，将其变为可用的生物液化燃料。</Enablers_Overstuffed_Goal_ConvertChemfuel.description>
+
+  <Enablers_Overstuffed_Goal_ConvertEggs.label>母性充盈卵化液</Enablers_Overstuffed_Goal_ConvertEggs.label>
+  <Enablers_Overstuffed_Goal_ConvertEggs.description>[PAWN_label]能溶解活体猎物，在[PAWN_possessive]卵巢中重塑为卵。切记"卵化"与"卵囚"有本质区别。</Enablers_Overstuffed_Goal_ConvertEggs.description>
+
+  <Enablers_Overstuffed_Goal_ConvertUrine.label>肾脏充盈卫生液</Enablers_Overstuffed_Goal_ConvertUrine.label>
+  <Enablers_Overstuffed_Goal_ConvertUrine.description>[PAWN_label]能溶解活体猎物，在[PAWN_possessive]肾脏中转化为适合作肥料的尿液。</Enablers_Overstuffed_Goal_ConvertUrine.description>
+
+
+  <!-- 类型启用器 -->
+
+  <Enablers_Overstuffed_Type_Cleavage.label>幽深沟壑</Enablers_Overstuffed_Type_Cleavage.label>
+  <Enablers_Overstuffed_Type_Cleavage.description>[PAWN_label]的胸间沟壑深邃到足以容纳活体猎物。</Enablers_Overstuffed_Type_Cleavage.description>
+
+  <Enablers_Overstuffed_Type_Membrane.label>粘稠皮膜细胞</Enablers_Overstuffed_Type_Membrane.label>
+  <Enablers_Overstuffed_Type_Membrane.description>[PAWN_label]的外皮柔软如史莱姆，可吞噬活体猎物。</Enablers_Overstuffed_Type_Membrane.description>
+
+  <Enablers_Overstuffed_Type_Navel.label>深渊脐孔</Enablers_Overstuffed_Type_Navel.label>
+  <Enablers_Overstuffed_Type_Navel.description>[PAWN_label]的脐孔具备惊人弹性和深度，足以吞噬活体猎物。</Enablers_Overstuffed_Type_Navel.description>
+
+  <Enablers_Overstuffed_Type_Tailmaw.label>柔软尾颚</Enablers_Overstuffed_Type_Tailmaw.label>
+  <Enablers_Overstuffed_Type_Tailmaw.description>[PAWN_label]的尾巴末端生有可伸缩的嘴，能吞咽活体猎物。</Enablers_Overstuffed_Type_Tailmaw.description>
+
+  <Enablers_Overstuffed_Type_Udder.label>弹性乳囊</Enablers_Overstuffed_Type_Udder.label>
+  <Enablers_Overstuffed_Type_Udder.description>[PAWN_label]的乳房具备惊人伸缩性，可容纳活体猎物。</Enablers_Overstuffed_Type_Udder.description>
+
+</LanguageData>

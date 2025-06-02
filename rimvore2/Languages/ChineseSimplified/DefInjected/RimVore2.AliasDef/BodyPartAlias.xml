@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食阶段会检查partName字段，如果当前partName在任何别名中匹配到，
+       就会遍历角色身体部位并返回包含任何别名的部位 -->
+
+  <bodyPart_tailTip.label>尾尖</bodyPart_tailTip.label>
+  <bodyPart_mouth.label>口腔</bodyPart_mouth.label>
+  <bodyPart_body.label>躯干</bodyPart_body.label>
+  <bodyPart_stomach.label>胃袋</bodyPart_stomach.label>
+
+</LanguageData>

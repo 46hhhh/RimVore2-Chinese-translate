@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 精粹转化物食用记忆 -->
+  <RV2_ConsumedDigestedPrey_Cum.stages.0.label>饮下精粹转化物</RV2_ConsumedDigestedPrey_Cum.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Cum.stages.0.description>还不至于难以下咽</RV2_ConsumedDigestedPrey_Cum.stages.0.description>
+
+  <RV2_ConsumedDigestedPrey_Cum_VeryGood.stages.0.label>饮下最爱的精粹转化物</RV2_ConsumedDigestedPrey_Cum_VeryGood.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Cum_VeryGood.stages.0.description>直冲脑髓的美味!</RV2_ConsumedDigestedPrey_Cum_VeryGood.stages.0.description>
+
+  <RV2_ConsumedDigestedPrey_Cum_Good.stages.0.label>饮下喜欢的精粹转化物</RV2_ConsumedDigestedPrey_Cum_Good.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Cum_Good.stages.0.description>嗯，味道不错!</RV2_ConsumedDigestedPrey_Cum_Good.stages.0.description>
+
+  <RV2_ConsumedDigestedPrey_Cum_Bad.stages.0.label>饮下讨厌的精粹转化物</RV2_ConsumedDigestedPrey_Cum_Bad.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Cum_Bad.stages.0.description>呃...黏糊糊的</RV2_ConsumedDigestedPrey_Cum_Bad.stages.0.description>
+
+  <RV2_ConsumedDigestedPrey_Cum_VeryBad.stages.0.label>饮下最恨的精粹转化物</RV2_ConsumedDigestedPrey_Cum_VeryBad.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Cum_VeryBad.stages.0.description>希望不会染上性病</RV2_ConsumedDigestedPrey_Cum_VeryBad.stages.0.description>
+
+  <!-- 乳质转化物食用记忆 -->
+  <RV2_ConsumedDigestedPrey_Milk.stages.0.label>饮下乳质转化物</RV2_ConsumedDigestedPrey_Milk.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Milk.stages.0.description>确实是乳汁的味道</RV2_ConsumedDigestedPrey_Milk.stages.0.description>
+
+  <RV2_ConsumedDigestedPrey_Milk_VeryGood.stages.0.label>饮下最爱的乳质转化物</RV2_ConsumedDigestedPrey_Milk_VeryGood.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Milk_VeryGood.stages.0.description>能感受到生命的深邃...!</RV2_ConsumedDigestedPrey_Milk_VeryGood.stages.0.description>
+
+  <RV2_ConsumedDigestedPrey_Milk_Good.stages.0.label>饮下喜欢的乳质转化物</RV2_ConsumedDigestedPrey_Milk_Good.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Milk_Good.stages.0.description>奢侈的滋味!</RV2_ConsumedDigestedPrey_Milk_Good.stages.0.description>
+
+  <RV2_ConsumedDigestedPrey_Milk_Bad.stages.0.label>饮下讨厌的乳质转化物</RV2_ConsumedDigestedPrey_Milk_Bad.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Milk_Bad.stages.0.description>有点...肉腥味</RV2_ConsumedDigestedPrey_Milk_Bad.stages.0.description>
+
+  <RV2_ConsumedDigestedPrey_Milk_VeryBad.stages.0.label>饮下最恨的乳质转化物</RV2_ConsumedDigestedPrey_Milk_VeryBad.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Milk_VeryBad.stages.0.description>就算没变质也会拉肚子吧</RV2_ConsumedDigestedPrey_Milk_VeryBad.stages.0.description>
+
+</LanguageData>

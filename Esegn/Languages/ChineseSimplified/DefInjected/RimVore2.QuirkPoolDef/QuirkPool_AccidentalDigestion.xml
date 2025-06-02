@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<AccidentalDigestionAwareness.label>意外消化察觉力</AccidentalDigestionAwareness.label>
+  <AccidentalDigestionAwareness.description>表示该角色作为捕食者时，察觉自己意外开始消化猎物的概率。</AccidentalDigestionAwareness.description>
+
+  <AccidentalDigestionControl.label>消化系统控制力</AccidentalDigestionControl.label>
+  <AccidentalDigestionControl.description>表示该角色储存猎物时，意外开始消化行为的概率。</AccidentalDigestionControl.description>
+
+</LanguageData>

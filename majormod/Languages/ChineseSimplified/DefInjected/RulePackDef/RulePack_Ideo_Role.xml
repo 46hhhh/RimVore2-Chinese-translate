@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食者 -->
+
+  <RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.0>r_roleName(p=4)->[memePredation]</RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.0>
+  <RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.1>r_roleName(p=2)->[memeAdjective][memePredation]</RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.1>
+  <RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.2>r_roleName->[chosenTheme][memePredation]</RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.2>
+  <RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.3>r_roleName->[keyDeity]的[memePredation]</RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.3>
+  <RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.4>r_roleName->[memeConcept]的[memePredation]</RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.4>
+  <RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.5>r_roleName->[chosenIdeoName]的[memePredation]</RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.5>
+  <RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.6>r_roleName->[chosenAdjective][memePredation]</RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.6>
+  <RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.7>r_roleName->[keyDeity]的[memePredation]</RV2_NamerRoleAlphaPredator.rulePack.rulesStrings.7>
+
+  <RV2_NamerRoleChosenPrey.rulePack.rulesStrings.0>r_roleName(p=4)->[memePreyism]</RV2_NamerRoleChosenPrey.rulePack.rulesStrings.0>
+  <RV2_NamerRoleChosenPrey.rulePack.rulesStrings.1>r_roleName(p=2)->[memeAdjective][memePreyism]</RV2_NamerRoleChosenPrey.rulePack.rulesStrings.1>
+  <RV2_NamerRoleChosenPrey.rulePack.rulesStrings.2>r_roleName->[chosenTheme]的[memePreyism]</RV2_NamerRoleChosenPrey.rulePack.rulesStrings.2>
+  <RV2_NamerRoleChosenPrey.rulePack.rulesStrings.3>r_roleName->[keyDeity]的[memePreyism]</RV2_NamerRoleChosenPrey.rulePack.rulesStrings.3>
+  <RV2_NamerRoleChosenPrey.rulePack.rulesStrings.4>r_roleName->[memeConcept]的[memePreyism]</RV2_NamerRoleChosenPrey.rulePack.rulesStrings.4>
+  <RV2_NamerRoleChosenPrey.rulePack.rulesStrings.5>r_roleName->[chosenIdeoName]的[memePreyism]</RV2_NamerRoleChosenPrey.rulePack.rulesStrings.5>
+  <RV2_NamerRoleChosenPrey.rulePack.rulesStrings.6>r_roleName->[chosenAdjective][memePreyism]</RV2_NamerRoleChosenPrey.rulePack.rulesStrings.6>
+  <RV2_NamerRoleChosenPrey.rulePack.rulesStrings.7>r_roleName->[keyDeity]的[memePreyism]</RV2_NamerRoleChosenPrey.rulePack.rulesStrings.7>
+
+  <RV2_NamerRoleFeeder.rulePack.rulesStrings.0>r_feeder->侍奉者</RV2_NamerRoleFeeder.rulePack.rulesStrings.0>
+  <RV2_NamerRoleFeeder.rulePack.rulesStrings.1>r_feeder->捕食大师</RV2_NamerRoleFeeder.rulePack.rulesStrings.1>
+  <RV2_NamerRoleFeeder.rulePack.rulesStrings.2>r_roleName(p=4)->[r_feeder]</RV2_NamerRoleFeeder.rulePack.rulesStrings.2>
+  <RV2_NamerRoleFeeder.rulePack.rulesStrings.3>r_roleName(p=2)->[memeAdjective][r_feeder]</RV2_NamerRoleFeeder.rulePack.rulesStrings.3>
+  <RV2_NamerRoleFeeder.rulePack.rulesStrings.4>r_roleName->[chosenTheme]的[r_feeder]</RV2_NamerRoleFeeder.rulePack.rulesStrings.4>
+  <RV2_NamerRoleFeeder.rulePack.rulesStrings.5>r_roleName->[keyDeity]的[r_feeder]</RV2_NamerRoleFeeder.rulePack.rulesStrings.5>
+  <RV2_NamerRoleFeeder.rulePack.rulesStrings.6>r_roleName->[memeConcept]的[r_feeder]</RV2_NamerRoleFeeder.rulePack.rulesStrings.6>
+  <RV2_NamerRoleFeeder.rulePack.rulesStrings.7>r_roleName->[chosenIdeoName]的[r_feeder]</RV2_NamerRoleFeeder.rulePack.rulesStrings.7>
+  <RV2_NamerRoleFeeder.rulePack.rulesStrings.8>r_roleName->[chosenAdjective][r_feeder]</RV2_NamerRoleFeeder.rulePack.rulesStrings.8>
+  <RV2_NamerRoleFeeder.rulePack.rulesStrings.9>r_roleName->[keyDeity]的[r_feeder]</RV2_NamerRoleFeeder.rulePack.rulesStrings.9>
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_Container_Sack.label>膨れた袋</RV2_Container_Sack.label>
+  <RV2_Container_Sack.description>丁寧に消化されてしまった獲物の残り物は,綺麗に包まれて回収されるのを待っています.</RV2_Container_Sack.description>
+
+  <RV2_Container_Bones.label>骨の山</RV2_Container_Bones.label>
+  <RV2_Container_Bones.description>獲物を組み立てていた骨の山です.ひっくりかえしたら何か溶け残りが見つかるかもしれません.</RV2_Container_Bones.description>
+
+
+  <!-- MH: pretend it makes sense that you can pick up and move a puddle. they, uh, store it perfectly in their mouths and spit it out -->
+
+  <RV2_Container_LubePuddle.label>愛液の水たまり</RV2_Container_LubePuddle.label>
+  <RV2_Container_LubePuddle.description>染みることなく留まる愛液溜まりで,溶け残りがその上に浮いている可能性があります.</RV2_Container_LubePuddle.description>
+
+  <RV2_Container_Condom.label>コンドーム</RV2_Container_Condom.label>
+  <RV2_Container_Condom.description>精液にされた獲物がたっぷり詰まっていて,封をほどけば白濁の中から何か出てくるかもしれません.</RV2_Container_Condom.description>
+
+  <RV2_Container_CumPuddle.label>精液の水たまり</RV2_Container_CumPuddle.label>
+  <RV2_Container_CumPuddle.description>分厚く溜まった精液溜まりで,溶け残りがその上に浮いている可能性があります.</RV2_Container_CumPuddle.description>
+
+  <RV2_Container_MilkJug.label>ミルクジャグ</RV2_Container_MilkJug.label>
+  <RV2_Container_MilkJug.description>ミルクに変えられた獲物をジャグに収めたものです.中をあけてみると,溶け残りが出てくるかも知れません.</RV2_Container_MilkJug.description>
+
+  <RV2_Container_MilkPuddle.label>ミルクの水たまり</RV2_Container_MilkPuddle.label>
+  <RV2_Container_MilkPuddle.description>濃厚に溜まったミルク溜まりで,溶け残りがその上に浮いている可能性があります.</RV2_Container_MilkPuddle.description>
+
+  <RV2_Container_Scat.label>成れ果て</RV2_Container_Scat.label>
+  <RV2_Container_Scat.description>悪臭を放つ獲物の残骸であり,消化の成果物です.もし手が汚れてもいいなら,残骸を中から取り出せる可能性があります.</RV2_Container_Scat.description>
+
+  <RV2_Container_None.label>何もない</RV2_Container_None.label>
+  <RV2_Container_None.description>何も存在せず,成れ果てを出すためのほんの指標であるに過ぎません.</RV2_Container_None.description>
+
+
+</LanguageData>

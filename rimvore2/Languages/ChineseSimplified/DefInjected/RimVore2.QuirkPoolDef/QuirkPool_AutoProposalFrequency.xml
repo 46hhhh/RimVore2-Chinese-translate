@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AutoProposalFrequency.label>主动提出频率</AutoProposalFrequency.label>
+  <AutoProposalFrequency.description>该角色主动提出吞噬行为的频率。无论作为捕食者还是猎物，只有在基本不会主动提出的情况下才会向周围发起相关提议。</AutoProposalFrequency.description>
+
+</LanguageData>

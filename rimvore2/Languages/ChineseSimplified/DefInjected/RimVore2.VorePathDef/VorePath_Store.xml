@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 口腔储存 -->
+  <OralStore.label>(储存)口腔</OralStore.label>
+  <OralStore.RMBLabel>口腔吞噬(储存)</OralStore.RMBLabel>
+  <OralStore.actionDescription>{PREDATOR}正试图将{PREY}禁锢于腹部</OralStore.actionDescription>
+  <OralStore.description>捕食者通过口腔将猎物送入胃部进行半永久性储存。</OralStore.description>
+
+  <!-- 体内巡游储存 -->
+  <FullTourStore.label>(储存)体内巡游</FullTourStore.label>
+  <FullTourStore.RMBLabel>全身巡游吞噬(储存)</FullTourStore.RMBLabel>
+  <FullTourStore.actionDescription>{PREDATOR}在规划体内巡游的同时试图将{PREY}禁锢于腹部</FullTourStore.actionDescription>
+  <FullTourStore.description>捕食者通过口腔将猎物送入胃部进行半永久性储存，排出时将经由肠道。</FullTourStore.description>
+
+  <!-- 肛门储存 -->
+  <AnalStore.label>(储存)肛门</AnalStore.label>
+  <AnalStore.RMBLabel>肛门吞噬(储存)</AnalStore.RMBLabel>
+  <AnalStore.actionDescription>{PREDATOR}正试图将{PREY}禁锢于臀部</AnalStore.actionDescription>
+  <AnalStore.description>捕食者通过肛门将猎物送入肠道进行半永久性储存。</AnalStore.description>
+
+  <!-- 阴道储存 -->
+  <VaginalStore.label>(储存)阴道</VaginalStore.label>
+  <VaginalStore.RMBLabel>阴道吞噬(储存)</VaginalStore.RMBLabel>
+  <VaginalStore.actionDescription>{PREDATOR}正试图将{PREY}禁锢于阴道</VaginalStore.actionDescription>
+  <VaginalStore.description>捕食者通过阴道将猎物送入子宫进行半永久性储存。</VaginalStore.description>
+
+  <!-- 阴茎储存 -->
+  <CockStore.label>(储存)阴茎</CockStore.label>
+  <CockStore.RMBLabel>阴茎吞噬(储存)</CockStore.RMBLabel>
+  <CockStore.actionDescription>{PREDATOR}正试图将{PREY}禁锢于阴茎</CockStore.actionDescription>
+  <CockStore.description>捕食者通过阴茎将猎物送入阴囊进行半永久性储存。</CockStore.description>
+
+  <!-- 乳首储存 -->
+  <NippleStore.label>(储存)乳首</NippleStore.label>
+  <NippleStore.RMBLabel>乳首吞噬(储存)</NippleStore.RMBLabel>
+  <NippleStore.actionDescription>{PREDATOR}正试图将{PREY}禁锢于乳首</NippleStore.actionDescription>
+  <NippleStore.description>捕食者通过乳首将猎物送入胸部进行半永久性储存。</NippleStore.description>
+
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MH: 这些特性的运作方式很特殊：它们不是直接乘以产物，而是在处理阶段开始时乘以角色的营养价值 -->
+
+  <NutritionEfficiency_Godlike.label>噬魂夺魄</NutritionEfficiency_Godlike.label>
+  <NutritionEfficiency_Godlike.description>纵使基因工程和机械强化遍布边缘世界，[PAWN_label]仍堪称天赐恩典！[PAWN_pronoun]产生的排泄物能滋养土壤与人民，成为殖民地的重要支柱。</NutritionEfficiency_Godlike.description>
+
+  <NutritionEfficiency_VeryGood.label>生化精炼厂</NutritionEfficiency_VeryGood.label>
+  <NutritionEfficiency_VeryGood.description>[PAWN_label]拥有普通捕食者双倍的吸收效率，能从猎物中榨取更多营养与排泄物。即便是整只长毛象，[PAWN_pronoun]也能连骨髓都吸收殆尽。</NutritionEfficiency_VeryGood.description>
+
+  <NutritionEfficiency_Good.label>高效转化</NutritionEfficiency_Good.label>
+  <NutritionEfficiency_Good.description>[PAWN_label]的吸收效率是普通捕食者的150%，能产出可观的营养与排泄物。[PAWN_possessive]身体甚至能从猎物骨髓等部位额外提取养分。</NutritionEfficiency_Good.description>
+
+  <NutritionEfficiency_Normal.label>标准效率</NutritionEfficiency_Normal.label>
+  <NutritionEfficiency_Normal.description>[PAWN_label]拥有与其他捕食者相同的吸收效率。</NutritionEfficiency_Normal.description>
+
+  <NutritionEfficiency_Bad.label>低效消化</NutritionEfficiency_Bad.label>
+  <NutritionEfficiency_Bad.description>[PAWN_label]的吸收效率仅有普通捕食者的75%。[PAWN_possessive]消化道尚未完全适应活体吞咽这种非常规进食方式。</NutritionEfficiency_Bad.description>
+
+  <NutritionEfficiency_VeryBad.label>极端低效</NutritionEfficiency_VeryBad.label>
+  <NutritionEfficiency_VeryBad.description>[PAWN_label]的吸收效率不足普通捕食者的一半。要满足[PAWN_pronoun]，需要更多牺牲品。</NutritionEfficiency_VeryBad.description>
+
+  <PreyNutrition_VeryGood.label>营养爆棚</PreyNutrition_VeryGood.label>
+  <PreyNutrition_VeryGood.description>[PAWN_label]的营养价值是普通猎物的两倍，是绝佳的储备粮！</PreyNutrition_VeryGood.description>
+
+  <PreyNutrition_Good.label>营养充沛</PreyNutrition_Good.label>
+  <PreyNutrition_Good.description>[PAWN_label]的营养价值达到普通猎物的150%，[PAWN_pronoun]的身体能让捕食者长久免于饥饿。</PreyNutrition_Good.description>
+
+  <PreyNutrition_Normal.label>标准营养</PreyNutrition_Normal.label>
+  <PreyNutrition_Normal.description>[PAWN_label]的营养价值与普通猎物无异。</PreyNutrition_Normal.description>
+
+  <PreyNutrition_Bad.label>营养贫瘠</PreyNutrition_Bad.label>
+  <PreyNutrition_Bad.description>[PAWN_label]的营养价值仅有普通猎物的75%，不适合作为活体食粮。</PreyNutrition_Bad.description>
+
+  <PreyNutrition_VeryBad.label>形同嚼蜡</PreyNutrition_VeryBad.label>
+  <PreyNutrition_VeryBad.description>[PAWN_label]的营养价值不足普通猎物的一半。若非享受吞噬过程，普通进食反而更划算。</PreyNutrition_VeryBad.description>
+
+</LanguageData>

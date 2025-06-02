@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PostVoreAbilities_SkillAbsorb.label>技能吸收</PostVoreAbilities_SkillAbsorb.label>
+  <PostVoreAbilities_SkillAbsorb.description>[PAWN_label]有20%概率能够吸收[PAWN_possessive]猎物最突出的技能。</PostVoreAbilities_SkillAbsorb.description>
+
+  <PostVoreAbilities_PsyfocusGainPrey.label>灵能觉醒(猎物)</PostVoreAbilities_PsyfocusGainPrey.label>
+  <PostVoreAbilities_PsyfocusGainPrey.description>[PAWN_label]在被捕食时，有20%概率可能获得灵能专注。</PostVoreAbilities_PsyfocusGainPrey.description>
+
+  <PostVoreAbilities_PsyfocusGainPredator.label>灵能觉醒(捕食者)</PostVoreAbilities_PsyfocusGainPredator.label>
+  <PostVoreAbilities_PsyfocusGainPredator.description>[PAWN_label]在吞噬猎物时，有20%概率可能获得灵能专注。</PostVoreAbilities_PsyfocusGainPredator.description>
+
+  <PostVoreAbilities_TraitAbsorb.label>特性吸收</PostVoreAbilities_TraitAbsorb.label>
+  <PostVoreAbilities_TraitAbsorb.description>[PAWN_label]有20%概率能够从[PAWN_possessive]猎物身上吸收随机特性。</PostVoreAbilities_TraitAbsorb.description>
+
+</LanguageData>

@@ -1,0 +1,18 @@
+<LanguageData>
+
+  <Rv2_Reformer_Base.label>リフォーマーベース</Rv2_Reformer_Base.label>
+  <Rv2_Reformer_Base.description>リフォーマーです.</Rv2_Reformer_Base.description>
+
+  <Rv2_Reformer_Powered.label>パワーリフォーマーベース</Rv2_Reformer_Powered.label>
+  <Rv2_Reformer_Powered.description>リフォーマーです.</Rv2_Reformer_Powered.description>
+
+  <RV2_Reformer_Colony.label>コロニーリフォーマー</RV2_Reformer_Colony.label>
+  <RV2_Reformer_Colony.description>入植者が丸呑みに起因して死亡した際に,電力を用いて肉体の代替を作り出す機械です.</RV2_Reformer_Colony.description>
+
+  <RV2_Reformer_Archo.label>アルコテックリフォーマー</RV2_Reformer_Archo.label>
+  <RV2_Reformer_Archo.description>入植者が丸呑みに起因して死亡した際に,完全な無から肉体の代替を作り出すアルコテックデバイスです.</RV2_Reformer_Archo.description>
+
+  <RV2_Reformer_Owned.label>パーソナルリフォーマー</RV2_Reformer_Owned.label>
+  <RV2_Reformer_Owned.description>対象に設定した存在が丸呑みに起因して死亡した際に,電力を用いて肉体の代替を作り出す機械です.</RV2_Reformer_Owned.description>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GoalSwitching_Enabled.label>任性的</GoalSwitching_Enabled.label>
+  <GoalSwitching_Enabled.description>[PAWN_label]天性顽皮，即便是[PAWN_pronoun]自己提出的建议，也可能采取完全不同的行动过程。</GoalSwitching_Enabled.description>
+
+</LanguageData>

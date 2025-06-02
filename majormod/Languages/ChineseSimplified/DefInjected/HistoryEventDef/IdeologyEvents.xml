@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 用于戒律 -->
+
+  <RV2_Vore.label>吞噬</RV2_Vore.label>
+  <RV2_FatalVore.label>致命性吞噬</RV2_FatalVore.label>
+  <RV2_EndoVore.label>安全性吞噬</RV2_EndoVore.label>
+  <RV2_HumanoidPrey.label>吞噬类人生物</RV2_HumanoidPrey.label>
+  <RV2_AnimalPrey.label>吞噬动物</RV2_AnimalPrey.label>
+  <RV2_AnimalPrey_Venerated.label>吞噬圣兽</RV2_AnimalPrey_Venerated.label>
+  <RV2_HumanoidPredator.label>被类人生物吞噬</RV2_HumanoidPredator.label>
+  <RV2_AnimalPredator.label>被动物吞噬</RV2_AnimalPredator.label>
+  <RV2_AnimalPredator_Venerated.label>被圣兽吞噬</RV2_AnimalPredator_Venerated.label>
+  <RV2_PreyInitiatedVore.label>被猎物邀请参与吞噬</RV2_PreyInitiatedVore.label>
+  <RV2_PredatorInitiatedVore.label>被捕食者邀请参与吞噬</RV2_PredatorInitiatedVore.label>
+  <RV2_FeederInitiatedVore.label>作为喂食者邀请参与吞噬</RV2_FeederInitiatedVore.label>
+  <RV2_ConsumedVoreProduct.label>服用吞噬产物</RV2_ConsumedVoreProduct.label>
+  <RV2_InstalledVoreEnabler.label>安装吞噬增强装置</RV2_InstalledVoreEnabler.label>
+  <RV2_InterruptedVore.label>吞噬被中断</RV2_InterruptedVore.label>
+  <RV2_OralVore.label>口腔吞噬</RV2_OralVore.label>
+  <RV2_AnalVore.label>肛门吞噬</RV2_AnalVore.label>
+  <RV2_VaginalVore.label>阴道吞噬</RV2_VaginalVore.label>
+  <RV2_CockVore.label>阴茎吞噬</RV2_CockVore.label>
+  <RV2_NippleVore.label>乳头吞噬</RV2_NippleVore.label>
+
+</LanguageData>

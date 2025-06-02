@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- these two are used for saving-throws after failed vore proposals -->
+
+  <RV2_VoreFighting_Attacker.label>因捕食行为发生争执(攻击方)</RV2_VoreFighting_Attacker.label>
+  <RV2_VoreFighting_Attacker.baseInspectLine>精神状态: 捕食争执</RV2_VoreFighting_Attacker.baseInspectLine>
+
+  <RV2_VoreFighting_Defender.label>因捕食行为发生争执(防守方)</RV2_VoreFighting_Defender.label>
+  <RV2_VoreFighting_Defender.baseInspectLine>精神状态: 捕食争执</RV2_VoreFighting_Defender.baseInspectLine>
+
+</LanguageData>

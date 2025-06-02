@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 性行为后吞噬提议特性说明 -->
+  <RV2_RJW_PostSexProposalChance.label>性行为后吞噬提议</RV2_RJW_PostSexProposalChance.label>
+  <RV2_RJW_PostSexProposalChance.description>表示该角色在性行为后是否会提出吞噬请求，以及提出的概率。</RV2_RJW_PostSexProposalChance.description>
+
+
+</LanguageData>

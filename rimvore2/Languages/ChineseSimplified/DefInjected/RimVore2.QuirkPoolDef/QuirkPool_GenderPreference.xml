@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GenderPreference_Predator.label>猎物性别偏好</GenderPreference_Predator.label>
+  <GenderPreference_Predator.description>该角色作为捕食者选择猎物时参考的性取向标准。此偏好不受特性中的性取向影响。</GenderPreference_Predator.description>
+
+  <GenderPreference_Prey.label>捕食者性别偏好</GenderPreference_Prey.label>
+  <GenderPreference_Prey.description>该角色作为猎物选择捕食者时参考的性取向标准。此偏好不受特性中的性取向影响。</GenderPreference_Prey.description>
+
+</LanguageData>

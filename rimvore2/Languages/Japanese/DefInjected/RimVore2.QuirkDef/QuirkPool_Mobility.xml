@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mobility_Godlike.label>彼方の世の健脚</Mobility_Godlike.label>
+  <Mobility_Godlike.description>[PAWN_label]は,成人を何人詰めたとしても難なく走り回れます.物理すら欺く筋肉か,途方もないスキルがそうさせているのかは,[PAWN_pronoun]自身にすら説明させられません.</Mobility_Godlike.description>
+
+  <Mobility_VeryGood.label>捕食者曲芸</Mobility_VeryGood.label>
+  <Mobility_VeryGood.description>[PAWN_label]は[PAWN_possessive]体が膨れていようと,まるで何も入っていないように軽々と移動します.</Mobility_VeryGood.description>
+
+  <Mobility_Good.label>軽快なぼあっ腹</Mobility_Good.label>
+  <Mobility_Good.description>[PAWN_label]は膨らんだ体のもとで,体幹を維持する方法を心得ています.</Mobility_Good.description>
+
+  <Mobility_Normal.label>機能的な膨らみ</Mobility_Normal.label>
+  <Mobility_Normal.description>[PAWN_label]は他と同じように,獲物の重さに影響されます.</Mobility_Normal.description>
+
+  <Mobility_Bad.label>不器用なお腹</Mobility_Bad.label>
+  <Mobility_Bad.description>[PAWN_label]は獲物を体内に収めた状態で動き回るのは苦手で,[PAWN_possessive]獲物が暴れると,うっかり転びそうになります.</Mobility_Bad.description>
+
+  <Mobility_VeryBad.label>重くとも満足腹</Mobility_VeryBad.label>
+  <Mobility_VeryBad.description>[PAWN_label]は獲物を収めた状態で走り回ることはできず,[PAWN_possessive]膨らみを支えるのがやっとです.</Mobility_VeryBad.description>
+
+
+</LanguageData>

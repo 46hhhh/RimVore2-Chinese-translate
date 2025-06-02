@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 膀胱储存 -->
+  <VaginalBladderStore.label>(储存)阴道:膀胱</VaginalBladderStore.label>
+  <VaginalBladderStore.RMBLabel>阴道吞噬(膀胱储存)</VaginalBladderStore.RMBLabel>
+  <VaginalBladderStore.actionDescription>{0}正试图将{1}禁锢于膀胱</VaginalBladderStore.actionDescription>
+  <VaginalBladderStore.description>捕食者通过阴道将猎物输送至膀胱进行半永久性储存。</VaginalBladderStore.description>
+
+  <CockBladderStore.label>(储存)阴茎:膀胱</CockBladderStore.label>
+  <CockBladderStore.RMBLabel>阴茎吞噬(膀胱储存)</CockBladderStore.RMBLabel>
+  <CockBladderStore.actionDescription>{0}正试图将{1}禁锢于膀胱</CockBladderStore.actionDescription>
+  <CockBladderStore.description>捕食者通过阴茎将猎物输送至膀胱进行半永久性储存。</CockBladderStore.description>
+
+  <!-- 乳沟储存 -->
+  <CleavageStore.label>(储存)乳沟</CleavageStore.label>
+  <CleavageStore.RMBLabel>乳沟吞噬(储存)</CleavageStore.RMBLabel>
+  <CleavageStore.actionDescription>{0}正试图将{1}禁锢于乳沟</CleavageStore.actionDescription>
+  <CleavageStore.description>捕食者通过乳沟对猎物进行半永久性储存。</CleavageStore.description>
+
+  <!-- 皮下储存 -->
+  <MembraneStore.label>(储存)皮下</MembraneStore.label>
+  <MembraneStore.RMBLabel>皮下吞噬(储存)</MembraneStore.RMBLabel>
+  <MembraneStore.actionDescription>{0}正试图通过皮肤吸收并禁锢{1}</MembraneStore.actionDescription>
+  <MembraneStore.description>捕食者以黏液状吸收方式将猎物半永久性储存于体内。</MembraneStore.description>
+
+  <!-- 脐部储存 -->
+  <NavelStore.label>(储存)脐部</NavelStore.label>
+  <NavelStore.RMBLabel>脐部吞噬(储存)</NavelStore.RMBLabel>
+  <NavelStore.actionDescription>{0}正试图将{1}禁锢于脐部</NavelStore.actionDescription>
+  <NavelStore.description>捕食者通过脐部对猎物进行半永久性储存。</NavelStore.description>
+
+  <!-- 尾口储存 -->
+  <TailmawStore.label>(储存)尾口</TailmawStore.label>
+  <TailmawStore.RMBLabel>尾口吞噬(储存)</TailmawStore.RMBLabel>
+  <TailmawStore.actionDescription>{0}正试图将{1}禁锢于尾喉</TailmawStore.actionDescription>
+  <TailmawStore.description>捕食者通过尾部开口将猎物半永久性储存于尾喉部位。</TailmawStore.description>
+
+  <!-- 乳房储存 -->
+  <UdderStore.label>(储存)乳房</UdderStore.label>
+  <UdderStore.RMBLabel>乳房吞噬(储存)</UdderStore.RMBLabel>
+  <UdderStore.actionDescription>{0}正试图将{1}禁锢于乳房</UdderStore.actionDescription>
+  <UdderStore.description>捕食者通过乳房对猎物进行半永久性储存。</UdderStore.description>
+
+</LanguageData>

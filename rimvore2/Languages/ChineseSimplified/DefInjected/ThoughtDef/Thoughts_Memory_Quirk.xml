@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食者对动物的饮食偏好 -->
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.label>吞下了最爱的动物{0}</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.description>就像享受了一场舒适的按摩！</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.label>吞下了喜欢的动物{0}</RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.description>蠕动的感觉真舒服！</RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.label>吞下了讨厌的动物{0}</RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.description>感觉实在太粗暴了。</RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.label>吞下了最讨厌的动物{0}</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.description>真的太恶心了。</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.description>
+
+  <!-- 捕食者对类人生物的饮食偏好 -->
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.label>吞下了最爱的人类{0}</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.description>人类有人生的味道！</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.label>吞下了喜欢的人类{0}</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.description>度过了一段愉快的时光。</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.label>吞下了讨厌的人类{0}</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.description>...这难道不是食人行为吗？</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.label>吞下了最讨厌的人类{0}</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.description>我到底做了什么?!</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.description>
+
+  <!-- 捕食者对昆虫的饮食偏好 -->
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.label>吞下了最爱的昆虫{0}</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.description>啊，好痒...！</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.label>吞下了喜欢的昆虫{0}</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.description>汁水丰富的包裹感...</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.label>吞下了讨厌的昆虫{0}</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.description>虽然已经结束了，但残留的蠕动感让人发毛...</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.label>吞下了最讨厌的昆虫{0}</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.description>呜...还在动，好恶心！快放我出去！</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.description>
+
+  <!-- 捕食者对机械的饮食偏好 -->
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.label>吞下了最爱的机械{0}</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.description>再见吧，铁皮罐头！</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.label>吞下了喜欢的机械{0}</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.description>冰凉的包裹感...</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.label>吞下了讨厌的机械{0}</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.description>金属可不是用来吃的！</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.label>吞下了最讨厌的机械{0}</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.description>接触到胃液不会爆炸吧?!</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.description>
+
+  <!-- 猎物对动物的饮食偏好 -->
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.label>被最爱的动物{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.description>乘坐体验真不错！</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.label>被喜欢的动物{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.description>这么快就结束了吗？</RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.label>被讨厌的动物{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.description>太粗暴了...</RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.label>被最讨厌的动物{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.description>又臭又脏还痒！</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.description>
+
+  <!-- 猎物对类人生物的饮食偏好 -->
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.label>被最爱的人类{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.description>那个人，认可我作为猎物了！</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.label>被喜欢的人类{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.description>希望我能好好满足TA。</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.label>被讨厌的人类{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.description>感觉自己只是被利用了。</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.label>被最讨厌的人类{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.description>太可怕了。先不说食人是否合理，这根本就是不该做的事！</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.description>
+
+  <!-- 猎物对昆虫的饮食偏好 -->
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.label>被最爱的昆虫{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.description>感觉自己短暂地成为了巢穴的一部分。</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.label>被喜欢的昆虫{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.description>仿佛被昆虫凝胶包裹着。</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.label>被讨厌的昆虫{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.description>甜腻的凝胶和...奇怪的黏液粘在身上，实在太恶心了。</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.label>被最讨厌的昆虫{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.description>恶心，可怕，难以置信！</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.description>
+
+  <!-- 猎物对机械的饮食偏好 -->
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.label>被最爱的机械{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.description>体内传来的机械声真悦耳...</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.label>被喜欢的机械{0}吞下</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.description>感觉自己又成熟了一点！</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.description>
+
+  <!-- 捕食者性格倾向 -->
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.label>兴高采烈地吞下了{0}</RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.description>顶级捕食者说的就是我！</RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.label>开心地吞下了{0}</RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.description>最喜欢吃东西了！</RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.label>不情愿地吞下了{0}</RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.description>我不适合当捕食者。</RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.label>在抗拒中吞下了{0}</RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.description>别再让我做这种事了。</RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.description>
+
+  <!-- 猎物性格倾向 -->
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.label>兴高采烈地被{0}吞下</RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.description>真舍不得...太舍不得出来了...！</RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.label>开心地被{0}吞下</RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.description>真想马上再回去！</RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.label>不情愿地被{0}吞下</RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.description>讨厌待在别人体内。</RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.label>在抗拒中被{0}吞下</RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.description>再也不想经历那种事了。</RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.description>
+
+  <!-- 喂养者性格倾向 -->
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.label>兴高采烈地喂养了{0}</RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.description>还想给{1}喂更多...哪里有食物呢？</RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.label>开心地喂养了{0}</RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.description>享受进食乐趣的不只是捕食者！</RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.label>不情愿地喂养了{0}</RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.description>真是浪费，明明可以有更好的选择。</RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.label>在抗拒中喂养了{0}</RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.description>我才不是捕食者的奴隶...</RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.description>
+
+  <!-- 通用目标偏好 -->
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.label>在最爱的目标下与{0}共度时光</RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.description>铭记于心！</RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.label>在喜欢的目标下与{0}共度时光</RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.description>真是太棒了！</RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.label>在讨厌的目标下与{0}共度时光</RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.description>啊，心情糟透了。</RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.label>在最讨厌的目标下与{0}共度时光</RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.description>令人作呕！</RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.description>
+
+  <!-- 消化/转化目标偏好 -->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.label>兴高采烈地消化了{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.description>有多少猎物会因此追随而来呢...？</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.label>开心地消化了{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.description>啊，太满足了！</RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.label>不情愿地消化了{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.description>这太疯狂了。</RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.label>在抗拒中消化了{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.description>要是能早点昏过去就好了？</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.description>
+
+  <!-- 猎物消化后感想 -->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.label>兴高采烈地被{0}消化</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.description>成为他人一部分的感觉，真是太美妙了！</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.label>开心地被{0}消化</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.description>连我的忧愁也一起溶解了。</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.label>不情愿地被{0}消化</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.description>至少还活着。但是...那种事还是算了。</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.label>在抗拒中被{0}消化</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.description>简直就是恐怖片。</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.description>
+
+  <!-- 捕食者愉悦偏好 -->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.label>兴高采烈地玩弄了{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.description>以快乐之名！</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.label>开心地玩弄了{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.description>深深的摩擦感，真舒服...</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.label>不情愿地玩弄了{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.description>也许普通做爱会更好。</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.label>在抗拒中玩弄了{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.description>只是把场面搞得一团糟。</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.description>
+
+  <!-- 猎物愉悦偏好 -->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.label>兴高采烈地被{0}玩弄</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.description>以快乐之名！</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.label>开心地被{0}玩弄</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.description>真是愉快的嬉戏！</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.label>不情愿地被{0}玩弄</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.description>也许普通做爱会更好。</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.label>在抗拒中被{0}玩弄</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.description>只是把场面搞得一团糟。</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.description>
+
+  <!-- 捕食者穿衣偏好 -->
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.label>开心地吞下了穿衣服的{0}</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.description>喉咙痒痒的感觉！</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.description>
+
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.label>不情愿地吞下了穿衣服的{0}</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.description>作为调味料还不够格...</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.description>
+
+  <!-- 捕食者裸体偏好 -->
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.label>开心地吞下了裸体的{0}</RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.description>原汁原味！</RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.description>
+
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.label>不情愿地吞下了裸体的{0}</RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.description>可能不符合我的口味...</RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.description>
+
+  <!-- 猎物穿衣偏好 -->
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.label>穿着衣服开心地被{0}吞下</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.description>不知道有没有专门吃洗衣机的捕食者呢。</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.description>
+
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.label>穿着衣服不情愿地被{0}吞下</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.description>啊，我的衣服...</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.description>
+
+  <!-- 猎物裸体偏好 -->
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.label>裸体开心地被{0}吞下</RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.description>感觉像刚洗过澡一样清爽！</RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.description>
+
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.label>裸体不情愿地被{0}吞下</RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.description>好想洗澡...或者至少冲个淋浴。</RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.description>
+
+  <!-- 捕食者肛门偏好 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.label>兴高采烈地从肛门吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.description>肛门被填满了！</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.label>开心地从肛门吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.description>用肛门进食的感觉也不赖。</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.label>不情愿地从肛门吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.description>坐着时总感觉不舒服...</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.label>在抗拒中从肛门吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.description>肠胃炎就是指这种事吧...？感觉糟透了。</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.description>
+
+  <!-- 捕食者阴茎偏好 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.label>兴高采烈地从阴茎吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.description>阴茎被填满了！</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.label>开心地从阴茎吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.description>爽到飞起！</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.label>不情愿地从阴茎吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.description>腥臭味太重了...讨厌这种氛围。</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.label>在抗拒中从阴茎吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.description>这种强人所难的事会让阴茎失去光泽。</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.description>
+
+  <!-- 捕食者乳头偏好 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.label>兴高采烈地从乳头吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.description>胸部被填满了！</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.label>开心地从乳头吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.description>乳汁与猎物交织的高雅快感...</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.label>不情愿地从乳头吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.description>重心都偏移了...真烦躁。</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.label>在抗拒中从乳头吞下了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.description>胸部...啊啊！</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.description>
+
+  <!-- 捕食者全流程偏好 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.label>兴高采烈地带{0}完成了全程</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.description>能用身体的每个部位感受猎物的每个角落</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.label>开心地带{0}完成了全程</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.description>从入口到出口，完美走完了整个流程</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.label>不情愿地带{0}完成了全程</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.description>啊，总算出来了...</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.label>在抗拒中带{0}完成了全程</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.description>花了这么多时间，根本不值得...</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.description>
+
+  <!-- 捕食者口腔偏好 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.label>兴高采烈地从口腔吞下{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.description>肚子被填满的感觉真好！</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.label>开心地从口腔吞下{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.description>实在太美味了！</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.label>不情愿地从口腔吞下{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.description>这种进食方式真是受够了</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.label>在抗拒中从口腔吞下{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.description>下巴都快脱臼了！</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.description>
+
+  <!-- 捕食者阴道偏好 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.label>兴高采烈地从阴道吞下{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.description>私处被填满的感觉真好！</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.label>开心地从阴道吞下{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.description>爽到飞起！</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.label>不情愿地从阴道吞下{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.description>为了得膀胱炎也太不值当了</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.label>在抗拒中从阴道吞下{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.description>根本没有回头路！更别说是在自己体内...</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.description>
+
+  <!-- 猎物对后庭类型的偏好 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.label>兴高采烈地从后庭被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.description>后庭才是我的归宿！</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.label>开心地从后庭被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.description>既紧致又舒适的地方。</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.label>不情愿地从后庭被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.description>太不卫生了。</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.label>在抗拒中从后庭被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.description>得好好洗洗后背了...呕。</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.description>
+
+  <!-- 猎物对阴茎类型的偏好 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.label>兴高采烈地从肉棒被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.description>肉棒里才是我的归宿！</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.label>开心地从肉棒被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.description>真是太色情了。</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.label>不情愿地从肉棒被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.description>痒痒的...但不是那种舒服的感觉。</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.label>在抗拒中从肉棒被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.description>下次在外面玩也可以的。</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.description>
+
+  <!-- 猎物对乳头类型的偏好 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.label>兴高采烈地从乳头被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.description>胸脯里才是我的归宿！</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.label>开心地从乳头被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.description>就像泡了个奶浴！</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.label>不情愿地从乳头被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.description>乳头不该是用来进入的地方。</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.label>在抗拒中从乳头被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.description>这种东西，从概念上就错了！</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.description>
+
+  <!-- 猎物类型偏好 - 完整旅程 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.label>兴高采烈地在{0}体内完成了旅程</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.description>体内的每一处都令人难忘...多么可爱的旅程！</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.label>开心地在{0}体内完成了旅程</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.description>啊...舒适的胃部，紧致的肠道！</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.label>不情愿地在{0}体内完成了旅程</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.description>浪费了这么多时间在这种毫无价值的事情上...</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.label>在抗拒中完成了{0}体内的旅程</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.description>如果连肠道里都要保持清醒，那还不如当个普通的食物。</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.description>
+
+  <!-- 猎物类型偏好 - 口腔进入 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.label>兴高采烈地从口腔被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.description>喉咙深处才是我的归宿！</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.label>开心地从口腔被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.description>舌尖、口腔、喉咙！啊...~</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.label>不情愿地从口腔被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.description>牙齿碰到我的时候，感受到了死亡的威胁。</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.label>在抗拒中从口腔被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.description>下次请先把牙齿都拔掉...！</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.description>
+
+  <!-- 猎物类型偏好 - 阴道进入 -->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.label>兴高采烈地从阴道被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.description>子宫才是我的归宿！</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.label>开心地从阴道被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.description>有种重获新生的感觉。</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.label>不情愿地从阴道被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.description>出生一次就足够了。</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.label>在抗拒中从阴道被{0}吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.description>现在回去还太早了！</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.description>
+
+  <!-- 捕食者性别偏好 - 男性 -->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.label>兴高采烈地吞下了雄性{0}</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.description>强壮男性的挣扎就像按摩一样舒服</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.label>开心地吞下了雄性{0}</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.description>男性的魅力就在于那令人满足的味道</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.label>不情愿地吞下了雄性{0}</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.description>流汗是男人的本分，所以才有这种味道！</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.description>
+
+  <!-- 捕食者性别偏好 - 女性 -->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.label>兴高采烈地吞下了雌性{0}</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.description>柔软、优雅，是最能抚慰心灵的猎物</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.label>开心地吞下了雌性{0}</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.description>女性的魅力就在于那令人满足的味道</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.label>不情愿地吞下了雌性{0}</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.description>有人会说她们美丽，但没人会说她们美味！</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.description>
+
+  <!-- 猎物性别偏好 - 男性 -->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.label>兴高采烈地被雄性{0}吞下</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.description>充满侵略性的男性体内，既强韧又柔软</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.label>开心地被雄性{0}吞下</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.description>还想回到那个"里面"...</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.label>不情愿地被雄性{0}吞下</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.description>一旦进入体内，男性的粗野就暴露无遗</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.description>
+
+  <!-- 猎物性别偏好 - 女性 -->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.label>兴高采烈地被雌性{0}吞下</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.description>每个人都曾在这里待过，是最安心的归宿</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.label>开心地被雌性{0}吞下</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.description>还想回到那个"里面"...</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.label>不情愿地被雌性{0}吞下</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.description>女人的欲望，根本不可信！</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.description>
+
+</LanguageData>

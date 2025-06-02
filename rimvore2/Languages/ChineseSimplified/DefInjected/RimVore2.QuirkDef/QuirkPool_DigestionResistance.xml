@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DigestionResistance_VeryGood.label>钢铁之躯</DigestionResistance_VeryGood.label>
+  <DigestionResistance_VeryGood.description>[PAWN_label]拥有强韧体质，能有效抵抗消化。虽然并非完全免疫，但消化所需时间是常人的四倍。</DigestionResistance_VeryGood.description>
+
+  <DigestionResistance_Good.label>强韧耐酸性</DigestionResistance_Good.label>
+  <DigestionResistance_Good.description>[PAWN_label]具备消化抗性，能坚持普通猎物两倍以上的消化时间。</DigestionResistance_Good.description>
+
+  <DigestionResistance_Normal.label>普通耐酸性</DigestionResistance_Normal.label>
+  <DigestionResistance_Normal.description>[PAWN_label]没有特殊抗消化能力，会以正常速度被消化。</DigestionResistance_Normal.description>
+
+  <DigestionResistance_Bad.label>触之即溶</DigestionResistance_Bad.label>
+  <DigestionResistance_Bad.description>[PAWN_label]对胃液极度敏感，仅需常人一半时间就会被完全消化。</DigestionResistance_Bad.description>
+
+  <DigestionResistance_VeryBad.label>入口即化</DigestionResistance_VeryBad.label>
+  <DigestionResistance_VeryBad.description>[PAWN_label]在消化液面前会迅速崩解，在任何消化器官中都只需四分之一常规时间就会完全分解。</DigestionResistance_VeryBad.description>
+
+</LanguageData>

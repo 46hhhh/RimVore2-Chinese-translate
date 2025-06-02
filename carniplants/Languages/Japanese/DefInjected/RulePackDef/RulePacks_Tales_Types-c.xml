@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_Type_Petals.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]は[INITIATOR_possessive][RV2_bodypart]を使い</RV2_Type_Petals.rulePack.rulesStrings.0>
+  <RV2_Type_Petals.rulePack.rulesStrings.1>RV2_bodypart->花弁</RV2_Type_Petals.rulePack.rulesStrings.1>
+  <RV2_Type_Petals.rulePack.rulesStrings.2>RV2_bodypart->植物の頭</RV2_Type_Petals.rulePack.rulesStrings.2>
+  <RV2_Type_Petals.rulePack.rulesStrings.3>RV2_init_predVerb->呑み込んでいる</RV2_Type_Petals.rulePack.rulesStrings.3>
+  <RV2_Type_Petals.rulePack.rulesStrings.4>RV2_init_predVerb->吸収している</RV2_Type_Petals.rulePack.rulesStrings.4>
+  <RV2_Type_Petals.rulePack.rulesStrings.5>RV2_init_predVerb->呑み込んでいる</RV2_Type_Petals.rulePack.rulesStrings.5>
+  <RV2_Type_Petals.rulePack.rulesStrings.6>RV2_init_preyVerb->呑み込まれている</RV2_Type_Petals.rulePack.rulesStrings.6>
+  <RV2_Type_Petals.rulePack.rulesStrings.7>RV2_init_preyVerb->食べられている</RV2_Type_Petals.rulePack.rulesStrings.7>
+  <RV2_Type_Petals.rulePack.rulesStrings.8>RV2_exit_predVerb->取り込んでいる</RV2_Type_Petals.rulePack.rulesStrings.8>
+  <RV2_Type_Petals.rulePack.rulesStrings.9>RV2_exit_preyVerb->片づけている</RV2_Type_Petals.rulePack.rulesStrings.9>
+
+
+</LanguageData>

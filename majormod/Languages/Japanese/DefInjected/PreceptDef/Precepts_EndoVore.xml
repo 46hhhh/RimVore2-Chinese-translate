@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Disliked -->
+
+  <RV2_EndoVore_Disliked.label>嫌悪</RV2_EndoVore_Disliked.label>
+  <RV2_EndoVore_Disliked.description>獲物を消化しない事は好まれるべきでない.</RV2_EndoVore_Disliked.description>
+
+
+  <!-- Abhorrent -->
+
+  <RV2_EndoVore_Abhorrent.label>ぞっとする</RV2_EndoVore_Abhorrent.label>
+  <RV2_EndoVore_Abhorrent.description>消化の意思なしに他を丸呑みすることは我々の信念に対する冒涜だ.</RV2_EndoVore_Abhorrent.description>
+
+
+  <!-- Liked -->
+
+  <RV2_EndoVore_Liked.label>好む</RV2_EndoVore_Liked.label>
+  <RV2_EndoVore_Liked.description>消化を伴わず丸呑みすることは勧められ,そして讃えられるべきだ.</RV2_EndoVore_Liked.description>
+
+
+  <!-- Required -->
+
+  <RV2_EndoVore_Required.label>必須</RV2_EndoVore_Required.label>
+  <RV2_EndoVore_Required.description>我々は他を寵愛するために生まれてきた,丸呑みと保管は最上級の慈善であり,絶やしてはならない文化だ.</RV2_EndoVore_Required.description>
+  <RV2_EndoVore_Required.comps.3.description>{VORERELATEDINTERVAL}日間誰も丸呑みしていない</RV2_EndoVore_Required.comps.3.description>
+
+
+</LanguageData>

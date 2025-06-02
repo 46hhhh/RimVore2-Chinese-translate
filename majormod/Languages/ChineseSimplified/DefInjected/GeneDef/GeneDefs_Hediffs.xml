@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <RV2_GoalEnabler_ConvertLube.label>爱液转化酶</RV2_GoalEnabler_ConvertLube.label>
+    <RV2_GoalEnabler_ConvertLube.description>携带此基因者能在阴道内生成强效转化酶，将体内生命体转化为爱液。</RV2_GoalEnabler_ConvertLube.description>
+ 
+    <RV2_GoalEnabler_ConvertMilk.label>乳汁转化酶</RV2_GoalEnabler_ConvertMilk.label>
+    <RV2_GoalEnabler_ConvertMilk.description>携带此基因者能在胸部生成强效转化酶，将乳腺中的生命体转化为可饮用的乳汁。</RV2_GoalEnabler_ConvertMilk.description>
+ 
+    <RV2_GoalEnabler_ConvertSperm.label>精液转化酶</RV2_GoalEnabler_ConvertSperm.label>
+    <RV2_GoalEnabler_ConvertSperm.description>携带此基因者能在睾丸生成强效转化酶，将精囊中的生命体转化为可饮用的精液。</RV2_GoalEnabler_ConvertSperm.description>
+ 
+    <RV2_GoalEnabler_Digest.label>高效消化液</RV2_GoalEnabler_Digest.label>
+    <RV2_GoalEnabler_Digest.description>携带此基因者能在消化道分泌强效胃酸，可高效消化吞噬的完整生命体。</RV2_GoalEnabler_Digest.description>
+ 
+    <RV2_GoalEnabler_Heal.label>治愈再生液</RV2_GoalEnabler_Heal.label>
+    <RV2_GoalEnabler_Heal.description>携带此基因者能分泌具有再生功能的体液，使体内环境兼具卫生性、舒适性与治疗功效，堪比移动医疗舱。</RV2_GoalEnabler_Heal.description>
+ 
+    <RV2_GoalEnabler_Reform.label>基因重组酶</RV2_GoalEnabler_Reform.label>
+    <RV2_GoalEnabler_Reform.description>携带此基因者的生殖器可分解体内生命体的基因结构，并按照自身基因模板进行重组。</RV2_GoalEnabler_Reform.description>
+ 
+    <RV2_GoalEnabler_TempEndo.label>安全贮藏器官</RV2_GoalEnabler_TempEndo.label>
+    <RV2_GoalEnabler_TempEndo.description>携带此基因者具有改良的体内环境系统（含通风/舒适度等），可安全贮存生命体。</RV2_GoalEnabler_TempEndo.description>
+ 
+    <RV2_GoalEnabler_Store.label>强韧拘束器官</RV2_GoalEnabler_Store.label>
+    <RV2_GoalEnabler_Store.description>携带此基因者能永久禁锢体内生命体，除非主动释放或发生意外呕吐。</RV2_GoalEnabler_Store.description>
+ 
+    <RV2_TypeEnabler_Oral.label>口腔柔韧化</RV2_TypeEnabler_Oral.label>
+    <RV2_TypeEnabler_Oral.description>携带此基因者具有弹性的口腔与咽喉结构，可通过嘴部吞噬完整生命体。</RV2_TypeEnabler_Oral.description>
+ 
+    <RV2_TypeEnabler_Anal.label>肛门柔韧化</RV2_TypeEnabler_Anal.label>
+    <RV2_TypeEnabler_Anal.description>携带此基因者具有弹性的肛门与肠道结构，可通过肛门吞噬完整生命体。</RV2_TypeEnabler_Anal.description>
+ 
+    <RV2_TypeEnabler_Vaginal.label>阴道柔韧化</RV2_TypeEnabler_Vaginal.label>
+    <RV2_TypeEnabler_Vaginal.description>携带此基因者具有弹性的阴户与子宫结构，可通过阴道吞噬完整生命体。</RV2_TypeEnabler_Vaginal.description>
+ 
+    <RV2_TypeEnabler_Cock.label>阴茎柔韧化</RV2_TypeEnabler_Cock.label>
+    <RV2_TypeEnabler_Cock.description>携带此基因者具有弹性的阴茎与睾丸结构，可通过阴茎吞噬完整生命体。</RV2_TypeEnabler_Cock.description>
+ 
+    <RV2_TypeEnabler_Nipple.label>乳首柔韧化</RV2_TypeEnabler_Nipple.label>
+    <RV2_TypeEnabler_Nipple.description>携带此基因者具有弹性的乳头与乳腺结构，可通过胸部吞噬完整生命体。</RV2_TypeEnabler_Nipple.description>
+
+    <RV2_GoalEnabler_Absorb.label>同化性细胞</RV2_GoalEnabler_Absorb.label>
+    <RV2_GoalEnabler_Absorb.description>拥有此基因者具备将生命体直接从体内同化吸收的能力，包括临时性(融合)和永久性(吸收)两种方式。</RV2_GoalEnabler_Absorb.description>
+
+    <RV2_GoalEnabler_ConvertChemfuel.label>燃料化转化酶</RV2_GoalEnabler_ConvertChemfuel.label>
+    <RV2_GoalEnabler_ConvertChemfuel.description>拥有此基因者能在生殖器和胸部生成强力转化酶，将体内生命体改造成生物液态燃料。</RV2_GoalEnabler_ConvertChemfuel.description>
+
+    <RV2_GoalEnabler_ConvertEggs.label>卵化酶</RV2_GoalEnabler_ConvertEggs.label>
+    <RV2_GoalEnabler_ConvertEggs.description>拥有此基因者能在卵巢生成强力转化酶，将生命体改造成卵。</RV2_GoalEnabler_ConvertEggs.description>
+ 
+    <RV2_GoalEnabler_ConvertUrine.label>尿液化转化酶</RV2_GoalEnabler_ConvertUrine.label>
+    <RV2_GoalEnabler_ConvertUrine.description>拥有此基因者能在肾脏生成强力转化酶，将生命体改造成尿液。</RV2_GoalEnabler_ConvertUrine.description>
+ 
+    <RV2_GoalEnabler_Cleavage.label>深邃乳沟</RV2_GoalEnabler_Cleavage.label>
+    <RV2_GoalEnabler_Cleavage.description>拥有此基因者具备改造后的深邃乳沟，可将目标容纳其中。</RV2_GoalEnabler_Cleavage.description>
+ 
+    <RV2_TypeEnabler_Membrane.label>流动性皮肤</RV2_TypeEnabler_Membrane.label>
+    <RV2_TypeEnabler_Membrane.description>拥有此基因者具备流动性皮肤，能像史莱姆般将目标纳入体内。</RV2_TypeEnabler_Membrane.description>
+
+    <RV2_TypeEnabler_Navel.label>柔软脐带</RV2_TypeEnabler_Navel.label>
+    <RV2_TypeEnabler_Navel.description>拥有此基因者自带无需处理的柔软脐带，可通过肚脐容纳目标。</RV2_TypeEnabler_Navel.description>
+ 
+    <RV2_TypeEnabler_Tailmaw.label>尾尖开口</RV2_TypeEnabler_Tailmaw.label>
+    <RV2_TypeEnabler_Tailmaw.description>拥有此基因者的尾部具有花瓣状开合口，可通过其将猎物送入胃囊。</RV2_TypeEnabler_Tailmaw.description>
+ 
+    <RV2_TypeEnabler_Udder.label>柔软乳房</RV2_TypeEnabler_Udder.label>
+    <RV2_TypeEnabler_Udder.description>拥有此基因者具备柔韧乳头与腹部乳房，可实现乳房吞噬。</RV2_TypeEnabler_Udder.description>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 系统已通过 modifierName = "GrappleStrengthAttacker" 和 "GrappleStrengthDefender" 支持攻击方或防御方的擒抱强度，
+  但我不知道如何在这里实现它们并使它们看起来美观。特性要求已经有自己特殊的实现方式，
+  这也是我本可以为攻击/防御特定特性提供的唯一理由 -->
+
+  <GrappleStrength_VeryGood.label>无敌擒抱</GrappleStrength_VeryGood.label>
+  <GrappleStrength_VeryGood.description>[PAWN_label]在涉及吞噬的缠斗中，会以强烈的欲望压倒对手。</GrappleStrength_VeryGood.description>
+
+  <GrappleStrength_Good.label>强者压制</GrappleStrength_Good.label>
+  <GrappleStrength_Good.description>[PAWN_label]在缠斗中略占优势，手臂力量值得信赖。</GrappleStrength_Good.description>
+
+  <GrappleStrength_Normal.label>普通束缚</GrappleStrength_Normal.label>
+  <GrappleStrength_Normal.description>[PAWN_label]在缠斗中并无特别突出的表现。</GrappleStrength_Normal.description>
+
+  <GrappleStrength_Bad.label>握力不足</GrappleStrength_Bad.label>
+  <GrappleStrength_Bad.description>[PAWN_label]在缠斗时具备若干不利因素。</GrappleStrength_Bad.description>
+
+  <GrappleStrength_VeryBad.label>伤残手腕</GrappleStrength_VeryBad.label>
+  <GrappleStrength_VeryBad.description>[PAWN_label]因旧伤在缠斗中极度劣势，与食欲旺盛的对手交战无异于自取灭亡。</GrappleStrength_VeryBad.description>
+
+</LanguageData>

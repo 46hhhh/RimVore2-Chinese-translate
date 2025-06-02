@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 口腔消化 -->
+  <OralDigest.label>(消化)口腔</OralDigest.label>
+  <OralDigest.RMBLabel>口腔吞噬(消化)</OralDigest.RMBLabel>
+  <OralDigest.actionDescription>{PREDATOR}正试图吞噬并消化{PREY}</OralDigest.actionDescription>
+  <OralDigest.description>捕食者将猎物吞咽至胃袋，彻底消化至无法辨认原形，分解为营养与排泄物。</OralDigest.description>
+
+  <!-- 肛门消化 -->
+  <AnalDigest.label>(消化)肛门</AnalDigest.label>
+  <AnalDigest.RMBLabel>肛门吞噬(消化)</AnalDigest.RMBLabel>
+  <AnalDigest.actionDescription>{PREDATOR}正试图通过肛门吞噬并消化{PREY}</AnalDigest.actionDescription>
+  <AnalDigest.description>捕食者通过肛门将猎物送入胃袋，彻底消化至无法辨认原形，分解为营养与排泄物。</AnalDigest.description>
+
+</LanguageData>

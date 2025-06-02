@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 阴道转化 -->
+  <VaginalConvertLube.label>(爱液化)阴道</VaginalConvertLube.label>
+  <VaginalConvertLube.RMBLabel>阴道吞噬(爱液化)</VaginalConvertLube.RMBLabel>
+  <VaginalConvertLube.actionDescription>{PREDATOR}正试图将{PREY}转化为爱液</VaginalConvertLube.actionDescription>
+  <VaginalConvertLube.description>捕食者将猎物压回子宫转化为爱液。此过程不满足捕食者饥饿需求。</VaginalConvertLube.description>
+
+  <!-- 阴茎转化 -->
+  <CockConvertSperm.label>(精液化)阴茎</CockConvertSperm.label>
+  <CockConvertSperm.RMBLabel>阴茎吞噬(精液化)</CockConvertSperm.RMBLabel>
+  <CockConvertSperm.actionDescription>{PREDATOR}正试图将{PREY}转化为精液</CockConvertSperm.actionDescription>
+  <CockConvertSperm.description>捕食者将猎物压入阴茎转化为精液。此过程不满足饥饿需求。</CockConvertSperm.description>
+
+  <!-- 乳首转化 -->
+  <NippleConvertMilk.label>(乳汁化)乳首</NippleConvertMilk.label>
+  <NippleConvertMilk.RMBLabel>乳首吞噬(乳汁化)</NippleConvertMilk.RMBLabel>
+  <NippleConvertMilk.actionDescription>{PREDATOR}正试图将{PREY}转化为乳汁</NippleConvertMilk.actionDescription>
+  <NippleConvertMilk.description>捕食者将猎物封闭在乳房中转化为具有营养价值的乳汁。此过程不满足饥饿需求。</NippleConvertMilk.description>
+
+</LanguageData>

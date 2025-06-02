@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]は惹かれ,うなづいた.</RV2_Proposal_Accepted.rulePack.rulesStrings.0>
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]は感触よく受け入れた.</RV2_Proposal_Accepted.rulePack.rulesStrings.1>
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]はうなづいた.</RV2_Proposal_Accepted.rulePack.rulesStrings.2>
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef]は受け入れた.</RV2_Proposal_Accepted.rulePack.rulesStrings.3>
+
+  <RV2_Proposal_Denied.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]は申し出を突っぱねた.</RV2_Proposal_Denied.rulePack.rulesStrings.0>
+  <RV2_Proposal_Denied.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]は申し出を無視した.</RV2_Proposal_Denied.rulePack.rulesStrings.1>
+  <RV2_Proposal_Denied.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]はそっぽを向いた.</RV2_Proposal_Denied.rulePack.rulesStrings.2>
+  <RV2_Proposal_Denied.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef]は踵を返した.</RV2_Proposal_Denied.rulePack.rulesStrings.3>
+  <RV2_Proposal_Denied.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef]は乗り気でなかった.</RV2_Proposal_Denied.rulePack.rulesStrings.4>
+  <RV2_Proposal_Denied.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef]は応えなかった.</RV2_Proposal_Denied.rulePack.rulesStrings.5>
+
+  <RV2_Proposal_Forced.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]は逆らえなかった.</RV2_Proposal_Forced.rulePack.rulesStrings.0>
+  <RV2_Proposal_Forced.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]は迫られうなづいた.</RV2_Proposal_Forced.rulePack.rulesStrings.1>
+  <RV2_Proposal_Forced.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]の返答は無視された.</RV2_Proposal_Forced.rulePack.rulesStrings.2>
+  <RV2_Proposal_Forced.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef]に選択肢はなかった.</RV2_Proposal_Forced.rulePack.rulesStrings.3>
+
+
+</LanguageData>

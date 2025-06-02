@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dietary quirks predator animals -->
+
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.label>大好きな動物{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.description>気持ちの良いマッサージだった!</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.label>好きな動物{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.description>気持ちのいいうねり具合だった!</RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.label>嫌いな動物{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.description>実に荒々しい心地だった.</RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.label>大嫌いな動物{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.description>ホントに気持ち悪かった.</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.description>
+
+
+  <!-- Dietary quirks predator humanoids -->
+
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.label>大好きなヒト{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.description>ヒトは人生の味がする!</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.label>好きなヒト{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.description>気持ちのいいひとときだった.</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.label>嫌いなヒト{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.description>...これはカニバリズムじゃないのか?</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.label>大嫌いなヒト{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.description>なんてことしたんだ?!</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.description>
+
+
+  <!-- Dietary quirks predator insectoids -->
+
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.label>大好きな昆虫{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.description>ああ,くすぐったい...!</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.label>好きな昆虫{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.description>汁気たっぷりな収め心地...</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.label>嫌いな昆虫{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.description>終わった事とは言え,ぞくぞくする余韻が残る...</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.label>大嫌いな昆虫{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.description>うぅ...蠢いてる,嫌だ!誰か出させて!</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.description>
+
+
+  <!-- Dietary quirks predator Mechanoids -->
+
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.label>大好きな機械{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.description>じゃあな,ブリキ缶!</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.label>好きな機械{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.description>ひんやりした収め心地...</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.label>嫌いな機械{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.description>金属は食べるものじゃない!</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.label>大嫌いな機械{0}を呑み込んだ</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.description>胃液に触れたら爆発しないよね?!</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.description>
+
+
+  <!-- Dietary quirks prey Animals -->
+
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.label>大好きな動物{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.description>良い乗り心地だった!</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.label>好きな動物{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.description>もうライドは終わり?</RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.label>嫌いな動物{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.description>なんて荒々しいんだ...</RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.label>大嫌いな動物{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.description>臭い,汚い,かゆい!</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.description>
+
+
+  <!-- Dietary quirks prey Humanoids -->
+
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.label>大好きなヒト{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.description>あの人は,自分を獲物と認めてくれた!</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.label>好きなヒト{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.description>ちゃんと満たさせていたのを願う.</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.label>嫌いなヒト{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.description>使われた感が否めない.</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.label>大嫌いなヒト{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.description>なんて恐ろしい.カニバルの是非は置いといて,やってはいけないことだ!</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.description>
+
+
+  <!-- Dietary quirks prey Insectoids -->
+
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.label>大好きな昆虫{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.description>少しだけ,巣の一部になれた気がした.</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.label>好きな昆虫{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.description>インセクトゼリーに包まれた気がした.</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.label>嫌いな昆虫{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.description>甘ったるいゼリーと...変なべとべとが染みついて,実に気持ち悪い.</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.label>大嫌いな昆虫{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.description>気持ち悪い,おぞましい,信じられない!</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.description>
+
+
+  <!-- Dietary quirks prey Mechanoids -->
+
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.label>大好きな機械{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.description>体内から聞こえるあの機械的な音,心地良い...</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.description>
+
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.label>好きな機械{0}に呑まれた</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.label>
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.description>またひとつ大人になった気がする!</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.description>
+
+
+  <!-- Disposition quirks predator -->
+
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.label>{0}を大喜びで呑み込んだ</RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.description>頂点捕食者とは自分の事だ!</RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.label>{0}を喜んで呑み込んだ</RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.description>食べるのは大好きだ!</RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.label>{0}を嫌々呑み込んだ</RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.description>自分は捕食者に向いてない.</RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.label>{0}を拒否感の中で呑み込んだ</RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.description>二度とこんな事させないでくれ.</RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.description>
+
+
+  <!-- Disposition quirks prey -->
+
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.label>{0}に大喜びで呑まれた</RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.description>出るのがとても,とっても惜しい...!</RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.label>{0}に喜んで呑まれた</RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.description>またすぐ戻りたい!</RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.label>{0}に嫌々呑まれた</RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.description>誰かの中にいるのは嫌だ.</RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.label>{0}に拒否感の中で呑まれた</RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.description>二度とあんなことして欲しくない.</RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.description>
+
+
+  <!-- Disposition quirks Feeder -->
+
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.label>{0}を大喜びで食べさせた</RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.description>もっと{1}に食べさせたい...餌はどこだろう.</RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.label>{0}を喜んで食べさせた</RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.description>食べて喜ぶのは捕食者だけじゃない!</RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.label>{0}を嫌々食べさせた</RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.description>なんて無駄な事だ,もっと良い何かがあった筈なのに.</RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.description>
+
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.label>{0}を拒否感の中で食べさせた</RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.label>
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.description>自分は捕食者の言いなりじゃない...</RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.description>
+
+
+  <!-- goal preference quirks nonspecific -->
+
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.label>大好きな目的のもとで{0}と過ごした</RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.description>心に刻まれた!</RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.label>好きな目的のもとで{0}と過ごした</RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.description>実に良かった!</RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.label>嫌いな目的のもとで{0}と過ごした</RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.description>ああ,嫌な気分.</RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.label>大嫌いな目的のもとで{0}と過ごした</RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.description>吐き気がする!</RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.description>
+
+
+  <!-- goal preference quirks Digest/Convert -->
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.label>{0}を大喜びで消化した</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.description>どれくらいの獲物が憑いてきてるんだろうか...?</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.label>{0}を喜んで消化した</RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.description>ああ,満たされた!</RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.label>{0}を嫌々消化した</RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.description>こんなの狂ってる.</RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.label>{0}を拒否感の中で消化した</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.description>早めに気絶できただろうか?</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.description>
+
+
+  <!-- Prey post-digestion thoughts -->
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.label>{0}に大喜びで消化された</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.description>誰かの一部になれるのは,素晴らしい体験だった!</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.label>{0}に喜んで消化された</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.description>自分の憂いも溶かしてくれた.</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.label>{0}に嫌々消化された</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.description>少なくとも,生きている.けど...あれはダメだ.</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.label>{0}に拒否感の中で消化された</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.description>ホラー以外の何物でもない.</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.description>
+
+
+  <!-- goal preference quirks Pleasure Pred -->
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.label>{0}を大喜びで弄んだ</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.description>快楽の名のもとに!</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.label>{0}を喜んで弄んだ</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.description>摩擦が深く,気持ちいい...</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.label>{0}を嫌々弄んだ</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.description>普通にセックスした方がいいかも.</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.label>{0}を拒否感の中で弄んだ</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.description>ただ場を汚して終わった.</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.description>
+
+
+  <!-- goal preference quirks Pleasure Prey -->
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.label>{0}に大喜びで弄ばれた</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.description>快楽の名のもとに!</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.label>{0}に喜んで弄ばれた</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.description>楽しい戯れだった!</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.label>{0}に嫌々弄ばれた</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.description>普通にセックスした方がいいかも.</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.label>{0}に拒否感の中で弄ばれた</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.description>ただ場を汚して終わった.</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.description>
+
+
+  <!-- Stripping preference quirks predator clothed -->
+
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.label>服を着た{0}を喜んで呑み込んだ</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.description>くすぐったい喉越し!</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.description>
+
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.label>服を着た{0}を嫌々呑み込んだ</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.description>味付けにしては物足りない...</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.description>
+
+
+  <!-- Stripping preference quirks predator naked -->
+
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.label>裸の{0}を喜んで呑み込んだ</RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.description>本物の味!</RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.description>
+
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.label>裸の{0}を嫌々呑み込んだ</RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.description>趣向とは違うかも...</RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.description>
+
+
+  <!-- Stripping preference quirks prey clothed -->
+
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.label>服を着て{0}に喜んで呑まれた</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.description>洗濯メカ捕食者とかはいないのだろうか.</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.description>
+
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.label>服を着て{0}に嫌々呑まれた</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.description>ああ,自分の服が...</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.description>
+
+
+  <!-- Stripping preference quirks prey naked -->
+
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.label>裸で{0}に喜んで呑まれた</RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.description>風呂に入ってきた気分だ!</RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.description>
+
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.label>裸で{0}に嫌々呑まれた</RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.label>
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.description>風呂に入りたい...それかシャワーか.</RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.description>
+
+
+  <!-- type preference quirks predator Anal -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.label>尻から{0}を大喜びで呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.description>尻が満たされた!</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.label>尻から{0}を喜んで呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.description>尻を差し出すのも悪くない.</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.label>尻から{0}を嫌々呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.description>座るときに不快感が残る...</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.label>尻から{0}を拒否感の中で呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.description>胃腸炎って,こうゆう事後を指すのか...?ひどい感覚だ.</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks predator Cock -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.label>竿から{0}を大喜びで呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.description>竿が満たされた!</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.label>竿から{0}を喜んで呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.description>クソみたいに気持ちいい!</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.label>竿から{0}を嫌々呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.description>むんむん匂う...この雰囲気は嫌いだ.</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.label>竿から{0}を拒否感の中で呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.description>こうゆう無茶ぶりで竿はくすんでいくんだ.</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks predator Nipple -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.label>乳首から{0}を大喜びで呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.description>胸が満たされた!</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.label>乳首から{0}を喜んで呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.description>ミルクと獲物の上品な快感...</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.label>乳首から{0}を嫌々呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.description>重心がズレる...苛立たしい.</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.label>乳首から{0}を拒否感の中で呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.description>胸が...ああっ!</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks predator FullTour -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.label>{0}を大喜びでツアーさせた</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.description>獲物のあらゆる部位を,自分のあらゆる部位で感じられた.</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.label>{0}を喜んでツアーさせた</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.description>入口から出口まで,あるべき形で終わってくれた.</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.label>{0}を嫌々ツアーさせた</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.description>ああ,ようやく出てくれた...</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.label>{0}を拒否感の中でツアーさせた</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.description>こんな時間をかけても,碌な価値はない...</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks predator Oral -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.label>口から{0}を大喜びで呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.description>お腹が満たされる!</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.label>口から{0}を喜んで呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.description>実に美味しかった!</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.label>口から{0}を嫌々呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.description>こんな手段は飽き飽きだ.</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.label>口から{0}を拒否感の中で呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.description>顎が外れるかと思った!</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks predator Vaginal -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.label>膣から{0}を大喜びで呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.description>お股が満たされた!</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.label>膣から{0}を喜んで呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.description>クソみたいに気持ちいい!</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.label>膣から{0}を嫌々呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.description>膀胱炎の引き金にしなるにはみっともない.</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.label>膣から{0}を拒否感の中で呑み込んだ</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.description>誰にも戻る場所なんてない!まして自分の中に...</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks prey Anal -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.label>尻から{0}に大喜びで呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.description>尻の中こそが拠り所だ!</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.label>尻から{0}に喜んで呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.description>きつくて,かつ快適な場所だった.</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.label>尻から{0}に嫌々呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.description>不衛生だ.</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.label>尻から{0}に拒否感の中で呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.description>背中もしっかり洗わないと...うえぇ.</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks prey Cock -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.label>竿から{0}に大喜びで呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.description>竿の中こそが拠り所だ!</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.label>竿から{0}に喜んで呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.description>実にえっちだった.</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.label>竿から{0}に嫌々呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.description>ムズムズする...でも快感の方じゃない.</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.label>竿から{0}に拒否感の中で呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.description>次は外で遊んでも良いんだよ.</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks prey Nipple -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.label>乳首から{0}に大喜びで呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.description>胸の中こそが拠り所だ!</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.label>乳首から{0}に喜んで呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.description>ミルク風呂のようだった!</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.label>乳首から{0}に嫌々呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.description>乳首は入るための場所とは思えない.</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.label>乳首から{0}に拒否感の中で呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.description>こんなもの,概念からして間違ってる!</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks prey FullTour -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.label>{0}の中を大喜びでツアーした</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.description>体内全てが印象深い...愛しい旅だった!</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.label>{0}の中を喜んでツアーした</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.description>ああ...気持ちいい腹に,締め付けられる腸に!</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.label>{0}の中を嫌々ツアーした</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.description>だいぶ時間を取らされた.こんな無価値なことに...</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.label>{0}の中を拒否感の中でツアーした</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.description>腸の中でさえ起きなければいけないなら,ただの食べ物でいた方がずっとマシだっただろう.</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks prey Oral -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.label>口から{0}に大喜びで呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.description>喉奥こそが拠り所だ!</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.label>口から{0}に喜んで呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.description>舌に,口に喉に! あぁ...~</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.label>口から{0}に嫌々呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.description>歯が当たった時に,死の危険を感じた.</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.label>口から{0}に拒否感の中で呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.description>次は歯を全部抜いてからだ...!</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks prey Vaginal -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.label>膣から{0}に大喜びで呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.description>子宮こそが拠り所だ!</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.label>膣から{0}に喜んで呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.description>生まれ変わる気分だ.</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.label>膣から{0}に嫌々呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.description>生まれるのは一度きりで十分だ.</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.label>膣から{0}に拒否感の中で呑まれた</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.description>戻るにはまだ早い!</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.description>
+
+  <!-- Gender preference predator -->
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.label>オスの{0}を大喜びで呑み込んだ</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.description>力ある男は抵抗もマッサージも心地が良い.</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.label>オスの{0}を喜んで呑み込んだ</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.description>男の魅力は,実に満たされるその味だ.</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.label>オスの{0}を嫌々呑み込んだ</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.description>汗水垂らすのは男の本分,だからこの味だ!</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.description>
+
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.label>メスの{0}を大喜びで呑み込んだ</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.description>柔らかく,しなやかで.この上なく心を満たす獲物だ.</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.label>メスの{0}を喜んで呑み込んだ</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.description>女の魅力は,実に満たされるその味だ.</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.label>メスの{0}を嫌々呑み込んだ</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.description>美しいという人はいても,美味しいと言う人はいないはずだ!</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.description>
+
+  <!-- Gender preference prey -->
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.label>オスの{0}に大喜びで呑まれた</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.description>アグレッシブでアクティブな男の中は,等しく強靭で柔軟だ.</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.label>オスの{0}に喜んで呑まれた</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.description>またあのナカへ...</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.label>オスの{0}に嫌々呑まれた</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.description>体内ともなれば,男むささというのは隠せるものじゃない.</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.description>
+
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.label>メスの{0}に大喜びで呑まれた</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.description>かつて誰もがこの中にいた.拠り所として,もっとも安心できる場所だ.</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.label>メスの{0}に喜んで呑まれた</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.description>またあのナカへ...</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.description>
+
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.label>メスの{0}に嫌々呑まれた</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.label>
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.description>女の性欲なんて,まったく信用できたものじゃない!</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.description>
+
+</LanguageData>

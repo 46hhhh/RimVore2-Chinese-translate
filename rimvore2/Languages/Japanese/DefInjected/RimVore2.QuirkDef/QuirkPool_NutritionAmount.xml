@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MH: these work in a strange way: instead of multiplying the product, they multiply how nutritious a pawn is when the processing stage begins -->
+
+  <NutritionEfficiency_Godlike.label>魂すら残さず</NutritionEfficiency_Godlike.label>
+  <NutritionEfficiency_Godlike.description>遺伝子工学やアルコテックなど.Rimworldに存在する身体強化を差し置いて,[PAWN_label]は天の恵みと言う他ありません![PAWN_pronoun]の生み出す成れ果ては土壌や人々に潤いを与え,コロニーのひと柱となるでしょう.</NutritionEfficiency_Godlike.description>
+
+  <NutritionEfficiency_VeryGood.label>体内ライン工</NutritionEfficiency_VeryGood.label>
+  <NutritionEfficiency_VeryGood.description>[PAWN_label]は他の捕食者よりも二倍の吸収能力を持ち,獲物から多くの栄養と成れ果てを生み出せます.[PAWN_pronoun]はマッファローを丸ごと食べても,厚い骨の髄まで取り込みます.</NutritionEfficiency_VeryGood.description>
+
+  <NutritionEfficiency_Good.label>効率的</NutritionEfficiency_Good.label>
+  <NutritionEfficiency_Good.description>[PAWN_label]は他の捕食者の150%程の吸収能力を持ち,獲物からそれなりの栄養と成れ果てを生み出せます.[PAWN_possessive]の体は,[PAWN_possessive]獲物の骨の髄などからもう少し栄養を取り出すことができます.</NutritionEfficiency_Good.description>
+
+  <NutritionEfficiency_Normal.label>普通の効率</NutritionEfficiency_Normal.label>
+  <NutritionEfficiency_Normal.description>[PAWN_label]は他の捕食者と同じ吸収効率を持ちます.</NutritionEfficiency_Normal.description>
+
+  <NutritionEfficiency_Bad.label>非効率</NutritionEfficiency_Bad.label>
+  <NutritionEfficiency_Bad.description>[PAWN_label]は他の捕食者の75%程度の吸収能力しか持ちません.[PAWN_possessive]消化管は,丸呑みというイレギュラーに完全に適応しきれていないのです.</NutritionEfficiency_Bad.description>
+
+  <NutritionEfficiency_VeryBad.label>超のつく非効率</NutritionEfficiency_VeryBad.label>
+  <NutritionEfficiency_VeryBad.description>[PAWN_label]は他の捕食者の半分程度しか吸収能力を持ちません.[PAWN_pronoun]を満たすためには,より多くの犠牲が必要と言うわけです.</NutritionEfficiency_VeryBad.description>
+
+  <PreyNutrition_VeryGood.label>栄養価たっぷり</PreyNutrition_VeryGood.label>
+  <PreyNutrition_VeryGood.description>[PAWN_label]は他の獲物と比べて二倍の栄養価があります.食い溜めには最高のレーションです!</PreyNutrition_VeryGood.description>
+
+  <PreyNutrition_Good.label>栄養豊富</PreyNutrition_Good.label>
+  <PreyNutrition_Good.description>[PAWN_label]は他の獲物の150%もの栄養価があります.[PAWN_pronoun]の体は捕食者を長い間空腹から守ってくれるでしょう.</PreyNutrition_Good.description>
+
+  <PreyNutrition_Normal.label>普通の栄養価</PreyNutrition_Normal.label>
+  <PreyNutrition_Normal.description>[PAWN_label]は他の獲物と同じ栄養価を持ちます.</PreyNutrition_Normal.description>
+
+  <PreyNutrition_Bad.label>栄養なさげ</PreyNutrition_Bad.label>
+  <PreyNutrition_Bad.description>[PAWN_label]は他の獲物の75%程度の栄養価しかありません.[PAWN_pronoun]はvore奴隷には適さないでしょう.</PreyNutrition_Bad.description>
+
+  <PreyNutrition_VeryBad.label>ほとんど抜け殻</PreyNutrition_VeryBad.label>
+  <PreyNutrition_VeryBad.description>[PAWN_label]他の獲物の半分ほどの栄養価しかありません.丸呑みする過程をプラスとしないのであれば,普通に食事した方がマシでしょう.</PreyNutrition_VeryBad.description>
+
+
+</LanguageData>

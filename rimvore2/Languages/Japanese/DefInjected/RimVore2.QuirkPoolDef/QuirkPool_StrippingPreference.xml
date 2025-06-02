@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StrippingPreference_Predator.label>捕食者の脱衣の好み</StrippingPreference_Predator.label>
+  <StrippingPreference_Predator.description>このキャラクターが獲物を食べる際に装備を外させるかを示します.お互いの傾向が参照されるために,傾向通りの事が起きるかは不明です.</StrippingPreference_Predator.description>
+
+
+  <!-- predator -->
+
+  <StrippingPreference_Prey.label>被食者の脱衣の好み</StrippingPreference_Prey.label>
+  <StrippingPreference_Prey.description>このキャラクターがとして食べられる際に装備を外すかを示します.お互いの傾向が参照されるために,傾向通りの事が起きるかは不明です.</StrippingPreference_Prey.description>
+
+
+</LanguageData>

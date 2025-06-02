@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_EADD_AccidentalDigestionInteraction.label>意外消化互动</RV2_EADD_AccidentalDigestionInteraction.label>
+  <RV2_EADD_AccidentalDigestionInteraction.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]不小心开始消化[RECIPIENT_nameDef]！ -> </RV2_EADD_AccidentalDigestionInteraction.logRulesInitiator.rulesStrings.0>
+
+</LanguageData>

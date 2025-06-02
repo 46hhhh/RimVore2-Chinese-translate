@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 基础部分结束 -->
+
+  <RV2_StomachAcid.label>部分溶解</RV2_StomachAcid.label>
+  <RV2_StomachAcid.description>因消化作用而受到的损伤</RV2_StomachAcid.description>
+  <RV2_StomachAcid.comps.0.labelTendedWell>已治疗</RV2_StomachAcid.comps.0.labelTendedWell>
+  <RV2_StomachAcid.comps.0.labelTendedWellInner>已护理</RV2_StomachAcid.comps.0.labelTendedWellInner>
+  <RV2_StomachAcid.comps.0.labelSolidTendedWell>已护理</RV2_StomachAcid.comps.0.labelSolidTendedWell>
+  <RV2_StomachAcid.comps.HediffComp_GetsPermanent.permanentLabel>消化痕迹</RV2_StomachAcid.comps.HediffComp_GetsPermanent.permanentLabel>
+  <RV2_StomachAcid.injuryProps.destroyedLabel>完全溶解</RV2_StomachAcid.injuryProps.destroyedLabel>
+  <RV2_StomachAcid.injuryProps.destroyedOutLabel>完全溶解</RV2_StomachAcid.injuryProps.destroyedOutLabel>
+  <RV2_StomachAcid.labelNoun>消化液</RV2_StomachAcid.labelNoun>
+
+  <RV2_LubeConversionEnzymes.label>部分润滑液化</RV2_LubeConversionEnzymes.label>
+  <RV2_LubeConversionEnzymes.description>因润滑液转化而受到的损伤</RV2_LubeConversionEnzymes.description>
+  <RV2_LubeConversionEnzymes.comps.0.labelTendedWell>已治疗</RV2_LubeConversionEnzymes.comps.0.labelTendedWell>
+  <RV2_LubeConversionEnzymes.comps.0.labelTendedWellInner>已护理</RV2_LubeConversionEnzymes.comps.0.labelTendedWellInner>
+  <RV2_LubeConversionEnzymes.comps.0.labelSolidTendedWell>已护理</RV2_LubeConversionEnzymes.comps.0.labelSolidTendedWell>
+  <RV2_LubeConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>润滑液转化痕迹</RV2_LubeConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>
+  <RV2_LubeConversionEnzymes.injuryProps.destroyedLabel>完全润滑液化</RV2_LubeConversionEnzymes.injuryProps.destroyedLabel>
+  <RV2_LubeConversionEnzymes.injuryProps.destroyedOutLabel>完全润滑液化</RV2_LubeConversionEnzymes.injuryProps.destroyedOutLabel>
+  <RV2_LubeConversionEnzymes.labelNoun>润滑液转化酶</RV2_LubeConversionEnzymes.labelNoun>
+
+  <RV2_MilkConversionEnzymes.label>部分乳汁化</RV2_MilkConversionEnzymes.label>
+  <RV2_MilkConversionEnzymes.description>因乳汁转化而受到的损伤</RV2_MilkConversionEnzymes.description>
+  <RV2_MilkConversionEnzymes.comps.0.labelTendedWell>已治疗</RV2_MilkConversionEnzymes.comps.0.labelTendedWell>
+  <RV2_MilkConversionEnzymes.comps.0.labelTendedWellInner>已护理</RV2_MilkConversionEnzymes.comps.0.labelTendedWellInner>
+  <RV2_MilkConversionEnzymes.comps.0.labelSolidTendedWell>已护理</RV2_MilkConversionEnzymes.comps.0.labelSolidTendedWell>
+  <RV2_MilkConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>乳汁转化痕迹</RV2_MilkConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>
+  <RV2_MilkConversionEnzymes.injuryProps.destroyedLabel>完全乳汁化</RV2_MilkConversionEnzymes.injuryProps.destroyedLabel>
+  <RV2_MilkConversionEnzymes.injuryProps.destroyedOutLabel>完全乳汁化</RV2_MilkConversionEnzymes.injuryProps.destroyedOutLabel>
+  <RV2_MilkConversionEnzymes.labelNoun>乳汁转化酶</RV2_MilkConversionEnzymes.labelNoun>
+
+  <RV2_SpermConversionEnzymes.label>部分精液化</RV2_SpermConversionEnzymes.label>
+  <RV2_SpermConversionEnzymes.description>因精液转化而受到的损伤</RV2_SpermConversionEnzymes.description>
+  <RV2_SpermConversionEnzymes.comps.0.labelTendedWell>已治疗</RV2_SpermConversionEnzymes.comps.0.labelTendedWell>
+  <RV2_SpermConversionEnzymes.comps.0.labelTendedWellInner>已护理</RV2_SpermConversionEnzymes.comps.0.labelTendedWellInner>
+  <RV2_SpermConversionEnzymes.comps.0.labelSolidTendedWell>已护理</RV2_SpermConversionEnzymes.comps.0.labelSolidTendedWell>
+  <RV2_SpermConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>精液转化痕迹</RV2_SpermConversionEnzymes.comps.HediffComp_GetsPermanent.permanentLabel>
+  <RV2_SpermConversionEnzymes.injuryProps.destroyedLabel>完全精液化</RV2_SpermConversionEnzymes.injuryProps.destroyedLabel>
+  <RV2_SpermConversionEnzymes.injuryProps.destroyedOutLabel>完全精液化</RV2_SpermConversionEnzymes.injuryProps.destroyedOutLabel>
+  <RV2_SpermConversionEnzymes.labelNoun>精液转化酶</RV2_SpermConversionEnzymes.labelNoun>
+
+  <!-- 消化中断时应用 -->
+
+  <RV2_DigestionRecovery.description>该角色曾短暂暴露于消化液中，现已开始恢复。如果短期内再次发生类似情况，脆弱性将逐步增加，最终可能导致不可挽回的严重伤害！</RV2_DigestionRecovery.description>
+  <RV2_DigestionRecovery.stages.0.label>消化恢复中 (&lt;25%)</RV2_DigestionRecovery.stages.0.label>
+  <RV2_DigestionRecovery.stages.1.label>消化恢复中 (&gt;25%)</RV2_DigestionRecovery.stages.1.label>
+  <RV2_DigestionRecovery.stages.2.label>消化恢复中 (&gt;50%)</RV2_DigestionRecovery.stages.2.label>
+  <RV2_DigestionRecovery.stages.3.label>消化恢复中 (&gt;75%)</RV2_DigestionRecovery.stages.3.label>
+  <RV2_DigestionRecovery.labelNoun>消化恢复中</RV2_DigestionRecovery.labelNoun>
+
+</LanguageData>

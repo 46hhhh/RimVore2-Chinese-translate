@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 物品额外描述 -->
+  <RV2_ExtraDescription_VoreProductContainer_Label> ({NAME})</RV2_ExtraDescription_VoreProductContainer_Label>
+  <RV2_ExtraDescription_VoreProductContainer>这团残骸属于{NAME}，年龄{AGE}，曾是{FACTION}的{PROFESSION}。</RV2_ExtraDescription_VoreProductContainer>
+  <RV2_ExtraDescription_VoreProductContainer_ProfessionFallback>成员</RV2_ExtraDescription_VoreProductContainer_ProfessionFallback>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 基本属性检查 -->
+  <RV2_RequirementInvalidReasons_NoDef>角色缺少{0}{1}</RV2_RequirementInvalidReasons_NoDef>
+  <RV2_RequirementInvalidReasons_DefTooLow>{0}{1}过低，最低要求: {2}</RV2_RequirementInvalidReasons_DefTooLow>
+  <RV2_RequirementInvalidReasons_DefTooHigh>{0}{1}过高，最高限制: {2}</RV2_RequirementInvalidReasons_DefTooHigh>
+  <RV2_RequirementInvalidReasons_NoHediffInRange>状态进度不在有效范围内: {0}</RV2_RequirementInvalidReasons_NoHediffInRange>
+
+  <!-- 特性检查 -->
+  <RV2_RequirementInvalidReasons_NoQuirks>角色没有特性</RV2_RequirementInvalidReasons_NoQuirks>
+  <RV2_RequirementInvalidReasons_MissingQuirk>缺少必要特性: {0}</RV2_RequirementInvalidReasons_MissingQuirk>
+
+  <!-- 种族与关系检查 -->
+  <RV2_RequirementInvalidReasons_InvalidRace>角色是{0}，但需要是{1}</RV2_RequirementInvalidReasons_InvalidRace>
+  <RV2_RequirementInvalidReasons_InvalidRelation>角色有{0}关系，但需要{1}</RV2_RequirementInvalidReasons_InvalidRelation>
+  <RV2_RequirementInvalidReasons_MissingAlias>角色没有任何{0}</RV2_RequirementInvalidReasons_MissingAlias>
+
+  <!-- 身体部位与状态检查 -->
+  <RV2_RequirementInvalidReasons_MissingBodyPart>缺少必要部位: {0}</RV2_RequirementInvalidReasons_MissingBodyPart>
+  <RV2_RequirementInvalidReasons_MissingHediff>缺少必要状态: {0}</RV2_RequirementInvalidReasons_MissingHediff>
+  <RV2_RequirementInvalidReasons_NoHediffInSeverityRange>范围内无有效状态: {0}</RV2_RequirementInvalidReasons_NoHediffInSeverityRange>
+</LanguageData>
+
+
+
+<!-- RV2_RequirementInvalidReasons_ -->

@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- todo: get thoughts for this shit, so that Memory_Quirk is distinct to read! -->
+
+  <DietaryPreference_Predator_Animals_Obsessed.label>一生きっての動物好き</DietaryPreference_Predator_Animals_Obsessed.label>
+  <DietaryPreference_Predator_Animals_Obsessed.description>[PAWN_label]は動物を自らの獲物とするのが好きです.[PAWN_pronoun]にペットを見せてはいけません.</DietaryPreference_Predator_Animals_Obsessed.description>
+
+  <DietaryPreference_Predator_Animals_Likes.label>病みつきの分厚い毛皮</DietaryPreference_Predator_Animals_Likes.label>
+  <DietaryPreference_Predator_Animals_Likes.description>[PAWN_label]は動物を獲物にするのが好きです.星歴の始まりすら及ばない太古からの常識ですから,そう思わないはずがありません!</DietaryPreference_Predator_Animals_Likes.description>
+
+  <DietaryPreference_Predator_Animals_Neutral.label>平凡な毛皮の味</DietaryPreference_Predator_Animals_Neutral.label>
+  <DietaryPreference_Predator_Animals_Neutral.description>[PAWN_label]は動物を獲物とすることを好きでも嫌いでもありません.</DietaryPreference_Predator_Animals_Neutral.description>
+
+  <DietaryPreference_Predator_Animals_Dislikes.label>相容れない獣の泥臭さ</DietaryPreference_Predator_Animals_Dislikes.label>
+  <DietaryPreference_Predator_Animals_Dislikes.description>[PAWN_label]は動物を獲物として見たくありません. [PAWN_pronoun]は[PAWN_possessive]友達が食べられるのが嫌いなのかも知れませんし,[PAWN_pronoun]はより違う種類の獲物を獲物と定めている可能性もあります. [PAWN_pronoun]の舌が汚らしい家畜の泥汚れに包まれるのが嫌なだけかも知れません.</DietaryPreference_Predator_Animals_Dislikes.description>
+
+  <DietaryPreference_Predator_Animals_Refuses.label>動物への強い拒絶感</DietaryPreference_Predator_Animals_Refuses.label>
+  <DietaryPreference_Predator_Animals_Refuses.description>[PAWN_label]は動物を獲物として見ても,生きたままなんて毛頭思っていません.動物を屠殺し,剥ぎ,コンロに載せる事が手間だとしても[PAWN_pronoun]に丸呑みを説得するよりかは楽でしょう.</DietaryPreference_Predator_Animals_Refuses.description>
+
+
+  <!-- MH: While most prey types work on a simple scale of love to hate, humanoids have to be a little more complicated, in order to mirror vanilla behavior regarding cannibalism.
+  To this end, cannibals can get their own variants on Obsessed and Likes which include digesting humanoid prey (as well as the non-cannibal variants), while non-cannibals are limited to non-cannibal variants.
+  Cannibals MAY roll a general distaste for human prey, which MAY eventually be split into their own quirks with appropriate thoughts or something, later.
+  These will need updated every time a new goal is introduced! -->
+
+	<DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.label>一生きってのヒト好き (カニバル)</DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.label>
+  <DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.description>[PAWN_label]は,[PAWN_possessive]仲間でさえも獲物とすることを信念とします.食人嗜好を伴うなら,[PAWN_possessive]嗜好の延長として命を奪うこともいとわないでしょう.いくら人肉パイが巷の人気でも,生きているうちに食べる以上に美味しい人肉はありません.</DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.description>
+
+  <DietaryPreference_Predator_Humanoids_Likes_Cannibal.label>病みつきの柔らかい肌 (カニバル)</DietaryPreference_Predator_Humanoids_Likes_Cannibal.label>
+  <DietaryPreference_Predator_Humanoids_Likes_Cannibal.description>[PAWN_label]は,[PAWN_possessive]仲間を獲物にすることが好きです.食人嗜好を伴うなら,[PAWN_possessive]嗜好の延長として命を奪うこともいとわないでしょう.ヒトはこれ以上ないほどに生来清潔と美味しさが両立している生き物です!</DietaryPreference_Predator_Humanoids_Likes_Cannibal.description>
+
+  <DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.label>一生きってのヒト好き(安全)</DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.label>
+  <DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.description>[PAWN_label]は安全である限り,[PAWN_possessive]仲間を獲物として迎え入れたく思っています.食欲の底知れないダークサイドは,常に獲物に満たされた[PAWN_pronoun]を誘惑しています.</DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.description>
+
+  <DietaryPreference_Predator_Humanoids_Likes_NotCannibal.label>病みつきの柔らかい肌 (安全)</DietaryPreference_Predator_Humanoids_Likes_NotCannibal.label>
+  <DietaryPreference_Predator_Humanoids_Likes_NotCannibal.description>[PAWN_label]は安全である限り,[PAWN_possessive]仲間を獲物にするのが好きです.ただ,いくら好きでも消化することは人肉食と変わりません.</DietaryPreference_Predator_Humanoids_Likes_NotCannibal.description>
+
+  <DietaryPreference_Predator_Humanoids_Neutral.label>見飽きた顔の味</DietaryPreference_Predator_Humanoids_Neutral.label>
+  <DietaryPreference_Predator_Humanoids_Neutral.description>[PAWN_label]はヒトを獲物とすることを好きでも嫌いでもありません.消化するかどうかは気にしない訳でも,好きな訳でもありません.</DietaryPreference_Predator_Humanoids_Neutral.description>
+
+  <DietaryPreference_Predator_Humanoids_Dislikes.label>相容れないヒトの醜悪さ</DietaryPreference_Predator_Humanoids_Dislikes.label>
+  <DietaryPreference_Predator_Humanoids_Dislikes.description>[PAWN_label]は,[PAWN_possessive]仲間を獲物として見ることを嫌います.食人に似た背徳感が嫌いなのか,ヒトが嫌いなのか.つい体内に敏感になってしまいます.</DietaryPreference_Predator_Humanoids_Dislikes.description>
+
+  <DietaryPreference_Predator_Humanoids_Refuses.label>ヒトへの強い拒絶感</DietaryPreference_Predator_Humanoids_Refuses.label>
+  <DietaryPreference_Predator_Humanoids_Refuses.description>[PAWN_label]は,[PAWN_possessive]仲間を決して獲物と見ることはありませんし,進んで消化することも決してありません.食人でもそうでなくても,敵にするものが多すぎるように思えるのです.</DietaryPreference_Predator_Humanoids_Refuses.description>
+
+
+  <!-- Retired, but still potentially desirable
+  <RimVore2.QuirkDef>
+    <defName>DietaryPreference_Predator_Humanoids_NeutralEndo</defName>
+    <label>Light holo-anthropophage</label>
+    <description>[PAWN_label] enjoys having people as prey, preferably safely. [PAWN_pronoun] doesn't have any qualms about digestion per se, but it's not [PAWN_possessive] thing.</description>
+    <rarity>Common</rarity>
+    <comps>
+      <li Class="RimVore2.QuirkComp_ThoughtOverride">
+        <originalThought>AteHumanlikeMeatDirect</originalThought>
+        <overrideThought>RV2_AteHumanlikeMeatDirect_Predator</overrideThought>
+        <priority>1</priority>
+      </li>
+      <li Class="RimVore2.QuirkComp_ThoughtOverride">
+        <originalThought>AteHumanlikeMeatDirectCannibal</originalThought>
+        <overrideThought>RV2_AteHumanlikeMeatDirectCannibal_Predator</overrideThought>
+        <priority>1</priority>
+      </li>
+      <li Class="RimVore2.QuirkComp_ThoughtOverride">
+        <originalThought>AteHumanlikeMeatAsIngredient</originalThought>
+        <overrideThought>RV2_AteHumanlikeMeatAsIngredient_Predator</overrideThought>
+        <priority>1</priority>
+      </li>
+      <li Class="RimVore2.QuirkComp_ThoughtOverride">
+        <originalThought>AteHumanlikeMeatAsIngredientCannibal</originalThought>
+        <overrideThought>RV2_AteHumanlikeMeatAsIngredientCannibal_Predator</overrideThought>
+        <priority>1</priority>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>Digest</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>ConvertChemfuel</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>ConvertEggs</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>ConvertLube</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>ConvertSperm</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>ConvertUrine</voreGoal>
+        </selectors>
+        <modifierValue>-2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>Pleasure</voreGoal>
+        </selectors>
+        <modifierValue>2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_VoreTargetSelectorModifier">
+        <selectors>
+          <role>Predator</role>
+		  <raceType>Humanoid</raceType>
+		  <voreGoal>Store</voreGoal>
+        </selectors>
+        <modifierValue>2</modifierValue>
+      </li>
+	  <li Class="RimVore2.QuirkComp_PostVoreMemory">
+        <keywords>
+          <li>PawnIsPredator</li>
+		  <li>PreyIsHumanlike</li>
+		  <li>VoreGoal_Pleasure</li>
+        </keywords>
+        <memory>RV2_DietaryQuirkSatisfactionPredator_Good</memory>
+      </li>
+	  <li Class="RimVore2.QuirkComp_PostVoreMemory">
+        <keywords>
+          <li>PawnIsPredator</li>
+		  <li>PreyIsHumanlike</li>
+		  <li>VoreGoal_Store</li>
+        </keywords>
+        <memory>RV2_DietaryQuirkSatisfactionPredator_Good</memory>
+      </li>
+    </comps>
+  </RimVore2.QuirkDef> -->
+
+  <DietaryPreference_Predator_Insectoids_Obsessed.label>一生きっての昆虫好き</DietaryPreference_Predator_Insectoids_Obsessed.label>
+  <DietaryPreference_Predator_Insectoids_Obsessed.description>[PAWN_label]は昆虫を自らの獲物とする事をこよなく愛しています. [PAWN_possessive]体内が虫の巣になるリスキーな思想かも知れませんが,[PAWN_possessive]虫のグロテスクな甲殻を好む舌は,虫肉にも同じく振るわれます.</DietaryPreference_Predator_Insectoids_Obsessed.description>
+
+  <DietaryPreference_Predator_Insectoids_Likes.label>病みつきの堅い節々</DietaryPreference_Predator_Insectoids_Likes.label>
+  <DietaryPreference_Predator_Insectoids_Likes.description>[PAWN_label]は昆虫を獲物にすることが好きです.[PAWN_possessive]虫のグロテスクな甲殻を好む舌は,虫肉にも同じく振るわれます.</DietaryPreference_Predator_Insectoids_Likes.description>
+
+  <DietaryPreference_Predator_Insectoids_Neutral.label>平凡な甲羅の味</DietaryPreference_Predator_Insectoids_Neutral.label>
+  <DietaryPreference_Predator_Insectoids_Neutral.description>[PAWN_label]は昆虫を獲物とすることを好きでも嫌いでもありません.</DietaryPreference_Predator_Insectoids_Neutral.description>
+
+  <DietaryPreference_Predator_Insectoids_Dislikes.label>相容れない虫のグロさ</DietaryPreference_Predator_Insectoids_Dislikes.label>
+  <DietaryPreference_Predator_Insectoids_Dislikes.description>[PAWN_label]は昆虫を生きた獲物としようとはあまり思いません. [PAWN_pronoun]は個人的な戒律を持ち,[PAWN_objective]体内に生きた虫が這いまわることは「嫌悪」に含まれています.</DietaryPreference_Predator_Insectoids_Dislikes.description>
+
+  <DietaryPreference_Predator_Insectoids_Refuses.label>昆虫への強い拒否感</DietaryPreference_Predator_Insectoids_Refuses.label>
+  <DietaryPreference_Predator_Insectoids_Refuses.description>[PAWN_label]は昆虫を獲物に選ぶ事を嫌い,自発的に食べる事は決してありません. その事を想像すると[PAWN_possessive]体は震えあがってしまいます.</DietaryPreference_Predator_Insectoids_Refuses.description>
+
+  <DietaryPreference_Predator_Mechanoids_Obsessed.label>一生きっての無機物好き</DietaryPreference_Predator_Mechanoids_Obsessed.label>
+  <DietaryPreference_Predator_Mechanoids_Obsessed.description>[PAWN_label]はメカノイドを獲物とすることを熱望しています.[PAWN_pronoun]は金属に飢え,オリハルコンの味覚を携えています.それが鋼鉄のメカノイドを消化できるかどうかは一致しませんが,少なくとも価値ある嗜好である事に間違いありません. 注意:今はこの傾向がメカノイドを消化できるかどうかに直結していますが,いつか修正する予定です.</DietaryPreference_Predator_Mechanoids_Obsessed.description>
+
+  <DietaryPreference_Predator_Mechanoids_Likes.label>病みつきのゴツゴツ感</DietaryPreference_Predator_Mechanoids_Likes.label>
+  <DietaryPreference_Predator_Mechanoids_Likes.description>[PAWN_label]はメカノイドを獲物にすることが好きです.それが鋼鉄のメカノイドを消化できるかどうかは一致しませんが,少なくとも価値ある嗜好である事に間違いありません. 注意:今はこの傾向がメカノイドを消化できるかどうかに直結していますが,いつか修正する予定です.</DietaryPreference_Predator_Mechanoids_Likes.description>
+
+  <DietaryPreference_Predator_Mechanoids_Neutral.label>平凡な泥と血の味</DietaryPreference_Predator_Mechanoids_Neutral.label>
+  <DietaryPreference_Predator_Mechanoids_Neutral.description>[PAWN_label]はメカノイドを獲物とすることを好きでも嫌いでもありません.</DietaryPreference_Predator_Mechanoids_Neutral.description>
+
+  <DietaryPreference_Predator_Mechanoids_Dislikes.label>相容れない非可食性</DietaryPreference_Predator_Mechanoids_Dislikes.label>
+  <DietaryPreference_Predator_Mechanoids_Dislikes.description>[PAWN_label]はメカノイドを獲物に選ぶことはあまりありません.体温も命も無く,喉越しも気持ちよいものではありません.</DietaryPreference_Predator_Mechanoids_Dislikes.description>
+
+  <DietaryPreference_Predator_Mechanoids_Refuses.label>機械への強い拒否感</DietaryPreference_Predator_Mechanoids_Refuses.label>
+  <DietaryPreference_Predator_Mechanoids_Refuses.description>[PAWN_label]はメカノイドを獲物に選ぶ事を嫌い,自発的に食べる事は決してありません. [PAWN_pronoun]は,軽率に欠損や死をもたらす頑丈で生気のないあの姿を直接[PAWN_possessive]体内に収めることに絶対的な嫌悪感を見せます.</DietaryPreference_Predator_Mechanoids_Refuses.description>
+
+  <DietaryPreference_Prey_Animals_Obsessed.label>動物こそ拠り所</DietaryPreference_Prey_Animals_Obsessed.label>
+  <DietaryPreference_Prey_Animals_Obsessed.description>[PAWN_label]は動物の獲物になることをこよなく愛しています.もし[PAWN_pronoun]が寝室や集会に来なかったら,家畜やペットのお腹が膨らんでいないか確かめないといけません.</DietaryPreference_Prey_Animals_Obsessed.description>
+
+  <DietaryPreference_Prey_Animals_Likes.label>病みつきかつ荒々しい獣の肉袋</DietaryPreference_Prey_Animals_Likes.label>
+  <DietaryPreference_Prey_Animals_Likes.description>[PAWN_label]は動物の獲物になることが好きです.物言わない動物に[PAWN_possessive]安全を任せるスリルは計り知れないもので,いつ解放されるか分からない気まぐれさは魅入られる要素の一つです.</DietaryPreference_Prey_Animals_Likes.description>
+
+  <DietaryPreference_Prey_Animals_Neutral.label>いくぶん変わらない獣の肉牢</DietaryPreference_Prey_Animals_Neutral.label>
+  <DietaryPreference_Prey_Animals_Neutral.description>[PAWN_label]は動物の獲物になることが好きでもありませんが嫌いでもありません.</DietaryPreference_Prey_Animals_Neutral.description>
+
+  <DietaryPreference_Prey_Animals_Dislikes.label>相容れない獣の息苦しさ</DietaryPreference_Prey_Animals_Dislikes.label>
+  <DietaryPreference_Prey_Animals_Dislikes.description>[PAWN_label]は動物の獲物になることを嫌います.[PAWN_pronoun]は,秩序の足りない動物がちゃんと出してくれるか信用できないのです.</DietaryPreference_Prey_Animals_Dislikes.description>
+
+  <DietaryPreference_Prey_Animals_Refuses.label>獣の中への強い拒否感</DietaryPreference_Prey_Animals_Refuses.label>
+  <DietaryPreference_Prey_Animals_Refuses.description>[PAWN_label]は動物を捕食者に選ぶ事を嫌い,自発的に食べられる事は決してありません.自分の顔にドロ...というか唾液を塗るようなものです.</DietaryPreference_Prey_Animals_Refuses.description>
+
+  <DietaryPreference_Prey_Humanoids_Obsessed.label>ヒトこそ拠り所</DietaryPreference_Prey_Humanoids_Obsessed.label>
+  <DietaryPreference_Prey_Humanoids_Obsessed.description>[PAWN_label]は,[PAWN_possessive]仲間の獲物にされる事をこよなく愛しています.[PAWN_pronoun]はあらゆるヒトの獲物になることを厭いません.</DietaryPreference_Prey_Humanoids_Obsessed.description>
+
+  <DietaryPreference_Prey_Humanoids_Likes.label>病みつきかつ整った肉袋</DietaryPreference_Prey_Humanoids_Likes.label>
+  <DietaryPreference_Prey_Humanoids_Likes.description>[PAWN_label]は,[PAWN_possessive]仲間の獲物にされる事が好きです.[PAWN_possessive]捕食者とじっとり交流できるというのも悪くありません.</DietaryPreference_Prey_Humanoids_Likes.description>
+
+  <DietaryPreference_Prey_Humanoids_Neutral.label>いくぶん変わらないヒトの肉牢</DietaryPreference_Prey_Humanoids_Neutral.label>
+  <DietaryPreference_Prey_Humanoids_Neutral.description>[PAWN_label]は,[PAWN_possessive]仲間の獲物にされるのは好きではありませんし,嫌いでもありません.</DietaryPreference_Prey_Humanoids_Neutral.description>
+
+  <DietaryPreference_Prey_Humanoids_Dislikes.label>相容れないヒトの普遍性</DietaryPreference_Prey_Humanoids_Dislikes.label>
+  <DietaryPreference_Prey_Humanoids_Dislikes.description>[PAWN_label]は,[PAWN_possessive]仲間の獲物にされる事を嫌います. [PAWN_pronoun]がヒトに閉じ込められる事は,社会のしがらみに閉じ込められる事の様に思えて仕方ないのです.</DietaryPreference_Prey_Humanoids_Dislikes.description>
+
+  <DietaryPreference_Prey_Humanoids_Refuses.label>ヒトの中への強い拒否感</DietaryPreference_Prey_Humanoids_Refuses.label>
+  <DietaryPreference_Prey_Humanoids_Refuses.description>[PAWN_label]は,[PAWN_possessive]仲間の獲物にされようとは思いませんし,食べられようとする事はありません.少なくとも3種類の矛盾が食べられる概念を邪魔しています.</DietaryPreference_Prey_Humanoids_Refuses.description>
+
+  <DietaryPreference_Prey_Insectoids_Obsessed.label>昆虫こそ拠り所</DietaryPreference_Prey_Insectoids_Obsessed.label>
+  <DietaryPreference_Prey_Insectoids_Obsessed.description>[PAWN_label]は昆虫の獲物になることをこよなく愛しています.虫の巣と一体化するにはその材料になるしかありません.</DietaryPreference_Prey_Insectoids_Obsessed.description>
+
+  <DietaryPreference_Prey_Insectoids_Likes.label>病みつきかつグロテスクな肉袋</DietaryPreference_Prey_Insectoids_Likes.label>
+  <DietaryPreference_Prey_Insectoids_Likes.description>[PAWN_label]は昆虫の獲物になることが好きです.外から見ておぞましいその体は,内側から見ても同じくらい感覚をくすぐります.</DietaryPreference_Prey_Insectoids_Likes.description>
+
+  <DietaryPreference_Prey_Insectoids_Neutral.label>いくぶん変わらない虫の肉牢</DietaryPreference_Prey_Insectoids_Neutral.label>
+  <DietaryPreference_Prey_Insectoids_Neutral.description>[PAWN_label]は昆虫の獲物になることが好きでもありませんが嫌いでもありません.</DietaryPreference_Prey_Insectoids_Neutral.description>
+
+  <DietaryPreference_Prey_Insectoids_Dislikes.label>相容れない虫の生生しさ</DietaryPreference_Prey_Insectoids_Dislikes.label>
+  <DietaryPreference_Prey_Insectoids_Dislikes.description>[PAWN_label]は昆虫の獲物になることを嫌います.虫が気分によっては安全に食べてくれることは,あまり知られていません...</DietaryPreference_Prey_Insectoids_Dislikes.description>
+
+  <DietaryPreference_Prey_Insectoids_Refuses.label>虫の中への強い拒否感</DietaryPreference_Prey_Insectoids_Refuses.label>
+  <DietaryPreference_Prey_Insectoids_Refuses.description>[PAWN_label]は昆虫を捕食者に選ぶ事を嫌い,自発的に食べられる事は決してありません.どれだけ体を洗っても[PAWN_pronoun]は決して清潔な気分には戻れないでしょう.</DietaryPreference_Prey_Insectoids_Refuses.description>
+
+  <DietaryPreference_Prey_Mechanoids_Obsessed.label>機械こそ拠り所</DietaryPreference_Prey_Mechanoids_Obsessed.label>
+  <DietaryPreference_Prey_Mechanoids_Obsessed.description>[PAWN_label]はメカノイドの獲物になることをこよなく愛しています. [PAWN_pronoun]は生き物の肉壁と鼓動よりも,柔らかさのない壁と規則的な機械の擦れる音が好きです.</DietaryPreference_Prey_Mechanoids_Obsessed.description>
+
+  <DietaryPreference_Prey_Mechanoids_Likes.label>病みつきかつ刺激的な肉袋</DietaryPreference_Prey_Mechanoids_Likes.label>
+  <DietaryPreference_Prey_Mechanoids_Likes.description>[PAWN_label]はメカノイドの獲物になることが好きです.冷たく抵抗できない機械の体は,とても変わっていてかつ刺激的です.</DietaryPreference_Prey_Mechanoids_Likes.description>
+
+  <DietaryPreference_Prey_Mechanoids_Neutral.label>いくぶん変わらない機械の肉牢</DietaryPreference_Prey_Mechanoids_Neutral.label>
+  <DietaryPreference_Prey_Mechanoids_Neutral.description>[PAWN_label]はメカノイドの獲物になることが好きでもありませんが嫌いでもありません.</DietaryPreference_Prey_Mechanoids_Neutral.description>
+
+  <DietaryPreference_Prey_Mechanoids_Dislikes.label>相容れない無機物の窮屈さ</DietaryPreference_Prey_Mechanoids_Dislikes.label>
+  <DietaryPreference_Prey_Mechanoids_Dislikes.description>[PAWN_label]はメカノイドの獲物になることを嫌います.ガシャガシャとうなる歯車の音が,ずっと耳元で流れ続けるのです.</DietaryPreference_Prey_Mechanoids_Dislikes.description>
+
+  <DietaryPreference_Prey_Mechanoids_Refuses.label>機械の中への強い拒否感</DietaryPreference_Prey_Mechanoids_Refuses.label>
+  <DietaryPreference_Prey_Mechanoids_Refuses.description>[PAWN_label]はメカノイドを捕食者に選ぶ事を嫌い,自発的に食べられる事は決してありません.もし[PAWN_pronoun]に自殺願望があったとしても,その場所を選ぶことはありません.</DietaryPreference_Prey_Mechanoids_Refuses.description>
+
+
+
+
+</LanguageData>

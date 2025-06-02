@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- FATAL GOALS -->
+
+  <predator.label>捕食者</predator.label>
+  <predator.description>捕食者は他のキャラクターをvoreすることができます</predator.description>
+  <predator.tipEnabledManually>現在このキャラクターは,他のキャラを捕食することができます.\nプレイヤーから手動で設定されています</predator.tipEnabledManually>
+  <predator.tipDisabledManually>現在このキャラクターは,他のキャラを捕食しません.\nプレイヤーから手動で設定されています</predator.tipDisabledManually>
+  <predator.tipEnabledAutomatically>現在このキャラクターは,他のキャラを捕食することができます.\n設定から自動的に決定されています</predator.tipEnabledAutomatically>
+  <predator.tipDisabledAutomatically>現在このキャラクターは,他のキャラを捕食しません.\n設定から自動的に決定されています</predator.tipDisabledAutomatically>
+  <predator.tipBlocked>このキャラクターは捕食ができません.</predator.tipBlocked>
+ 
+  <fatal.label>消化</fatal.label>
+  <fatal.description>他のキャラクターはこのキャラに対し,消化などの目的のためにvoreされることができます</fatal.description>
+  <fatal.tipEnabledManually>現在このキャラクターは,他のキャラに消化されることができます.\nプレイヤーから手動で設定されています</fatal.tipEnabledManually>
+  <fatal.tipDisabledManually>現在このキャラクターは,他のキャラに消化されません.\nプレイヤーから手動で設定されています</fatal.tipDisabledManually>
+  <fatal.tipEnabledAutomatically>現在このキャラクターは,他のキャラに消化されることができます.\n設定から自動的に決定されています</fatal.tipEnabledAutomatically>
+  <fatal.tipDisabledAutomatically>現在このキャラクターは,他のキャラに消化されません.\n設定から自動的に決定されています</fatal.tipDisabledAutomatically>
+  <fatal.tipBlocked>このキャラクターは安全に捕食されることができません.</fatal.tipBlocked>
+
+  <endo.label>保管</endo.label>
+  <endo.description>他のキャラクターはこのキャラに対し,保管などの目的のためにvoreされることができます</endo.description>
+  <endo.tipEnabledManually>現在このキャラクターは,他のキャラに安全に捕食されることができます.\nプレイヤーから手動で設定されています</endo.tipEnabledManually>
+  <endo.tipDisabledManually>現在このキャラクターは,他のキャラに安全には捕食されません.\nプレイヤーから手動で設定されています</endo.tipDisabledManually>
+  <endo.tipEnabledAutomatically>現在このキャラクターは,他のキャラに安全に捕食されることができます.\n設定から自動的に決定されています</endo.tipEnabledAutomatically>
+  <endo.tipDisabledAutomatically>現在このキャラクターは,他のキャラに安全には捕食されません.\n設定から自動的に決定されています</endo.tipDisabledAutomatically>
+  <endo.tipBlocked>このキャラクターは消化されることができません.</endo.tipBlocked>
+
+
+</LanguageData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 目标激活器 -->
+
+  <Enablers_Core_Goal_ConvertLube.label>爱液转化腺体</Enablers_Core_Goal_ConvertLube.label>
+  <Enablers_Core_Goal_ConvertLube.description>[PAWN_label]能将活体猎物转化为阴道润滑液。</Enablers_Core_Goal_ConvertLube.description>
+
+  <Enablers_Core_Goal_ConvertMilk.label>乳汁转化腺体</Enablers_Core_Goal_ConvertMilk.label>
+  <Enablers_Core_Goal_ConvertMilk.description>[PAWN_label]能将活体猎物转化为充盈的乳汁。</Enablers_Core_Goal_ConvertMilk.description>
+
+  <Enablers_Core_Goal_ConvertSperm.label>精液转化腺体</Enablers_Core_Goal_ConvertSperm.label>
+  <Enablers_Core_Goal_ConvertSperm.description>[PAWN_label]能将活体猎物转化为大量精液。</Enablers_Core_Goal_ConvertSperm.description>
+
+  <Enablers_Core_Goal_Digest.label>高效消化系统</Enablers_Core_Goal_Digest.label>
+  <Enablers_Core_Goal_Digest.description>[PAWN_label]具备将活体猎物完全消化为营养的能力。</Enablers_Core_Goal_Digest.description>
+
+  <Enablers_Core_Goal_Heal.label>再生医疗腔体</Enablers_Core_Goal_Heal.label>
+  <Enablers_Core_Goal_Heal.description>[PAWN_label]体内具备医疗级再生环境，可替代医疗床治疗伤患。</Enablers_Core_Goal_Heal.description>
+
+  <Enablers_Core_Goal_Reform.label>生物重塑腺体</Enablers_Core_Goal_Reform.label>
+  <Enablers_Core_Goal_Reform.description>[PAWN_label]能按照自身意愿重构活体猎物。</Enablers_Core_Goal_Reform.description>
+
+  <Enablers_Core_Goal_Tempendo.label>舒适容纳腔体</Enablers_Core_Goal_Tempendo.label>
+  <Enablers_Core_Goal_Tempendo.description>[PAWN_label]体内环境安全舒适，适合娱乐或情欲用途。</Enablers_Core_Goal_Tempendo.description>
+
+  <Enablers_Core_Goal_Longendo.label>永久禁锢腔体</Enablers_Core_Goal_Longendo.label>
+  <Enablers_Core_Goal_Longendo.description>[PAWN_label]体内结构异常稳固，可永久禁锢猎物。</Enablers_Core_Goal_Longendo.description>
+
+  <!-- 类型激活器 -->
+
+  <Enablers_Core_Type_Oral.label>弹性口腔</Enablers_Core_Type_Oral.label>
+  <Enablers_Core_Type_Oral.description>[PAWN_label]拥有强韧柔软的咽喉，可吞噬活体猎物。</Enablers_Core_Type_Oral.description>
+
+  <Enablers_Core_Type_Anal.label>弹性肛门</Enablers_Core_Type_Anal.label>
+  <Enablers_Core_Type_Anal.description>[PAWN_label]具备柔韧肛门与强健肠道，可通过肛门吞噬猎物。</Enablers_Core_Type_Anal.description>
+
+  <Enablers_Core_Type_Vaginal.label>弹性阴道</Enablers_Core_Type_Vaginal.label>
+  <Enablers_Core_Type_Vaginal.description>[PAWN_label]拥有柔韧子宫及入口，可通过阴道吞噬猎物。</Enablers_Core_Type_Vaginal.description>
+
+  <Enablers_Core_Type_Cock.label>弹性阴茎</Enablers_Core_Type_Cock.label>
+  <Enablers_Core_Type_Cock.description>[PAWN_label]具备柔软尿道与精囊，可通过阴茎吞噬猎物。</Enablers_Core_Type_Cock.description>
+
+  <Enablers_Core_Type_Nipple.label>弹性乳首</Enablers_Core_Type_Nipple.label>
+  <Enablers_Core_Type_Nipple.description>[PAWN_label]拥有柔软乳头与乳房组织，可通过乳首吞噬猎物。</Enablers_Core_Type_Nipple.description>
+
+</LanguageData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 口腔暂存 -->
+  <OralHold.label>(暂存)口腔</OralHold.label>
+  <OralHold.RMBLabel>口腔吞噬(暂存)</OralHold.RMBLabel>
+  <OralHold.actionDescription>{PREDATOR}正试图暂时将{PREY}存入腹部</OralHold.actionDescription>
+  <OralHold.description>捕食者通过口腔将猎物送入胃部进行临时储存。</OralHold.description>
+  <OralHold.voreGoal>临时储存</OralHold.voreGoal>
+
+  <!-- 体内巡游 -->
+  <FullTourHold.label>(暂存)体内巡游</FullTourHold.label>
+  <FullTourHold.RMBLabel>体内巡游吞噬(暂存)</FullTourHold.RMBLabel>
+  <FullTourHold.actionDescription>{PREDATOR}计划进行体内巡游的同时暂时将{PREY}存入腹部</FullTourHold.actionDescription>
+  <FullTourHold.description>捕食者通过口腔将猎物送入胃部临时储存，排出时将使用肠道。</FullTourHold.description>
+
+  <!-- 肛门暂存 -->
+  <AnalHold.label>(暂存)肛门</AnalHold.label>
+  <AnalHold.RMBLabel>肛门吞噬(暂存)</AnalHold.RMBLabel>
+  <AnalHold.actionDescription>{PREDATOR}正试图暂时将{PREY}存入臀部</AnalHold.actionDescription>
+  <AnalHold.description>捕食者通过肛门将猎物送入肠道进行临时储存。</AnalHold.description>
+
+  <!-- 阴道暂存 -->
+  <VaginalHold.label>(暂存)阴道</VaginalHold.label>
+  <VaginalHold.RMBLabel>阴道吞噬(暂存)</VaginalHold.RMBLabel>
+  <VaginalHold.actionDescription>{PREDATOR}正试图暂时将{PREY}存入阴道</VaginalHold.actionDescription>
+  <VaginalHold.description>捕食者通过阴道将猎物送入子宫进行临时储存。</VaginalHold.description>
+
+  <!-- 阴茎暂存 -->
+  <CockHold.label>(暂存)阴茎</CockHold.label>
+  <CockHold.RMBLabel>阴茎吞噬(暂存)</CockHold.RMBLabel>
+  <CockHold.actionDescription>{PREDATOR}正试图暂时将{PREY}存入阴茎</CockHold.actionDescription>
+  <CockHold.description>捕食者通过阴茎将猎物送入阴囊进行临时储存。</CockHold.description>
+
+  <!-- 乳首暂存 -->
+  <NippleHold.label>(暂存)乳首</NippleHold.label>
+  <NippleHold.RMBLabel>乳首吞噬(暂存)</NippleHold.RMBLabel>
+  <NippleHold.actionDescription>{PREDATOR}正试图暂时将{PREY}存入乳首</NippleHold.actionDescription>
+  <NippleHold.description>捕食者通过乳首将猎物送入乳腺进行临时储存。</NippleHold.description>
+
+</LanguageData>

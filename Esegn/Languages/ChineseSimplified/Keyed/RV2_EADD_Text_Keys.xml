@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- 路径冲突提示 -->
+    <RV2_EADD_Text_PathInvalidConflicting>捕食路径冲突</RV2_EADD_Text_PathInvalidConflicting>
+    <RV2_EADD_Text_PathInvalidConflictingDesignation>捕食路径冲突且违反猎物规则</RV2_EADD_Text_PathInvalidConflictingDesignation>
+
+    <!-- 路径自动切换 -->
+    <RV2_EADD_Text_ConflictingPathResolutionSwitch_Key>捕食路径冲突已修正</RV2_EADD_Text_ConflictingPathResolutionSwitch_Key>
+    <RV2_EADD_Text_ConflictingPathResolutionSwitch>{PREDATOR}为{OLDGOAL}吞下的{PREY}与现有猎物目标冲突，已切换为{NEWGOAL}。</RV2_EADD_Text_ConflictingPathResolutionSwitch>
+
+    <!-- 意外消化事件 -->
+    <RV2_EADD_Text_AccidentalDigestionNotification_Key>意外消化触发</RV2_EADD_Text_AccidentalDigestionNotification_Key>
+    <RV2_EADD_Text_AccidentalDigestionNotification>{PREDATOR}无意间将吞下的{PREY}目标切换为致命模式：{GOAL}！</RV2_EADD_Text_AccidentalDigestionNotification>
+    
+    <RV2_EADD_Text_AccidentalDigestionAbort_Key>意外消化中止</RV2_EADD_Text_AccidentalDigestionAbort_Key>
+    <RV2_EADD_Text_AccidentalDigestionAbort>{PREDATOR}察觉到自己正在消化猎物，已切换回安全模式。</RV2_EADD_Text_AccidentalDigestionAbort>
+    <RV2_EADD_Text_AccidentalDigestionAbortFail_Key>意外消化中止失败</RV2_EADD_Text_AccidentalDigestionAbortFail_Key>
+    <RV2_EADD_Text_AccidentalDigestionAbortFail>{PREDATOR}虽察觉正在消化猎物，但因进程过深无法恢复安全模式。</RV2_EADD_Text_AccidentalDigestionAbortFail>
+
+    <!-- 体内疗剂操作 -->
+    <RV2_EADD_Text_RMB_AdministerEAS_Self>对自己使用体内疗剂</RV2_EADD_Text_RMB_AdministerEAS_Self>
+    <RV2_EADD_Text_RMB_AdministerEAS>对{PATIENT}使用体内疗剂</RV2_EADD_Text_RMB_AdministerEAS>
+    <RV2_EADD_Text_RMB_AdministerEAS_CannotReach>无法接触目标</RV2_EADD_Text_RMB_AdministerEAS_CannotReach>
+    <RV2_EADD_Text_RMB_AdministerEAS_NoMeds>无可用药物</RV2_EADD_Text_RMB_AdministerEAS_NoMeds>
+    <RV2_EADD_Text_RMB_AdministerEAS_NoHealPrey>无待治疗猎物</RV2_EADD_Text_RMB_AdministerEAS_NoHealPrey>
+    <RV2_EADD_Text_RMB_AdministerEAS_PreyAlreadyTendable>治疗已充足</RV2_EADD_Text_RMB_AdministerEAS_PreyAlreadyTendable>
+    <RV2_EADD_Text_RMB_AdministerEAS_SelfTendDisabled>自我治疗已禁用</RV2_EADD_Text_RMB_AdministerEAS_SelfTendDisabled>
+
+    <!-- 剂量选项 -->
+    <RV2_EADD_Text_RMB_AdministerEAS_x1>使用1剂药物</RV2_EADD_Text_RMB_AdministerEAS_x1>
+    <RV2_EADD_Text_RMB_AdministerEAS_x5>使用5剂药物</RV2_EADD_Text_RMB_AdministerEAS_x5>
+    <RV2_EADD_Text_RMB_AdministerEAS_x10>使用10剂药物</RV2_EADD_Text_RMB_AdministerEAS_x10>
+    <RV2_EADD_Text_RMB_AdministerEAS_ForPrey>为当前猎物使用</RV2_EADD_Text_RMB_AdministerEAS_ForPrey>
+    <RV2_EADD_Text_RMB_AdministerEAS_ForTarget>为体外患者使用</RV2_EADD_Text_RMB_AdministerEAS_ForTarget>
+
+    <!-- 疗剂使用条件提示 -->
+    <RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyCannotBeHealVored>{PREDATOR}无法对{PREY}进行治愈性吞噬</RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyCannotBeHealVored>
+    <RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyHasNoTendableHediffs>{PREY}没有需要治疗的伤势或疾病</RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyHasNoTendableHediffs>
+    <RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyAlreadyTendable>{PREDATOR}已储备足够治疗{PREY}的体内疗剂</RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyAlreadyTendable>
+
+</LanguageData>

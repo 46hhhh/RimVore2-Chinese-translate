@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2R_Pet>{1}の中で十分な時間を過ごした末,{0}は{1}の体内ペットになりました.</RV2R_Pet>
+  <RV2R_PetJoined>{1}の体内ペットになった{0}は,コロニーの一員となることを決めました.</RV2R_PetJoined>
+  <RV2R_RecruitAttemptsWillBegin>対象は{0}の体内から出され次第,勧誘の試みが始まります.</RV2R_RecruitAttemptsWillBegin>
+  
+  <RV2R_DesginateDevour>捕食</RV2R_DesginateDevour>
+  <RV2R_DesginateDevourDesc>倒れた敵対派閥や野生動物を指定し,捕食の調教がされた家畜が丸呑みできるようにします.</RV2R_DesginateDevourDesc>
+  <RV2R_DesginateDevourErr>倒れた敵対派閥か野生動物である必要があります.</RV2R_DesginateDevourErr>
+  <RV2R_DesginateDevourErrHuman>対象が設定により致死的な捕食を出来ないか,体内に監禁できない状態になっています.</RV2R_DesginateDevourErrHuman>
+  <RV2R_DesginateDevourErrScaria>対象が設定により致死的な捕食を出来ないか,スカリア病罹患者として体内拘束できないようになっています.</RV2R_DesginateDevourErrScaria>
+  <RV2R_DesginateDevourErrInsect>対象が設定により致死的な捕食を出来ないか,虫派閥として体内拘束できないようになっています.</RV2R_DesginateDevourErrInsect>
+
+  <RV2R_StatsReport_VoreCapacityAcclimation>順応により</RV2R_StatsReport_VoreCapacityAcclimation>
+  
+  <RV2R_Settings_Tab>Rut's Stuff</RV2R_Settings_Tab>
+
+  <RV2R_Encumberance_Section>荷重</RV2R_Encumberance_Section>
+	
+  <RV2R_Settings_SizedEncumberance>新たな荷重システム</RV2R_Settings_SizedEncumberance>
+  <RV2R_Settings_SizedEncumberance_Tip>被食者による移動力低下の深刻度が,中のその総重量によって導き出されます.無効化することで従来通り被食者の数で重量を加算しますが,逆体格差シチュエーションに非合理性が生まれてしまいます.</RV2R_Settings_SizedEncumberance_Tip>
+  <RV2R_Settings_EncumberanceModifier>荷重の比率</RV2R_Settings_EncumberanceModifier>
+  <RV2R_Settings_EncumberanceModifier_Tip>捕食者がどれだけ被食者の重さに影響されるかを示します.高く設定すると捕食者は簡単に動けなくなってしまいます.</RV2R_Settings_EncumberanceModifier_Tip>
+  <RV2R_Settings_EncumberanceVisible>"獲物の荷重"状態を可視化</RV2R_Settings_EncumberanceVisible>  
+  <RV2R_Settings_EncumberanceVisible_Tip>移動速度の低下を分かりやすくするため,"獲物の荷重"を健康状態として可視化します. プレイヤーに可視化するというだけでゲームプレイに影響のある設定ではありません./n/n被食者の重さが移動速度に影響している場合は,そのパラメータにカーソルを合わせると表示されます.</RV2R_Settings_EncumberanceVisible_Tip> 
+  <RV2R_Settings_EncumberanceCap>荷重の上限</RV2R_Settings_EncumberanceCap>  
+  <RV2R_Settings_EncumberanceCap_Tip>"獲物の荷重"がどれだけ強くなるかの上限を示します.この設定次第で,大量の獲物が詰め込まれた捕食者も自分の意志で吐き出せるようになります.同体格の被食者かつ捕食者に特別な傾向がない場合,荷重は25%になります.\n\n 25%なら,運動能力は-17.5%.\n 50%なら,-40%.\n 75%なら,-65%.\n 100%なら,-150%になります.</RV2R_Settings_EncumberanceCap_Tip>  
+
+  <RV2R_Settings_EncumberanceTurnOff>新たな荷重システムの導入方法により, 上記の設定を停止してもRimVore-2本来の荷重システムに戻ることはなく,それに近似したものが宛がわれます.戻す場合,"荷重の比率"を0%に設定し, Patches/Patch_Hediffs_Vore_CapmodRemoval.xml をこのmodのcommonフォルダから削除してください.</RV2R_Settings_EncumberanceTurnOff>  
+
+  <RV2R_Acclimation_Section>順応</RV2R_Acclimation_Section>
+  
+  <RV2R_Settings_PreyCapacityAcclimation>容量の順応</RV2R_Settings_PreyCapacityAcclimation>
+  <RV2R_Settings_PreyCapacityAcclimation_Tip>捕食者が容量いっぱいまで詰め込まれたとき,順応する速度を設定します.この設定は最大値でも非常に遅く,容量が増えると共に順応速度は緩やかになります.</RV2R_Settings_PreyCapacityAcclimation_Tip>
+  <RV2R_Settings_PreyCapacityAcclimationLimit>容量の順応判定</RV2R_Settings_PreyCapacityAcclimationLimit>
+  <RV2R_Settings_PreyCapacityAcclimationLimit_Tip>捕食者が順応するために必要な,最大容量に対する収容量を示します.1%に設定すると,あらゆる捕食者がゆっくりと体内容量を増やしていきますが,獲物を詰め込んでいると順応速度は速くなります.</RV2R_Settings_PreyCapacityAcclimationLimit_Tip>
+  <RV2R_Settings_MovingCapacityAclimation>機動力の順応</RV2R_Settings_MovingCapacityAclimation>
+  <RV2R_Settings_MovingCapacityAclimation_Tip>捕食者が被食者の重さによって過負荷状態になったとき,順応する速度を設定します.この設定は最大値でも非常に遅く,捕食者の動きが軽やかになると共に順応速度は緩やかになります.\n\n荷重は健康状態において計算されるため,影響を実感するには時間がかかります.</RV2R_Settings_MovingCapacityAclimation_Tip>
+  <RV2R_Settings_MovingCapacityAclimationLimit>機動力の順応判定</RV2R_Settings_MovingCapacityAclimationLimit>
+  <RV2R_Settings_MovingCapacityAclimationLimit_Tip>捕食者が順応するために必要な,重量に対する移動負荷を示します.1%に設定すると,あらゆる捕食者がゆっくりと重量ペナルティを減らしていきますが,獲物を詰め込んでいると順応速度は速くなります.</RV2R_Settings_MovingCapacityAclimationLimit_Tip>
+  
+  <RV2R_Tick_Section>体内保管</RV2R_Tick_Section>
+
+  <RV2R_Settings_EndoSickness>体内病の強さ</RV2R_Settings_EndoSickness>
+  <RV2R_Settings_EndoSickness_Tip>安全に体内に保管された被食者がどれだけの速度で"体内病"に罹っていくかを示します.デフォルトの場合,"体内時計"カウントがひとつ進むと1%進行.危険性はなく,良い心情効果を与えますが,その代償に一日二日ほど後遺症が付きまといます.\n\n薬品の節約など,体内保管の安定性をナーフする目的も含まれています.</RV2R_Settings_EndoSickness_Tip>
+  <RV2R_Settings_EndoSicknessPacification>泥酔の沈黙</RV2R_Settings_EndoSicknessPacification>  
+  <RV2R_Settings_EndoSicknessPacification_Tip>被食者の体内病がひどく進行した際,抵抗ができなくなります.</RV2R_Settings_EndoSicknessPacification_Tip>  
+  <RV2R_Settings_AgeRegression>年齢退行の強さ</RV2R_Settings_AgeRegression>
+  <RV2R_Settings_AgeRegression_Tip>どれだけ早く,子宮内に閉じ込められた被食者の年齢が退行するかを"1日に対して何日分減少するか"という単位で示します.生物学的年齢が成人期を下回ることはなく,種族によって差異があります.0に設定すると無効化,1に設定すると打ち消し,加齢がストップします.\n\n(注:Rimworldとその生き物にとっての一年は60日です.)</RV2R_Settings_AgeRegression_Tip>
+  <RV2R_Settings_AgeRegressionCure>慢性病の若返り治療</RV2R_Settings_AgeRegressionCure>
+  <RV2R_Settings_AgeRegressionCure_Tip>胎内で年齢が退行している被食者はわずかな確率で老化による慢性病が完治されます.その確率は年齢が若くなるほど上昇します.</RV2R_Settings_AgeRegressionCure_Tip>
+  <RV2R_Settings_Pets>体内ペット</RV2R_Settings_Pets>
+  <RV2R_Settings_Pets_Tip>捕食者と被食者同士は,ひとつの体内プロセス内でこの設定期間過ごし続けると,永久的に評価が上向く特別な関係に発展します. 悪用もできますが,ペットと捕食者どちらかに異変があった場合 互いに動揺するようになります.ペットは1人の捕食者のみ選びますが,捕食者は複数のペットを手懐けられます.</RV2R_Settings_Pets_Tip>
+  <RV2R_Settings_PetsColonyOnly>入植者のみがペットに</RV2R_Settings_PetsColonyOnly>
+  <RV2R_Settings_PetsColonyOnly_Tip>自コロニーのメンバーのみが,安全な体内の虜になります.</RV2R_Settings_PetsColonyOnly_Tip>
+  <RV2R_Settings_PetRecruitment>ペットの加入</RV2R_Settings_PetRecruitment>
+  <RV2R_Settings_PetRecruitment_Tip>自身の入植者のペットになった場合,キャラクターは派閥に参加します.悪用しようと思えばいくらでも出来てしまいます.</RV2R_Settings_PetRecruitment_Tip>
+  <RV2R_Settings_EndoThoughts>関係性による心情</RV2R_Settings_EndoThoughts>
+  <RV2R_Settings_EndoThoughts_Tip>絆や愛で結ばれている場合,それぞれの評価に合わせて捕食者と被食者の互いに良い心情を付与します.n\n\最大で恋人には+5,絆で繋がった動物は数で変化し2匹で+5,体内ペットには+5のボーナスが発生します.</RV2R_Settings_EndoThoughts_Tip>
+
+  <RV2R_Capture_Section>拘束</RV2R_Capture_Section>
+	
+  <RV2R_Settings_EndoCapture>体内被監禁者の拘束</RV2R_Settings_EndoCapture>
+  <RV2R_Settings_EndoCapture_Tip>オンにすると,敵対勢力が倒れ,入植者や家畜に安全にVoreされた時に拘束状態になります.その場の流れや,癒すために倒れた襲撃者をVoreした場合のカバーとなり,捕食の調教がされた家畜も勧誘に非常に役立つようになります.\n\n(捕食の調教がされた家畜は,消化ができない状況では癒しを次に優先します.)</RV2R_Settings_EndoCapture_Tip>
+  <RV2R_Settings_EndoCapture_Insectoids>昆虫も拘束</RV2R_Settings_EndoCapture_Insectoids>
+  <RV2R_Settings_EndoCapture_Insectoids_Tip>昆虫の派閥である"ソーン生物"の一員も捕食拘束によって敵対が解除され,手懐けが安全にできるようになります.\n\nバランスは想定されていません.</RV2R_Settings_EndoCapture_Insectoids_Tip>
+  <RV2R_Settings_EndoCapture_Scaria>スカリア病治療</RV2R_Settings_EndoCapture_Scaria>  
+  <RV2R_Settings_EndoCapture_Scaria_Tip>癒しのVoreにより動物を殺人鬼に至らしめる"スカリア病"をも治療することができ,人狩り集団にも拘束に似たことができるようになります.拘束また体内救急は,手懐け指示のある動物にのみ行われます.</RV2R_Settings_EndoCapture_Scaria_Tip>
+  <RV2R_Settings_EndoCapture_Recruitment>体内の勧誘居房</RV2R_Settings_EndoCapture_Recruitment>
+  <RV2R_Settings_EndoCapture_Recruitment_Tip>"敵対心を緩和"あるいは"雑談と勧誘"の設定がされた囚人は, 捕食が一方的なものでなかった場合 入植者の安全な体内で敵対心を徐々に下げさせることができます. たいていの場合 看守との対話の方が早く終わりますし, 揺るがない囚人にも効果はありません.</RV2R_Settings_EndoCapture_Recruitment_Tip>
+    
+  <RV2R_Settings_EndoCaptureDevourFriendlies>友軍の捕食指示</RV2R_Settings_EndoCaptureDevourFriendlies> 
+  <RV2R_Settings_EndoCaptureDevourFriendlies_Tip>倒れた友好派閥を捕食ツールの対象にすることが出来るようになります.食欲に負けた時かあるいは,癒しの体内と消化禁止のルールを組み合わせれば,救助方法の代わりとしても機能します.</RV2R_Settings_EndoCaptureDevourFriendlies_Tip>   
+  <RV2R_Settings_EndoCaptureDevourColonists>入植者の捕食指示</RV2R_Settings_EndoCaptureDevourColonists> 
+  <RV2R_Settings_EndoCaptureDevourColonists_Tip>倒れた入植者を捕食ツールの対象にすることが出来るようになります.食欲に負けた時かあるいは,癒しの体内と消化禁止のルールを組み合わせれば,救助方法の代わりとしても機能します.</RV2R_Settings_EndoCaptureDevourColonists_Tip> 
+  <RV2R_Settings_EndoCaptureDevourColonistsFull>無事な入植者の捕食指示</RV2R_Settings_EndoCaptureDevourColonistsFull> 
+  <RV2R_Settings_EndoCaptureDevourColonistsFull_Tip>この設定がある意味って?  ああ!\n\n(怪我をしていない場合,家畜が安全な目的のいずれかを選んで捕食し,消化は選択肢に入れられません.)</RV2R_Settings_EndoCaptureDevourColonistsFull_Tip> 
+ 
+  <RV2R_Lovin_Section>ウフフ,アハハ</RV2R_Lovin_Section>
+
+  <RV2R_Settings_PreyLovin>Vore的グループセクシャル</RV2R_Settings_PreyLovin>
+  <RV2R_Settings_PreyLovin_Tip>捕食者の行うウフフ,アハハに対し,被食者も感情の上向きを得られるようにします.被食者がどれだけ良い心情を受けるかは,"被食者の性欲"の傾向に影響されます.</RV2R_Settings_PreyLovin_Tip>
+  <RV2R_Settings_GutLovin>体内越しのウフフ,アハハの確率</RV2R_Settings_GutLovin>
+  <RV2R_Settings_GutLovin_Tip>恋愛関係にある捕食者/被食者のペアがどれだけVore嗜好的なウフフ,アハハに興じるかを設定します.これは普通のウフフ,アハハと同様に働き,クールダウンも同じものが使われます.さらに双方の同意が求められ,捕食者/被食者の性欲に左右されます.\n\n</RV2R_Settings_GutLovin_Tip>
+  <RV2R_Settings_GutLovinSapient>人間性持ち動物の許可</RV2R_Settings_GutLovinSapient>
+  <RV2R_Settings_GutLovinSapient_Tip>互いに承認を得る十分な手段があれば,体内越しのウフフ,アハハに興じることを許可します.これは Sentient Animals, Pawnmorpherの元人間と Kyulen などに作用します.</RV2R_Settings_GutLovinSapient_Tip>
+  <RV2R_Settings_GutLovinONS>ワンナイト-インサイド</RV2R_Settings_GutLovinONS>
+  <RV2R_Settings_GutLovinONS_Tip>恋愛関係にない捕食者/被食者のペアもVore嗜好的なウフフ,アハハを許可します.既に他の恋愛関係を持っている場合,パートナーがその場にいなければ遠慮します.</RV2R_Settings_GutLovinONS_Tip>
+  <RV2R_Settings_GutLovinCheats>遊び人の捕食者</RV2R_Settings_GutLovinCheats>
+  <RV2R_Settings_GutLovinCheats_Tip>恋人持ちの捕食者は,その相手がいない場合でもウフフアハハに興じることを許可します.ペナルティーも悪いムードもありませんが,少々気まずい構図にはなってしまうでしょう.</RV2R_Settings_GutLovinCheats_Tip>  
+  <RV2R_Settings_GutLovinNonCon>強姦の許可</RV2R_Settings_GutLovinNonCon>
+  <RV2R_Settings_GutLovinNonCon_Tip>サイコパスまたは他者評価の低い捕食者が被食者を無理やり性の食い物にする事を許可します.被食者が望まなかった場合関係に穴が空くことは避けられませんが,イイ人であればその危険性はありません.</RV2R_Settings_GutLovinNonCon_Tip>
+
+  <RV2R_Fodder_Section>生きた餌</RV2R_Fodder_Section>
+
+  <RV2R_Settings_Fodder_Chance>生餌の確率</RV2R_Settings_Fodder_Chance>
+  <RV2R_Settings_Fodder_Chance_Tip>入植者が「生餌」に指定された囚人を食事代わりに捕食する確率を設定します.遠すぎた場合,または好きな目的で捕食できない場合は行いません.\n\n他の食事にありつけないと判断した場合は,例え0%にしていても捕食を行います.\n\nこの設定は良くも悪くも自動Voreの頻度を劇的に変えます.</RV2R_Settings_Fodder_Chance_Tip>
+  <RV2R_Settings_Fodder_AllowNamed>名前付きの家畜の餌</RV2R_Settings_Fodder_AllowNamed>
+  <RV2R_Settings_Fodder_AllowNamed_Tip>名前がついたコロニーの動物に「生餌」囚人を食べさせるか設定します.あらゆる動物は「調教」タブで名前付きにすることが出来ます.</RV2R_Settings_Fodder_AllowNamed_Tip>
+  <RV2R_Settings_Fodder_AllowPredators>肉食動物の餌</RV2R_Settings_Fodder_AllowPredators>
+  <RV2R_Settings_Fodder_AllowPredators_Tip>コロニーの肉食動物に「生餌」囚人を食べさせるか設定します.この確率は入植者より低いです.</RV2R_Settings_Fodder_AllowPredators_Tip>
+  <RV2R_Settings_Fodder_AllowAnimals>コロニー動物の餌</RV2R_Settings_Fodder_AllowAnimals>
+  <RV2R_Settings_Fodder_AllowAnimals_Tip>あらゆるコロニーの動物に「生餌」囚人を食べさせるか設定します.この影響を受けるには捕食動物の許可も必要になります.この確率は肉食動物より低いです.</RV2R_Settings_Fodder_AllowAnimals_Tip>
+  <RV2R_Settings_Fodder_AnimalsFull>コロニー動物と囚人以外の餌</RV2R_Settings_Fodder_AnimalsFull>
+  <RV2R_Settings_Fodder_AnimalsFull_Tip>コロニー動物を以下の設定に従うように設定します.広いコロニーにおいては,大きな混乱を生み出すものもあります.牧畜用の家畜は他を生餌にしようとはしません.</RV2R_Settings_Fodder_AnimalsFull_Tip>
+
+  <RV2R_Settings_MiscFodder_Chance>その他の生餌の確率</RV2R_Settings_MiscFodder_Chance>
+  <RV2R_Settings_MiscFodder_Chance_Tip>囚人以外を食事代わりに捕食する確率を設定します.遠すぎた場合,または好きな目的で捕食できない場合は行いません.\n\nこの設定は良くも悪くも自動Voreの頻度を劇的に変えます.</RV2R_Settings_MiscFodder_Chance_Tip>
+
+  <RV2R_Settings_Fodder_Penned>ペン内の動物が生き餌</RV2R_Settings_Fodder_Penned>
+  <RV2R_Settings_Fodder_Penned_Tip>牧畜動物が生餌に選ばれるように設定します.「生餌」囚人の方が餌として優先され,あらゆる生餌は社交関係や派閥関係により失敗の可能性を持ち,あらゆる種族はオスとメス二匹ずつ保持されるようになっています.</RV2R_Settings_Fodder_Penned_Tip>
+  <RV2R_Settings_Fodder_Animal>コロニー動物が生き餌</RV2R_Settings_Fodder_Animal>
+  <RV2R_Settings_Fodder_Animal_Tip>コロニー動物が,捕食動物でないか小さい場合生餌に選ばれるように設定します.調教項目をこなしている対象ほどその優先度は低くなり,名前のついた動物は保持,そうでなくともあらゆる種族はオスとメス二匹ずつ保持されるようになっています.</RV2R_Settings_Fodder_Animal_Tip>
+  <RV2R_Settings_Fodder_Predator>コロニーの捕食動物が生き餌</RV2R_Settings_Fodder_Predator>
+  <RV2R_Settings_Fodder_Predator_Tip>コロニーの捕食動物が生餌に選ばれるように設定します.調教項目をこなしている対象ほどその優先度は低くなり,名前のついた動物は保持,そうでなくともあらゆる種族はオスとメス二匹ずつ保持されるようになっています.</RV2R_Settings_Fodder_Predator_Tip>
+  <RV2R_Settings_Fodder_Guests>訪問者が生き餌</RV2R_Settings_Fodder_Guests>
+  <RV2R_Settings_Fodder_Guests_Tip>失うものは計り知れません.</RV2R_Settings_Fodder_Guests_Tip>
+  <RV2R_Settings_Fodder_Colonists>入植者が生き餌</RV2R_Settings_Fodder_Colonists>
+  <RV2R_Settings_Fodder_Colonists_Tip>具体的な対策がない限り,するべきではないでしょう.\n\n(ドレインの目的を扱える場合,全く持って非生産的という訳ではありませんが,コロニーの一部が常に誰かの体内に収まり,出ることを繰り返し続けるのは大きな混沌をもたらします.)</RV2R_Settings_Fodder_Colonists_Tip>
+
+  <RV2R_AnimalNom_Section>動物のVore</RV2R_AnimalNom_Section>
+	
+  <RV2R_Settings_AnimalHealVore>臨機応変な癒し</RV2R_Settings_AnimalHealVore>
+  <RV2R_Settings_AnimalHealVore_Tip>体内救急の調教がされた動物が,ケガ人を癒しのvoreする際のルーチンを変更します.少なくとも出血が止まるまで,動物たちは医者の手による治療を待つようになります.</RV2R_Settings_AnimalHealVore_Tip>
+  <RV2R_Settings_AnimalCaptureVore>臨機応変な捕獲</RV2R_Settings_AnimalCaptureVore>
+  <RV2R_Settings_AnimalCaptureVore_Tip>捕食の調教がされた動物が,価値の高いあるいは関連性のある対象を優先するようにします.</RV2R_Settings_AnimalCaptureVore_Tip>
+  <RV2R_Settings_AnimalRandomNomChance>戯れの捕食に対する平均間隔</RV2R_Settings_AnimalRandomNomChance>
+  <RV2R_Settings_AnimalRandomNomChance_Tip>平均どれくらいの時間を開け,友好的な捕食者となるよう調教された家畜が他をVoreするかを時間単位で示します.家畜たちは基本的な申し出と同じように入植者に舌や捕食口を見せつけて誘いますが, 行う行為は無害で安全なもののみです.</RV2R_Settings_AnimalRandomNomChance_Tip>
+  <RV2R_Settings_AnimalRandomNomChanceModifier>戯れの捕食の時間追加</RV2R_Settings_AnimalRandomNomChanceModifier>
+  <RV2R_Settings_AnimalRandomNomChanceModifier_Tip>家畜が獲物を体内に納めている分,次の戯れの捕食までの時間がどれだけの割合伸びるかを示します.デフォルトでは,獲物1人で24時間から30時間に上がり,さらにもう1人で36まで上がります.</RV2R_Settings_AnimalRandomNomChanceModifier_Tip>
+  <RV2R_Settings_AnimalRandomNomPrey>戯れの被食</RV2R_Settings_AnimalRandomNomPrey>
+  <RV2R_Settings_AnimalRandomNomPrey_Tip>戯れの捕食が可能になったコロニー動物が,両刀使いになります.</RV2R_Settings_AnimalRandomNomPrey_Tip>
+  <RV2R_Settings_AnimalRandomNomColonistModifier>入植者への戯れの捕食の確率</RV2R_Settings_AnimalRandomNomColonistModifier>
+  <RV2R_Settings_AnimalRandomNomColonistModifier_Tip>入植者が戯れの捕食の対象になる確率を設定します.0%に設定すると,Voreを繋ぐ絆が有効化である場合に限り,絆で繋がった入植者を戯れに捕食するようになります.</RV2R_Settings_AnimalRandomNomColonistModifier_Tip>
+  <RV2R_Settings_AnimalRandomNomIndiscriminate>無差別な捕食</RV2R_Settings_AnimalRandomNomIndiscriminate>
+  <RV2R_Settings_AnimalRandomNomIndiscriminate_Tip>誰に対しても戯れの捕食を許可した場合,それはコロニーのヒトや動物に収まりません.トレーダーやクエストの対象者まで食べてしまうので注意しておきましょう.</RV2R_Settings_AnimalRandomNomIndiscriminate_Tip>
+  <RV2R_Settings_AnimalRandomNomFatal>"戯れの度を超した"捕食</RV2R_Settings_AnimalRandomNomFatal>
+  <RV2R_Settings_AnimalRandomNomFatal_Tip>...あなたはどうか知りませんが,個人的にはオススメしていません.</RV2R_Settings_AnimalRandomNomFatal_Tip>
+  
+  <RV2R_Bonds_Section>絆</RV2R_Bonds_Section>
+	
+  <RV2R_Settings_EndoBondChance>肉壁越しの絆の確率</RV2R_Settings_EndoBondChance>
+  <RV2R_Settings_EndoBondChance_Tip>動物とヒトが安全なVoreを介して邂逅した時,"体内時計"のカウントごとに非常に低い確率で絆で繋がることができます.野生動物も絆で繋がれるため,オオカミを家に"持ち帰る"ときには気をつけましょう.\n\nこの値は非常に低く設定することを推奨します.</RV2R_Settings_EndoBondChance_Tip>
+  <RV2R_Settings_EndoBondPredOnly>捕食者との絆</RV2R_Settings_EndoBondPredOnly>
+  <RV2R_Settings_EndoBondPredOnly_Tip>本来は,安全なVoreによる絆はヒトが捕食者の時にのみ起こります.この設定がオンの時は動物が捕食者の時でも絆を持つことがあります.\n\n個人的にはオススメしていません.</RV2R_Settings_EndoBondPredOnly_Tip>
+  <RV2R_Settings_EndoBondUnwilling>不可抗力と絆</RV2R_Settings_EndoBondUnwilling>
+  <RV2R_Settings_EndoBondUnwilling_Tip>本来は,安全なVoreによる絆は被食者が望んでいる時にのみ起こります.ですがその場合,もしキツネが皆の体内を酸っぱそうと嫌ったらどうすれば良いのでしょうか?</RV2R_Settings_EndoBondUnwilling_Tip>
+  <RV2R_Settings_VornyBonds>Voreを繋ぐ絆</RV2R_Settings_VornyBonds>
+  <RV2R_Settings_VornyBonds_Tip>絆で繋がれた動物はその主を戯れVoreに誘う確率が高くなり, 繋がれたもの同士は必ずその申し出を受け入れます.</RV2R_Settings_VornyBonds_Tip>
+  
+  <RV2R_Wild_Section>自然界での申し出</RV2R_Wild_Section>
+  
+  <RV2R_Settings_WildProposalMod>野生の申し出頻度</RV2R_Settings_WildProposalMod>
+  <RV2R_Settings_WildProposalMod_Tip>入植者の頻度に比較して,野生動物がVoreをどれだけ頻繁に申し出るかを設定します.高く設定するとパフォーマンスに影響するようになるでしょう.</RV2R_Settings_WildProposalMod_Tip>
+  <RV2R_Settings_WildPredatorProposals>野生の肉食動物が申し出</RV2R_Settings_WildPredatorProposals>
+  <RV2R_Settings_WildPredatorProposals_Tip>自然界における肉食動物が丸呑みを申し出するようになります.パフォーマンスに影響します.</RV2R_Settings_WildPredatorProposals_Tip>
+  <RV2R_Settings_WildPredatorPreyProposals>野生の肉食動物が両刀</RV2R_Settings_WildPredatorPreyProposals>
+  <RV2R_Settings_WildPredatorPreyProposals_Tip>自然界における肉食動物が丸呑みする/されるよう申し出するようになります.</RV2R_Settings_WildPredatorPreyProposals_Tip>
+  <RV2R_Settings_WildPreyProposals>野生の獲物が被食の申し出</RV2R_Settings_WildPreyProposals>
+  <RV2R_Settings_WildPreyProposals_Tip>肉食動物ではない野生動物が捕食者に丸呑みされるよう申し出するようになります.パフォーマンスに影響します.</RV2R_Settings_WildPreyProposals_Tip>
+  <RV2R_Settings_WildToColonistPrey>入植者への被食の申し出</RV2R_Settings_WildToColonistPrey>
+  <RV2R_Settings_WildToColonistPrey_Tip>コロニーの仲間に対して,野生動物が捕食される様,申し出るようになります.</RV2R_Settings_WildToColonistPrey_Tip>
+  <RV2R_Settings_WildToColonistPred>入植者への捕食の申し出</RV2R_Settings_WildToColonistPred>
+  <RV2R_Settings_WildToColonistPred_Tip>コロニーの仲間に対して,野生動物が捕食する様,申し出るようになります.</RV2R_Settings_WildToColonistPred_Tip>
+  <RV2R_Settings_WildTotalVoreLimit>Voreの総数制限</RV2R_Settings_WildTotalVoreLimit>
+  <RV2R_Settings_WildTotalVoreLimit_Tip>野生動物の申し出を止めるための,判定可能なVoreの最大数を設定します.以降の申し出がなくなる訳ではありませんが,希少性は上がります.</RV2R_Settings_WildTotalVoreLimit_Tip>
+  
+  <RV2R_Cheats_Section>チート</RV2R_Cheats_Section>
+  
+  <RV2R_Cheats_EndoOpinion>関係値パッシブ</RV2R_Cheats_EndoOpinion>
+  <RV2R_Cheats_EndoOpinion_Tip>捕食者と被食者が互いに関係値を非能動的に得られるように設定します.互いがその役をどれだけ受け入れているかによって,得られる評価は変わります.</RV2R_Cheats_EndoOpinion_Tip>
+  <RV2R_Cheats_PreyJoy>被食者の娯楽</RV2R_Cheats_PreyJoy>
+  <RV2R_Cheats_PreyJoy_Tip>被食者になることに抵抗のないキャラクターが,体内で娯楽欲求値を恒常的に得るようにします.強制であった場合 33%,その他の場合は 50% が上限となります.</RV2R_Cheats_PreyJoy_Tip>
+  <RV2R_Cheats_MetabolismBoost>消化機能の影響</RV2R_Cheats_MetabolismBoost>
+  <RV2R_Cheats_MetabolismBoost_Tip>高い消化機能を持つ捕食者が体内の被食者への分け与えや治癒により空腹になった場合,いくらか栄養が払い戻されるようになります.同時に消化機能が低い状態だと,食料の欲求値がより早く減るようになってしまいます.\n\n捕食者としての監獄,病棟に対し インプラントにより胃と肝臓の機能を強化するのも良いでしょう.</RV2R_Cheats_MetabolismBoost_Tip>
+  <RV2R_Cheats_NoBleedOut>出血なし</RV2R_Cheats_NoBleedOut>
+  <RV2R_Cheats_NoBleedOut_Tip>被食者の出血状態を90%以下の時点でストップさせます.癒しのVoreをしたい場合,悲惨な結末を防ぐ助けになるでしょう.</RV2R_Cheats_NoBleedOut_Tip>
+  <RV2R_Cheats_StopBleeding>出血軽減</RV2R_Cheats_StopBleeding>
+  <RV2R_Cheats_StopBleeding_Tip>被食者が捕食された時,出血量が徐々に低下します.出血を抑えるだけで,傷を塞ぐのはまた別の要因が必要になります.</RV2R_Cheats_StopBleeding_Tip>
+  <RV2R_Cheats_NoExtremeTemp>過激な体内温度なし</RV2R_Cheats_NoExtremeTemp>
+  <RV2R_Cheats_NoExtremeTemp_Tip>被食者の低体温症,熱中症の進行を30%までにします.</RV2R_Cheats_NoExtremeTemp_Tip>
+  <RV2R_Cheats_HyperHealing>高級回復</RV2R_Cheats_HyperHealing>
+  <RV2R_Cheats_HyperHealing_Tip>ベホイム,ケアルガ,メガキュアー.捕食者の癒しスキルが一段と強くなり,癒しVoreを最高の慈しみとして確固たるものにします.高スキルの医者と最高品質の医薬品には流石に劣りますが.</RV2R_Cheats_HyperHealing_Tip>
+
+  <!--   -->
+</LanguageData>

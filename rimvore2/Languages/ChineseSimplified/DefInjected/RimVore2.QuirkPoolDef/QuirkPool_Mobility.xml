@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mobility.label>机动性</Mobility.label>
+  <Mobility.description>表示该角色携带猎物时的移动速度衰减程度。猎物过多时将无法移动，但只要体内容量允许仍可强制吞噬。</Mobility.description>
+
+</LanguageData>

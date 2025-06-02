@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食者侧 -->
+
+  <GoalPreference_Predator_Amalgamate_Obsessed.label>融合的强烈支配欲</GoalPreference_Predator_Amalgamate_Obsessed.label>
+  <GoalPreference_Predator_Amalgamate_Obsessed.description>怀着融合主义者的理想，[PAWN_label]渴望将猎物融合为随身肉体增幅，对其他目的几乎毫无兴趣。</GoalPreference_Predator_Amalgamate_Obsessed.description>
+
+  <GoalPreference_Predator_Amalgamate_Likes.label>融合的掌控感</GoalPreference_Predator_Amalgamate_Likes.label>
+  <GoalPreference_Predator_Amalgamate_Likes.description>凭借融合天赋，[PAWN_label]喜欢将猎物转化为肉体增幅。</GoalPreference_Predator_Amalgamate_Likes.description>
+
+  <GoalPreference_Predator_Amalgamate_Neutral.label>仅是肉体增幅</GoalPreference_Predator_Amalgamate_Neutral.label>
+  <GoalPreference_Predator_Amalgamate_Neutral.description>[PAWN_label]对融合猎物没有特别感受。或许缺乏融合天赋，抑或只是理念使然。</GoalPreference_Predator_Amalgamate_Neutral.description>
+
+  <GoalPreference_Predator_Amalgamate_Dislikes.label>灵魂融合的不协和</GoalPreference_Predator_Amalgamate_Dislikes.label>
+  <GoalPreference_Predator_Amalgamate_Dislikes.description>[PAWN_label]厌恶融合猎物。既要浪费营养分流，又仿佛有异物在脑海中争夺资源。</GoalPreference_Predator_Amalgamate_Dislikes.description>
+
+  <GoalPreference_Predator_Amalgamate_Refuses.label>拥挤灵魂的孤独渴求</GoalPreference_Predator_Amalgamate_Refuses.label>
+  <GoalPreference_Predator_Amalgamate_Refuses.description>[PAWN_label]极度抗拒融合猎物。灵魂层面的亲密距离会残酷侵蚀[PAWN_pronoun]的隐私需求。</GoalPreference_Predator_Amalgamate_Refuses.description>
+
+  <GoalPreference_Predator_Assimilate_Obsessed.label>吸收的强烈占有欲</GoalPreference_Predator_Assimilate_Obsessed.label>
+  <GoalPreference_Predator_Assimilate_Obsessed.description>在吸收力量的驱使下，[PAWN_label]渴望将猎物永久吸收为肉体增幅，对其他目的几乎毫无兴趣。</GoalPreference_Predator_Assimilate_Obsessed.description>
+
+  <GoalPreference_Predator_Assimilate_Likes.label>吸收转化的食欲</GoalPreference_Predator_Assimilate_Likes.label>
+  <GoalPreference_Predator_Assimilate_Likes.description>凭借吸收能力，[PAWN_label]偏好将猎物转化为[PAWN_possessive]身体部分。完整保留体重可比消化高效多了。</GoalPreference_Predator_Assimilate_Likes.description>
+
+  <GoalPreference_Predator_Assimilate_Neutral.label>仅是肉体转化</GoalPreference_Predator_Assimilate_Neutral.label>
+  <GoalPreference_Predator_Assimilate_Neutral.description>[PAWN_label]对吸收猎物没有特别感受。或许缺乏吸收天赋，抑或只是理念使然。</GoalPreference_Predator_Assimilate_Neutral.description>
+
+  <GoalPreference_Predator_Assimilate_Dislikes.label>生命亵渎般的消化</GoalPreference_Predator_Assimilate_Dislikes.label>
+  <GoalPreference_Predator_Assimilate_Dislikes.description>[PAWN_label]对永久吸收猎物心存抵触。若猎物还有重获新生的可能，或许会改变想法。</GoalPreference_Predator_Assimilate_Dislikes.description>
+
+  <GoalPreference_Predator_Assimilate_Refuses.label>扭曲吸收的尊严</GoalPreference_Predator_Assimilate_Refuses.label>
+  <GoalPreference_Predator_Assimilate_Refuses.description>[PAWN_label]极度抗拒吞噬生命。如此稀有力量竟用于此途，令[PAWN_pronoun]深感荒谬。</GoalPreference_Predator_Assimilate_Refuses.description>
+
+
+  <!-- 猎物侧 -->
+
+  <GoalPreference_Prey_Amalgamate_Obsessed.label>细胞层面的摇篮</GoalPreference_Prey_Amalgamate_Obsessed.label>
+  <GoalPreference_Prey_Amalgamate_Obsessed.description>怀着某种热望，[PAWN_label]渴望余生作为他人的肉体增幅存在，偶尔伸展肢体便是全部需求。</GoalPreference_Prey_Amalgamate_Obsessed.description>
+
+  <GoalPreference_Prey_Amalgamate_Likes.label>类消化快感的兴奋</GoalPreference_Prey_Amalgamate_Likes.label>
+  <GoalPreference_Prey_Amalgamate_Likes.description>在强烈欲望中，[PAWN_label]希望被融合为他人肉体增幅——当然若非神志不清，绝不会说"永远"。</GoalPreference_Prey_Amalgamate_Likes.description>
+
+  <GoalPreference_Prey_Amalgamate_Neutral.label>仅是被占有</GoalPreference_Prey_Amalgamate_Neutral.label>
+  <GoalPreference_Prey_Amalgamate_Neutral.description>[PAWN_label]对被融合为猎物没有特别感受。</GoalPreference_Prey_Amalgamate_Neutral.description>
+
+  <GoalPreference_Prey_Amalgamate_Dislikes.label>诡异化学反应的厌恶</GoalPreference_Prey_Amalgamate_Dislikes.label>
+  <GoalPreference_Prey_Amalgamate_Dislikes.description>[PAWN_label]厌恶被融合。若[PAWN_pronoun]的欲望终生指向被吞噬，保持形体将愈发困难。</GoalPreference_Prey_Amalgamate_Dislikes.description>
+
+  <GoalPreference_Prey_Amalgamate_Refuses.label>反生命本能的愤怒</GoalPreference_Prey_Amalgamate_Refuses.label>
+  <GoalPreference_Prey_Amalgamate_Refuses.description>[PAWN_label]极度抗拒被融合。若必须被吸收，宁可彻底成为捕食者的一部分。"暂时"作为血肉储存的遭遇，绝不该出现在[PAWN_pronoun]的人生中。</GoalPreference_Prey_Amalgamate_Refuses.description>
+
+  <GoalPreference_Prey_Assimilate_Obsessed.label>终极奉献的渴求</GoalPreference_Prey_Assimilate_Obsessed.label>
+  <GoalPreference_Prey_Assimilate_Obsessed.description>秉持某种信念，[PAWN_label]决心终有一日成为捕食者美貌的组成部分——即便奉献整个身体与生命也在所不惜。</GoalPreference_Prey_Assimilate_Obsessed.description>
+
+  <GoalPreference_Prey_Assimilate_Likes.label>全身奉献的欲望</GoalPreference_Prey_Assimilate_Likes.label>
+  <GoalPreference_Prey_Assimilate_Likes.description>在强烈吸引中，[PAWN_label]渴望将身体物理性奉献给捕食者，视被转化为对方肉体利益为终极归宿。</GoalPreference_Prey_Assimilate_Likes.description>
+
+  <GoalPreference_Prey_Assimilate_Neutral.label>仅是被肉化</GoalPreference_Prey_Assimilate_Neutral.label>
+  <GoalPreference_Prey_Assimilate_Neutral.description>[PAWN_label]对被吸收为猎物没有特别感受。</GoalPreference_Prey_Assimilate_Neutral.description>
+
+  <GoalPreference_Prey_Assimilate_Dislikes.label>半永久奉献的忧虑</GoalPreference_Prey_Assimilate_Dislikes.label>
+  <GoalPreference_Prey_Assimilate_Dislikes.description>[PAWN_label]对终生作为他人组成部分心存疑虑。若是消化，至少能证明痛苦仅在一瞬。</GoalPreference_Prey_Assimilate_Dislikes.description>
+
+  <GoalPreference_Prey_Assimilate_Refuses.label>无尽吸收的恐惧</GoalPreference_Prey_Assimilate_Refuses.label>
+  <GoalPreference_Prey_Assimilate_Refuses.description>[PAWN_label]恐惧被永久禁锢为他人身体部分，被迫共享捕食者毕生的卑劣行径。</GoalPreference_Prey_Assimilate_Refuses.description>
+
+</LanguageData>

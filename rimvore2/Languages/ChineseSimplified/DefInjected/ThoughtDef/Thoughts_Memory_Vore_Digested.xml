@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Digestion Memories -->
+  <RV2_FatallyVoredMemory_Social.stages.0.label>消化了喜欢的人</RV2_FatallyVoredMemory_Social.stages.0.label>
+  <RV2_FatallyVoredMemory_Rival_Social.stages.0.label>消化了竞争对手</RV2_FatallyVoredMemory_Rival_Social.stages.0.label>
+
+  <RV2_FatallyVoredMemory_Mood.stages.0.label>友人被消化液溶解</RV2_FatallyVoredMemory_Mood.stages.0.label>
+  <RV2_FatallyVoredMemory_Mood.stages.0.description>曾经善待我的人，如今已化为血肉消融...</RV2_FatallyVoredMemory_Mood.stages.0.description>
+
+  <RV2_FatallyVoredMemory_Rival_Mood.stages.0.label>竞争对手被消化液溶解</RV2_FatallyVoredMemory_Rival_Mood.stages.0.label>
+  <RV2_FatallyVoredMemory_Rival_Mood.stages.0.description>哼，真是适合的结局。</RV2_FatallyVoredMemory_Rival_Mood.stages.0.description>
+
+  
+
+</LanguageData>

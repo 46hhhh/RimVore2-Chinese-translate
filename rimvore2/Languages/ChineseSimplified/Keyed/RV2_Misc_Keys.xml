@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RV2_SurgeryRemovePrey>从{0}取出猎物</RV2_SurgeryRemovePrey>
+  <RV2_ThingList_None>无</RV2_ThingList_None>
+  <RV2_DisposalUrn_Empty>空</RV2_DisposalUrn_Empty>
+  <RV2_DisposalUrn_Contents>内容物：</RV2_DisposalUrn_Contents>
+  <RV2_Time_Seconds>{0}秒</RV2_Time_Seconds>
+  <RV2_Time_Minutes>{0}分钟</RV2_Time_Minutes>
+  <RV2_Time_Hours>{0}小时</RV2_Time_Hours>
+  <RV2_Time_Days>{0}天</RV2_Time_Days>
+  <RV2_Time_Weeks>{0}周</RV2_Time_Weeks>
+
+  <RV2_Dialog_RestartNotification>需要初始化RimVore-2的设置，必须重置游戏以清除所有旧设置。\n\n强烈建议立即重启，否则可能导致设置菜单损坏。</RV2_Dialog_RestartNotification>
+  <RV2_Dialog_RestartOkay>是，立即重启</RV2_Dialog_RestartOkay>
+  <RV2_Dialog_RestartNo>不重启</RV2_Dialog_RestartNo>
+  <RV2_Dialog_RestartDeniedNotification>好的...RimVore-2模组本体和设置菜单几乎肯定会损坏。如需恢复，可通过RV-2菜单中的DebugActions删除并重新设置。</RV2_Dialog_RestartDeniedNotification>
+
+  <RV2_PredatorSwitchedVoreGoal_Key>吞噬目标已变更</RV2_PredatorSwitchedVoreGoal_Key>
+  <RV2_PredatorSwitchedVoreGoal>{PREDATOR}已将体内{PREY}的目标从{PREVIOUSGOAL}更改为{NEWGOAL}</RV2_PredatorSwitchedVoreGoal>
+  
+  <RV2_VoreMentalBreakNoPathAvailable>原因：精神崩溃时吞噬目标未达成</RV2_VoreMentalBreakNoPathAvailable>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2R_Goal_Drain_Predator.label>吞噬：捕食者 能量吸取</RV2R_Goal_Drain_Predator.label>
+  <RV2R_Goal_Drain_Predator.description>吸取猎物的次数。</RV2R_Goal_Drain_Predator.description>
+
+  <RV2R_Goal_Drain_Prey.label>吞噬：被捕食者 能量吸取</RV2R_Goal_Drain_Prey.label>
+  <RV2R_Goal_Drain_Prey.description>作为猎物被吸取的次数。</RV2R_Goal_Drain_Prey.description>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Goal Enablers 
+  These mainly unlock new goals for a pawn's exisiting types. -->
+
+  <RV2_MakeGoalEnabler_Absorb.label>同化活性セルを作る</RV2_MakeGoalEnabler_Absorb.label>
+  <RV2_MakeGoalEnabler_ConvertChemfuel.label>液燃料化活性シーダーを作る</RV2_MakeGoalEnabler_ConvertChemfuel.label>
+  <RV2_MakeGoalEnabler_ConvertEggs.label>卵化活性シーダーを作る</RV2_MakeGoalEnabler_ConvertEggs.label>
+  <RV2_MakeGoalEnabler_ConvertUrine.label>尿化活性シーダーを作る</RV2_MakeGoalEnabler_ConvertUrine.label>
+
+
+  <!-- Type Enablers 
+  These mainly unlock new types for a pawn's exisiting goals. -->
+
+  <RV2_MakeTypeEnabler_Cleavage.label>胸部陥没化スーツを作る</RV2_MakeTypeEnabler_Cleavage.label>
+  <RV2_MakeTypeEnabler_Membrane.label>外皮変質活性シーダーを作る</RV2_MakeTypeEnabler_Membrane.label>
+  <RV2_MakeTypeEnabler_Navel.label>腹部陥没化プロープを作る</RV2_MakeTypeEnabler_Navel.label>
+  <RV2_MakeTypeEnabler_Tailmaw.label>尻尾口腔覚醒シーダーを作る</RV2_MakeTypeEnabler_Tailmaw.label>
+  <RV2_MakeTypeEnabler_Udder.label>乳房軟化シーダーを作る</RV2_MakeTypeEnabler_Udder.label>
+
+
+</LanguageData>

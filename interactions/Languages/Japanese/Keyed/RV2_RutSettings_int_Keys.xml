@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>  
+
+  <RV2Interactions_Tab>Interactions</RV2Interactions_Tab> 
+  
+  <RV2Interaction_Settings_InteractionChance>交流の確率</RV2Interaction_Settings_InteractionChance>  
+  <RV2Interaction_Settings_InteractionChanceTip>捕食者と被食者が"体内時計"カウント毎に,会話など相互交流を行う確率を設定します.</RV2Interaction_Settings_InteractionChanceTip>
+  <RV2Interaction_Settings_MultiPreyModifier>複数被食者による追加係数</RV2Interaction_Settings_MultiPreyModifier>  
+  <RV2Interaction_Settings_MultiPreyModifier_Tip>交流の確率は被食者が増えるほど下がります.100%なら,各被食者に対し確率を1.00ずつ下げ,合計値が基本確率に沿うようになるでしょう.\n\n捕食者は同時に複数の被食者に話しかける事もあります.</RV2Interaction_Settings_MultiPreyModifier_Tip>
+  <RV2Interaction_Settings_OpinionModifier>関係性による追加係数</RV2Interaction_Settings_OpinionModifier>  
+  <RV2Interaction_Settings_OpinionModifierTip>捕食者と被食者の関係により,交流の確率をどれだけ変動させるかを設定します.100%なら関係が100の時に2倍,-100だと半分になります.</RV2Interaction_Settings_OpinionModifierTip>
+  <RV2Interaction_Settings_BaseOpinionMod>相互関係の補正</RV2Interaction_Settings_BaseOpinionMod>  
+  <RV2Interaction_Settings_BaseOpinionMod_Tip>交流の種類を決める際,捕食者と被食者の互いに対する評価をどれだけ補正するかを設定します.高い評価は友好的な交流に繋がります.基本的な関係性について影響はありません.</RV2Interaction_Settings_BaseOpinionMod_Tip>
+  <RV2Interaction_Settings_KindOpinionMod>イイ人の追加係数</RV2Interaction_Settings_KindOpinionMod>  
+  <RV2Interaction_Settings_KindOpinionMod_Tip>捕食者か被食者のどちらかがイイ人の特性を持っていた場合,どの程度 交流基準となる評価値を足すかを設定します.</RV2Interaction_Settings_KindOpinionMod_Tip>
+  <RV2Interaction_Settings_SkillOpinionMod>スキルの追加係数</RV2Interaction_Settings_SkillOpinionMod>  
+  <RV2Interaction_Settings_SkillOpinionMod_Tip>捕食者と被食者の社交スキル,あるいは動物スキルによりどれだけ評価が追加されるかを設定します.設定している値は,レベル20の時にそうなります.</RV2Interaction_Settings_SkillOpinionMod_Tip>
+  
+</LanguageData>

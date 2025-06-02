@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 吞噬增强装置相关 -->
+  <RV2_InstalledVoreEnabler_Abhorrent.stages.0.label>安装吞噬增强装置</RV2_InstalledVoreEnabler_Abhorrent.stages.0.label>
+  <RV2_InstalledVoreEnabler_Abhorrent.stages.0.description>为他人安装吞噬功能增强装置，但这绝非自我强化的正当手段。</RV2_InstalledVoreEnabler_Abhorrent.stages.0.description>
+
+  <RV2_InstalledVoreEnabler_Know_Social_Abhorrent.stages.0.label>吞噬装置安装者</RV2_InstalledVoreEnabler_Know_Social_Abhorrent.stages.0.label>
+
+  <RV2_HasVoreEnabler_Abhorrent.stages.0.label>携带吞噬增强装置</RV2_HasVoreEnabler_Abhorrent.stages.0.label>
+  <RV2_HasVoreEnabler_Abhorrent.stages.0.description>被装置增强了能力，纯洁的身体已不复存在...</RV2_HasVoreEnabler_Abhorrent.stages.0.description>
+
+  <RV2_HasVoreEnabler_Social_Abhorrent.stages.0.label>吞噬改造体</RV2_HasVoreEnabler_Social_Abhorrent.stages.0.label>
+
+</LanguageData>

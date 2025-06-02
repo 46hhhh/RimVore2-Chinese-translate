@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Disliked -->
+
+  <RV2_AnimalPredator_Disliked.label>嫌悪</RV2_AnimalPredator_Disliked.label>
+  <RV2_AnimalPredator_Disliked.description>動物に呑み込まれることは好まれるべきでない.</RV2_AnimalPredator_Disliked.description>
+
+
+  <!-- Abhorrent -->
+
+  <RV2_AnimalPredator_Abhorrent.label>ぞっとする</RV2_AnimalPredator_Abhorrent.label>
+  <RV2_AnimalPredator_Abhorrent.description>動物は丸呑みのための生き物ではない,そのような行為は我々の信念に対する冒涜だ.</RV2_AnimalPredator_Abhorrent.description>
+
+
+  <!-- Liked -->
+
+  <RV2_AnimalPredator_Liked.label>好む</RV2_AnimalPredator_Liked.label>
+  <RV2_AnimalPredator_Liked.description>動物に呑み込まれることは勧められるべきだ.</RV2_AnimalPredator_Liked.description>
+
+
+  <!-- Required -->
+
+  <RV2_AnimalPredator_Required.label>必須</RV2_AnimalPredator_Required.label>
+  <RV2_AnimalPredator_Required.description>我々は動物の餌となるべくして生まれてきた,その事実は日々の中で確立させないといけない大事なことだ.</RV2_AnimalPredator_Required.description>
+  <RV2_AnimalPredator_Required.comps.3.description>{VORERELATEDINTERVAL}日間動物に呑み込まれていない</RV2_AnimalPredator_Required.comps.3.description>
+
+
+  <!-- abhorrent venerated -->
+
+  <RV2_AnimalPredator_Abhorrent_Venerated.label>ぞっとする (神聖な動物)</RV2_AnimalPredator_Abhorrent_Venerated.label>
+  <RV2_AnimalPredator_Abhorrent_Venerated.description>神聖な動物に食べられることは許されざる行為だ.</RV2_AnimalPredator_Abhorrent_Venerated.description>
+
+
+  <!-- liked venerated -->
+
+  <RV2_AnimalPredator_Liked_Venerated.label>好む (神聖な動物)</RV2_AnimalPredator_Liked_Venerated.label>
+  <RV2_AnimalPredator_Liked_Venerated.description>神聖な動物に食べられることは勧められるべきだ.</RV2_AnimalPredator_Liked_Venerated.description>
+
+
+</LanguageData>

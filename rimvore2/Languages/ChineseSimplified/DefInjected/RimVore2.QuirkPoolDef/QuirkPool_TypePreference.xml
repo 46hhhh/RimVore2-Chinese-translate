@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MH: known shortcoming of these quirks: they are written in such a way as to describe conventional vore and do not account for absorption. alas! -->
+
+    <GoalPreference_Predator_Anal.label>捕食方式偏好（肛门）</GoalPreference_Predator_Anal.label>
+  <GoalPreference_Predator_Anal.description>表示该角色偏好通过肛门进行捕食的程度。极端情况下可能总是通过肛门吞噬猎物，反之亦然。</GoalPreference_Predator_Anal.description>
+
+  <GoalPreference_Predator_Cock.label>捕食方式偏好（阴茎）</GoalPreference_Predator_Cock.label>
+  <GoalPreference_Predator_Cock.description>表示该角色偏好通过阴茎进行捕食的程度。极端情况下可能总是通过阴茎吞噬猎物，反之亦然。</GoalPreference_Predator_Cock.description>
+
+  <GoalPreference_Predator_Nipple.label>捕食方式偏好（乳头）</GoalPreference_Predator_Nipple.label>
+  <GoalPreference_Predator_Nipple.description>表示该角色偏好通过乳头进行捕食的程度。极端情况下可能总是通过乳头吞噬猎物，反之亦然。</GoalPreference_Predator_Nipple.description>
+
+  <TypePreference_Predator_FullTour.label>捕食方式偏好（体内巡游）</TypePreference_Predator_FullTour.label>
+  <TypePreference_Predator_FullTour.description>表示该角色偏好通过口腔吞噬并让猎物完整通过消化道的程度。极端情况下可能总是追求完整消化过程，反之亦然。</TypePreference_Predator_FullTour.description>
+
+  <GoalPreference_Predator_Oral.label>捕食方式偏好（口腔）</GoalPreference_Predator_Oral.label>
+  <GoalPreference_Predator_Oral.description>表示该角色偏好通过口腔进行捕食的程度。极端情况下可能总是通过口腔吞噬猎物，反之亦然。</GoalPreference_Predator_Oral.description>
+
+  <GoalPreference_Predator_Vaginal.label>捕食方式偏好（阴道）</GoalPreference_Predator_Vaginal.label>
+  <GoalPreference_Predator_Vaginal.description>表示该角色偏好通过阴道进行捕食的程度。极端情况下可能总是通过阴道吞噬猎物，反之亦然。</GoalPreference_Predator_Vaginal.description>
+
+  <!-- 被捕食方式偏好（猎物） -->
+  <GoalPreference_Prey_Anal.label>被捕食方式偏好（肛门）</GoalPreference_Prey_Anal.label>
+  <GoalPreference_Prey_Anal.description>表示该角色偏好通过肛门被吞噬的程度。极端情况下可能总是寻求通过肛门被吞噬，反之亦然。</GoalPreference_Prey_Anal.description>
+
+  <GoalPreference_Prey_Cock.label>被捕食方式偏好（阴茎）</GoalPreference_Prey_Cock.label>
+  <GoalPreference_Prey_Cock.description>表示该角色偏好通过阴茎被吞噬的程度。极端情况下可能总是寻求通过阴茎被吞噬，反之亦然。</GoalPreference_Prey_Cock.description>
+
+  <GoalPreference_Prey_Nipple.label>被捕食方式偏好（乳头）</GoalPreference_Prey_Nipple.label>
+  <GoalPreference_Prey_Nipple.description>表示该角色偏好通过乳头被吞噬的程度。极端情况下可能总是寻求通过乳头被吞噬，反之亦然。</GoalPreference_Prey_Nipple.description>
+
+  <TypePreference_Prey_FullTour.label>被捕食方式偏好（体内巡游）</TypePreference_Prey_FullTour.label>
+  <TypePreference_Prey_FullTour.description>表示该角色偏好完整通过捕食者消化道的程度。极端情况下可能总是追求完整消化过程体验，反之亦然。</TypePreference_Prey_FullTour.description>
+
+  <GoalPreference_Prey_Oral.label>被捕食方式偏好（口腔）</GoalPreference_Prey_Oral.label>
+  <GoalPreference_Prey_Oral.description>表示该角色偏好通过口腔被吞噬的程度。极端情况下可能总是寻求通过口腔被吞噬，反之亦然。</GoalPreference_Prey_Oral.description>
+
+  <GoalPreference_Prey_Vaginal.label>被捕食方式偏好（阴道）</GoalPreference_Prey_Vaginal.label>
+  <GoalPreference_Prey_Vaginal.description>表示该角色偏好通过阴道被吞噬的程度。极端情况下可能总是寻求通过阴道被吞噬，反之亦然。</GoalPreference_Prey_Vaginal.description>
+
+</LanguageData>

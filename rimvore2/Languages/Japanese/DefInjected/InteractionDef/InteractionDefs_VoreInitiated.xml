@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_FatalVore.label>致命的なvore</RV2_FatalVore.label>
+  <RV2_FatalVore.logRulesInitiator.rulesStrings.0>r_logentry->致命的なVoreとして</RV2_FatalVore.logRulesInitiator.rulesStrings.0>
+
+  <RV2_EndoVore.label>安全なvore</RV2_EndoVore.label>
+  <RV2_EndoVore.logRulesInitiator.rulesStrings.0>r_logentry->安全なVoreとして</RV2_EndoVore.logRulesInitiator.rulesStrings.0>
+
+  <RV2_Feeding_Predator.label>捕食者に食べさせた</RV2_Feeding_Predator.label>
+  <RV2_Feeding_Predator.logRulesInitiator.rulesStrings.0>r_logentry->獲物を[RECIPIENT_nameDef]に食べさせた.</RV2_Feeding_Predator.logRulesInitiator.rulesStrings.0>
+
+  <RV2_Feeding_Prey.label>獲物を食べさせた</RV2_Feeding_Prey.label>
+  <RV2_Feeding_Prey.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]を捕食者に食べさせた.</RV2_Feeding_Prey.logRulesInitiator.rulesStrings.0>
+
+
+</LanguageData>

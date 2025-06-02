@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- should the default value get updated, it would be reasonable to update these as well -->
+
+  <StorageCapacity.label>体内容量</StorageCapacity.label>
+  <StorageCapacity.description>表示该角色能容纳猎物的最大数量。猎物体积直接采用"体型"数值，捕食者容量则由基础体型乘以倾向和设置中的系数决定。</StorageCapacity.description>
+
+</LanguageData>

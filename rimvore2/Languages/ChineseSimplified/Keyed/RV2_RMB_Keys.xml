@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 主菜单按钮 -->
+  <RV2_RMB_Home>吞噬</RV2_RMB_Home>
+  
+  <!-- 开发者操作 -->
+  <RV2_RMB_InitiateAsPredator>开发者:吞噬{0}</RV2_RMB_InitiateAsPredator>
+  <RV2_RMB_InitiateAsPrey>开发者:被{0}吞噬</RV2_RMB_InitiateAsPrey>
+  <RV2_RMB_AsFeeder>开发者:将{0}喂给他人</RV2_RMB_AsFeeder>
+  
+  <!-- 吞噬控制 -->
+  <RV2_RMB_ManualPass>执行下一阶段体内处理</RV2_RMB_ManualPass>
+  <RV2_RMB_JumpGoal>更改吞噬目的</RV2_RMB_JumpGoal>
+  <RV2_RMB_Random>随机选择</RV2_RMB_Random>
+  <RV2_RMB_RandomPreferred>偏好随机</RV2_RMB_RandomPreferred>
+  
+  <!-- 排出操作 -->
+  <RV2_RMB_EjectPrey_Self>排出被食者</RV2_RMB_EjectPrey_Self>
+  <RV2_RMB_EjectPrey_Target>让{0}排出被食者</RV2_RMB_EjectPrey_Target>
+  <RV2_RMB_AlreadyAttemptedEject>已尝试过</RV2_RMB_AlreadyAttemptedEject>
+  <RV2_RMB_EjectIncapable>无法使用暴力</RV2_RMB_EjectIncapable>
+
+  <!-- 吞噬提议 -->
+  <RV2_RMB_ProposeAsPredator>请求吞噬{0}</RV2_RMB_ProposeAsPredator>
+  <RV2_RMB_ProposeAsPrey>请求被{0}吞噬</RV2_RMB_ProposeAsPrey>
+  <RV2_RMB_ProposeAsFeederRandomPrey>作为喂食者向{0}提议(随机猎物)</RV2_RMB_ProposeAsFeederRandomPrey>
+  <RV2_RMB_ProposeAsFeederTargetPrey>作为喂食者向{0}提议(选择猎物)</RV2_RMB_ProposeAsFeederTargetPrey>
+
+  <!-- 转化选项 -->
+  <RV2_RMB_ConvertChemfuel>转化为燃油</RV2_RMB_ConvertChemfuel>
+  <RV2_RMB_ConvertEggs>转化为卵</RV2_RMB_ConvertEggs>
+  <RV2_RMB_ConvertUrine>转化为尿液</RV2_RMB_ConvertUrine>
+  <RV2_RMB_Assimilate>同化吸收</RV2_RMB_Assimilate>
+  <RV2_RMB_Amalgamate>融合</RV2_RMB_Amalgamate>
+
+  <!-- 特殊吞噬类型 -->
+  <RV2_RMB_Cleavage>乳沟吞噬</RV2_RMB_Cleavage>
+  <RV2_RMB_Membrane>皮肤吞噬</RV2_RMB_Membrane>
+  <RV2_RMB_Navel>脐部吞噬</RV2_RMB_Navel>
+  <RV2_RMB_Tailmaw>尾口吞噬</RV2_RMB_Tailmaw>
+  <RV2_RMB_Udder>乳房吞噬</RV2_RMB_Udder>
+  <RV2_RMB_VaginalBladder>膀胱吞噬</RV2_RMB_VaginalBladder>
+  <RV2_RMB_CockBladder>膀胱吞噬</RV2_RMB_CockBladder>
+
+  <!-- 植物吞噬 -->
+  <RV2_RMB_Petals>植物吞噬</RV2_RMB_Petals>
+</LanguageData>

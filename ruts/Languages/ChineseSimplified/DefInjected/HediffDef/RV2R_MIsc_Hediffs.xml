@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2R_Drained.label>吸收性后遗症</RV2R_Drained.label>
+  <RV2R_Drained.description>因捕食者的非致命性消化而出现的衰弱症状。会随时间逐渐恢复。</RV2R_Drained.description>
+
+  <RV2R_Drained.stages.trivial.label>轻微</RV2R_Drained.stages.trivial.label>
+  <RV2R_Drained.stages.minor.label>初期</RV2R_Drained.stages.minor.label>
+  <RV2R_Drained.stages.moderate.label>中度</RV2R_Drained.stages.moderate.label>
+  <RV2R_Drained.stages.severe.label>严重</RV2R_Drained.stages.severe.label>
+  <RV2R_Drained.stages.extreme-0.label>极重</RV2R_Drained.stages.extreme-0.label>
+  <RV2R_Drained.stages.extreme-1.label>极重</RV2R_Drained.stages.extreme-1.label>
+  <RV2R_Drained.stages.extreme-2.label>极重</RV2R_Drained.stages.extreme-2.label>
+
+  <RV2R_EndoRecovery.label>体内不适</RV2R_EndoRecovery.label>
+  <RV2R_EndoRecovery.description>因长时间被困在体内导致的意识模糊，以及过度缺乏运动引发的衰弱和混乱状态。通常不会致命，患者会感到疲惫和满足感。充分休息后，意识模糊也会恢复。</RV2R_EndoRecovery.description>
+  <RV2R_EndoRecovery.stages.0.label>轻微</RV2R_EndoRecovery.stages.0.label>
+  <RV2R_EndoRecovery.stages.1.label>初期</RV2R_EndoRecovery.stages.1.label>
+  <RV2R_EndoRecovery.stages.2.label>中度</RV2R_EndoRecovery.stages.2.label>
+  <RV2R_EndoRecovery.stages.3.label>严重</RV2R_EndoRecovery.stages.3.label>
+  <RV2R_EndoRecovery.stages.4.label>极重</RV2R_EndoRecovery.stages.4.label>
+  <RV2R_EndoRecovery.stages.5.label>沉醉</RV2R_EndoRecovery.stages.5.label>
+
+  <RV2R_VoreEncumbrence.label>猎物负重</RV2R_VoreEncumbrence.label>
+  <RV2R_VoreEncumbrence.description>因被食者的重量而对捕食者造成的行动阻碍。</RV2R_VoreEncumbrence.description>
+
+  <RV2R_PreyInStomachDrain.label>胃中猎物</RV2R_PreyInStomachDrain.label>
+  <RV2R_PreyInStomachDrain.description>该角色正在尝试从猎物身上汲取营养，同时保持其存活。</RV2R_PreyInStomachDrain.description>
+  <RV2R_PreyInStomachSoftChurning.label>胃中猎物</RV2R_PreyInStomachSoftChurning.label>
+  <RV2R_PreyInStomachSoftChurning.description>该角色正在尝试通过胃部活动让猎物放松。</RV2R_PreyInStomachSoftChurning.description>
+  <RV2R_PreyInIntestinesSoftProcessing.label>肠中猎物</RV2R_PreyInIntestinesSoftProcessing.label>
+  <RV2R_PreyInIntestinesSoftProcessing.description>该角色正在将猎物从肠道推出，同时尝试汲取其营养。</RV2R_PreyInIntestinesSoftProcessing.description>
+
+</LanguageData>

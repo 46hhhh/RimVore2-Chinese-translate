@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AutoProposalFrequency.label>申し出の頻度</AutoProposalFrequency.label>
+  <AutoProposalFrequency.description>このキャラクターが自発的にvoreを申し出る頻度です.捕食するか,されるか関係なく,基本的にする事が無い場合にのみ丸呑みに関する提案を周りに持ち掛けます</AutoProposalFrequency.description>
+
+
+</LanguageData>

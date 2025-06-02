@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- CheatDefs_reform.xml -->
+<LanguageData>
+  
+  <Cheat_AlwaysReform.label>总是复活</Cheat_AlwaysReform.label>
+  <Cheat_AlwaysReform.description>[PAWN_label]在被消化后，总能自行复活。</Cheat_AlwaysReform.description>
+  
+  <Cheat_UnReformable.label>不可复活</Cheat_UnReformable.label>
+  <Cheat_UnReformable.description>[PAWN_label]由于自身特性，无法通过任何方式复活（除非使用开发者模式的闪电）。</Cheat_UnReformable.description>
+  
+</LanguageData>

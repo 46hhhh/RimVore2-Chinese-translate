@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_EADD_AccidentalDigestion_Prey_VeryGood.stages.0.label>{0}に大喜びで不本意に消化された</RV2_EADD_AccidentalDigestion_Prey_VeryGood.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Prey_VeryGood.stages.0.description>予定とは違っていたけど,あの体内は自分の本当に欲しいものを分かっていた...</RV2_EADD_AccidentalDigestion_Prey_VeryGood.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Prey_Good.stages.0.label>{0}に喜んで不本意に消化された</RV2_EADD_AccidentalDigestion_Prey_Good.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Prey_Good.stages.0.description>あの体内は何をすべきかよく分かっていた!</RV2_EADD_AccidentalDigestion_Prey_Good.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Prey_Bad.stages.0.label>{0}に嫌々不本意に消化された</RV2_EADD_AccidentalDigestion_Prey_Bad.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Prey_Bad.stages.0.description>自分は食べ物じゃない,次は気を付けてよ!</RV2_EADD_AccidentalDigestion_Prey_Bad.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Prey_VeryBad.stages.0.label>{0}に拒否感の中で不本意に消化された</RV2_EADD_AccidentalDigestion_Prey_VeryBad.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Prey_VeryBad.stages.0.description>とても恐ろしかった,二度とやらないで...</RV2_EADD_AccidentalDigestion_Prey_VeryBad.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Pred_VeryGood.stages.0.label>{0}を大喜びで不本意に消化した</RV2_EADD_AccidentalDigestion_Pred_VeryGood.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Pred_VeryGood.stages.0.description>愛しの体内は,あなたをよりよい形で使ってくれた!</RV2_EADD_AccidentalDigestion_Pred_VeryGood.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Pred_Good.stages.0.label>{0}を喜んで不本意に消化した</RV2_EADD_AccidentalDigestion_Pred_Good.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Pred_Good.stages.0.description>思っていたのとは違うけど...まあいいか.</RV2_EADD_AccidentalDigestion_Pred_Good.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Pred_Bad.stages.0.label>{0}を嫌々不本意に消化した</RV2_EADD_AccidentalDigestion_Pred_Bad.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Pred_Bad.stages.0.description>うっかりしてた...ごめん.</RV2_EADD_AccidentalDigestion_Pred_Bad.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Pred_VeryBad.stages.0.label>{0}を拒否感の中で不本意に消化した</RV2_EADD_AccidentalDigestion_Pred_VeryBad.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Pred_VeryBad.stages.0.description>もっと注意していれば...</RV2_EADD_AccidentalDigestion_Pred_VeryBad.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2R_InstallGoalEnabler_Drain.label>制造吸收性活性种子（汲取）</RV2R_InstallGoalEnabler_Drain.label>
+  <RV2R_InstallGoalEnabler_Drain.description>制造特殊的纳米机器装置，用于激发与吞噬相关的能力。</RV2R_InstallGoalEnabler_Drain.description>
+  <RV2R_InstallGoalEnabler_Drain.jobString>正在制作吞噬扩展装置</RV2R_InstallGoalEnabler_Drain.jobString>
+
+  <RV2_InstallGoalEnabler_SoftDigest.label>制造吸收性活性种子（非致命性消化）</RV2_InstallGoalEnabler_SoftDigest.label>
+  <RV2_InstallGoalEnabler_SoftDigest.description>将吸收性活性种子适配到身体中，使其能够进行非致命性消化。</RV2_InstallGoalEnabler_SoftDigest.description>
+  <RV2_InstallGoalEnabler_SoftDigest.jobString>正在适配吞噬扩展装置</RV2_InstallGoalEnabler_SoftDigest.jobString>
+
+</LanguageData>

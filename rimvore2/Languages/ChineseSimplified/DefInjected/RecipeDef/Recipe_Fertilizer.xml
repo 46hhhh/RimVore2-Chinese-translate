@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_MakeFertilizer.label>制作肥料</RV2_MakeFertilizer.label>
+  <RV2_MakeFertilizer.description>将消化残渣回收制成肥料。</RV2_MakeFertilizer.description>
+  <RV2_MakeFertilizer.jobString>正在回收消化残渣。</RV2_MakeFertilizer.jobString>
+
+  <RV2_MakeFertilizer4.label>制作肥料 x4</RV2_MakeFertilizer4.label>
+  <RV2_MakeFertilizer4.description>将消化残渣回收制成肥料。</RV2_MakeFertilizer4.description>
+  <RV2_MakeFertilizer4.jobString>正在回收消化残渣。</RV2_MakeFertilizer4.jobString>
+
+</LanguageData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食者性别偏好 -->
+  <GenderPreference_Predator_FemaleOnly.label>雌性专食者</GenderPreference_Predator_FemaleOnly.label>
+  <GenderPreference_Predator_FemaleOnly.description>[PAWN_label]的味蕾极度偏爱雌性特征，对雄性猎物不屑一顾。</GenderPreference_Predator_FemaleOnly.description>
+
+  <GenderPreference_Predator_FemalePreferred.label>雌性偏好者</GenderPreference_Predator_FemalePreferred.label>
+  <GenderPreference_Predator_FemalePreferred.description>[PAWN_label]虽偶有例外，但多数情况下会选择雌性作为猎物。</GenderPreference_Predator_FemalePreferred.description>
+
+  <GenderPreference_Predator_Neutral.label>性别无倾向</GenderPreference_Predator_Neutral.label>
+  <GenderPreference_Predator_Neutral.description>猎物性别对[PAWN_label]毫无意义。猎物就是猎物，何必在意皮囊构造。</GenderPreference_Predator_Neutral.description>
+
+  <GenderPreference_Predator_MalePreferred.label>雄性偏好者</GenderPreference_Predator_MalePreferred.label>
+  <GenderPreference_Predator_MalePreferred.description>[PAWN_label]虽偶有例外，但多数情况下会选择雄性作为猎物。</GenderPreference_Predator_MalePreferred.description>
+
+  <GenderPreference_Predator_MaleOnly.label>雄性专食者</GenderPreference_Predator_MaleOnly.label>
+  <GenderPreference_Predator_MaleOnly.description>[PAWN_label]的味蕾极度偏爱雄性特征，对雌性猎物不屑一顾。</GenderPreference_Predator_MaleOnly.description>
+
+  <!-- 猎物性别偏好 -->
+  <GenderPreference_Prey_FemaleOnly.label>雌性依存体</GenderPreference_Prey_FemaleOnly.label>
+  <GenderPreference_Prey_FemaleOnly.description>[PAWN_label]极度迷恋雌性体内环境，绝不自愿进入雄性体内。</GenderPreference_Prey_FemaleOnly.description>
+
+  <GenderPreference_Prey_FemalePreferred.label>雌性偏倚体</GenderPreference_Prey_FemalePreferred.label>
+  <GenderPreference_Prey_FemalePreferred.description>[PAWN_label]虽偶有例外，但更倾向选择雌性作为捕食者。</GenderPreference_Prey_FemalePreferred.description>
+
+  <GenderPreference_Prey_Neutral.label>性别无倾向</GenderPreference_Prey_Neutral.label>
+  <GenderPreference_Prey_Neutral.description>捕食者性别对[PAWN_label]无关紧要。一旦被吞下，其实都差不多。</GenderPreference_Prey_Neutral.description>
+
+  <GenderPreference_Prey_MalePreferred.label>雄性偏倚体</GenderPreference_Prey_MalePreferred.label>
+  <GenderPreference_Prey_MalePreferred.description>[PAWN_label]虽偶有例外，但更倾向选择雄性作为捕食者。</GenderPreference_Prey_MalePreferred.description>
+
+  <GenderPreference_Prey_MaleOnly.label>雄性依存体</GenderPreference_Prey_MaleOnly.label>
+  <GenderPreference_Prey_MaleOnly.description>[PAWN_label]极度迷恋雄性体内环境，绝不自愿进入雌性体内。</GenderPreference_Prey_MaleOnly.description>
+
+</LanguageData>

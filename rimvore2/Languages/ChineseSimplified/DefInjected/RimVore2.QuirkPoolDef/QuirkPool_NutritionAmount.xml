@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NutritionEfficiency.label>营养效率</NutritionEfficiency.label>
+  <NutritionEfficiency.description>独立于消化能力，表示该角色从猎物消化中获取营养和有用产物的效率。效率越高获得营养越多，转化产物产量也越大。</NutritionEfficiency.description>
+
+  <PreyNutrition.label>营养价值</PreyNutrition.label>
+  <PreyNutrition.description>表示该角色作为猎物时的营养含量。营养价值越高，作为捕食者脂肪存活的时间越长，可转化的排泄物产量也越多。</PreyNutrition.description>
+
+</LanguageData>

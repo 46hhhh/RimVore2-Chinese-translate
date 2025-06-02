@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 目标启用器 
+  这些主要为角色的现有类型解锁新目标。 -->
+
+  <RV2_GoalEnabler_ConvertLube.label>阴道润滑液</RV2_GoalEnabler_ConvertLube.label>
+  <RV2_GoalEnabler_ConvertLube.description>在强效转化液的作用下，该角色可以将活体猎物在子宫内转化为爱液。</RV2_GoalEnabler_ConvertLube.description>
+
+  <RV2_GoalEnabler_ConvertMilk.label>乳汁分泌液</RV2_GoalEnabler_ConvertMilk.label>
+  <RV2_GoalEnabler_ConvertMilk.description>在强效转化液的作用下，该角色可以将活体猎物在乳房内转化为乳汁。</RV2_GoalEnabler_ConvertMilk.description>
+
+  <RV2_GoalEnabler_ConvertSperm.label>精囊白浊液</RV2_GoalEnabler_ConvertSperm.label>
+  <RV2_GoalEnabler_ConvertSperm.description>在强效转化液的作用下，该角色可以将活体猎物在睾丸内转化为精液。</RV2_GoalEnabler_ConvertSperm.description>
+
+  <RV2_GoalEnabler_Digest.label>强力消化液</RV2_GoalEnabler_Digest.label>
+  <RV2_GoalEnabler_Digest.description>在强效消化液的作用下，该角色可以在胃中消化活体猎物。</RV2_GoalEnabler_Digest.description>
+
+  <RV2_GoalEnabler_Heal.label>猎物治愈液</RV2_GoalEnabler_Heal.label>
+  <RV2_GoalEnabler_Heal.description>在特殊转化液的作用下，该角色可以为猎物提供睡眠、恢复和治疗，替代医疗床的功能。</RV2_GoalEnabler_Heal.description>
+
+  <RV2_GoalEnabler_Reform.label>猎物重塑润酶</RV2_GoalEnabler_Reform.label>
+  <RV2_GoalEnabler_Reform.description>在特殊转化液的作用下，该角色可以重塑猎物。</RV2_GoalEnabler_Reform.description>
+
+  <RV2_GoalEnabler_Tempendo.label>安全身体</RV2_GoalEnabler_Tempendo.label>
+  <RV2_GoalEnabler_Tempendo.description>该角色具有舒适的体内环境，可以为猎物提供娱乐和栖身之所。</RV2_GoalEnabler_Tempendo.description>
+
+  <RV2_GoalEnabler_Store.label>囚禁肉牢</RV2_GoalEnabler_Store.label>
+  <RV2_GoalEnabler_Store.description>该角色具有坚固的体内环境，该角色可以长期囚禁猎物。</RV2_GoalEnabler_Store.description>
+
+
+  <!-- 类型启用器 
+  这些主要为角色的现有目标解锁新类型。 -->
+
+  <RV2_TypeEnabler_Oral.label>柔软口腔</RV2_TypeEnabler_Oral.label>
+  <RV2_TypeEnabler_Oral.description>该角色拥有强韧且柔软的喉咙，可以吞噬活体猎物。</RV2_TypeEnabler_Oral.description>
+
+  <RV2_TypeEnabler_Anal.label>柔软臀部</RV2_TypeEnabler_Anal.label>
+  <RV2_TypeEnabler_Anal.description>该角色拥有柔软的肛门和强韧的肠道，可以从臀部吞噬活体猎物。</RV2_TypeEnabler_Anal.description>
+
+  <RV2_TypeEnabler_Vaginal.label>柔软阴道</RV2_TypeEnabler_Vaginal.label>
+  <RV2_TypeEnabler_Vaginal.description>该角色拥有柔软的子宫及其入口，可以从阴道吞噬活体猎物。</RV2_TypeEnabler_Vaginal.description>
+
+  <RV2_TypeEnabler_Cock.label>柔软阴茎</RV2_TypeEnabler_Cock.label>
+  <RV2_TypeEnabler_Cock.description>该角色拥有柔软的尿道和精囊，可以从阴茎吞噬活体猎物。</RV2_TypeEnabler_Cock.description>
+
+  <RV2_TypeEnabler_Nipple.label>柔软乳头</RV2_TypeEnabler_Nipple.label>
+  <RV2_TypeEnabler_Nipple.description>该角色拥有柔软的乳头和乳房，可以从乳头吞噬活体猎物。</RV2_TypeEnabler_Nipple.description>
+
+</LanguageData>

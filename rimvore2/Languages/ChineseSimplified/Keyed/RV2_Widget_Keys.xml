@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 部件描述 -->
+  <RV2_Widget_IsPredatorAutoOnDesc>当前可以捕食其他角色。\n由设置自动决定</RV2_Widget_IsPredatorAutoOnDesc>
+  <RV2_Widget_IsPredatorAutoOffDesc>当前不会捕食其他角色。\n由设置自动决定</RV2_Widget_IsPredatorAutoOffDesc>
+  <RV2_Widget_IsPredatorManualOnDesc>当前可以捕食其他角色。\n由玩家手动设置</RV2_Widget_IsPredatorManualOnDesc>
+  <RV2_Widget_IsPredatorManualOffDesc>当前不会捕食其他角色。\n由玩家手动设置</RV2_Widget_IsPredatorManualOffDesc>
+  <RV2_Widget_IsNeverPredatorDesc>此角色无法进行捕食。</RV2_Widget_IsNeverPredatorDesc>
+
+  <RV2_Widget_IsEndoPreyAutoOnDesc>当前可以被其他角色安全捕食。\n由设置自动决定</RV2_Widget_IsEndoPreyAutoOnDesc>
+  <RV2_Widget_IsEndoPreyAutoOffDesc>当前不会被其他角色安全捕食。\n由设置自动决定</RV2_Widget_IsEndoPreyAutoOffDesc>
+  <RV2_Widget_IsEndoPreyManualOnDesc>当前可以被其他角色安全捕食。\n由玩家手动设置</RV2_Widget_IsEndoPreyManualOnDesc>
+  <RV2_Widget_IsEndoPreyManualOffDesc>当前不会被其他角色安全捕食。\n由玩家手动设置</RV2_Widget_IsEndoPreyManualOffDesc>
+  <RV2_Widget_IsNeverEndoPreyDesc>此角色无法被安全捕食。</RV2_Widget_IsNeverEndoPreyDesc>
+
+  <RV2_Widget_IsFatalPreyAutoOnDesc>当前可以被其他角色消化。\n由设置自动决定</RV2_Widget_IsFatalPreyAutoOnDesc>
+  <RV2_Widget_IsFatalPreyAutoOffDesc>当前不会被其他角色消化。\n由设置自动决定</RV2_Widget_IsFatalPreyAutoOffDesc>
+  <RV2_Widget_IsFatalPreyManualOnDesc>当前可以被其他角色消化。\n由玩家手动设置</RV2_Widget_IsFatalPreyManualOnDesc>
+  <RV2_Widget_IsFatalPreyManualOffDesc>当前不会被其他角色消化。\n由玩家手动设置</RV2_Widget_IsFatalPreyManualOffDesc>
+  <RV2_Widget_IsNeverFatalPreyDesc>此角色无法被消化。</RV2_Widget_IsNeverFatalPreyDesc>
+
+  <RV2_Widget_Grapple_UnavailablePrefix>(无效)\n</RV2_Widget_Grapple_UnavailablePrefix>
+  <RV2_Widget_Grapple>使角色抓取选定目标。</RV2_Widget_Grapple>
+
+  <RV2_Command_ToggleGrapple_DescOn>当前此角色在格斗中可转为擒抱。</RV2_Command_ToggleGrapple_DescOn>
+  <RV2_Command_ToggleGrapple_DescOff>当前此角色在格斗中不可转为擒抱。</RV2_Command_ToggleGrapple_DescOff>
+</LanguageData>

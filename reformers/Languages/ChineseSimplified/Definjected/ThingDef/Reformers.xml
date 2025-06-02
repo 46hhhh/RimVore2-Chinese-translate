@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rv2_Reformer_Base.label>重塑者基座</Rv2_Reformer_Base.label>
+  <Rv2_Reformer_Base.description>重塑者装置。</Rv2_Reformer_Base.description>
+
+  <Rv2_Reformer_Powered.label>动力重塑者基座</Rv2_Reformer_Powered.label>
+  <Rv2_Reformer_Powered.description>重塑者装置。</Rv2_Reformer_Powered.description>
+
+  <RV2_Reformer_Colony.label>殖民地重塑者</RV2_Reformer_Colony.label>
+  <RV2_Reformer_Colony.description>当殖民者因被吞噬而死亡时，可利用电力制造替代肉体的机械装置。</RV2_Reformer_Colony.description>
+
+  <RV2_Reformer_Archo.label>远古科技重塑者</RV2_Reformer_Archo.label>
+  <RV2_Reformer_Archo.description>当殖民者因被吞噬而死亡时，可从虚无中创造完整替代肉体的远古科技装置。</RV2_Reformer_Archo.description>
+
+  <RV2_Reformer_Owned.label>个人重塑者</RV2_Reformer_Owned.label>
+  <RV2_Reformer_Owned.description>当指定目标因被吞噬而死亡时，可利用电力制造替代肉体的机械装置。</RV2_Reformer_Owned.description>
+</LanguageData>

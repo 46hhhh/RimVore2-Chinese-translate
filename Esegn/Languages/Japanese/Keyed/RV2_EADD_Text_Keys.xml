@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>  
+
+    <RV2_EADD_Text_PathInvalidConflicting>捕食パスの競合</RV2_EADD_Text_PathInvalidConflicting>
+    <RV2_EADD_Text_PathInvalidConflictingDesignation>捕食パスが競合かつ被食者のルールにて禁止中</RV2_EADD_Text_PathInvalidConflictingDesignation>
+
+    <RV2_EADD_Text_ConflictingPathResolutionSwitch_Key>捕食パスの競合を修正</RV2_EADD_Text_ConflictingPathResolutionSwitch_Key>
+    <RV2_EADD_Text_ConflictingPathResolutionSwitch>{PREDATOR}が{OLDGOAL}のために吞み込んだ{PREY}は既存の被食者と目的が競合するため,{NEWGOAL}に切り替えられました.</RV2_EADD_Text_ConflictingPathResolutionSwitch>
+
+    <RV2_EADD_Text_AccidentalDigestionNotification_Key>不本意な消化</RV2_EADD_Text_AccidentalDigestionNotification_Key>
+    <RV2_EADD_Text_AccidentalDigestionNotification>{PREDATOR}はふとした拍子に,呑み込んだ{PREY}の目的を致命的なもの {GOAL} に切り替えました!</RV2_EADD_Text_AccidentalDigestionNotification>
+    
+    <RV2_EADD_Text_AccidentalDigestionAbort_Key>不本意な消化の中止</RV2_EADD_Text_AccidentalDigestionAbort_Key>
+    <RV2_EADD_Text_AccidentalDigestionAbort>{PREDATOR}はいつの間にか被食者を消化しようとしている事に気が付き,安全な目的に切り替えました.</RV2_EADD_Text_AccidentalDigestionAbort>
+    <RV2_EADD_Text_AccidentalDigestionAbortFail_Key>不本意な消化の中止失敗</RV2_EADD_Text_AccidentalDigestionAbortFail_Key>
+    <RV2_EADD_Text_AccidentalDigestionAbortFail>{PREDATOR}はいつの間にか被食者を消化しようとしている事に気が付きましたが,消化のプロセスが進みすぎていたため,安全な目的に戻せませんでした.</RV2_EADD_Text_AccidentalDigestionAbortFail>
+
+    <RV2_EADD_Text_RMB_AdministerEAS_Self>自身に体内療剤を投与する</RV2_EADD_Text_RMB_AdministerEAS_Self>
+    <RV2_EADD_Text_RMB_AdministerEAS>{PATIENT}に体内療剤を投与する</RV2_EADD_Text_RMB_AdministerEAS>
+    <RV2_EADD_Text_RMB_AdministerEAS_CannotReach>到達不可</RV2_EADD_Text_RMB_AdministerEAS_CannotReach>
+    <RV2_EADD_Text_RMB_AdministerEAS_NoMeds>許可された薬がない</RV2_EADD_Text_RMB_AdministerEAS_NoMeds>
+    <RV2_EADD_Text_RMB_AdministerEAS_NoHealPrey>癒す被食者がいない</RV2_EADD_Text_RMB_AdministerEAS_NoHealPrey>
+    <RV2_EADD_Text_RMB_AdministerEAS_PreyAlreadyTendable>既に十分</RV2_EADD_Text_RMB_AdministerEAS_PreyAlreadyTendable>
+    <RV2_EADD_Text_RMB_AdministerEAS_SelfTendDisabled>自己治療が無効</RV2_EADD_Text_RMB_AdministerEAS_SelfTendDisabled>
+
+    <RV2_EADD_Text_RMB_AdministerEAS_x1>薬 x1 を投与</RV2_EADD_Text_RMB_AdministerEAS_x1>
+    <RV2_EADD_Text_RMB_AdministerEAS_x5>薬 x5 を投与</RV2_EADD_Text_RMB_AdministerEAS_x5>
+    <RV2_EADD_Text_RMB_AdministerEAS_x10>薬 x10 を投与</RV2_EADD_Text_RMB_AdministerEAS_x10>
+    <RV2_EADD_Text_RMB_AdministerEAS_ForPrey>現時点の被食者の分を投与</RV2_EADD_Text_RMB_AdministerEAS_ForPrey>
+    <RV2_EADD_Text_RMB_AdministerEAS_ForTarget>体外の患者の分を投与</RV2_EADD_Text_RMB_AdministerEAS_ForTarget>
+
+    <RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyCannotBeHealVored>{PREDATOR}は{PREY}を癒すためにVoreできません.</RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyCannotBeHealVored>
+    <RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyHasNoTendableHediffs>{PREY}は治療が必要な傷や病気がありません.</RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyHasNoTendableHediffs>
+    <RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyAlreadyTendable>{PREDATOR}は{PREY}を癒すに十分な体内療剤を既に蓄えています.</RV2_EADD_Text_RMB_AdministerEAS_ReferencePreyAlreadyTendable>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MH: known shortcoming of these quirks: they are written in such a way as to describe conventional vore and do not account for absorption. alas! -->
+
+  <TypePreference_Predator_Cleavage.label>捕食者の好み (cleavage:谷間)</TypePreference_Predator_Cleavage.label>
+  <TypePreference_Predator_Cleavage.description>このキャラクターが捕食に胸の谷間を使う事をどれだけ好むかを示します.極端な話になると,常に谷間から獲物を呑み込むようになり,その逆もあり得ます.</TypePreference_Predator_Cleavage.description>
+
+  <TypePreference_Predator_Membrane.label>捕食者の好み (membrane:皮膚)</TypePreference_Predator_Membrane.label>
+  <TypePreference_Predator_Membrane.description>このキャラクターが捕食にスライムのような外皮を使う事をどれだけ好むかを示します.極端な話になると,常に皮膚から獲物を呑み込むようになり,その逆もあり得ます.</TypePreference_Predator_Membrane.description>
+
+  <TypePreference_Predator_Navel.label>捕食者の好み (navel:へそ)</TypePreference_Predator_Navel.label>
+  <TypePreference_Predator_Navel.description>このキャラクターが捕食にへそを使う事をどれだけ好むかを示します.極端な話になると,常にへそから獲物を呑み込むようになり,その逆もあり得ます.</TypePreference_Predator_Navel.description>
+
+  <TypePreference_Predator_Tailmaw.label>捕食者の好み (tailmaw:尾口)</TypePreference_Predator_Tailmaw.label>
+  <TypePreference_Predator_Tailmaw.description>このキャラクターが捕食に尾口を使う事をどれだけ好むかを示します.極端な話になると,常に尾口から獲物を呑み込むようになり,その逆もあり得ます.</TypePreference_Predator_Tailmaw.description>
+
+  <TypePreference_Predator_Udder.label>捕食者の好み (udder:乳房)</TypePreference_Predator_Udder.label>
+  <TypePreference_Predator_Udder.description>このキャラクターが捕食に乳房を使う事をどれだけ好むかを示します.極端な話になると,常に乳房から獲物を呑み込むようになり,その逆もあり得ます.</TypePreference_Predator_Udder.description>
+
+
+  <!-- prey side -->
+
+  <TypePreference_Prey_Cleavage.label>被食者の好み (cleavage:谷間)</TypePreference_Prey_Cleavage.label>
+  <TypePreference_Prey_Cleavage.description>このキャラクターが胸の谷間を使って捕食される事をどれだけ好むかを示します.極端な話になると,常に谷間から呑まれようとし,その逆もあり得ます.</TypePreference_Prey_Cleavage.description>
+
+  <TypePreference_Prey_Membrane.label>被食者の好み (membrane:皮膚)</TypePreference_Prey_Membrane.label>
+  <TypePreference_Prey_Membrane.description>このキャラクターがスライムのような外皮を使って捕食される事をどれだけ好むかを示します.極端な話になると,常に皮膚から呑まれようとし,その逆もあり得ます.</TypePreference_Prey_Membrane.description>
+
+  <TypePreference_Prey_Navel.label>被食者の好み (navel:へそ)</TypePreference_Prey_Navel.label>
+  <TypePreference_Prey_Navel.description>このキャラクターがへそを使って捕食される事をどれだけ好むかを示します.極端な話になると,常にへそから呑まれようとし,その逆もあり得ます.</TypePreference_Prey_Navel.description>
+
+  <TypePreference_Prey_Tailmaw.label>被食者の好み (tailmaw:尾口)</TypePreference_Prey_Tailmaw.label>
+  <TypePreference_Prey_Tailmaw.description>このキャラクターが尾口を使って捕食される事をどれだけ好むかを示します.極端な話になると,常に尾口から呑まれようとし,その逆もあり得ます.</TypePreference_Prey_Tailmaw.description>
+
+  <TypePreference_Prey_Udder.label>被食者の好み (udder:乳房)</TypePreference_Prey_Udder.label>
+  <TypePreference_Prey_Udder.description>このキャラクターが乳房を使って捕食される事をどれだけ好むかを示します.極端な話になると,常に乳房から呑まれようとし,その逆もあり得ます.</TypePreference_Prey_Udder.description>
+
+
+</LanguageData>

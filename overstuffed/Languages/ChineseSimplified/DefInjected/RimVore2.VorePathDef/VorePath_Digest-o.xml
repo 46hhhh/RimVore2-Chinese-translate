@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 本文件包含所有消化路径。消化过程可为捕食者提供营养，并可选产生肥料物质。关于精液化、乳汁化等转化路径，请参见VorePath_Convert -->
+
+  <!-- 乳沟消化 -->
+  <CleavageDigest.label>(消化)乳沟</CleavageDigest.label>
+  <CleavageDigest.RMBLabel>乳沟吞噬(消化)</CleavageDigest.RMBLabel>
+  <CleavageDigest.actionDescription>{0}正试图通过乳沟消化{1}</CleavageDigest.actionDescription>
+  <CleavageDigest.description>捕食者通过乳沟将猎物送入胃袋，彻底消化至无法辨认原形，分解为营养与排泄物。</CleavageDigest.description>
+
+  <!-- 膜消化 -->
+  <MembraneDigest.label>(消化)皮下</MembraneDigest.label>
+  <MembraneDigest.RMBLabel>皮下吞噬(消化)</MembraneDigest.RMBLabel>
+  <MembraneDigest.actionDescription>{0}正试图通过皮肤吸收并消化{1}</MembraneDigest.actionDescription>
+  <MembraneDigest.description>捕食者通过皮肤将猎物纳入体内，彻底消化至无法辨认原形，分解为营养与排泄物。</MembraneDigest.description>
+
+  <!-- 脐部消化 -->
+  <NavelDigest.label>(消化)脐部</NavelDigest.label>
+  <NavelDigest.RMBLabel>脐部吞噬(消化)</NavelDigest.RMBLabel>
+  <NavelDigest.actionDescription>{0}正试图通过脐部消化{1}</NavelDigest.actionDescription>
+  <NavelDigest.description>捕食者通过脐部将猎物送入胃袋，彻底消化至无法辨认原形，分解为营养与排泄物。</NavelDigest.description>
+
+  <!-- 尾口消化 -->
+  <TailmawDigest.label>(消化)尾口</TailmawDigest.label>
+  <TailmawDigest.RMBLabel>尾口吞噬(消化)</TailmawDigest.RMBLabel>
+  <TailmawDigest.actionDescription>{0}正试图通过尾部开口消化{1}</TailmawDigest.actionDescription>
+  <TailmawDigest.description>捕食者通过尾部开口将猎物送入胃袋，彻底消化至无法辨认原形，分解为营养与排泄物。</TailmawDigest.description>
+
+</LanguageData>

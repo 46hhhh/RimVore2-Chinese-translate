@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- Vore Proposal Memories -->
+  <RV2_DeniedVoreProposal_Social.stages.0.label>请求被拒绝</RV2_DeniedVoreProposal_Social.stages.0.label>
+  <RV2_DeniedVoreProposalObsessed_Social.stages.0.label>请求被拒绝（多次）</RV2_DeniedVoreProposalObsessed_Social.stages.0.label>
+
+  <RV2_DeniedVoreProposal_Mood.stages.0.label>请求被拒绝</RV2_DeniedVoreProposal_Mood.stages.0.label>
+  <RV2_DeniedVoreProposal_Mood.stages.0.description>特意提出的请求却被拒绝了。</RV2_DeniedVoreProposal_Mood.stages.0.description>
+
+  <RV2_DeniedVoreProposalObsessed_Mood.stages.0.label>请求被拒绝（多次）</RV2_DeniedVoreProposalObsessed_Mood.stages.0.label>
+  <RV2_DeniedVoreProposalObsessed_Mood.stages.0.description>竟然没人理解我的癖好！稍微配合一下会怎样！</RV2_DeniedVoreProposalObsessed_Mood.stages.0.description>
+
+
+</LanguageData>

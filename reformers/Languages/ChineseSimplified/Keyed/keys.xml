@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RV2Reformer-ExistingRecord>存在Vore信息 (前身的残骸在捕食者体内)</RV2Reformer-ExistingRecord>
+  <RV2Reformer-OnStandBy>准备完成</RV2Reformer-OnStandBy>
+  <RV2Reformer-ReformingProgress>{0}再生中: {1}%</RV2Reformer-ReformingProgress>
+  <RV2Reformer-ReformingProgressWithQueue>{0}再生中: {1}%\n等待队列: {2}</RV2Reformer-ReformingProgressWithQueue>
+  <RV2Reformer-CacheUnlimited>缓存: 无限制</RV2Reformer-CacheUnlimited>
+  <RV2Reformer-CacheTotal>缓存: {0}/{1}</RV2Reformer-CacheTotal>
+  <RV2Reformer-DebugReformNow>开发者: 立即再生</RV2Reformer-DebugReformNow>
+  <RV2Reformer-ReformAbortedNotification>再生中断</RV2Reformer-ReformAbortedNotification>
+  <RV2Reformer-ReformPawnListAbortedText>{0} 的再生已中断。</RV2Reformer-ReformPawnListAbortedText>
+  <RV2Reformer-RessurectionException>复活时存在异常。</RV2Reformer-RessurectionException>
+  <RV2Reformer-UnexpectedReformFailed>错误？</RV2Reformer-UnexpectedReformFailed>
+  <RV2Reformer-UnexpectedNullPawn>数据不存在</RV2Reformer-UnexpectedNullPawn>
+  <RV2Reformer-ReformSuccess>{0} 已再生。</RV2Reformer-ReformSuccess>
+  <RV2Reformer-ReformNotification>已再生</RV2Reformer-ReformNotification>
+  <RV2Reformer-RequestFailMissingReformer>无可用再生装置</RV2Reformer-RequestFailMissingReformer>
+  <RV2Reformer-MissingReformer>{0} 的再生装置不存在。</RV2Reformer-MissingReformer>
+  <RV2Reformer-RequestFailNonPlayerFaction>{0} 的再生因非本派阀目标已中止。</RV2Reformer-RequestFailNonPlayerFaction>
+  <RV2Reformer-FailAlreadyReforming>{0} 已在再生中</RV2Reformer-FailAlreadyReforming>
+  <RV2Reformer-AutoReformingSuccess>{0} 已注册到自动再生缓冲区。</RV2Reformer-AutoReformingSuccess>
+  <RV2Reformer-ReformButton>再生</RV2Reformer-ReformButton>
+  <RV2Reformer-ReformInProgress>--再生中--</RV2Reformer-ReformInProgress>
+  <RV2Reformer-ReformInQueue>--等待中--</RV2Reformer-ReformInQueue>
+  <RV2Reformer-FullQueue>--队列已满--</RV2Reformer-FullQueue>
+  <RV2Reformer-Tab_ReformRequestSelect>再生系统</RV2Reformer-Tab_ReformRequestSelect>
+  <RV2Reformer-Tab_CacheView>存储系统</RV2Reformer-Tab_CacheView>
+  <RV2Reformer-ReformerAutoReforms>执行自动再生</RV2Reformer-ReformerAutoReforms>
+  <RV2Reformer-Delete>删除目标</RV2Reformer-Delete>
+  <RV2Reformer-Cancel>取消目标</RV2Reformer-Cancel>
+  <RV2Reformer-RequestFailMissingCachedRecord>存储系统中无记录，无法再生。</RV2Reformer-RequestFailMissingCachedRecord>
+  <RV2Reformer-UnnamedCachePolicy>未命名的缓存过滤器</RV2Reformer-UnnamedCachePolicy>
+  <RV2Reformer-NoDropdownOptions>无存储策略</RV2Reformer-NoDropdownOptions>
+  <RV2Reformer-AddCacheFilter>添加条件</RV2Reformer-AddCacheFilter>
+  <RV2Reformer-DeleteCacheFilter>删除条件</RV2Reformer-DeleteCacheFilter>
+  <RV2Reformer-FilterEditor>编辑</RV2Reformer-FilterEditor>
+  <RV2Reformer-NoSelectedOption>无</RV2Reformer-NoSelectedOption>
+  <RV2Reformer-ReformerPowerOff>断电</RV2Reformer-ReformerPowerOff>
+  <RV2Reformer-GenericUnableToAddToReformQueue>无法添加到队列</RV2Reformer-GenericUnableToAddToReformQueue>
+</LanguageData>

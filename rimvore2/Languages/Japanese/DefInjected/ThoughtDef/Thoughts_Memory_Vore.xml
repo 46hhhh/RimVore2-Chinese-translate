@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Oral Digestion -->
+
+  <RV2_PredatorOralDigestSuccess.stages.0.label>{0}を呑み込み消化した</RV2_PredatorOralDigestSuccess.stages.0.label>
+  <RV2_PredatorOralDigestSuccess.stages.0.description>{1}を食べ溶かした.美味しいご飯だった!</RV2_PredatorOralDigestSuccess.stages.0.description>
+
+  <RV2_PredatorOralDigestInterrupted.stages.0.label>丸呑みした{0}の消化を遮られた</RV2_PredatorOralDigestInterrupted.stages.0.label>
+  <RV2_PredatorOralDigestInterrupted.stages.0.description>{1}を食べたけど,消化する前に出て行った.次は誰を食べればいい?</RV2_PredatorOralDigestInterrupted.stages.0.description>
+
+  <RV2_PreyOralDigestInterrupted.stages.0.label>呑み込まれ脱出した</RV2_PreyOralDigestInterrupted.stages.0.label>
+  <RV2_PreyOralDigestInterrupted.stages.0.description>{1}は私を食べようとした!自分は食べ物じゃない!</RV2_PreyOralDigestInterrupted.stages.0.description>
+
+
+  <!-- Oral Pleasure -->
+
+  <RV2_PredatorOralPleasureSuccess.stages.0.label>{0}を揉み洗いした</RV2_PredatorOralPleasureSuccess.stages.0.label>
+  <RV2_PredatorOralPleasureSuccess.stages.0.description>{1}に胃袋でのリラックスを提供してあげた.とても満たされた気分だ!</RV2_PredatorOralPleasureSuccess.stages.0.description>
+
+  <RV2_PredatorOralPleasureInterrupted.stages.0.label>{0}の揉み洗いを遮られた</RV2_PredatorOralPleasureInterrupted.stages.0.label>
+  <RV2_PredatorOralPleasureInterrupted.stages.0.description>{1}に胃袋でのリラックスを提供しようとしたのに,出されてしまった.なんてことだ.</RV2_PredatorOralPleasureInterrupted.stages.0.description>
+
+  <RV2_PreyOralPleasureSuccess.stages.0.label>{0}に揉み洗いされた</RV2_PreyOralPleasureSuccess.stages.0.label>
+  <RV2_PreyOralPleasureSuccess.stages.0.description>{1}が胃袋でのリラックスを提供してくれた.どこまでも楽しく,気持ちよかった!</RV2_PreyOralPleasureSuccess.stages.0.description>
+
+  <RV2_PreyOralPleasureInterrupted.stages.0.label>{0}による揉み洗いを遮られた</RV2_PreyOralPleasureInterrupted.stages.0.label>
+  <RV2_PreyOralPleasureInterrupted.stages.0.description>{1}の胃袋でのリラックスを楽しもうとしていたのに,出されてしまった.なんてことだ.</RV2_PreyOralPleasureInterrupted.stages.0.description>
+
+
+  <!-- oral storage -->
+
+  <RV2_PredatorOralStoreEnd.stages.0.label>{0}を胃袋倉庫から出した</RV2_PredatorOralStoreEnd.stages.0.label>
+  <RV2_PredatorOralStoreEnd.stages.0.description>とても身軽な気分だ!</RV2_PredatorOralStoreEnd.stages.0.description>
+
+  <RV2_PreyOralStoreEnd.stages.0.label>{0}の胃袋倉庫から出た</RV2_PreyOralStoreEnd.stages.0.label>
+  <RV2_PreyOralStoreEnd.stages.0.description>快適なのに,まだ伸ばせるスペースがありそうだった.</RV2_PreyOralStoreEnd.stages.0.description>
+
+
+  <!-- oral healing -->
+
+  <RV2_PredatorOralHealSuccess.stages.0.label>{0}を胃袋で癒した</RV2_PredatorOralHealSuccess.stages.0.label>
+  <RV2_PredatorOralHealSuccess.stages.0.description>新品同様だ!</RV2_PredatorOralHealSuccess.stages.0.description>
+
+  <RV2_PreyOralHealSuccess.stages.0.label>{0}の胃袋で治療された</RV2_PreyOralHealSuccess.stages.0.label>
+  <RV2_PreyOralHealSuccess.stages.0.description>温泉に浸かってた気分だ.</RV2_PreyOralHealSuccess.stages.0.description>
+
+  <!-- Full tour storage -->
+
+  <RV2_PredatorFullTourStoreEnd.stages.0.label>{0}を胃袋倉庫からツアーで出した</RV2_PredatorFullTourStoreEnd.stages.0.label>
+  <RV2_PredatorFullTourStoreEnd.stages.0.description>とても身軽な気分だ!</RV2_PredatorFullTourStoreEnd.stages.0.description>
+
+  <RV2_PreyFullTourStoreEnd.stages.0.label>{0}の胃袋倉庫からツアーで出た</RV2_PreyFullTourStoreEnd.stages.0.label>
+  <RV2_PreyFullTourStoreEnd.stages.0.description>快適なのに,まだ伸ばせるスペースがありそうだった.</RV2_PreyFullTourStoreEnd.stages.0.description>
+
+
+  <!-- Full tour pleasure -->
+
+  <RV2_PredatorFullTourPleasureSuccess.stages.0.label>{0}をフルツアーした</RV2_PredatorFullTourPleasureSuccess.stages.0.label>
+  <RV2_PredatorFullTourPleasureSuccess.stages.0.description>{1}に体内ツアーを提供してあげた.少し中が綺麗になった気もする!</RV2_PredatorFullTourPleasureSuccess.stages.0.description>
+
+  <RV2_PredatorFullTourPleasureInterrupted.stages.0.label>{0}のフルツアーを遮られた</RV2_PredatorFullTourPleasureInterrupted.stages.0.label>
+  <RV2_PredatorFullTourPleasureInterrupted.stages.0.description>{1}に体内ツアーを提供しようとしたのに,出されてしまった.なんてことだ.</RV2_PredatorFullTourPleasureInterrupted.stages.0.description>
+
+  <RV2_PreyFullTourPleasureSuccess.stages.0.label>{0}にフルツアーされた</RV2_PreyFullTourPleasureSuccess.stages.0.label>
+  <RV2_PreyFullTourPleasureSuccess.stages.0.description>{1}が体内ツアーを楽しませてくれた.どこまでも楽しく,気持ちよかった!</RV2_PreyFullTourPleasureSuccess.stages.0.description>
+
+  <RV2_PreyFullTourPleasureInterrupted.stages.0.label>{0}によるフルツアーを遮られた</RV2_PreyFullTourPleasureInterrupted.stages.0.label>
+  <RV2_PreyFullTourPleasureInterrupted.stages.0.description>{1}の体内ツアーを楽しもうとしていたのに,出されてしまった.なんてことだ.</RV2_PreyFullTourPleasureInterrupted.stages.0.description>
+
+
+  <!-- Full tour healing -->
+
+  <RV2_PredatorFullTourHealSuccess.stages.0.label>{0}を体内で癒した</RV2_PredatorFullTourHealSuccess.stages.0.label>
+  <RV2_PredatorFullTourHealSuccess.stages.0.description>新品同様だ!</RV2_PredatorFullTourHealSuccess.stages.0.description>
+
+  <RV2_PreyFullTourHealSuccess.stages.0.label>{0}の体内で治療された</RV2_PreyFullTourHealSuccess.stages.0.label>
+  <RV2_PreyFullTourHealSuccess.stages.0.description>温泉に浸かってた気分だ.</RV2_PreyFullTourHealSuccess.stages.0.description>
+
+
+  <!-- anal digestion -->
+
+  <RV2_PredatorAnalDigestSuccess.stages.0.label>{0}を尻から呑み消化した</RV2_PredatorAnalDigestSuccess.stages.0.label>
+  <RV2_PredatorAnalDigestSuccess.stages.0.description>{1}はお尻の下で消えた...もう見つからないな.</RV2_PredatorAnalDigestSuccess.stages.0.description>
+
+  <RV2_PredatorAnalDigestInterrupted.stages.0.label>尻から食べた{0}の消化を遮られた</RV2_PredatorAnalDigestInterrupted.stages.0.label>
+  <RV2_PredatorAnalDigestInterrupted.stages.0.description>{1}を尻で食べようとしたけど,脱出してしまった.次は誰を尻に収めればいい?</RV2_PredatorAnalDigestInterrupted.stages.0.description>
+
+  <RV2_PreyAnalDigestInterrupted.stages.0.label>尻から呑まれ脱出した</RV2_PreyAnalDigestInterrupted.stages.0.label>
+  <RV2_PreyAnalDigestInterrupted.stages.0.description>{1}は私を尻肉の糧にしようとした.自分はお尻の餌なんかじゃない!</RV2_PreyAnalDigestInterrupted.stages.0.description>
+
+
+  <!-- anal pleasure -->
+
+  <RV2_PredatorAnalPleasureSuccess.stages.0.label>ディルドとして{0}を尻に収めた</RV2_PredatorAnalPleasureSuccess.stages.0.label>
+  <RV2_PredatorAnalPleasureSuccess.stages.0.description>{1}はお尻の中に潜り込んできた...ようやく出てきたな.</RV2_PredatorAnalPleasureSuccess.stages.0.description>
+
+  <RV2_PredatorAnalPleasureInterrupted.stages.0.label>尻に収めた{0}のディルド扱いを遮られた</RV2_PredatorAnalPleasureInterrupted.stages.0.label>
+  <RV2_PredatorAnalPleasureInterrupted.stages.0.description>{1}を尻に詰め込もうとしたけど,出されてしまった.なんてことだ.</RV2_PredatorAnalPleasureInterrupted.stages.0.description>
+
+  <RV2_PreyAnalPleasureSuccess.stages.0.label>ディルドとして{0}の尻に押し込まれた</RV2_PreyAnalPleasureSuccess.stages.0.label>
+  <RV2_PreyAnalPleasureSuccess.stages.0.description>{1}は私を腹の奥深くに押し込んだ.洞窟探検の気分だ!</RV2_PreyAnalPleasureSuccess.stages.0.description>
+
+  <RV2_PreyAnalPleasureInterrupted.stages.0.label>尻に押し込まれ{0}のディルド扱いを遮られた</RV2_PreyAnalPleasureInterrupted.stages.0.label>
+  <RV2_PreyAnalPleasureInterrupted.stages.0.description>{1}は私を尻に詰め込もうとしたけど,出されてしまった.なんてことだ.</RV2_PreyAnalPleasureInterrupted.stages.0.description>
+
+
+  <!-- anal storage -->
+
+  <RV2_PredatorAnalStoreEnd.stages.0.label>{0}を腸内倉庫から出した</RV2_PredatorAnalStoreEnd.stages.0.label>
+  <RV2_PredatorAnalStoreEnd.stages.0.description>とても身軽な気分だ!</RV2_PredatorAnalStoreEnd.stages.0.description>
+
+  <RV2_PreyAnalStoreEnd.stages.0.label>{0}の腸内倉庫から出た</RV2_PreyAnalStoreEnd.stages.0.label>
+  <RV2_PreyAnalStoreEnd.stages.0.description>快適なのに,まだ伸ばせるスペースがありそうだった.</RV2_PreyAnalStoreEnd.stages.0.description>
+
+
+  <!-- Vaginal Conversion -->
+
+  <RV2_PredatorVaginalConvertLubeSuccess.stages.0.label>{0}を胎内で愛液化した</RV2_PredatorVaginalConvertLubeSuccess.stages.0.label>
+  <RV2_PredatorVaginalConvertLubeSuccess.stages.0.description>{1}を胎内回帰させて,愛液に溶かした.その一生は誰かの子宮(たぶん)に始まり,私の子宮で終わった.</RV2_PredatorVaginalConvertLubeSuccess.stages.0.description>
+
+  <RV2_PredatorVaginalConvertLubeInterrupted.stages.0.label>胎内の{0}の愛液化を遮られた</RV2_PredatorVaginalConvertLubeInterrupted.stages.0.label>
+  <RV2_PredatorVaginalConvertLubeInterrupted.stages.0.description>{1}を胎内で愛液にしようとしたけど,脱出してしまった.イく機会が...</RV2_PredatorVaginalConvertLubeInterrupted.stages.0.description>
+
+  <RV2_PreyVaginalConvertLubeInterrupted.stages.0.label>{0}の胎内の愛液化から逃れた</RV2_PreyVaginalConvertLubeInterrupted.stages.0.label>
+  <RV2_PreyVaginalConvertLubeInterrupted.stages.0.description>{1}は私を胎内で愛液にしようとした!自分は使い捨ての玩具じゃない!</RV2_PreyVaginalConvertLubeInterrupted.stages.0.description>
+
+
+  <!-- Vaginal reformation -->
+
+  <RV2_PredatorVaginalReformSuccess.stages.0.label>{0}を産み直した</RV2_PredatorVaginalReformSuccess.stages.0.label>
+  <RV2_PredatorVaginalReformSuccess.stages.0.description>自分の遺伝子でたっぷり塗られてるね.</RV2_PredatorVaginalReformSuccess.stages.0.description>
+
+  <RV2_PredatorVaginalReformInterrupted.stages.0.label>{0}の産み直しを遮られた</RV2_PredatorVaginalReformInterrupted.stages.0.label>
+  <RV2_PredatorVaginalReformInterrupted.stages.0.description>なんてことだ.</RV2_PredatorVaginalReformInterrupted.stages.0.description>
+
+  <RV2_PreyVaginalReformSuccess.stages.0.label>{0}に生まれ変わらされた</RV2_PreyVaginalReformSuccess.stages.0.label>
+  <RV2_PreyVaginalReformSuccess.stages.0.description>私ハ... ワタシ ハ誰ダ?</RV2_PreyVaginalReformSuccess.stages.0.description>
+
+  <RV2_PreyVaginalReformInterrupted.stages.0.label>{0}の産み直しから逃れた</RV2_PreyVaginalReformInterrupted.stages.0.label>
+  <RV2_PreyVaginalReformInterrupted.stages.0.description>自分を失う所だった...</RV2_PreyVaginalReformInterrupted.stages.0.description>
+
+
+  <!-- Vaginal pleasure -->
+
+  <RV2_PredatorVaginalPleasureSuccess.stages.0.label>玩具として{0}を胎内に収めた</RV2_PredatorVaginalPleasureSuccess.stages.0.label>
+  <RV2_PredatorVaginalPleasureSuccess.stages.0.description>{1}でイけてしまった...思い出すだけでゾクゾクする!</RV2_PredatorVaginalPleasureSuccess.stages.0.description>
+
+  <RV2_PredatorVaginalPleasureInterrupted.stages.0.label>胎内に収めた{0}の玩具扱いを遮られた</RV2_PredatorVaginalPleasureInterrupted.stages.0.label>
+  <RV2_PredatorVaginalPleasureInterrupted.stages.0.description>{1}でオナニーしようとしたけど,出されてしまった.ほんの少しでも一緒にいたかったのに.</RV2_PredatorVaginalPleasureInterrupted.stages.0.description>
+
+  <RV2_PreyVaginalPleasureSuccess.stages.0.label>玩具として{0}の胎内に取り込まれた</RV2_PreyVaginalPleasureSuccess.stages.0.label>
+  <RV2_PreyVaginalPleasureSuccess.stages.0.description>{1}は私を生ディルドにしようとしてきた!少しぼんやりするけど,それ以上に暑かった!</RV2_PreyVaginalPleasureSuccess.stages.0.description>
+
+  <RV2_PreyVaginalPleasureInterrupted.stages.0.label>胎内に収められ{0}の玩具扱いを遮られた</RV2_PreyVaginalPleasureInterrupted.stages.0.label>
+  <RV2_PreyVaginalPleasureInterrupted.stages.0.description>{1}は私を生ディルドにしようとしたけど,出されてしまった.こっちだって楽しんでいたのに.</RV2_PreyVaginalPleasureInterrupted.stages.0.description>
+
+
+  <!-- Vaginal storage -->
+
+  <RV2_PredatorVaginalStoreEnd.stages.0.label>{0}を胎内倉庫から出した</RV2_PredatorVaginalStoreEnd.stages.0.label>
+  <RV2_PredatorVaginalStoreEnd.stages.0.description>腰が抜けるかと思った!</RV2_PredatorVaginalStoreEnd.stages.0.description>
+
+  <RV2_PreyVaginalStoreEnd.stages.0.label>{0}の胎内倉庫から出た</RV2_PreyVaginalStoreEnd.stages.0.label>
+  <RV2_PreyVaginalStoreEnd.stages.0.description>快適なのに,まだ伸ばせるスペースがありそうだった.</RV2_PreyVaginalStoreEnd.stages.0.description>
+
+
+  <!-- Nipple heal -->
+
+  <RV2_PredatorVaginalHealSuccess.stages.0.label>胎内で{0}を癒した</RV2_PredatorVaginalHealSuccess.stages.0.label>
+  <RV2_PredatorVaginalHealSuccess.stages.0.description>新品同様だ!</RV2_PredatorVaginalHealSuccess.stages.0.description>
+
+  <RV2_PreyVaginalHealSuccess.stages.0.label>{0}の胎内で治療された</RV2_PreyVaginalHealSuccess.stages.0.label>
+  <RV2_PreyVaginalHealSuccess.stages.0.description>温泉に浸かってた気分だ.</RV2_PreyVaginalHealSuccess.stages.0.description>
+
+
+  <!-- cock conversion -->
+
+  <RV2_PredatorCockConvertSpermSuccess.stages.0.label>{0}を精液化した</RV2_PredatorCockConvertSpermSuccess.stages.0.label>
+  <RV2_PredatorCockConvertSpermSuccess.stages.0.description>{1}を竿に収めて精液にしてやった.生き物だったものが,また生きるものの素材に...</RV2_PredatorCockConvertSpermSuccess.stages.0.description>
+
+  <RV2_PredatorCockConvertSpermInterrupted.stages.0.label>{0}の精液化を遮られた</RV2_PredatorCockConvertSpermInterrupted.stages.0.label>
+  <RV2_PredatorCockConvertSpermInterrupted.stages.0.description>{1}を玉の中でバターにしようとしたのに,脱出してしまった,イく機会が...</RV2_PredatorCockConvertSpermInterrupted.stages.0.description>
+
+  <RV2_PreyCockConvertSpermInterrupted.stages.0.label>{0}の精液化から逃れた</RV2_PreyCockConvertSpermInterrupted.stages.0.label>
+  <RV2_PreyCockConvertSpermInterrupted.stages.0.description>{1}は私を精液にしようとした!自分は使い捨ての玩具じゃない!</RV2_PreyCockConvertSpermInterrupted.stages.0.description>
+
+
+  <!-- cock pleasure -->
+
+  <RV2_PredatorCockPleasureSuccess.stages.0.label>玩具として{0}を玉袋に収めた</RV2_PredatorCockPleasureSuccess.stages.0.label>
+  <RV2_PredatorCockPleasureSuccess.stages.0.description>{1}を尿道棒みたいにして遊んでしまった...ようやく引き抜けた.</RV2_PredatorCockPleasureSuccess.stages.0.description>
+
+  <RV2_PredatorCockPleasureInterrupted.stages.0.label>玉袋に収めた{0}の玩具扱いを遮られた</RV2_PredatorCockPleasureInterrupted.stages.0.label>
+  <RV2_PredatorCockPleasureInterrupted.stages.0.description>{1}を尿道棒みたいにしようとしたけど,出されてしまった.ほんの少しでも一緒にいたかったのに.</RV2_PredatorCockPleasureInterrupted.stages.0.description>
+
+  <RV2_PreyCockPleasureSuccess.stages.0.label>玩具として{0}の玉袋に取り込まれた</RV2_PreyCockPleasureSuccess.stages.0.label>
+  <RV2_PreyCockPleasureSuccess.stages.0.description>{1}は私を尿道棒にしようとしてきた!少しぼんやりするけど,それ以上に暑かった!</RV2_PreyCockPleasureSuccess.stages.0.description>
+
+  <RV2_PreyCockPleasureInterrupted.stages.0.label>玉袋に収められ{0}からの玩具扱いを遮られた</RV2_PreyCockPleasureInterrupted.stages.0.label>
+  <RV2_PreyCockPleasureInterrupted.stages.0.description>{1}は私を尿道棒にしようとしたけど,出されてしまった.こっちだって楽しんでいたのに.</RV2_PreyCockPleasureInterrupted.stages.0.description>
+
+
+  <!-- cock storage -->
+
+  <RV2_PredatorCockStoreEnd.stages.0.label>{0}を玉袋倉庫から出した</RV2_PredatorCockStoreEnd.stages.0.label>
+  <RV2_PredatorCockStoreEnd.stages.0.description>肩の荷というか,玉の荷が下りた.</RV2_PredatorCockStoreEnd.stages.0.description>
+
+  <RV2_PreyCockStoreEnd.stages.0.label>{0}の玉袋倉庫から出た</RV2_PreyCockStoreEnd.stages.0.label>
+  <RV2_PreyCockStoreEnd.stages.0.description>快適なのに,まだ伸ばせるスペースがありそうだった.</RV2_PreyCockStoreEnd.stages.0.description>
+
+
+  <!-- cock heal -->
+
+  <RV2_PredatorCockHealSuccess.stages.0.label>玉袋で{0}を癒した</RV2_PredatorCockHealSuccess.stages.0.label>
+  <RV2_PredatorCockHealSuccess.stages.0.description>新品同様だ!</RV2_PredatorCockHealSuccess.stages.0.description>
+
+  <RV2_PreyCockHealSuccess.stages.0.label>{0}の玉袋で治療された</RV2_PreyCockHealSuccess.stages.0.label>
+  <RV2_PreyCockHealSuccess.stages.0.description>温泉に浸かってた気分だ.</RV2_PreyCockHealSuccess.stages.0.description>
+
+
+  <!-- Nipple Conversion -->
+
+  <RV2_PredatorNippleConvertMilkSuccess.stages.0.label>{0}をミルク化した</RV2_PredatorNippleConvertMilkSuccess.stages.0.label>
+  <RV2_PredatorNippleConvertMilkSuccess.stages.0.description>{1}を胸に収めてミルクにした.上手にできました!</RV2_PredatorNippleConvertMilkSuccess.stages.0.description>
+
+  <RV2_PredatorNippleConvertMilkInterrupted.stages.0.label>{0}のミルク化を遮られた</RV2_PredatorNippleConvertMilkInterrupted.stages.0.label>
+  <RV2_PredatorNippleConvertMilkInterrupted.stages.0.description>{1}を胸でミルクにしようとしたけど,逃げられてしまった.乳首が寂しい...</RV2_PredatorNippleConvertMilkInterrupted.stages.0.description>
+
+  <RV2_PreyNippleConvertMilkInterrupted.stages.0.label>{0}のミルク化から逃れた</RV2_PreyNippleConvertMilkInterrupted.stages.0.label>
+  <RV2_PreyNippleConvertMilkInterrupted.stages.0.description>{1}は私をミルクにしようとした!自分はカルシウム源なんかじゃない!</RV2_PreyNippleConvertMilkInterrupted.stages.0.description>
+
+
+  <!-- Nipple pleasure -->
+
+  <RV2_PredatorNipplePleasureSuccess.stages.0.label>玩具として{0}を胸に収めた</RV2_PredatorNipplePleasureSuccess.stages.0.label>
+  <RV2_PredatorNipplePleasureSuccess.stages.0.description>{1}は中からも外からもマッサージしてくれる!次は友達とか,もう一人呼ぶべきだった...~</RV2_PredatorNipplePleasureSuccess.stages.0.description>
+
+  <RV2_PredatorNipplePleasureInterrupted.stages.0.label>胸に収めた{0}の玩具扱いを遮られた</RV2_PredatorNipplePleasureInterrupted.stages.0.label>
+  <RV2_PredatorNipplePleasureInterrupted.stages.0.description>{1}にミルク風呂を提供しようとしたけど,出されてしまった.ほんの少しでも一緒にいたかったのに.</RV2_PredatorNipplePleasureInterrupted.stages.0.description>
+
+  <RV2_PreyNipplePleasureSuccess.stages.0.label>玩具として{0}の胸に取り込まれた</RV2_PreyNipplePleasureSuccess.stages.0.label>
+  <RV2_PreyNipplePleasureSuccess.stages.0.description>{1}は暖かいミルク風呂を提供してくれた.他ならない源泉で,とてもリフレッシュできた!</RV2_PreyNipplePleasureSuccess.stages.0.description>
+
+  <RV2_PreyNipplePleasureInterrupted.stages.0.label>胸に収められ{0}からの玩具扱いを遮られた</RV2_PreyNipplePleasureInterrupted.stages.0.label>
+  <RV2_PreyNipplePleasureInterrupted.stages.0.description>{1}は私にミルク風呂を提供しようとしたけど,出されてしまった.スパで整えたい気分だったのに...</RV2_PreyNipplePleasureInterrupted.stages.0.description>
+
+
+  <!-- Nipple store -->
+
+  <RV2_PredatorNippleStoreEnd.stages.0.label>{0}を胸乳倉庫から出した</RV2_PredatorNippleStoreEnd.stages.0.label>
+  <RV2_PredatorNippleStoreEnd.stages.0.description>脊髄はまだまだ負けてない!</RV2_PredatorNippleStoreEnd.stages.0.description>
+
+  <RV2_PreyNippleStoreEnd.stages.0.label>{0}の胸乳倉庫から出た</RV2_PreyNippleStoreEnd.stages.0.label>
+  <RV2_PreyNippleStoreEnd.stages.0.description>快適なのに,まだ伸ばせるスペースがありそうだった.</RV2_PreyNippleStoreEnd.stages.0.description>
+
+
+  <!-- Nipple heal -->
+
+  <RV2_PredatorNippleHealSuccess.stages.0.label>胸乳で{0}を癒した</RV2_PredatorNippleHealSuccess.stages.0.label>
+  <RV2_PredatorNippleHealSuccess.stages.0.description>新品同様だ!</RV2_PredatorNippleHealSuccess.stages.0.description>
+
+  <RV2_PreyNippleHealSuccess.stages.0.label>{0}の胸乳で治療された</RV2_PreyNippleHealSuccess.stages.0.label>
+  <RV2_PreyNippleHealSuccess.stages.0.description>温泉に浸かってた気分だ.</RV2_PreyNippleHealSuccess.stages.0.description>
+
+
+</LanguageData>

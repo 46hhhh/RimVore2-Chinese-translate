@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 阴道重构 -->
+  <VaginalReform.label>(重构)阴道</VaginalReform.label>
+  <VaginalReform.RMBLabel>阴道吞噬(重构)</VaginalReform.RMBLabel>
+  <VaginalReform.actionDescription>{PREDATOR}正试图将{PREY}纳入子宫进行重构</VaginalReform.actionDescription>
+  <VaginalReform.description>通过捕食者向猎物注入基因物质，将其重构为兼具双方特性的新个体。</VaginalReform.description>
+
+</LanguageData>

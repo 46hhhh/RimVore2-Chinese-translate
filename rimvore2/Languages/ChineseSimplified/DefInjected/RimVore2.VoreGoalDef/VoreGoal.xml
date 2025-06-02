@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!-- VoreGoal.xml -->
+<LanguageData>
+
+  <!-- 致命目标 -->
+  <Digest.label>消化</Digest.label>
+  <ConvertLube.label>爱液化</ConvertLube.label>
+  <ConvertMilk.label>乳汁化</ConvertMilk.label>
+  <ConvertSperm.label>精液化</ConvertSperm.label>
+  <Reform.label>重构</Reform.label>
+  <!-- 非致命目标 -->
+
+  <Heal.label>治愈</Heal.label>
+  <Hold.label>临时保管</Hold.label>
+  <Pleasure.label>快感</Pleasure.label>
+  <Store.label>长期储存</Store.label>
+
+</LanguageData>

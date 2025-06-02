@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Goal Enablers -->
+
+  <Enablers_Core_Goal_ConvertLube.label>膣を湿らす潤滑液</Enablers_Core_Goal_ConvertLube.label>
+  <Enablers_Core_Goal_ConvertLube.description>[PAWN_label]は生きた獲物を[PAWN_possessive]膣に収めることで,獲物を愛液の水たまりに作り替えることができます.</Enablers_Core_Goal_ConvertLube.description>
+
+  <Enablers_Core_Goal_ConvertMilk.label>乳を満たす分泌液</Enablers_Core_Goal_ConvertMilk.label>
+  <Enablers_Core_Goal_ConvertMilk.description>[PAWN_label]は生きた獲物を[PAWN_possessive]胸に収めることで,獲物を器一杯のミルクに作り替えることができます.</Enablers_Core_Goal_ConvertMilk.description>
+
+  <Enablers_Core_Goal_ConvertSperm.label>玉を満たす白濁液</Enablers_Core_Goal_ConvertSperm.label>
+  <Enablers_Core_Goal_ConvertSperm.description>[PAWN_label]は生きた獲物を[PAWN_possessive]玉に収めることで,獲物をコンドームパンパンの精液に作り替えることができます.</Enablers_Core_Goal_ConvertSperm.description>
+
+  <Enablers_Core_Goal_Digest.label>腹をうねる消化液</Enablers_Core_Goal_Digest.label>
+  <Enablers_Core_Goal_Digest.description>[PAWN_label]は生きた獲物を,食物として十分に消化することができます.</Enablers_Core_Goal_Digest.description>
+
+  <Enablers_Core_Goal_Heal.label>獲物を癒す再生液</Enablers_Core_Goal_Heal.label>
+  <Enablers_Core_Goal_Heal.description>[PAWN_label]の体内は,医療ベッドの代わりに患者を癒すための再生液,衛生と快適性をもつ肉壁を兼ね備えています.</Enablers_Core_Goal_Heal.description>
+
+  <Enablers_Core_Goal_Reform.label>獲物を作り替える潤滑液</Enablers_Core_Goal_Reform.label>
+  <Enablers_Core_Goal_Reform.description>[PAWN_label]は生きた獲物を,自分の思うままに作り替えることができます.</Enablers_Core_Goal_Reform.description>
+
+  <Enablers_Core_Goal_Tempendo.label>安全かつ快適な体</Enablers_Core_Goal_Tempendo.label>
+  <Enablers_Core_Goal_Tempendo.description>[PAWN_label]の体内は快適性と安全性が確保されていて,娯楽や性的快楽に使う事にも適しています.</Enablers_Core_Goal_Tempendo.description>
+
+  <Enablers_Core_Goal_Longendo.label>獲物を閉じ込める肉牢</Enablers_Core_Goal_Longendo.label>
+  <Enablers_Core_Goal_Longendo.description>[PAWN_label]の体内は強靭かつ非常に安定していて,獲物を出すことなくいつまでも閉じ込めることができます.</Enablers_Core_Goal_Longendo.description>
+
+
+  <!-- Type Enablers -->
+
+  <Enablers_Core_Type_Oral.label>柔らかい口</Enablers_Core_Type_Oral.label>
+  <Enablers_Core_Type_Oral.description>[PAWN_label]は強靭かつ柔軟な喉を持ち,生きた獲物を丸呑みすることができます.</Enablers_Core_Type_Oral.description>
+
+  <Enablers_Core_Type_Anal.label>柔らかい尻</Enablers_Core_Type_Anal.label>
+  <Enablers_Core_Type_Anal.description>[PAWN_label]は柔軟な肛門と強靭な腸を持ち,生きた獲物を尻から丸呑みすることができます.</Enablers_Core_Type_Anal.description>
+
+  <Enablers_Core_Type_Vaginal.label>柔らかい膣</Enablers_Core_Type_Vaginal.label>
+  <Enablers_Core_Type_Vaginal.description>[PAWN_label]は柔軟な子宮とその入り口を持ち,生きた獲物を膣から丸呑みすることができます.</Enablers_Core_Type_Vaginal.description>
+
+  <Enablers_Core_Type_Cock.label>柔らかい竿</Enablers_Core_Type_Cock.label>
+  <Enablers_Core_Type_Cock.description>[PAWN_label]は柔軟な尿道と精嚢を持ち,生きた獲物を竿から丸吞みすることができます.</Enablers_Core_Type_Cock.description>
+
+  <Enablers_Core_Type_Nipple.label>柔らかい乳首</Enablers_Core_Type_Nipple.label>
+  <Enablers_Core_Type_Nipple.description>[PAWN_label]は柔軟な乳首と乳房を持ち,生きた獲物を乳首から丸呑みすることが出来ます.</Enablers_Core_Type_Nipple.description>
+
+
+</LanguageData>

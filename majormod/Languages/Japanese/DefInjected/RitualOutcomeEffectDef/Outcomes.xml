@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_ConsumptionOutcome.description>儀式の質に応じて参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</RV2_ConsumptionOutcome.description>
+  <RV2_ConsumptionOutcome.outcomeChances.0.label>うんざりする</RV2_ConsumptionOutcome.outcomeChances.0.label>
+  <RV2_ConsumptionOutcome.outcomeChances.0.description>{0}の出来はひどいものでした! スピーチはたどたどしく内容もひどかった上に,捕食も碌な動きをしませんでした.捕食者が獲物を呑み込む様は非常にゆっくりで,誰もがその終わりを呆然と待っていました.</RV2_ConsumptionOutcome.outcomeChances.0.description>
+  <RV2_ConsumptionOutcome.outcomeChances.1.label>退屈</RV2_ConsumptionOutcome.outcomeChances.1.label>
+  <RV2_ConsumptionOutcome.outcomeChances.1.description>{0}の出来は退屈なものでした.スピーチの内容は目新しさが無く,捕食も失敗が目立ちました.その一部始終に,威厳というものを感じることはできませんでした.</RV2_ConsumptionOutcome.outcomeChances.1.description>
+  <RV2_ConsumptionOutcome.outcomeChances.2.label>楽しい</RV2_ConsumptionOutcome.outcomeChances.2.label>
+  <RV2_ConsumptionOutcome.outcomeChances.2.description>{0}の出来は満足のいくものでした.スピーチも聞き応えがあり,捕食の時間もしっかりと威厳をもたらしていました.</RV2_ConsumptionOutcome.outcomeChances.2.description>
+  <RV2_ConsumptionOutcome.outcomeChances.3.label>忘れられない</RV2_ConsumptionOutcome.outcomeChances.3.label>
+  <RV2_ConsumptionOutcome.outcomeChances.3.description>{0}の出来は忘れられないものでした! スピーチは皆の感動を呼び,捕食の時の威厳ある覇気は,参加者を魅了しました!</RV2_ConsumptionOutcome.outcomeChances.3.description>
+  <RV2_ConsumptionOutcome.comps.0.label>参加者数</RV2_ConsumptionOutcome.comps.0.label>
+
+  <RV2_VoreBondingOutcome.description>儀式の質に応じて参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</RV2_VoreBondingOutcome.description>
+  <RV2_VoreBondingOutcome.outcomeChances.0.label>うんざりする</RV2_VoreBondingOutcome.outcomeChances.0.label>
+  <RV2_VoreBondingOutcome.outcomeChances.0.description>{0}の出来はひどいものでした! スピーチはたどたどしく内容もひどかった上に,捕食も碌な動きをしませんでした.捕食者が獲物を呑み込む様は非常にゆっくりで,誰もがその終わりを呆然と待っていました.</RV2_VoreBondingOutcome.outcomeChances.0.description>
+  <RV2_VoreBondingOutcome.outcomeChances.1.label>退屈</RV2_VoreBondingOutcome.outcomeChances.1.label>
+  <RV2_VoreBondingOutcome.outcomeChances.1.description>{0}の出来は退屈なものでした.スピーチの内容は目新しさが無く,捕食も失敗が目立ちました.その一部始終に,威厳というものを感じることはできませんでした.</RV2_VoreBondingOutcome.outcomeChances.1.description>
+  <RV2_VoreBondingOutcome.outcomeChances.2.label>楽しい</RV2_VoreBondingOutcome.outcomeChances.2.label>
+  <RV2_VoreBondingOutcome.outcomeChances.2.description>{0}の出来は満足のいくものでした.スピーチも聞き応えがあり,捕食の時間もしっかりと威厳をもたらしていました.</RV2_VoreBondingOutcome.outcomeChances.2.description>
+  <RV2_VoreBondingOutcome.outcomeChances.3.label>忘れられない</RV2_VoreBondingOutcome.outcomeChances.3.label>
+  <RV2_VoreBondingOutcome.outcomeChances.3.description>{0}の出来は忘れられないものでした! スピーチは皆の感動を呼び,捕食の時の威厳ある覇気は,参加者を魅了しました!</RV2_VoreBondingOutcome.outcomeChances.3.description>
+  <RV2_VoreBondingOutcome.comps.0.label>参加者数</RV2_VoreBondingOutcome.comps.0.label>
+
+  <RV2_VoreFeastOutcome.description>儀式の質に応じて参加者は{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</RV2_VoreFeastOutcome.description>
+  <RV2_VoreFeastOutcome.outcomeChances.0.label>うんざりする</RV2_VoreFeastOutcome.outcomeChances.0.label>
+  <RV2_VoreFeastOutcome.outcomeChances.0.description>{0}の出来はひどいものでした! スピーチはたどたどしく内容もひどかった上に,捕食も碌な動きをしませんでした.捕食者が獲物を呑み込む様は非常にゆっくりで,誰もがその終わりまで呆然と式を進めていました.</RV2_VoreFeastOutcome.outcomeChances.0.description>
+  <RV2_VoreFeastOutcome.outcomeChances.1.label>退屈</RV2_VoreFeastOutcome.outcomeChances.1.label>
+  <RV2_VoreFeastOutcome.outcomeChances.1.description>{0}の出来は退屈なものでした.スピーチの内容は目新しさが無く,捕食も失敗が目立ちました.その一部始終に,楽しさというものを感じる人は多くありませんでした.</RV2_VoreFeastOutcome.outcomeChances.1.description>
+  <RV2_VoreFeastOutcome.outcomeChances.2.label>楽しい</RV2_VoreFeastOutcome.outcomeChances.2.label>
+  <RV2_VoreFeastOutcome.outcomeChances.2.description>{0}の出来は満足のいくものでした.スピーチも聞き応えがあり,皆の捕食はしっかりと楽しみをもたらしていました.</RV2_VoreFeastOutcome.outcomeChances.2.description>
+  <RV2_VoreFeastOutcome.outcomeChances.3.label>忘れられない</RV2_VoreFeastOutcome.outcomeChances.3.label>
+  <RV2_VoreFeastOutcome.outcomeChances.3.description>{0}の出来は忘れられないものでした! スピーチは皆の感動を呼び,捕食の時の空気は,参加者の食欲と感情を満たしました!</RV2_VoreFeastOutcome.outcomeChances.3.description>
+  <RV2_VoreFeastOutcome.outcomeChances.4.label>うんざりする</RV2_VoreFeastOutcome.outcomeChances.4.label>
+  <RV2_VoreFeastOutcome.outcomeChances.4.description>{0}の出来はひどいものでした!</RV2_VoreFeastOutcome.outcomeChances.4.description>
+  <RV2_VoreFeastOutcome.outcomeChances.5.label>退屈</RV2_VoreFeastOutcome.outcomeChances.5.label>
+  <RV2_VoreFeastOutcome.outcomeChances.5.description>{0}の出来は退屈なものでした.</RV2_VoreFeastOutcome.outcomeChances.5.description>
+  <RV2_VoreFeastOutcome.outcomeChances.6.label>楽しい</RV2_VoreFeastOutcome.outcomeChances.6.label>
+  <RV2_VoreFeastOutcome.outcomeChances.6.description>{0}の出来は満足のいくものでした.</RV2_VoreFeastOutcome.outcomeChances.6.description>
+  <RV2_VoreFeastOutcome.outcomeChances.7.label>忘れられない</RV2_VoreFeastOutcome.outcomeChances.7.label>
+  <RV2_VoreFeastOutcome.outcomeChances.7.description>{0}の出来は忘れられないものでした!</RV2_VoreFeastOutcome.outcomeChances.7.description>
+  <RV2_VoreFeastOutcome.comps.0.label>参加者数</RV2_VoreFeastOutcome.comps.0.label>
+
+  <RV2_ConsumptionOutcome.extraPredictedOutcomeDescriptions.0>もし{0}が楽しい結果を得られた場合,参加者の一人が奮い立つ可能性があります.</RV2_ConsumptionOutcome.extraPredictedOutcomeDescriptions.0>
+  <RV2_VoreBondingOutcome.extraPredictedOutcomeDescriptions.0>もし{0}が楽しい結果を得られた場合,対象の信仰心が強くなる可能性があります.</RV2_VoreBondingOutcome.extraPredictedOutcomeDescriptions.0>
+  <RV2_VoreBondingOutcome.extraPredictedOutcomeDescriptions.1>同時に参加者の一人もなお奮い立つことがあります.</RV2_VoreBondingOutcome.extraPredictedOutcomeDescriptions.1>
+  <RV2_VoreFeastOutcome.extraPredictedOutcomeDescriptions.0>同時に参加者の一人が奮い立つ可能性があります.</RV2_VoreFeastOutcome.extraPredictedOutcomeDescriptions.0>
+
+
+</LanguageData>

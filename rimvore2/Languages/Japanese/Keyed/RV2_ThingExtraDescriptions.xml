@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Widget Descriptions -->
+  <RV2_ExtraDescription_VoreProductContainer_Label> ({NAME})</RV2_ExtraDescription_VoreProductContainer_Label>
+  <RV2_ExtraDescription_VoreProductContainer>この成れ果ては{NAME}のもので,年齢は{AGE}.{FACTION}の{PROFESSION}だった.</RV2_ExtraDescription_VoreProductContainer>
+  <RV2_ExtraDescription_VoreProductContainer_ProfessionFallback>メンバー</RV2_ExtraDescription_VoreProductContainer_ProfessionFallback>
+  
+</LanguageData>

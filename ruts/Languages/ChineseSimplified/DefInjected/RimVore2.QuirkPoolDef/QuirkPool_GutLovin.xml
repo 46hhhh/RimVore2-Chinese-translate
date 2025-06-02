@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- QuirkPool_GutLovin.xml 翻译 -->
+  <RV2R_Predator_GutLibido.label>捕食者性欲</RV2R_Predator_GutLibido.label>
+  <RV2R_Predator_GutLibido.description>表示该角色在吞噬感兴趣猎物时，会如何热衷于"隔着肉壁的亲密行为"。更热情的组合会提高互动频率并延长互动时间。</RV2R_Predator_GutLibido.description>
+
+  <RV2R_Prey_GutLibido.label>猎物性欲</RV2R_Prey_GutLibido.label>
+  <RV2R_Prey_GutLibido.description>表示该角色作为猎物时，会如何热衷于"隔着肉壁的亲密行为"。更热情的组合会提高互动频率并延长互动时间。虽然由捕食者发起，但实际互动由双方意愿共同决定。</RV2R_Prey_GutLibido.description>
+
+  
+</LanguageData>

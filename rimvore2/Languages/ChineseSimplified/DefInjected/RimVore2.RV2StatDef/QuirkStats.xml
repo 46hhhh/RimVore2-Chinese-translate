@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_DigestionStrength.label>消化强度</RV2_DigestionStrength.label>
+  <RV2_DigestionStrength.description>溶解猎物所需的时间速率。</RV2_DigestionStrength.description>
+
+  <RV2_DigestionResistance.label>消化抗性</RV2_DigestionResistance.label>
+  <RV2_DigestionResistance.description>作为猎物时抵抗被溶解的速度。</RV2_DigestionResistance.description>
+
+  <RV2_SwallowSpeed.label>吞咽/排出速度</RV2_SwallowSpeed.label>
+  <RV2_SwallowSpeed.description>将猎物纳入体内或排出时的速度。</RV2_SwallowSpeed.description>
+
+  <RV2_Persuasiveness.label>说服成功率</RV2_Persuasiveness.label>
+  <RV2_Persuasiveness.description>向对方提出吞噬请求的成功概率。</RV2_Persuasiveness.description>
+
+  <RV2_Capacity.label>吞噬最大容量</RV2_Capacity.label>
+  <RV2_Capacity.description>可吞噬物体的总体积上限。</RV2_Capacity.description>
+
+  <RV2_GrappleChance.label>擒抱概率</RV2_GrappleChance.label>
+  <RV2_GrappleChance.description>近战时尝试擒抱对方进行吞噬的触发几率。</RV2_GrappleChance.description>
+
+  <RV2_GrappleStrength_General.label>擒抱能力</RV2_GrappleStrength_General.label>
+  <RV2_GrappleStrength_General.description>进行擒抱时的基础优势数值。</RV2_GrappleStrength_General.description>
+
+  <RV2_GrappleStrength_Attacker.label>擒抱攻击力</RV2_GrappleStrength_Attacker.label>
+  <RV2_GrappleStrength_Attacker.description>擒抱时压制对手的优势数值。</RV2_GrappleStrength_Attacker.description>
+
+  <RV2_GrappleStrength_Defender.label>擒抱防御力</RV2_GrappleStrength_Defender.label>
+  <RV2_GrappleStrength_Defender.description>抵抗对方擒抱时的优势数值。</RV2_GrappleStrength_Defender.description>
+
+</LanguageData>

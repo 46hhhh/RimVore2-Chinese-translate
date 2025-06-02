@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SwallowSpeed.label>吞噬速度</SwallowSpeed.label>
+  <SwallowSpeed.description>表示该角色将猎物完全吞入体内的速度（即从地图上消失并成为捕食者健康状态的时间）。不影响将猎物推入胃部等动作的进度速度。</SwallowSpeed.description>
+
+
+</LanguageData>

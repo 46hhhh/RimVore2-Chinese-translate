@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MH: really kinda wanna figure out a way to make this dependent on either the cannibal trait or the dietary prefs for humanoid pawns. problem is, the pawnkind that the prey was is not tracked in the final product -->
+
+  <ProductPreference_Loves.label>命の味がvore脳に染みる</ProductPreference_Loves.label>
+  <ProductPreference_Loves.description>[PAWN_label]は捕食者が丹精込めてとろかした,獲物の成れ果ての味が大好きです.</ProductPreference_Loves.description>
+
+  <ProductPreference_Likes.label>命の味への嗜好</ProductPreference_Likes.label>
+  <ProductPreference_Likes.description>[PAWN_label]は捕食者特製の美味しい成れ果てを,好んで摂ることができます.</ProductPreference_Likes.description>
+
+  <ProductPreference_Neutral.label>成れ果て,あるいは食物</ProductPreference_Neutral.label>
+  <ProductPreference_Neutral.description>[PAWN_label]は獲物の成れ果てを摂ることに抵抗も関心もありません.</ProductPreference_Neutral.description>
+
+  <ProductPreference_Dislikes.label>成れ果てを摂る事への嫌悪感</ProductPreference_Dislikes.label>
+  <ProductPreference_Dislikes.description>[PAWN_label]は獲物の成れ果てを摂るより獲物そのものを食べたいという程度に,成れ果てを摂る事を嫌います.</ProductPreference_Dislikes.description>
+
+  <ProductPreference_Hates.label>耐えがたい成れ果てのおぞましさ</ProductPreference_Hates.label>
+  <ProductPreference_Hates.description>[PAWN_label]は捕食者がこなして作ったその成れ果てに,そこはかとない不信感と拒絶感を持っています.[PAWN_possessive]舌は,そのような錬金術を味わえるほど勇敢ではありません.</ProductPreference_Hates.description>
+
+
+</LanguageData>

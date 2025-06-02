@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MH: pretend it makes sense that you can pick up and move a puddle. they, uh, store it perfectly in their mouths and spit it out -->
+
+  <RV2_Container_PissPuddle.label>尿の水たまり</RV2_Container_PissPuddle.label>
+  <RV2_Container_PissPuddle.description>匂いの強い小便溜まりで,溶け残りがその上に浮いている可能性があります.</RV2_Container_PissPuddle.description>
+
+
+</LanguageData>

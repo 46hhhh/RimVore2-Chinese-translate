@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Brutality.label>强硬程度</Brutality.label>
+  <Brutality.description>表示该角色在提议被拒绝后，强行通过战斗执行吞食行为的概率。</Brutality.description>
+
+
+</LanguageData>

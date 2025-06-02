@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_Propose.label>捕食行为</RV2_Propose.label>
+  <RV2_Propose.description>执行与捕食相关的事务</RV2_Propose.description>
+  <RV2_Propose.labelShort>捕食</RV2_Propose.labelShort>
+  <RV2_Propose.pawnLabel>捕食者</RV2_Propose.pawnLabel>
+  <RV2_Propose.gerundLabel>捕食中</RV2_Propose.gerundLabel>
+  <RV2_Propose.verb>捕食</RV2_Propose.verb>
+
+</LanguageData>

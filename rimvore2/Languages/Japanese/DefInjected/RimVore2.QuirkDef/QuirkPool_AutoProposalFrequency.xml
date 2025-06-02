@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ProposalFrequency_None.label>voreに興味なし</ProposalFrequency_None.label>
+  <ProposalFrequency_None.description>[PAWN_label]は,自発的に周りを食べたいと言い出したり,そういった提案をしようとするほどvoreに関心がありません.もし他の誰かから提案された場合に,嫌がるという訳ではありませんが.</ProposalFrequency_None.description>
+
+  <ProposalFrequency_Low.label>考えはする程度</ProposalFrequency_Low.label>
+  <ProposalFrequency_Low.description>[PAWN_label]は,他の仲間ほどに積極的にvoreを求めようとはしません.</ProposalFrequency_Low.description>
+
+  <ProposalFrequency_Normal.label>ふとその気になるかも</ProposalFrequency_Normal.label>
+  <ProposalFrequency_Normal.description>[PAWN_label]は,他の仲間と同じようにvoreを求めようとします.</ProposalFrequency_Normal.description>
+
+  <ProposalFrequency_High.label>頻繁に妄想しちゃう</ProposalFrequency_High.label>
+  <ProposalFrequency_High.description>[PAWN_label]は,他の仲間よりも頻繁にvoreを求めようとします.</ProposalFrequency_High.description>
+
+  <ProposalFrequency_VeryHigh.label>はぁ...vore...</ProposalFrequency_VeryHigh.label>
+  <ProposalFrequency_VeryHigh.description>[PAWN_label]は,捕食者あるいは被食者としての感覚に飢えていて,かなりの頻度でvoreを提案しようとします.</ProposalFrequency_VeryHigh.description>
+
+
+</LanguageData>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Cheats.label>作弊特性</Cheats.label>
+    <Cheats.category>通用</Cheats.category>
+    <Cheats.description>这些特性可以有但不宜过多...影响游戏平衡的特性默认生成概率为零。您可以在设置中调整生成概率，或在开发者模式下为特定角色启用。</Cheats.description>
+    
+    <!-- 技术上属于移动类特性 -->
+
+    <Cheat_Hammerspace.label>异次元空间</Cheat_Hammerspace.label>
+    <Cheat_Hammerspace.description>[PAWN_label]的身体能将猎物压缩，表现得若无其事。除非[PAWN_possessive]体内已满载或空无一物，否则根本无法判断[PAWN_pronoun]究竟容纳了多少猎物。</Cheat_Hammerspace.description>
+
+    <!-- 技术上属于营养吸收类特性 -->
+
+    <Cheat_HyperEfficient.label>超效处理器</Cheat_HyperEfficient.label>
+    <Cheat_HyperEfficient.description>[PAWN_label]的消化系统效率是常人的十倍。</Cheat_HyperEfficient.description>
+
+    <!-- 技术上属于不可捕食类特性 -->
+
+    <Cheat_Inedible.label>不可食用</Cheat_Inedible.label>
+    <Cheat_Inedible.description>无论自愿与否，[PAWN_label]都受到系统保护而无法被吞噬。</Cheat_Inedible.description>
+
+    <Cheat_NeverPredator.label>永不捕食</Cheat_NeverPredator.label>
+    <Cheat_NeverPredator.description>[PAWN_label]永远不会成为捕食者。</Cheat_NeverPredator.description>
+
+    <Cheat_NeverEndoPrey.label>非活体储存目标</Cheat_NeverEndoPrey.label>
+    <Cheat_NeverEndoPrey.description>[PAWN_label]永远不会被选为非致命性捕食的对象。</Cheat_NeverEndoPrey.description>
+
+    <Cheat_NeverFatalPrey.label>非消化目标</Cheat_NeverFatalPrey.label>
+    <Cheat_NeverFatalPrey.description>[PAWN_label]永远不会被选为致命性捕食的对象。</Cheat_NeverFatalPrey.description>
+
+    <Cheat_Inescapable.label>无法逃脱</Cheat_Inescapable.label>
+    <Cheat_Inescapable.description>[PAWN_label]的钢铁之躯绝不会释放猎物。除非捕食者自愿或通过手术，否则猎物永无脱身之日。</Cheat_Inescapable.description>
+
+    <!-- 技术上属于消化抗性类特性 -->
+
+    <Cheat_Indigestible.label>不可消化</Cheat_Indigestible.label>
+    <Cheat_Indigestible.description>[PAWN_label]对胃液具有完全抗性。虽然仍会受物理伤害，但永远不会被消化系统分解。</Cheat_Indigestible.description>
+
+    <!-- 技术上属于容量类特性 -->
+
+    <Cheat_InfiniteCapacity.label>无限容量</Cheat_InfiniteCapacity.label>
+    <Cheat_InfiniteCapacity.description>[PAWN_label]的胃袋如同无底洞，无论摄入多少猎物都不会产生饱腹感。</Cheat_InfiniteCapacity.description>
+
+    <!-- 技术上属于消化强度类特性 -->
+
+    <Cheat_InstantDigestion.label>瞬间消化</Cheat_InstantDigestion.label>
+    <Cheat_InstantDigestion.description>一旦[PAWN_label]开始消化，30秒内就能完全分解猎物。</Cheat_InstantDigestion.description>
+
+    <!-- 技术上属于吞咽速度类特性 -->
+
+    <Cheat_InstantSwallow.label>瞬间吞咽</Cheat_InstantSwallow.label>
+    <Cheat_InstantSwallow.description>[PAWN_label]吞咽猎物的速度如同呼吸般自然迅捷。</Cheat_InstantSwallow.description>
+
+</LanguageData>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- prey mental breaks -->
+
+  <RV2_GurgleSeeker.label>消化されたい</RV2_GurgleSeeker.label>
+  <RV2_GurgleSeeker.recoveryMessage>{0}の消化されたい強烈な欲求は揺らぎ,気分は落ち着きました.</RV2_GurgleSeeker.recoveryMessage>
+  <RV2_GurgleSeeker.beginLetterLabel>消化されたい</RV2_GurgleSeeker.beginLetterLabel>
+  <RV2_GurgleSeeker.beginLetter>{0}は全てを諦め {1}の中に入ろうとしています!</RV2_GurgleSeeker.beginLetter>
+  <RV2_GurgleSeeker.baseInspectLine>精神状態: 消化されたい</RV2_GurgleSeeker.baseInspectLine>
+
+  <RV2_HideInPredator.label>体内籠り</RV2_HideInPredator.label>
+  <RV2_HideInPredator.recoveryMessage>{0}は{1}の中で十分に落ち着き,体内に籠ろうという考えは収まりました.</RV2_HideInPredator.recoveryMessage>
+  <RV2_HideInPredator.beginLetterLabel>体内籠り</RV2_HideInPredator.beginLetterLabel>
+  <RV2_HideInPredator.beginLetter>{0}はその身を{1}の中へと押し込もうとしています!</RV2_HideInPredator.beginLetter>
+  <RV2_HideInPredator.baseInspectLine>精神状態: 体内籠り</RV2_HideInPredator.baseInspectLine>
+
+
+  <!-- predator mental breaks (non-lethal, vore targets, then idle until recovery timer hit) -->
+
+  <RV2_PrisonerAbductor.label>体内誘拐</RV2_PrisonerAbductor.label>
+  <RV2_PrisonerAbductor.recoveryMessage>{0}が{1}を閉じ込める欲求に駆られる事は無くなりました.</RV2_PrisonerAbductor.recoveryMessage>
+  <RV2_PrisonerAbductor.beginLetterLabel>体内誘拐</RV2_PrisonerAbductor.beginLetterLabel>
+  <RV2_PrisonerAbductor.beginLetter>{0}は誰かを体内で支配したい欲求に駆られています! [PAWN_pronoun]は{1}を体内に閉じ込めると決め[PAWN_pronoun]が飽きるまで出そうとしないでしょう!</RV2_PrisonerAbductor.beginLetter>
+  <RV2_PrisonerAbductor.baseInspectLine>精神状態: 体内誘拐</RV2_PrisonerAbductor.baseInspectLine>
+
+  <RV2_PetThief.label>ペット泥棒</RV2_PetThief.label>
+  <RV2_PetThief.recoveryMessage>{0}が{1}を閉じ込める欲求に駆られる事は無くなりました.</RV2_PetThief.recoveryMessage>
+  <RV2_PetThief.beginLetterLabel>ペット泥棒</RV2_PetThief.beginLetterLabel>
+  <RV2_PetThief.beginLetter>{0}はペットを体内で支配したい欲求に駆られています! [PAWN_pronoun]は{1}を体内に閉じ込めると決め[PAWN_pronoun]が飽きるまで出そうとしないでしょう!</RV2_PetThief.beginLetter>
+  <RV2_PetThief.baseInspectLine>精神状態: ペット泥棒</RV2_PetThief.baseInspectLine>
+
+  <RV2_EndoAbductor.label>体内誘拐</RV2_EndoAbductor.label>
+  <RV2_EndoAbductor.recoveryMessage>{0}が{1}を閉じ込める欲求に駆られる事は無くなりました.</RV2_EndoAbductor.recoveryMessage>
+  <RV2_EndoAbductor.beginLetterLabel>体内誘拐</RV2_EndoAbductor.beginLetterLabel>
+  <RV2_EndoAbductor.beginLetter>{0}は誰かを体内で支配したい欲求に駆られています! [PAWN_pronoun]は{1}を体内に閉じ込めると決め[PAWN_pronoun]が飽きるまで出そうとしないでしょう!</RV2_EndoAbductor.beginLetter>
+  <RV2_EndoAbductor.baseInspectLine>精神状態: 体内誘拐</RV2_EndoAbductor.baseInspectLine>
+
+  <RV2_EndoSpree.label>独りの宴</RV2_EndoSpree.label>
+  <RV2_EndoSpree.recoveryMessage>{0}の安全なVoreへの欲求は収まりました</RV2_EndoSpree.recoveryMessage>
+  <RV2_EndoSpree.beginLetterLabel>独りの宴</RV2_EndoSpree.beginLetterLabel>
+  <RV2_EndoSpree.beginLetter>{0}は安全なVoreへの欲求に駆られ,制御不能になっています!</RV2_EndoSpree.beginLetter>
+  <RV2_EndoSpree.baseInspectLine>精神状態: 独りの宴</RV2_EndoSpree.baseInspectLine>
+
+  <RV2_LivestockSwallower.label>家畜食い</RV2_LivestockSwallower.label>
+  <RV2_LivestockSwallower.recoveryMessage>{0}はもう{1}を消化しようとしなくなりました.</RV2_LivestockSwallower.recoveryMessage>
+  <RV2_LivestockSwallower.beginLetterLabel>家畜食い</RV2_LivestockSwallower.beginLetterLabel>
+  <RV2_LivestockSwallower.beginLetter>{0}は{1}を消化液のもとにVoreしようとしています!</RV2_LivestockSwallower.beginLetter>
+  <RV2_LivestockSwallower.baseInspectLine>精神状態: 家畜食い</RV2_LivestockSwallower.baseInspectLine>
+
+
+  <!-- predator mental breaks (lethal, attack targets, then vore them. After prey death, recover from mental state) -->
+
+  <RV2_VoraciousHunt.label>刃なき狩り</RV2_VoraciousHunt.label>
+  <RV2_VoraciousHunt.recoveryMessage>{0}は{1}を綺麗に平らげ,猟奇的な欲求は収まりました.</RV2_VoraciousHunt.recoveryMessage>
+  <RV2_VoraciousHunt.beginLetterLabel>刃なき狩り</RV2_VoraciousHunt.beginLetterLabel>
+  <RV2_VoraciousHunt.beginLetter>{0}は{1}を狩ることにしました!</RV2_VoraciousHunt.beginLetter>
+  <RV2_VoraciousHunt.baseInspectLine>精神状態: 刃なき狩り</RV2_VoraciousHunt.baseInspectLine>
+
+  <RV2_Digesticutioner.label>消化執行人</RV2_Digesticutioner.label>
+  <RV2_Digesticutioner.recoveryMessage>消化音が{0}の目を覚まし,{1}の処刑は終わりました.</RV2_Digesticutioner.recoveryMessage>
+  <RV2_Digesticutioner.beginLetterLabel>消化執行人</RV2_Digesticutioner.beginLetterLabel>
+  <RV2_Digesticutioner.beginLetter>{0}は{1}を自らの糧にしようとしています!</RV2_Digesticutioner.beginLetter>
+  <RV2_Digesticutioner.baseInspectLine>精神状態: 消化執行人</RV2_Digesticutioner.baseInspectLine>
+
+  <RV2_ForbiddenFruit.label>禁断の果実</RV2_ForbiddenFruit.label>
+  <RV2_ForbiddenFruit.recoveryMessage>神はこの愚行を忘れはしないでしょう.</RV2_ForbiddenFruit.recoveryMessage>
+  <RV2_ForbiddenFruit.beginLetterLabel>禁断の果実</RV2_ForbiddenFruit.beginLetterLabel>
+  <RV2_ForbiddenFruit.beginLetter>天から神の,破壊の慟哭が響く...</RV2_ForbiddenFruit.beginLetter>
+  <RV2_ForbiddenFruit.baseInspectLine>精神状態: 禁断の果実</RV2_ForbiddenFruit.baseInspectLine>
+
+  <RV2_VorederousRage.label>命食らう怒り</RV2_VorederousRage.label>
+  <RV2_VorederousRage.recoveryMessage>{0}の激情は冷め,怒りは収まりました.</RV2_VorederousRage.recoveryMessage>
+  <RV2_VorederousRage.beginLetterLabel>命食らう怒り</RV2_VorederousRage.beginLetterLabel>
+  <RV2_VorederousRage.beginLetter>{0}は{1}を消化しようとしています!</RV2_VorederousRage.beginLetter>
+  <RV2_VorederousRage.baseInspectLine>精神状態: 命食らう怒り</RV2_VorederousRage.baseInspectLine>
+
+  <RV2_Voreserk.label>消化の宴</RV2_Voreserk.label>
+  <RV2_Voreserk.recoveryMessage>{0}の危険なVoreへの欲求は収まりました.</RV2_Voreserk.recoveryMessage>
+  <RV2_Voreserk.beginLetterLabel>消化の宴</RV2_Voreserk.beginLetterLabel>
+  <RV2_Voreserk.beginLetter>{0}はVoreと溶けゆく獲物への危険な欲求に駆られ,制御不能になっています!</RV2_Voreserk.beginLetter>
+  <RV2_Voreserk.baseInspectLine>精神状態: 消化の宴</RV2_Voreserk.baseInspectLine>
+
+
+</LanguageData>

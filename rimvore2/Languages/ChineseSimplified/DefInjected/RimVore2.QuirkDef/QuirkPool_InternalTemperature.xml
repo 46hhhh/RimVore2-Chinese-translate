@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InternalTemperature_Hot.label>高温密室</InternalTemperature_Hot.label>
+  <InternalTemperature_Hot.description>[PAWN_label]的体内温度高得致命，[PAWN_possessive]体内的猎物随时面临中暑危险。</InternalTemperature_Hot.description>
+
+  <InternalTemperature_Warm.label>温暖肉囊</InternalTemperature_Warm.label>
+  <InternalTemperature_Warm.description>[PAWN_label]的体内比常温略高，长时间滞留会导致中暑。</InternalTemperature_Warm.description>
+
+  <InternalTemperature_Normal.label>正常体温</InternalTemperature_Normal.label>
+  <InternalTemperature_Normal.description>[PAWN_label]的体内温度与其他角色无异。</InternalTemperature_Normal.description>
+
+  <InternalTemperature_Cold.label>寒冷肉囊</InternalTemperature_Cold.label>
+  <InternalTemperature_Cold.description>[PAWN_label]的体内比常温略低，长时间滞留会导致冻伤。</InternalTemperature_Cold.description>
+
+  <InternalTemperature_Freezing.label>冰冷冷藏室</InternalTemperature_Freezing.label>
+  <InternalTemperature_Freezing.description>[PAWN_label]的体内温度低得致命，[PAWN_possessive]体内的猎物随时面临冻伤危险。</InternalTemperature_Freezing.description>
+
+</LanguageData>

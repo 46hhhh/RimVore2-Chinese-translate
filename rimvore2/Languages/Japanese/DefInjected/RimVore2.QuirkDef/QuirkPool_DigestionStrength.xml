@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DigestionStrength_Godlike.label>神聖な酸</DigestionStrength_Godlike.label>
+  <DigestionStrength_Godlike.description>古代技術やサイキックなど,身体強化のすべてが明かされている訳では未だありませんが,スランボすら瞬く間に溶かしてしまう[PAWN_label]の消化能力は,それらに近い芸当と評されています.</DigestionStrength_Godlike.description>
+
+  <DigestionStrength_VeryGood.label>強烈な酸</DigestionStrength_VeryGood.label>
+  <DigestionStrength_VeryGood.description>[PAWN_label]は一瞬の間に獲物をドロドロのスープに馴染ませる事が出来,他の4倍ほどの消化速度を持ちます.</DigestionStrength_VeryGood.description>
+
+  <DigestionStrength_Good.label>効率的な酸</DigestionStrength_Good.label>
+  <DigestionStrength_Good.description>[PAWN_label]はほとんどの捕食者の二倍の速さで消化することが出来ます.</DigestionStrength_Good.description>
+
+  <DigestionStrength_Normal.label>普通な酸</DigestionStrength_Normal.label>
+  <DigestionStrength_Normal.description>[PAWN_label]は捕食者として成り立つ程度の消化力を持ちます.</DigestionStrength_Normal.description>
+
+  <DigestionStrength_Bad.label>やわこい酸</DigestionStrength_Bad.label>
+  <DigestionStrength_Bad.description>[PAWN_label]は獲物を消化するのに他の2倍ほど時間をかけてしまいます.</DigestionStrength_Bad.description>
+
+  <DigestionStrength_VeryBad.label>水っぽい酸</DigestionStrength_VeryBad.label>
+  <DigestionStrength_VeryBad.description>[PAWN_label]は獲物を消化するのに,普通の4倍もの時間をかけてしまいます.獲物が溶けて死んだか,飢えて死んだか,退屈で死んだか.残された骨は何も応えません.</DigestionStrength_VeryBad.description>
+
+
+</LanguageData>

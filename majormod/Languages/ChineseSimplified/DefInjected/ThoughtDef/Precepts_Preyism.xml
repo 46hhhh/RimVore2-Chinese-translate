@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 厌恶态度 -->
+  <RV2_PreyInitiatedVore_Disliked.stages.0.label>成为吞噬对象</RV2_PreyInitiatedVore_Disliked.stages.0.label>
+  <RV2_PreyInitiatedVore_Disliked.stages.0.description>本不该这么做，教义不会接纳我的行为...</RV2_PreyInitiatedVore_Disliked.stages.0.description>
+
+  <RV2_PreyInitiatedVore_Know_Disliked.stages.0.label>可憎的祭品</RV2_PreyInitiatedVore_Know_Disliked.stages.0.label>
+
+  <!-- 极度厌恶态度 -->
+  <RV2_PreyInitiatedVore_Abhorrent.stages.0.label>被活体吞噬</RV2_PreyInitiatedVore_Abhorrent.stages.0.label>
+  <RV2_PreyInitiatedVore_Abhorrent.stages.0.description>竟被活体吞噬，违背教义的感觉令人毛骨悚然。</RV2_PreyInitiatedVore_Abhorrent.stages.0.description>
+
+  <RV2_PreyInitiatedVore_Know_Abhorrent.stages.0.label>有人成为了祭品!!</RV2_PreyInitiatedVore_Know_Abhorrent.stages.0.label>
+  <RV2_PreyInitiatedVore_Know_Abhorrent.stages.0.description>周围有人被活体吞噬，这是违反教义的可憎行为！</RV2_PreyInitiatedVore_Know_Abhorrent.stages.0.description>
+
+  <RV2_PreyInitiatedVore_Know_Social_Abhorrent.stages.0.label>渎神祭品</RV2_PreyInitiatedVore_Know_Social_Abhorrent.stages.0.label>
+
+  <!-- 喜爱态度 -->
+  <RV2_PreyInitiatedVore_Liked.stages.0.label>完成献祭</RV2_PreyInitiatedVore_Liked.stages.0.label>
+  <RV2_PreyInitiatedVore_Liked.stages.0.description>参与神圣仪式，心灵得到满足。</RV2_PreyInitiatedVore_Liked.stages.0.description>
+
+  <RV2_PreyInitiatedVore_Know_Liked.stages.0.label>光荣祭品</RV2_PreyInitiatedVore_Know_Liked.stages.0.label>
+
+  <!-- 必须执行态度 -->
+  <RV2_PreyInitiatedVore_Required.stages.0.label>履行祭品职责</RV2_PreyInitiatedVore_Required.stages.0.label>
+  <RV2_PreyInitiatedVore_Required.stages.0.description>通过成为他人腹中之物，我能更加坚定信仰。</RV2_PreyInitiatedVore_Required.stages.0.description>
+
+  <RV2_PreyInitiatedVore_Know_Required.stages.0.label>有人履行了祭品职责!</RV2_PreyInitiatedVore_Know_Required.stages.0.label>
+  <RV2_PreyInitiatedVore_Know_Required.stages.0.description>周围有人自愿成为祭品，场面何其壮观！</RV2_PreyInitiatedVore_Know_Required.stages.0.description>
+
+  <RV2_PreyInitiatedVore_Know_Social_Required.stages.0.label>神圣祭品</RV2_PreyInitiatedVore_Know_Social_Required.stages.0.label>
+
+  <RV2_NoRecentPreyInitiatedVore_Required.stages.0.label>渴望履行祭品职责</RV2_NoRecentPreyInitiatedVore_Required.stages.0.label>
+  <RV2_NoRecentPreyInitiatedVore_Required.stages.0.description>距离上次被吞噬献祭已经过去太久了。</RV2_NoRecentPreyInitiatedVore_Required.stages.0.description>
+
+</LanguageData>

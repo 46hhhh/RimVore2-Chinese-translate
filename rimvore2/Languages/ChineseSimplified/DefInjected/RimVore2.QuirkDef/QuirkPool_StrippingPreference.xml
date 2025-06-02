@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食者 -->
+
+  <StrippingPreference_Predator_MothTongue.label>着衣吞噬更有滋味</StrippingPreference_Predator_MothTongue.label>
+  <StrippingPreference_Predator_MothTongue.description>[PAWN_label]偏好布料胜过肌肤或毛皮的触感（不论[PAWN_pronoun]是否真的喜欢咀嚼布料），无论猎物穿着如何都会原样吞下。</StrippingPreference_Predator_MothTongue.description>
+
+  <StrippingPreference_Predator_None.label>触感无谓</StrippingPreference_Predator_None.label>
+  <StrippingPreference_Predator_None.description>[PAWN_label]不在乎猎物的触感是肌肤、布料还是金属。</StrippingPreference_Predator_None.description>
+
+  <StrippingPreference_Predator_SkinTaster.label>渴望肌肤相亲</StrippingPreference_Predator_SkinTaster.label>
+  <StrippingPreference_Predator_SkinTaster.description>[PAWN_label]钟爱猎物最原始的触感，只要有机会就会将[PAWN_possessive]猎物剥得精光。</StrippingPreference_Predator_SkinTaster.description>
+
+
+  <!-- 猎物 -->
+
+  <StrippingPreference_Prey_NeverNude.label>隔衣相贴</StrippingPreference_Prey_NeverNude.label>
+  <StrippingPreference_Prey_NeverNude.description>[PAWN_label]喜欢在[PAWN_objective]身体与[PAWN_possessive]肉壁之间保留一层薄布阻隔。</StrippingPreference_Prey_NeverNude.description>
+
+  <StrippingPreference_Prey_None.label>衣冠楚楚或赤身裸体皆可</StrippingPreference_Prey_None.label>
+  <StrippingPreference_Prey_None.description>[PAWN_label]对被剥光与否毫无偏好，因此不会有特别反应。</StrippingPreference_Prey_None.description>
+
+  <StrippingPreference_Prey_Nude.label>临吞一脱</StrippingPreference_Prey_Nude.label>
+  <StrippingPreference_Prey_Nude.description>[PAWN_label]厌恶让浸湿的衣物阻隔在[PAWN_objective]身体与[PAWN_possessive]肉壁之间。被捕食前主动脱衣，也省去了事后清洗的麻烦。</StrippingPreference_Prey_Nude.description>
+
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mobility_Godlike.label>神行太保</Mobility_Godlike.label>
+  <Mobility_Godlike.description>[PAWN_label]即使体内塞满成年猎物也能健步如飞。究竟是欺骗物理法则的肌肉，还是超凡的技巧使然，连[PAWN_pronoun]自己都无法解释。</Mobility_Godlike.description>
+
+  <Mobility_VeryGood.label>掠食者杂技</Mobility_VeryGood.label>
+  <Mobility_VeryGood.description>[PAWN_label]即便腹部鼓胀，仍能如若无物般轻盈移动。</Mobility_VeryGood.description>
+
+  <Mobility_Good.label>灵巧鼓腹</Mobility_Good.label>
+  <Mobility_Good.description>[PAWN_label]深谙在腹部膨胀时保持身体平衡的诀窍。</Mobility_Good.description>
+
+  <Mobility_Normal.label>功能性隆起</Mobility_Normal.label>
+  <Mobility_Normal.description>[PAWN_label]和其他人一样，会受猎物重量影响行动。</Mobility_Normal.description>
+
+  <Mobility_Bad.label>笨拙孕腹</Mobility_Bad.label>
+  <Mobility_Bad.description>[PAWN_label]不擅长带着体内猎物活动，当[PAWN_possessive]猎物挣扎时，很容易踉跄跌倒。</Mobility_Bad.description>
+
+  <Mobility_VeryBad.label>负重知足</Mobility_VeryBad.label>
+  <Mobility_VeryBad.description>[PAWN_label]无法带着体内猎物奔跑，光是支撑鼓胀的腹部就已竭尽全力。</Mobility_VeryBad.description>
+
+</LanguageData>

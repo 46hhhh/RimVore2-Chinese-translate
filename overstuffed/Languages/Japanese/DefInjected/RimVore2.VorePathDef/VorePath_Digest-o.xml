@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- This document contains all digestion paths. Digestion nourishes the pred and optionally produces a fertilizer material. For cumgestion, milkification, and so on, see VorePath_Convert -->
+
+  <CleavageDigest.label>(消化) 谷間</CleavageDigest.label>
+	<CleavageDigest.RMBLabel>Cleavage vore(谷間)</CleavageDigest.RMBLabel>
+	<CleavageDigest.actionDescription>{0}は {1}を谷間から食べ消化しようとしている</CleavageDigest.actionDescription>
+  <CleavageDigest.description>捕食者が獲物を谷間から呑み込んで胃袋に送り,原型を保てないほどに消化して命を奪い,栄養と成れ果てに分離させます.</CleavageDigest.description>
+
+
+  <!-- Membrane -->
+
+  <MembraneDigest.label>(消化) 皮膚の中</MembraneDigest.label>
+	<MembraneDigest.RMBLabel>Membrane vore(皮膚)</MembraneDigest.RMBLabel>
+	<MembraneDigest.actionDescription>{0}は {1}を皮膚から体内に取り込み消化しようとしている</MembraneDigest.actionDescription>
+  <MembraneDigest.description>捕食者が獲物を皮膚から取り込んで体内に収め,原型を保てないほどに消化して命を奪い,栄養と成れ果てに分離させます.</MembraneDigest.description>
+
+
+  <!-- Navel -->
+
+  <NavelDigest.label>(消化) へそ</NavelDigest.label>
+	<NavelDigest.RMBLabel>Navel vore(へそ)</NavelDigest.RMBLabel>
+	<NavelDigest.actionDescription>{0}は {1}を谷間から食べ消化しようとしている</NavelDigest.actionDescription>
+  <NavelDigest.description>捕食者が獲物をへそから呑み込んで胃袋に送り,原型を保てないほどに消化して命を奪い,栄養と成れ果てに分離させます.</NavelDigest.description>
+
+
+  <!-- Tailmaw -->
+
+  <TailmawDigest.label>(消化) 尾口</TailmawDigest.label>
+	<TailmawDigest.RMBLabel>Tailmaw vore(尾口)</TailmawDigest.RMBLabel>
+	<TailmawDigest.actionDescription>{0}は {1}を尾口から食べ消化しようとしている</TailmawDigest.actionDescription>
+  <TailmawDigest.description>捕食者が獲物を尾口から呑み込んで胃袋に送り,原型を保てないほどに消化して命を奪い,栄養と成れ果てに分離させます.</TailmawDigest.description>
+
+
+</LanguageData>

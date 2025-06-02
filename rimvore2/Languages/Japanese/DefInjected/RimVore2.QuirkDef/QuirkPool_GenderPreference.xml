@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<GenderPreference_Predator_FemaleOnly.label>独占的なメス喰い</GenderPreference_Predator_FemaleOnly.label>
+  <GenderPreference_Predator_FemaleOnly.description>[PAWN_label]の舌はメスの身体的特徴をいたく気に入っていて,オスには自分からは決して目を向けません.</GenderPreference_Predator_FemaleOnly.description>
+
+  <GenderPreference_Predator_FemalePreferred.label>ネコ好き</GenderPreference_Predator_FemalePreferred.label>
+  <GenderPreference_Predator_FemalePreferred.description>[PAWN_label]は例外はあれど,メスを被食者に選ぶことが多いです.</GenderPreference_Predator_FemalePreferred.description>
+
+  <GenderPreference_Predator_Neutral.label>性に無関心</GenderPreference_Predator_Neutral.label>
+  <GenderPreference_Predator_Neutral.description>被食者の性別の違いを,[PAWN_label]はほとんど考えたことはありません.獲物は獲物以外の何者でもなく,見た目や体の構造を引き合いに出す必要はないのです.</GenderPreference_Predator_Neutral.description>
+
+  <GenderPreference_Predator_MalePreferred.label>ネズミ好き</GenderPreference_Predator_MalePreferred.label>
+  <GenderPreference_Predator_MalePreferred.description>[PAWN_label]は例外はあれど,オスを被食者に選ぶことが多いです.</GenderPreference_Predator_MalePreferred.description>
+
+  <GenderPreference_Predator_MaleOnly.label>独占的なオス喰い</GenderPreference_Predator_MaleOnly.label>
+  <GenderPreference_Predator_MaleOnly.description>[PAWN_label]の舌はオスの身体的特徴をいたく気に入っていて,メスには自分からは決して目を向けません.</GenderPreference_Predator_MaleOnly.description>
+
+  <GenderPreference_Prey_FemaleOnly.label>絶対的なメス思考</GenderPreference_Prey_FemaleOnly.label>
+  <GenderPreference_Prey_FemaleOnly.description>[PAWN_label]はメスの体内をいたく気に入っていて,オスに身を差し出すことは決してありません.</GenderPreference_Prey_FemaleOnly.description>
+
+  <GenderPreference_Prey_FemalePreferred.label>雌豹好き</GenderPreference_Prey_FemalePreferred.label>
+  <GenderPreference_Prey_FemalePreferred.description>[PAWN_label]は例外はあれど,メスを捕食者に選ぶことが多いです.</GenderPreference_Prey_FemalePreferred.description>
+
+  <GenderPreference_Prey_Neutral.label>性に無関心</GenderPreference_Prey_Neutral.label>
+  <GenderPreference_Prey_Neutral.description>捕食者の性別の違いを,[PAWN_label]はほとんど考えたことはありません.ひとたび中に入ってしまえば,殆ど同じようなものです.</GenderPreference_Prey_Neutral.description>
+
+  <GenderPreference_Prey_MalePreferred.label>黒豹好き</GenderPreference_Prey_MalePreferred.label>
+  <GenderPreference_Prey_MalePreferred.description>[PAWN_label]は例外はあれど,オスを捕食者に選ぶことが多いです.</GenderPreference_Prey_MalePreferred.description>
+
+  <GenderPreference_Prey_MaleOnly.label>絶対的なオス思考</GenderPreference_Prey_MaleOnly.label>
+  <GenderPreference_Prey_MaleOnly.description>[PAWN_label]はオスの体内をいたく気に入っていて,メスに身を差し出すことは決してありません.</GenderPreference_Prey_MaleOnly.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- The system already supports grapple strength for attacker or defender sides with modifierName = 
+    "GrappleStrengthAttacker" and "GrappleStrengthDefender" 
+    but I don't know how I would implement these here and make em look good. Trait requirements already have their own special implementation, 
+    which was the only reason I would have had for att/def specific quirks -->
+
+  <GrappleStrength.label>ホカク能力</GrappleStrength.label>
+  <GrappleStrength.description>このキャラクターがvoreのための取っ組み合いをした時に,成功バーを有利に動かせるかどうかを示します.これは攻防どちらにも影響します.</GrappleStrength.description>
+
+
+</LanguageData>

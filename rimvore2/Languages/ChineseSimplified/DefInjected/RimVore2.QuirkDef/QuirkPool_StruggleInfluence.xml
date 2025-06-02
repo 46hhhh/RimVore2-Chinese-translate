@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 被捕食者特性 -->
+  <StruggleCapability_NoStruggleAsPrey.label>逆来顺受</StruggleCapability_NoStruggleAsPrey.label>
+  <StruggleCapability_NoStruggleAsPrey.description>[PAWN_label]全盘接受被吞噬的命运及其后续发展。[PAWN_pronoun]绝不会表现出任何反抗意志。</StruggleCapability_NoStruggleAsPrey.description>
+
+  <!-- 捕食者特性 -->
+  <StruggleCapability_NoStruggleAsPredator.label>麻痹胃液</StruggleCapability_NoStruggleAsPredator.label>
+  <StruggleCapability_NoStruggleAsPredator.description>[PAWN_label]能分泌具有麻痹效果的体液，被[PAWN_pronoun]吞噬的猎物将完全丧失反抗能力。</StruggleCapability_NoStruggleAsPredator.description>
+
+  <!-- 猎物挣扎强度 -->
+  <StruggleStrength_Prey_Good.label>要害专家</StruggleStrength_Prey_Good.label>
+  <StruggleStrength_Prey_Good.description>[PAWN_label]深谙从捕食者体内逃脱的要害知识。</StruggleStrength_Prey_Good.description>
+
+  <StruggleStrength_Prey_Normal.label>常规挣扎</StruggleStrength_Prey_Normal.label>
+  <StruggleStrength_Prey_Normal.description>[PAWN_label]表现出与普通猎物相当的反抗能力。</StruggleStrength_Prey_Normal.description>
+
+  <StruggleStrength_Prey_Bad.label>盲目挣扎</StruggleStrength_Prey_Bad.label>
+  <StruggleStrength_Prey_Bad.description>[PAWN_label]笨拙不堪，完全不懂逃脱技巧，只能在[PAWN_possessive]捕食者体内胡乱扭动。</StruggleStrength_Prey_Bad.description>
+
+  <!-- 捕食者抗挣扎强度 -->
+  <StruggleStrength_Predator_Good.label>钢铁胃囊</StruggleStrength_Predator_Good.label>
+  <StruggleStrength_Predator_Good.description>[PAWN_label]对恶心感和快感具有极强耐受力，鲜少向猎物屈服。当[PAWN_possessive]猎物试图逃脱时，需要耗费更长时间。</StruggleStrength_Predator_Good.description>
+
+  <StruggleStrength_Predator_Normal.label>常规抗性</StruggleStrength_Predator_Normal.label>
+  <StruggleStrength_Predator_Normal.description>[PAWN_label]对体内猎物的抵抗仅具备普通程度的耐受力。</StruggleStrength_Predator_Normal.description>
+
+  <StruggleStrength_Predator_Bad.label>松弛包容</StruggleStrength_Predator_Bad.label>
+  <StruggleStrength_Predator_Bad.description>[PAWN_label]对体内猎物的挣扎几乎毫无抵抗力，只能气喘吁吁地勉强压制。</StruggleStrength_Predator_Bad.description>
+
+</LanguageData>

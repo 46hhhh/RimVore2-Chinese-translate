@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MH: 无法进行endo（无论我们将其放在何处），都必须放在人类饮食偏好的EndoOnly变体上
+  我希望将来能用特定目标的无法性来替换这些。这些内容终将被淘汰。 -->
+
+  <Inability_PredEndoOnly.label>消化功能障碍</Inability_PredEndoOnly.label>
+  <Inability_PredEndoOnly.description>[PAWN_label]无法消化任何生物，至少无法消化活着的对象。无论[PAWN_pronoun]具备多么适合捕食的能力，也只能将猎物活体储存。要让[PAWN_pronoun]免于饥饿，唯一的方法就是提供普通食物。</Inability_PredEndoOnly.description>
+
+  <Inability_PredFatalOnly.label>致命胃袋</Inability_PredFatalOnly.label>
+  <Inability_PredFatalOnly.description>[PAWN_label]的体内不存在任何安全区域。无论通过何种入口，所有路径最终都通向消化系统的终结。</Inability_PredFatalOnly.description>
+
+</LanguageData>

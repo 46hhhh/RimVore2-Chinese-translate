@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_ReleaseSpotProduct.label>成れ果て用スポット</RV2_ReleaseSpotProduct.label>
+  <RV2_ReleaseSpotProduct.description>体内で十分にこなされた獲物を排出するための場所です.\n自動にのみ対応していて,命令で出させる場合には対応しません.</RV2_ReleaseSpotProduct.description>
+
+  <RV2_ReleaseSpotPawn.label>獲物用排出スポット</RV2_ReleaseSpotPawn.label>
+  <RV2_ReleaseSpotPawn.description>生きた獲物を排出するための場所です.\n自動にのみ対応していて,命令で出させる場合には対応しません.</RV2_ReleaseSpotPawn.description>
+
+
+</LanguageData>

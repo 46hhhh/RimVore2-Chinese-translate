@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_Grappled.label>压制状态</RV2_Grappled.label>
+  <RV2_Grappled.description>该角色被压制在地面上，需要一定时间才能重新站起。在此状态下，很容易被任何捕食者捕获！</RV2_Grappled.description>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>  
+
+  <RV2Interactions_Tab>互动</RV2Interactions_Tab> 
+  
+  <RV2Interaction_Settings_InteractionChance>互动概率</RV2Interaction_Settings_InteractionChance>  
+  <RV2Interaction_Settings_InteractionChanceTip>设置捕食者与被吞食者在每个"体内时钟"计数时进行对话等互动的概率。</RV2Interaction_Settings_InteractionChanceTip>
+  <RV2Interaction_Settings_MultiPreyModifier>多猎物修正系数</RV2Interaction_Settings_MultiPreyModifier>  
+  <RV2Interaction_Settings_MultiPreyModifier_Tip>互动概率会随猎物数量增加而降低。设为100%时，每增加一个猎物概率降低1.00，最终值将符合基础概率。\n\n捕食者可能同时与多个猎物对话。</RV2Interaction_Settings_MultiPreyModifier_Tip>
+  <RV2Interaction_Settings_OpinionModifier>关系修正系数</RV2Interaction_Settings_OpinionModifier>  
+  <RV2Interaction_Settings_OpinionModifierTip>设置捕食者与被吞食者关系对互动概率的影响程度。100%时，关系值为100则概率翻倍，-100则减半。</RV2Interaction_Settings_OpinionModifierTip>
+  <RV2Interaction_Settings_BaseOpinionMod>基础关系修正</RV2Interaction_Settings_BaseOpinionMod>  
+  <RV2Interaction_Settings_BaseOpinionMod_Tip>设置决定互动类型时，对双方相互评价的修正幅度。高评价会促成友好互动。不影响基础关系。</RV2Interaction_Settings_BaseOpinionMod_Tip>
+  <RV2Interaction_Settings_KindOpinionMod>善良特质加成</RV2Interaction_Settings_KindOpinionMod>  
+  <RV2Interaction_Settings_KindOpinionMod_Tip>当捕食者或被吞食者具有善良特质时，设置额外增加的评价值。</RV2Interaction_Settings_KindOpinionMod_Tip>
+  <RV2Interaction_Settings_SkillOpinionMod>技能加成</RV2Interaction_Settings_SkillOpinionMod>  
+  <RV2Interaction_Settings_SkillOpinionMod_Tip>设置捕食者与被吞食者的社交技能或动物技能对评价的加成幅度。设定值为技能20级时的效果。</RV2Interaction_Settings_SkillOpinionMod_Tip>
+  
+</LanguageData>

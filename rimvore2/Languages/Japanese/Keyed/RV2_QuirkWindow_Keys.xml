@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RV2_Category_None>未分類</RV2_Category_None>
+  <RV2_QuirkWindow_Header>Voreの傾向</RV2_QuirkWindow_Header>
+  <RV2_QuirkWindow_RerollButtonLabel>全て再抽選</RV2_QuirkWindow_RerollButtonLabel>
+  <RV2_QuirkWindow_RerollPool>プール内を再抽選</RV2_QuirkWindow_RerollPool>
+
+  <RV2_QuirkWindow_CycleQuirk>傾向を変更</RV2_QuirkWindow_CycleQuirk>
+  <RV2_QuirkWindow_RemoveQuirk>傾向を削除</RV2_QuirkWindow_RemoveQuirk>
+  <RV2_QuirkWindow_InvalidButton>この項目は無効です.原因は開発者モードの記述をしてください.\n\nこの傾向を削除するか,他の方法で競合を解決して下さい!</RV2_QuirkWindow_InvalidButton>
+  <RV2_QuirkWindow_HiddenButton>この項目は本来見えません.開発者モードがオンになっているため見れるようになっています.</RV2_QuirkWindow_HiddenButton>
+  <RV2_QuirkWindow_TemporaryButton>この項目は一時的なもので,いくつかの時点で無効化され,削除されるか他のものに置き換わります.</RV2_QuirkWindow_TemporaryButton>
+  <RV2_QuirkWindow_IdeologyButton>この項目はキャラクターの思想により設定されています.キャラが本来持たない傾向も強要することが可能です.</RV2_QuirkWindow_IdeologyButton>
+  <RV2_QuirkWindow_IdeologySuppressingQuirk>現在抑制している:</RV2_QuirkWindow_IdeologySuppressingQuirk>
+
+</LanguageData>

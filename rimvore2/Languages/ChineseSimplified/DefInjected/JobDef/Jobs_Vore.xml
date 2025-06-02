@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 吞噬相关的工作 -->
+
+  <RV2_VoreInitAsPredator.reportString>正在吞噬猎物</RV2_VoreInitAsPredator.reportString>
+  <RV2_VoreInitAsPrey.reportString>即将被吞噬</RV2_VoreInitAsPrey.reportString>
+  <RV2_VoreInitAsFeeder.reportString>正在喂食捕食者</RV2_VoreInitAsFeeder.reportString>
+
+
+  <!-- 中断吞噬的工作 -->
+
+  <RV2_EjectPreySelf.reportString>正在吐出猎物</RV2_EjectPreySelf.reportString>
+  <RV2_EjectPreyForce.reportString>正在强迫吐出猎物</RV2_EjectPreyForce.reportString>
+
+
+  <!-- 自动吞噬 -->
+
+  <RV2_HuntVorePrey.reportString>正在猎食猎物</RV2_HuntVorePrey.reportString>
+  <RV2_KidnapVorePrey.reportString>正在将猎物吞入体内</RV2_KidnapVorePrey.reportString>
+  <RV2_ProposeVore.reportString>正在提出吞噬请求</RV2_ProposeVore.reportString>
+  <RV2_ProposeVore_Feeder.reportString>正在提出喂食吞噬请求</RV2_ProposeVore_Feeder.reportString>
+
+
+  <!-- 释放 -->
+
+  <RV2_ReleasePrey.reportString>正在释放猎物</RV2_ReleasePrey.reportString>
+
+
+  <!-- 吞噬战斗 -->
+
+  <RV2_VoreGrapple.reportString>正在束缚目标</RV2_VoreGrapple.reportString>
+
+
+</LanguageData>

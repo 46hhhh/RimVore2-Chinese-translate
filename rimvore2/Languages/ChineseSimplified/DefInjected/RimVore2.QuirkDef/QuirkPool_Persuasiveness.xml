@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Persuasiveness_VeryGood.label>舌灿莲花</Persuasiveness_VeryGood.label>
+  <Persuasiveness_VeryGood.description>即便抛开社交能力不谈，[PAWN_label]的舌技也足以让人产生通往宝山的错觉。目标角色顺从[PAWN_possessive]意愿的概率将大幅提升。</Persuasiveness_VeryGood.description>
+
+  <Persuasiveness_Good.label>巧舌如簧</Persuasiveness_Good.label>
+  <Persuasiveness_Good.description>[PAWN_label]具备高超的劝说技巧，目标角色顺从[PAWN_possessive]意愿的概率会略有提高。</Persuasiveness_Good.description>
+
+  <Persuasiveness_Normal.label>平庸魅力</Persuasiveness_Normal.label>
+  <Persuasiveness_Normal.description>[PAWN_label]在吞噬相关事项上并不具备特别的说服力。</Persuasiveness_Normal.description>
+
+  <Persuasiveness_Bad.label>笨嘴拙舌</Persuasiveness_Bad.label>
+  <Persuasiveness_Bad.description>[PAWN_label]缺乏足够的说服技巧，目标角色顺从[PAWN_possessive]意愿的概率会略微降低。</Persuasiveness_Bad.description>
+
+  <Persuasiveness_VeryBad.label>人厌狗嫌</Persuasiveness_VeryBad.label>
+  <Persuasiveness_VeryBad.description>[PAWN_label]甚至能让狂暴的肉食者拒绝进食...[PAWN_pronoun]自己即将被吞噬时除外。目标角色顺从[PAWN_possessive]意愿的概率将显著降低。</Persuasiveness_VeryBad.description>
+
+</LanguageData>

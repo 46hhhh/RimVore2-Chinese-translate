@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RV2_RitualInvalidReasons_NoRoles>割り当てられていない</RV2_RitualInvalidReasons_NoRoles>
+  <RV2_RitualInvalidReasons_PredatorNotSet>捕食者がいない</RV2_RitualInvalidReasons_PredatorNotSet>
+  <RV2_RitualInvalidReasons_PreyNotSet>被食者がいない</RV2_RitualInvalidReasons_PreyNotSet>
+  <RV2_RitualInvalidReasons_NoPath>主役が必要なパスを持たない</RV2_RitualInvalidReasons_NoPath>
+
+</LanguageData>

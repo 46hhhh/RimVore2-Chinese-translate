@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MH: 这些特性的已知缺陷：它们以描述常规吞噬行为的方式编写，未考虑吸收场景。可惜！ -->
+
+  <TypePreference_Predator_Anal_Obsessed.label>贪婪的肛门使用者</TypePreference_Predator_Anal_Obsessed.label>
+  <TypePreference_Predator_Anal_Obsessed.description>[PAWN_label]尤其钟爱将[PAWN_possessive]猎物塞入肛门，胜过其他方式。[PAWN_objective]或许可称之为第二入口。</TypePreference_Predator_Anal_Obsessed.description>
+
+  <TypePreference_Predator_Anal_Likes.label>资深的肛门使用者</TypePreference_Predator_Anal_Likes.label>
+  <TypePreference_Predator_Anal_Likes.description>[PAWN_label]喜欢将[PAWN_possessive]猎物塞入肛门。请勿将"分析师"一词与此类人联想。</TypePreference_Predator_Anal_Likes.description>
+
+  <TypePreference_Predator_Anal_Neutral.label>冷漠的肛门使用者</TypePreference_Predator_Anal_Neutral.label>
+  <TypePreference_Predator_Anal_Neutral.description>[PAWN_label]对用肛门进食猎物没有特别感受。</TypePreference_Predator_Anal_Neutral.description>
+
+  <TypePreference_Predator_Anal_Dislikes.label>抗拒的肛门使用者</TypePreference_Predator_Anal_Dislikes.label>
+  <TypePreference_Predator_Anal_Dislikes.description>[PAWN_label]厌恶将[PAWN_possessive]猎物塞入肛门。肛门是出口而非入口。</TypePreference_Predator_Anal_Dislikes.description>
+
+  <TypePreference_Predator_Anal_Refuses.label>极端抗拒的肛门使用者</TypePreference_Predator_Anal_Refuses.label>
+  <TypePreference_Predator_Anal_Refuses.description>[PAWN_label]极度抗拒将[PAWN_possessive]猎物塞入肛门。或许是因疼痛，又或是生理性厌恶。</TypePreference_Predator_Anal_Refuses.description>
+
+  <TypePreference_Predator_Cock_Obsessed.label>贪婪的阴茎使用者</TypePreference_Predator_Cock_Obsessed.label>
+  <TypePreference_Predator_Cock_Obsessed.description>[PAWN_label]尤其钟爱将[PAWN_possessive]猎物塞入阴茎，胜过其他方式。这条贪婪的蛇已迫不及待想容纳谁了！</TypePreference_Predator_Cock_Obsessed.description>
+
+  <TypePreference_Predator_Cock_Likes.label>资深的阴茎使用者</TypePreference_Predator_Cock_Likes.label>
+  <TypePreference_Predator_Cock_Likes.description>[PAWN_label]喜欢将[PAWN_possessive]猎物塞入阴茎。</TypePreference_Predator_Cock_Likes.description>
+
+  <TypePreference_Predator_Cock_Neutral.label>冷漠的阴茎使用者</TypePreference_Predator_Cock_Neutral.label>
+  <TypePreference_Predator_Cock_Neutral.description>[PAWN_label]对用阴茎进食猎物没有特别感受。</TypePreference_Predator_Cock_Neutral.description>
+
+  <TypePreference_Predator_Cock_Dislikes.label>抗拒的阴茎使用者</TypePreference_Predator_Cock_Dislikes.label>
+  <TypePreference_Predator_Cock_Dislikes.description>[PAWN_label]厌恶将[PAWN_possessive]猎物塞入阴茎。为何要让猎物摩擦敏感部位？</TypePreference_Predator_Cock_Dislikes.description>
+
+  <TypePreference_Predator_Cock_Refuses.label>极端抗拒的阴茎使用者</TypePreference_Predator_Cock_Refuses.label>
+  <TypePreference_Predator_Cock_Refuses.description>[PAWN_label]极度抗拒将[PAWN_possessive]猎物塞入阴茎。仅需内部被利齿轻刮，就可能导致膀胱炎——这风险太大了。</TypePreference_Predator_Cock_Refuses.description>
+
+  <TypePreference_Predator_Nipple_Obsessed.label>贪婪的乳头使用者</TypePreference_Predator_Nipple_Obsessed.label>
+  <TypePreference_Predator_Nipple_Obsessed.description>[PAWN_label]尤其钟爱将[PAWN_possessive]猎物塞入乳头，胜过其他方式。这是最有效的丰胸手段！</TypePreference_Predator_Nipple_Obsessed.description>
+
+  <TypePreference_Predator_Nipple_Likes.label>资深的乳头使用者</TypePreference_Predator_Nipple_Likes.label>
+  <TypePreference_Predator_Nipple_Likes.description>[PAWN_label]喜欢将[PAWN_possessive]猎物塞入乳头。</TypePreference_Predator_Nipple_Likes.description>
+
+  <TypePreference_Predator_Nipple_Neutral.label>冷漠的乳头使用者</TypePreference_Predator_Nipple_Neutral.label>
+  <TypePreference_Predator_Nipple_Neutral.description>[PAWN_label]对用乳头进食猎物没有特别感受。</TypePreference_Predator_Nipple_Neutral.description>
+
+  <TypePreference_Predator_Nipple_Dislikes.label>抗拒的乳头使用者</TypePreference_Predator_Nipple_Dislikes.label>
+  <TypePreference_Predator_Nipple_Dislikes.description>[PAWN_label]厌恶将[PAWN_possessive]猎物塞入乳头。控制双侧乳房大小是极其麻烦的事。</TypePreference_Predator_Nipple_Dislikes.description>
+
+  <TypePreference_Predator_Nipple_Refuses.label>极端抗拒的乳头使用者</TypePreference_Predator_Nipple_Refuses.label>
+  <TypePreference_Predator_Nipple_Refuses.description>[PAWN_label]极度抗拒将[PAWN_possessive]猎物塞入乳头。高重心的隆起物堪称骨折的最佳导火索。</TypePreference_Predator_Nipple_Refuses.description>
+
+  <TypePreference_Predator_FullTour_Obsessed.label>贪婪的体内导游</TypePreference_Predator_FullTour_Obsessed.label>
+  <TypePreference_Predator_FullTour_Obsessed.description>[PAWN_label]尤其钟爱邀请[PAWN_possessive]猎物进行体内观光，胜过其他方式。让猎物巡游全身是无可替代的幸福！</TypePreference_Predator_FullTour_Obsessed.description>
+
+  <TypePreference_Predator_FullTour_Likes.label>资深的体内导游</TypePreference_Predator_FullTour_Likes.label>
+  <TypePreference_Predator_FullTour_Likes.description>[PAWN_label]喜欢邀请[PAWN_possessive]猎物进行体内观光。顺其自然也是生物乐趣。</TypePreference_Predator_FullTour_Likes.description>
+
+  <TypePreference_Predator_FullTour_Neutral.label>冷漠的体内导游</TypePreference_Predator_FullTour_Neutral.label>
+  <TypePreference_Predator_FullTour_Neutral.description>[PAWN_label]对邀请猎物体内观光没有特别感受。</TypePreference_Predator_FullTour_Neutral.description>
+
+  <TypePreference_Predator_FullTour_Dislikes.label>抗拒的体内导游</TypePreference_Predator_FullTour_Dislikes.label>
+  <TypePreference_Predator_FullTour_Dislikes.description>[PAWN_label]厌恶邀请[PAWN_possessive]猎物体内观光。想到有人长时间滞留体内深处就坐立不安。</TypePreference_Predator_FullTour_Dislikes.description>
+
+  <TypePreference_Predator_FullTour_Refuses.label>极端抗拒的体内导游</TypePreference_Predator_FullTour_Refuses.label>
+  <TypePreference_Predator_FullTour_Refuses.description>[PAWN_label]极度抗拒邀请[PAWN_possessive]猎物体内观光。长时间被猎物压迫肉体的感觉糟糕透顶。</TypePreference_Predator_FullTour_Refuses.description>
+
+  <TypePreference_Predator_Oral_Obsessed.label>贪婪的口腔使用者</TypePreference_Predator_Oral_Obsessed.label>
+  <TypePreference_Predator_Oral_Obsessed.description>[PAWN_label]尤其钟爱将[PAWN_possessive]猎物塞入胃部，胜过其他方式。只有口腔吞咽才能尝到味道！</TypePreference_Predator_Oral_Obsessed.description>
+
+  <TypePreference_Predator_Oral_Likes.label>资深的口腔使用者</TypePreference_Predator_Oral_Likes.label>
+  <TypePreference_Predator_Oral_Likes.description>[PAWN_label]喜欢将[PAWN_possessive]猎物塞入胃部。对[PAWN_pronoun]而言，这是原始而崇高的方式。</TypePreference_Predator_Oral_Likes.description>
+
+  <TypePreference_Predator_Oral_Neutral.label>冷漠的口腔使用者</TypePreference_Predator_Oral_Neutral.label>
+  <TypePreference_Predator_Oral_Neutral.description>[PAWN_label]对用口腔进食猎物没有特别感受。</TypePreference_Predator_Oral_Neutral.description>
+
+  <TypePreference_Predator_Oral_Dislikes.label>抗拒的口腔使用者</TypePreference_Predator_Oral_Dislikes.label>
+  <TypePreference_Predator_Oral_Dislikes.description>[PAWN_label]厌恶将[PAWN_possessive]猎物塞入胃部。太过普通而乏味。</TypePreference_Predator_Oral_Dislikes.description>
+
+  <TypePreference_Predator_Oral_Refuses.label>极端抗拒的口腔使用者</TypePreference_Predator_Oral_Refuses.label>
+  <TypePreference_Predator_Oral_Refuses.description>[PAWN_label]极度抗拒将[PAWN_possessive]猎物塞入胃部。猎物虽多美味，但吞咽是场危险的豪赌。</TypePreference_Predator_Oral_Refuses.description>
+
+  <TypePreference_Predator_Vaginal_Obsessed.label>贪婪的阴道使用者</TypePreference_Predator_Vaginal_Obsessed.label>
+  <TypePreference_Predator_Vaginal_Obsessed.description>[PAWN_label]尤其钟爱将[PAWN_possessive]猎物塞入阴道，胜过其他方式。[PAWN_pronoun]常被称为"阿尔法海狸"（与阴道谐音）。</TypePreference_Predator_Vaginal_Obsessed.description>
+
+  <TypePreference_Predator_Vaginal_Likes.label>资深的阴道使用者</TypePreference_Predator_Vaginal_Likes.label>
+  <TypePreference_Predator_Vaginal_Likes.description>[PAWN_label]喜欢将[PAWN_possessive]猎物塞入阴道。正因众生皆由此出，阴道才愿接纳...</TypePreference_Predator_Vaginal_Likes.description>
+
+  <TypePreference_Predator_Vaginal_Neutral.label>冷漠的阴道使用者</TypePreference_Predator_Vaginal_Neutral.label>
+  <TypePreference_Predator_Vaginal_Neutral.description>[PAWN_label]对用阴道进食猎物没有特别感受。</TypePreference_Predator_Vaginal_Neutral.description>
+
+  <TypePreference_Predator_Vaginal_Dislikes.label>抗拒的阴道使用者</TypePreference_Predator_Vaginal_Dislikes.label>
+  <TypePreference_Predator_Vaginal_Dislikes.description>[PAWN_label]厌恶将[PAWN_possessive]猎物塞入阴道。阴道通过活物之痛堪比鼻孔出西瓜，再柔软也难例外。</TypePreference_Predator_Vaginal_Dislikes.description>
+  
+  <TypePreference_Predator_Vaginal_Refuses.label>极端抗拒的阴道使用者</TypePreference_Predator_Vaginal_Refuses.label>
+  <TypePreference_Predator_Vaginal_Refuses.description>[PAWN_label]极度抗拒将[PAWN_possessive]猎物塞入阴道。</TypePreference_Predator_Vaginal_Refuses.description>
+  
+</LanguageData>

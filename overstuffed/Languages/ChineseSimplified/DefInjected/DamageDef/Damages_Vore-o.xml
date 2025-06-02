@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 转化类伤害 -->
+  <RV2_ChemfuelConversionEnzymes.label>燃油转化损伤</RV2_ChemfuelConversionEnzymes.label>
+  <RV2_ChemfuelConversionEnzymes.deathMessage>{0}被转化为生物燃油</RV2_ChemfuelConversionEnzymes.deathMessage>
+
+  <RV2_EggConversionEnzymes.label>卵质转化损伤</RV2_EggConversionEnzymes.label>
+  <RV2_EggConversionEnzymes.deathMessage>{0}被转化为爱液物质</RV2_EggConversionEnzymes.deathMessage>
+
+  <RV2_UrineConversionEnzymes.label>尿液转化损伤</RV2_UrineConversionEnzymes.label>
+  <RV2_UrineConversionEnzymes.deathMessage>{0}被转化为尿液</RV2_UrineConversionEnzymes.deathMessage>
+
+  <!-- 吸收类伤害 -->
+  <RV2_AssimilationAvulsion.label>不完全吸收撕裂伤</RV2_AssimilationAvulsion.label>
+  <RV2_AssimilationAvulsion.deathMessage>{0}被完全吸收</RV2_AssimilationAvulsion.deathMessage>
+
+</LanguageData>

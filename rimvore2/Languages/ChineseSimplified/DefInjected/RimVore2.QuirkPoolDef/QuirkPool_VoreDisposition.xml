@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PredatorDisposition.label>捕食者立场倾向</PredatorDisposition.label>
+  <PredatorDisposition.description>表示该角色偏好作为捕食者的程度。极端情况下可能完全拒绝成为捕食者，或总是主动寻求成为捕食者。</PredatorDisposition.description>
+
+  <PreyDisposition.label>猎物立场倾向</PreyDisposition.label>
+  <PreyDisposition.description>表示该角色偏好作为猎物的程度。极端情况下可能完全拒绝成为猎物，或总是主动寻求成为猎物。</PreyDisposition.description>
+
+  <FeederDisposition.label>投喂者立场倾向</FeederDisposition.label>
+  <FeederDisposition.description>表示该角色偏好为捕食者寻找猎物的程度。极端情况下可能完全拒绝成为投喂者，或总是主动询问捕食者是否需要进食。</FeederDisposition.description>
+
+  <FeederDisposition_Predator.label>投喂接受倾向（捕食者）</FeederDisposition_Predator.label>
+  <FeederDisposition_Predator.description>表示该角色作为捕食者时是否接受他人投喂的猎物。</FeederDisposition_Predator.description>
+
+  <FeederDisposition_Prey.label>投喂接受倾向（猎物）</FeederDisposition_Prey.label>
+  <FeederDisposition_Prey.description>表示该角色作为猎物时是否接受被投喂给捕食者。</FeederDisposition_Prey.description>
+
+</LanguageData>

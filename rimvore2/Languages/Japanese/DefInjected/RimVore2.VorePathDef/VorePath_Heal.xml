@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OralHeal.label>(癒し) 口腔</OralHeal.label>
+	<OralHeal.RMBLabel>Oral vore(口腔)</OralHeal.RMBLabel>
+	<OralHeal.actionDescription>{PREDATOR}は {PREY}を腹の中で癒そうとしている</OralHeal.actionDescription>
+  <OralHeal.description>捕食者が負傷者をお腹の中に閉じ込め,怪我をゆっくり治しながら完治するまで閉じ込めます.治療効果としては非力なので,きちんと治療するには医薬品と医者に頼りましょう.</OralHeal.description>
+
+  <FullTourHeal.label>(癒し) 体内ツアー</FullTourHeal.label>
+	<FullTourHeal.RMBLabel>Full tour vore(体内ツアー)</FullTourHeal.RMBLabel>
+	<FullTourHeal.actionDescription>{PREDATOR}は体内ツアーを見据えつつ {PREY}を腹の中で癒そうとしている</FullTourHeal.actionDescription>
+  <FullTourHeal.description>捕食者が負傷者を体内に閉じ込め,怪我をゆっくり治しながら完治するまで閉じ込めます.治療効果としては非力なので,きちんと治療するには医薬品と医者に頼りましょう.</FullTourHeal.description>
+
+  <VaginalHeal.label>(癒し) 膣</VaginalHeal.label>
+	<VaginalHeal.RMBLabel>Vaginal vore(膣)</VaginalHeal.RMBLabel>
+	<VaginalHeal.actionDescription>{PREDATOR}は {PREY}を胎内で癒そうとしている</VaginalHeal.actionDescription>
+  <VaginalHeal.description>捕食者が負傷者を子宮の中に閉じ込め,怪我をゆっくり治しながら完治するまで閉じ込めます.治療効果としては非力なので,きちんと治療するには医薬品と医者に頼りましょう.</VaginalHeal.description>
+
+  <CockHeal.label>(癒し) 竿</CockHeal.label>
+	<CockHeal.RMBLabel>Cock vore(竿)</CockHeal.RMBLabel>
+	<CockHeal.actionDescription>{PREDATOR}は {PREY}を玉袋で癒そうとしている</CockHeal.actionDescription>
+  <CockHeal.description>捕食者が負傷者を玉袋の中に閉じ込め,怪我をゆっくり治しながら完治するまで閉じ込めます.治療効果としては非力なので,きちんと治療するには医薬品と医者に頼りましょう.</CockHeal.description>
+
+  <NippleHeal.label>(癒し) 乳首</NippleHeal.label>
+	<NippleHeal.RMBLabel>Nipple vore(乳首)</NippleHeal.RMBLabel>
+	<NippleHeal.actionDescription>{PREDATOR}は {PREY}を胸の中で癒そうとしている</NippleHeal.actionDescription>
+  <NippleHeal.description>捕食者が負傷者を胸の中に閉じ込め,怪我をゆっくり治しながら完治するまで閉じ込めます.治療効果としては非力なので,きちんと治療するには医薬品と医者に頼りましょう.</NippleHeal.description>
+
+
+</LanguageData>

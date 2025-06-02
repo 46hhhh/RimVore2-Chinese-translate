@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_EADD_AccidentalDigestion_Predator.label>吞噬：捕食者 意外消化</RV2_EADD_AccidentalDigestion_Predator.label>
+  <RV2_EADD_AccidentalDigestion_Predator.description>记录角色无意中开始消化猎物的次数。</RV2_EADD_AccidentalDigestion_Predator.description>
+
+  <RV2_EADD_AccidentalDigestion_Prey.label>吞噬：被捕食者 意外消化</RV2_EADD_AccidentalDigestion_Prey.label>
+  <RV2_EADD_AccidentalDigestion_Prey.description>记录角色作为猎物被意外开始消化的次数。</RV2_EADD_AccidentalDigestion_Prey.description>
+
+</LanguageData>

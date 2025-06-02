@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_Make_ChemfuelFromRemains.label>成れ果てからバイオ液化燃料を作る</RV2_Make_ChemfuelFromRemains.label>
+  <RV2_Make_ChemfuelFromRemains.description>消化された成れ果てからポリタンク一杯のバイオ液化燃料を抽出します.</RV2_Make_ChemfuelFromRemains.description>
+  <RV2_Make_ChemfuelFromRemains.jobString>成れ果てを精製している.</RV2_Make_ChemfuelFromRemains.jobString>
+
+
+</LanguageData>

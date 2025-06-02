@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Colonist.Name>入植者</Colonist.Name>
+  <Colonist.description>入植者がキャッシュに保存されます</Colonist.description>
+  <ColonyAnimal.Name>家畜</ColonyAnimal.Name>
+  <ColonyAnimal.description>プレイヤーの入植地の一員である動物がキャッシュに保存されます</ColonyAnimal.description>
+  <WildAnimal.Name>野生動物</WildAnimal.Name>
+  <WildAnimal.description>野生動物がキャッシュに保存されます</WildAnimal.description>
+  <AnyAnimal.Name>あらゆる動物</AnyAnimal.Name>
+  <AnyAnimal.description>あらゆる動物がキャッシュに保存されます</AnyAnimal.description>
+  <Hostile.Name>敵対派閥</Hostile.Name>
+  <Hostile.description>略奪者や他の敵対派閥がキャッシュに保存されます</Hostile.description>
+  <Slaves.Name>奴隷</Slaves.Name>
+  <Slaves.description>奴隷がキャッシュに保存されます</Slaves.description>
+  <Prisoners.Name>囚人</Prisoners.Name>
+  <Prisoners.description>囚人がキャッシュに保存されます</Prisoners.description>
+  <Traders.Name>トレーダー</Traders.Name>
+  <Traders.description>行商がキャッシュに保存されます</Traders.description>
+  <Guests.Name>訪問客</Guests.Name>
+  <Guests.description>訪問客がキャッシュに保存されます</Guests.description>
+  <Any.Name>全て</Any.Name>
+  <Any.description>あらゆる存在がキャッシュに保存されます</Any.description>
+  
+</LanguageData>

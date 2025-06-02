@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 标签页标题 -->
+  <RV2_PawnVoreTab>吞噬</RV2_PawnVoreTab>
+  
+  <!-- 猎物统计 -->
+  <RV2_Tab_HiddenPreyCount>有{0}只猎物</RV2_Tab_HiddenPreyCount>
+  
+  <!-- 视图控制 -->
+  <RV2_Tab_ExpandOrCollapse>展开/收起</RV2_Tab_ExpandOrCollapse>
+  <RV2_Interactive_Tab>交互视图</RV2_Interactive_Tab>
+  <RV2_Overview_Table>总览</RV2_Overview_Table>
+  
+  <!-- 筛选范围 -->
+  <RV2_Pawn_Source_All>全部</RV2_Pawn_Source_All>
+  <RV2_Pawn_Source_Map>全地图</RV2_Pawn_Source_Map>
+  
+  <!-- 行为控制 -->
+  <RV2_Toggle_Struggle>切换抵抗状态</RV2_Toggle_Struggle>
+  <RV2_Tab_Inspect>选择猎物</RV2_Tab_Inspect>
+</LanguageData>

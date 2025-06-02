@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_IdeoRole_AlphaPredator.label>贪婪捕食者</RV2_IdeoRole_AlphaPredator.label>
+  <RV2_IdeoRole_AlphaPredator.description>主导捕食者仪式的角色，拥有强大力量但无法处理日常事务。</RV2_IdeoRole_AlphaPredator.description>
+
+  <RV2_IdeoRole_ChosenPrey.label>天选被食者</RV2_IdeoRole_ChosenPrey.label>
+  <RV2_IdeoRole_ChosenPrey.description>主导被食者仪式的角色，具备高超社交能力与快速愈合体质。</RV2_IdeoRole_ChosenPrey.description>
+
+  <RV2_IdeoRole_Feeder.label>捕食调律者</RV2_IdeoRole_Feeder.label>
+  <RV2_IdeoRole_Feeder.description>仪式中协调捕食者与被食者吞噬行为的角色。</RV2_IdeoRole_Feeder.description>
+
+
+</LanguageData>

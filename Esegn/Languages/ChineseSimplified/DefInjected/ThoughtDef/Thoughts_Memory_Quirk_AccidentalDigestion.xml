@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 猎物视角记忆 -->
+  <RV2_EADD_AccidentalDigestion_Prey_VeryGood.stages.0.label>被{0}意外消化(极度愉悦)</RV2_EADD_AccidentalDigestion_Prey_VeryGood.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Prey_VeryGood.stages.0.description>虽然是个意外...但那具身体比我自己更懂我想要什么...</RV2_EADD_AccidentalDigestion_Prey_VeryGood.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Prey_Good.stages.0.label>被{0}意外消化(愉悦)</RV2_EADD_AccidentalDigestion_Prey_Good.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Prey_Good.stages.0.description>那具身体知道该怎么做才对！</RV2_EADD_AccidentalDigestion_Prey_Good.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Prey_Bad.stages.0.label>被{0}意外消化(不悦)</RV2_EADD_AccidentalDigestion_Prey_Bad.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Prey_Bad.stages.0.description>我不是食物，下次注意点！</RV2_EADD_AccidentalDigestion_Prey_Bad.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Prey_VeryBad.stages.0.label>被{0}意外消化(极度抗拒)</RV2_EADD_AccidentalDigestion_Prey_VeryBad.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Prey_VeryBad.stages.0.description>太可怕了，别再这样对我...</RV2_EADD_AccidentalDigestion_Prey_VeryBad.stages.0.description>
+
+  <!-- 捕食者视角记忆 -->
+  <RV2_EADD_AccidentalDigestion_Pred_VeryGood.stages.0.label>意外消化{0}(极度愉悦)</RV2_EADD_AccidentalDigestion_Pred_VeryGood.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Pred_VeryGood.stages.0.description>我亲爱的身体帮你实现了更好的价值！</RV2_EADD_AccidentalDigestion_Pred_VeryGood.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Pred_Good.stages.0.label>意外消化{0}(愉悦)</RV2_EADD_AccidentalDigestion_Pred_Good.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Pred_Good.stages.0.description>虽然和计划不同...不过也不错。</RV2_EADD_AccidentalDigestion_Pred_Good.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Pred_Bad.stages.0.label>意外消化{0}(懊悔)</RV2_EADD_AccidentalDigestion_Pred_Bad.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Pred_Bad.stages.0.description>一时疏忽...对不起。</RV2_EADD_AccidentalDigestion_Pred_Bad.stages.0.description>
+
+  <RV2_EADD_AccidentalDigestion_Pred_VeryBad.stages.0.label>意外消化{0}(极度懊悔)</RV2_EADD_AccidentalDigestion_Pred_VeryBad.stages.0.label>
+  <RV2_EADD_AccidentalDigestion_Pred_VeryBad.stages.0.description>要是当时再小心点...</RV2_EADD_AccidentalDigestion_Pred_VeryBad.stages.0.description>
+
+</LanguageData>

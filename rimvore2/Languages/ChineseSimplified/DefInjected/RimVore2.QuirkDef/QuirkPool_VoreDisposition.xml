@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食者倾向 -->
+  <PredatorDisposition_Obsessed.label>傲视群伦的顶级掠食者</PredatorDisposition_Obsessed.label>
+  <PredatorDisposition_Obsessed.description>[PAWN_label]以顶级掠食者自居，时常从食物链顶端俯瞰众生。[PAWN_pronoun]将为吞噬猎物视为无上荣耀。</PredatorDisposition_Obsessed.description>
+
+  <PredatorDisposition_Likes.label>饥肠辘辘的猎手</PredatorDisposition_Likes.label>
+  <PredatorDisposition_Likes.description>[PAWN_label]作为资深捕食者，时刻评估着潜在猎物。</PredatorDisposition_Likes.description>
+
+  <PredatorDisposition_Neutral.label>随缘而食</PredatorDisposition_Neutral.label>
+  <PredatorDisposition_Neutral.description>[PAWN_label]对捕食行为没有特别感受。</PredatorDisposition_Neutral.description>
+
+  <PredatorDisposition_Dislikes.label>消极的掠食者</PredatorDisposition_Dislikes.label>
+  <PredatorDisposition_Dislikes.description>[PAWN_label]对捕食兴致缺缺——或许是因身体沉重，或是坚持应当烹饪，又或是体内异物引发的瘙痒痛苦所致。</PredatorDisposition_Dislikes.description>
+
+  <PredatorDisposition_Refuses.label>非吞噬主义者</PredatorDisposition_Refuses.label>
+  <PredatorDisposition_Refuses.description>[PAWN_label]绝不自称捕食者，也永远不会主动猎食。</PredatorDisposition_Refuses.description>
+
+  <!-- 猎物倾向 -->
+  <PreyDisposition_Obsessed.label>沉溺肉壁的幽闭癖</PreyDisposition_Obsessed.label>
+  <PreyDisposition_Obsessed.description>[PAWN_label]钟爱狭窄肉壁远胜广阔天地。若有可能，[PAWN_pronoun]甚至会恳求捕食者让[PAWN_objective]永久居留体内。</PreyDisposition_Obsessed.description>
+
+  <PreyDisposition_Likes.label>享受被吞的快感</PreyDisposition_Likes.label>
+  <PreyDisposition_Likes.description>[PAWN_label]对被吞噬感到兴奋，持续物色着可能的捕食者。</PreyDisposition_Likes.description>
+
+  <PreyDisposition_Neutral.label>无所谓的猎物</PreyDisposition_Neutral.label>
+  <PreyDisposition_Neutral.description>[PAWN_label]对被吞噬没有特别感受。</PreyDisposition_Neutral.description>
+
+  <PreyDisposition_Dislikes.label>抗拒被吞</PreyDisposition_Dislikes.label>
+  <PreyDisposition_Dislikes.description>[PAWN_label]对被吞食态度消极——或许因为动弹不得，或是害怕被溶解，又或是肉壁引发的瘙痒痛苦所致。</PreyDisposition_Dislikes.description>
+
+  <PreyDisposition_Refuses.label>誓死反抗</PreyDisposition_Refuses.label>
+  <PreyDisposition_Refuses.description>[PAWN_label]抗拒被称为猎物，也永远不会自愿被吞。</PreyDisposition_Refuses.description>
+
+  <!-- 饲育者倾向 -->
+  <FeederDisposition_Obsessed.label>狂热的捕食者侍从</FeederDisposition_Obsessed.label>
+  <FeederDisposition_Obsessed.description>[PAWN_label]认为没有比为捕食者寻觅猎物、满足其饥渴更幸福的事。</FeederDisposition_Obsessed.description>
+
+  <FeederDisposition_Likes.label>以侍奉为荣</FeederDisposition_Likes.label>
+  <FeederDisposition_Likes.description>[PAWN_label]享受为捕食者献上猎物、满足其饥渴的过程。</FeederDisposition_Likes.description>
+
+  <FeederDisposition_Neutral.label>中立的搬运工</FeederDisposition_Neutral.label>
+  <FeederDisposition_Neutral.description>[PAWN_label]对为捕食者运送猎物没有特别感受。</FeederDisposition_Neutral.description>
+
+  <FeederDisposition_Dislikes.label>消极的饲育者</FeederDisposition_Dislikes.label>
+  <FeederDisposition_Dislikes.description>[PAWN_label]不愿主动为捕食者运送猎物，更渴望自己成为食物。</FeederDisposition_Dislikes.description>
+
+  <FeederDisposition_Refuses.label>拒绝饲育</FeederDisposition_Refuses.label>
+  <FeederDisposition_Refuses.description>[PAWN_label]拒绝为捕食者运送猎物，内心暗盼捕食者能选择自己。</FeederDisposition_Refuses.description>
+
+  <!-- 捕食者对饲育的态度 -->
+  <FeederDisposition_Predator_Obsessed.label>养尊处优的银匙贵族</FeederDisposition_Predator_Obsessed.label>
+  <FeederDisposition_Predator_Obsessed.description>[PAWN_label]虽喜欢吞噬，却厌恶亲自捕猎。有人代劳对[PAWN_possessive]而言极具吸引力。</FeederDisposition_Predator_Obsessed.description>
+
+  <FeederDisposition_Predator_Likes.label>乐享其成的饕客</FeederDisposition_Predator_Likes.label>
+  <FeederDisposition_Predator_Likes.description>[PAWN_label]欣喜于不劳而获的进食方式。</FeederDisposition_Predator_Likes.description>
+
+  <FeederDisposition_Predator_Neutral.label>无可无不可</FeederDisposition_Predator_Neutral.label>
+  <FeederDisposition_Predator_Neutral.description>[PAWN_label]对自行捕猎或被投喂没有偏好。</FeederDisposition_Predator_Neutral.description>
+
+  <FeederDisposition_Predator_Dislikes.label>抗拒投喂</FeederDisposition_Predator_Dislikes.label>
+  <FeederDisposition_Predator_Dislikes.description>[PAWN_label]宁愿自己捕猎也不愿接受投喂。</FeederDisposition_Predator_Dislikes.description>
+
+  <FeederDisposition_Predator_Refuses.label>视投喂为侮辱</FeederDisposition_Predator_Refuses.label>
+  <FeederDisposition_Predator_Refuses.description>[PAWN_label]以独立自主为荣。他人试图投喂猎物对[PAWN_pronoun]而言纯属侮辱。</FeederDisposition_Predator_Refuses.description>
+
+  <!-- 猎物对饲育的态度 -->
+  <FeederDisposition_Prey_Obsessed.label>天生的诱饵</FeederDisposition_Prey_Obsessed.label>
+  <FeederDisposition_Prey_Obsessed.description>[PAWN_label]怀有强烈被食欲望，需要他人协助引诱捕食者。</FeederDisposition_Prey_Obsessed.description>
+
+  <FeederDisposition_Prey_Likes.label>优质活饵</FeederDisposition_Prey_Likes.label>
+  <FeederDisposition_Prey_Likes.description>[PAWN_label]认为与捕食者的盲约颇具魅力。</FeederDisposition_Prey_Likes.description>
+
+  <FeederDisposition_Prey_Neutral.label>无所谓的诱饵</FeederDisposition_Prey_Neutral.label>
+  <FeederDisposition_Prey_Neutral.description>[PAWN_label]对被运送至捕食者口中毫不在意。</FeederDisposition_Prey_Neutral.description>
+
+  <FeederDisposition_Prey_Dislikes.label>抗拒配对</FeederDisposition_Prey_Dislikes.label>
+  <FeederDisposition_Prey_Dislikes.description>[PAWN_label]对捕食者匹配之类的繁琐流程兴致索然。</FeederDisposition_Prey_Dislikes.description>
+
+  <FeederDisposition_Prey_Refuses.label>只愿主动献身</FeederDisposition_Prey_Refuses.label>
+  <FeederDisposition_Prey_Refuses.description>[PAWN_label]对被他人投喂毫无兴趣。[PAWN_pronoun]只想亲自选择入口，主动投入捕食者怀中。</FeederDisposition_Prey_Refuses.description>
+
+</LanguageData>

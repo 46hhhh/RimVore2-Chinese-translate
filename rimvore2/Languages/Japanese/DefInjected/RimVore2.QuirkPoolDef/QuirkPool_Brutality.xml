@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Brutality.label>聞き分け</Brutality.label>
+  <Brutality.description>このキャラクターが申し出を断られた場合,無理やりにでもvoreを実行するためにケンカに発展する確率を示します.</Brutality.description>
+
+
+</LanguageData>

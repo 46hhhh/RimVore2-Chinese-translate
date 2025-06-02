@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_SuccessfulStruggle_Prey.stages.0.label>体内から脱出した</RV2_SuccessfulStruggle_Prey.stages.0.label>
+  <RV2_SuccessfulStruggle_Prey.stages.0.description>食べられたけど,なんとか{1}から脱出した!</RV2_SuccessfulStruggle_Prey.stages.0.description>
+
+  <RV2_SuccessfulStruggle_Predator.stages.0.label>獲物が逃げ出した</RV2_SuccessfulStruggle_Predator.stages.0.label>
+  <RV2_SuccessfulStruggle_Predator.stages.0.description>{1}は体内から逃げ出してしまった.なんてことだ!</RV2_SuccessfulStruggle_Predator.stages.0.description>
+
+
+</LanguageData>

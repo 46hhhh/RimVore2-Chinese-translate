@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PostVoreAssimilation.label>捕食後の能力(吸収)</PostVoreAssimilation.label>
+  <PostVoreAssimilation.description>このキャラクターが獲物を吸収する(実質的な死を伴う)時に捕食者に与えられる影響を示します.ただし,この傾向には吸収能力が前提として必要になります.</PostVoreAssimilation.description>
+
+
+</LanguageData>

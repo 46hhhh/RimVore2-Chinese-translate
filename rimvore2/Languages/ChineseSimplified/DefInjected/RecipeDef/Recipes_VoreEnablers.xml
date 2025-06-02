@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Goal Enablers 
+  这些主要解锁角色现有类型的新目标 -->
+
+  <RV2_MakeGoalEnabler_ConvertLube.label>制造润滑活化种子 (润滑转化)</RV2_MakeGoalEnabler_ConvertLube.label>
+  <RV2_MakeGoalEnabler_ConvertLube.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeGoalEnabler_ConvertLube.description>
+  <RV2_MakeGoalEnabler_ConvertLube.jobString>正在制造捕食扩展装置</RV2_MakeGoalEnabler_ConvertLube.jobString>
+
+  <RV2_MakeGoalEnabler_ConvertMilk.label>制造乳汁活化种子 (乳汁转化)</RV2_MakeGoalEnabler_ConvertMilk.label>
+  <RV2_MakeGoalEnabler_ConvertMilk.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeGoalEnabler_ConvertMilk.description>
+  <RV2_MakeGoalEnabler_ConvertMilk.jobString>正在制造捕食扩展装置</RV2_MakeGoalEnabler_ConvertMilk.jobString>
+
+  <RV2_MakeGoalEnabler_ConvertSperm.label>制造精液活化种子 (精液转化)</RV2_MakeGoalEnabler_ConvertSperm.label>
+  <RV2_MakeGoalEnabler_ConvertSperm.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeGoalEnabler_ConvertSperm.description>
+  <RV2_MakeGoalEnabler_ConvertSperm.jobString>正在制造捕食扩展装置</RV2_MakeGoalEnabler_ConvertSperm.jobString>
+
+  <RV2_MakeGoalEnabler_Digest.label>制造消化活化种子 (消化)</RV2_MakeGoalEnabler_Digest.label>
+  <RV2_MakeGoalEnabler_Digest.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeGoalEnabler_Digest.description>
+  <RV2_MakeGoalEnabler_Digest.jobString>正在制造捕食扩展装置</RV2_MakeGoalEnabler_Digest.jobString>
+
+  <RV2_MakeGoalEnabler_Tempendo.label>制造体内环境调节种子 (临时储存/快感)</RV2_MakeGoalEnabler_Tempendo.label>
+  <RV2_MakeGoalEnabler_Tempendo.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeGoalEnabler_Tempendo.description>
+  <RV2_MakeGoalEnabler_Tempendo.jobString>正在制造捕食扩展装置</RV2_MakeGoalEnabler_Tempendo.jobString>
+
+  <RV2_MakeGoalEnabler_Store.label>制造体内环境调节种子 (长期储存)</RV2_MakeGoalEnabler_Store.label>
+  <RV2_MakeGoalEnabler_Store.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeGoalEnabler_Store.description>
+  <RV2_MakeGoalEnabler_Store.jobString>正在制造捕食扩展装置</RV2_MakeGoalEnabler_Store.jobString>
+
+  <RV2_MakeGoalEnabler_Heal.label>制造人工再生腺体 (治疗)</RV2_MakeGoalEnabler_Heal.label>
+  <RV2_MakeGoalEnabler_Heal.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeGoalEnabler_Heal.description>
+  <RV2_MakeGoalEnabler_Heal.jobString>正在制造捕食扩展装置</RV2_MakeGoalEnabler_Heal.jobString>
+
+  <RV2_MakeGoalEnabler_Reform.label>制造生殖调节种子 (重组)</RV2_MakeGoalEnabler_Reform.label>
+  <RV2_MakeGoalEnabler_Reform.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeGoalEnabler_Reform.description>
+  <RV2_MakeGoalEnabler_Reform.jobString>正在制造捕食扩展装置</RV2_MakeGoalEnabler_Reform.jobString>
+
+
+  <!-- Type Enablers 
+  这些主要解锁角色现有目标的新类型 -->
+
+  <RV2_MakeTypeEnabler_Oral.label>制造口腔软化种子</RV2_MakeTypeEnabler_Oral.label>
+  <RV2_MakeTypeEnabler_Oral.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeTypeEnabler_Oral.description>
+  <RV2_MakeTypeEnabler_Oral.jobString>正在制造捕食扩展装置</RV2_MakeTypeEnabler_Oral.jobString>
+
+  <RV2_MakeTypeEnabler_Anal.label>制造肛门软化种子</RV2_MakeTypeEnabler_Anal.label>
+  <RV2_MakeTypeEnabler_Anal.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeTypeEnabler_Anal.description>
+  <RV2_MakeTypeEnabler_Anal.jobString>正在制造捕食扩展装置</RV2_MakeTypeEnabler_Anal.jobString>
+
+  <RV2_MakeTypeEnabler_Vaginal.label>制造阴道软化种子</RV2_MakeTypeEnabler_Vaginal.label>
+  <RV2_MakeTypeEnabler_Vaginal.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeTypeEnabler_Vaginal.description>
+  <RV2_MakeTypeEnabler_Vaginal.jobString>正在制造捕食扩展装置</RV2_MakeTypeEnabler_Vaginal.jobString>
+
+  <RV2_MakeTypeEnabler_Cock.label>制造阴茎软化种子</RV2_MakeTypeEnabler_Cock.label>
+  <RV2_MakeTypeEnabler_Cock.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeTypeEnabler_Cock.description>
+  <RV2_MakeTypeEnabler_Cock.jobString>正在制造捕食扩展装置</RV2_MakeTypeEnabler_Cock.jobString>
+
+  <RV2_MakeTypeEnabler_Nipple.label>制造乳头软化种子</RV2_MakeTypeEnabler_Nipple.label>
+  <RV2_MakeTypeEnabler_Nipple.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeTypeEnabler_Nipple.description>
+  <RV2_MakeTypeEnabler_Nipple.jobString>正在制造捕食扩展装置</RV2_MakeTypeEnabler_Nipple.jobString>
+
+</LanguageData>

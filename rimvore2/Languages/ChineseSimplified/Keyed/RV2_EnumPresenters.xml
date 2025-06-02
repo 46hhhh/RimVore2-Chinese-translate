@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 目标组件组合方式 -->
+  <RV2_TargetComponentCombination_Or>任选其一</RV2_TargetComponentCombination_Or>
+  <RV2_TargetComponentCombination_And>两者兼备</RV2_TargetComponentCombination_And>
+
+  <!-- 规则目标角色 -->
+  <RV2_RuleTargetRole_All>全部</RV2_RuleTargetRole_All>
+  <RV2_RuleTargetRole_Predator>捕食者</RV2_RuleTargetRole_Predator>
+  <RV2_RuleTargetRole_Prey>被食者</RV2_RuleTargetRole_Prey>
+  <RV2_RuleTargetRole_Feeder>喂食者</RV2_RuleTargetRole_Feeder>
+
+  <!-- 尸体处理类型 -->
+  <RV2_CorpseProcessingType_Dessicate>仅剩骨骼</RV2_CorpseProcessingType_Dessicate>
+  <RV2_CorpseProcessingType_Rot>腐烂</RV2_CorpseProcessingType_Rot>
+  <RV2_CorpseProcessingType_Destroy>彻底销毁</RV2_CorpseProcessingType_Destroy>
+  <RV2_CorpseProcessingType_Fresh>保持新鲜</RV2_CorpseProcessingType_Fresh>
+  <RV2_CorpseProcessingType_None>未处理</RV2_CorpseProcessingType_None>
+
+  <!-- 挣扎行为模式 -->
+  <RV2_StruggleForceMode_Invalid>禁用</RV2_StruggleForceMode_Invalid>
+  <RV2_StruggleForceMode_WhenForced>被强迫时</RV2_StruggleForceMode_WhenForced>
+  <RV2_StruggleForceMode_WhenNotForced>未被强迫时</RV2_StruggleForceMode_WhenNotForced>
+  <RV2_StruggleForceMode_Never>永不抵抗</RV2_StruggleForceMode_Never>
+  <RV2_StruggleForceMode_Always>总是抵抗</RV2_StruggleForceMode_Always>
+
+  <!-- 特性稀有度 -->
+  <RV2_QuirkRarity_Invalid>禁用</RV2_QuirkRarity_Invalid>
+  <RV2_QuirkRarity_ForcedOnly>仅限强制</RV2_QuirkRarity_ForcedOnly>
+  <RV2_QuirkRarity_Guaranteed>必定出现</RV2_QuirkRarity_Guaranteed>
+  <RV2_QuirkRarity_Abundant>十分常见</RV2_QuirkRarity_Abundant>
+  <RV2_QuirkRarity_Common>常见</RV2_QuirkRarity_Common>
+  <RV2_QuirkRarity_Uncommon>不常见</RV2_QuirkRarity_Uncommon>
+  <RV2_QuirkRarity_Rare>稀有</RV2_QuirkRarity_Rare>
+  <RV2_QuirkRarity_VeryRare>极为罕见</RV2_QuirkRarity_VeryRare>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RV2_RitualInvalidReasons_NoRoles>未分配角色</RV2_RitualInvalidReasons_NoRoles>
+  <RV2_RitualInvalidReasons_PredatorNotSet>未设置捕食者</RV2_RitualInvalidReasons_PredatorNotSet>
+  <RV2_RitualInvalidReasons_PreyNotSet>未设置被食者</RV2_RitualInvalidReasons_PreyNotSet>
+  <RV2_RitualInvalidReasons_NoPath>主要角色缺少必要路径</RV2_RitualInvalidReasons_NoPath>
+</LanguageData>

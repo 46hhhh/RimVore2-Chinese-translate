@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PostVoreAssimilation_Masterful.label>達人の同化術</PostVoreAssimilation_Masterful.label>
+  <PostVoreAssimilation_Masterful.description>達人級の同化術のもとに,[PAWN_label]に取り込まれた獲物は,[PAWN_possessive]美しさとして永久に使われることでしょう.</PostVoreAssimilation_Masterful.description>
+
+  <PostVoreAssimilation_Normal.label>普通の同化術</PostVoreAssimilation_Normal.label>
+  <PostVoreAssimilation_Normal.description>一般人並の同化術のもとに,[PAWN_label]は取り込んだ獲物をもとに[PAWN_possessive]美しさを向上させますが,肉付きがありすぎると制御できなくなる可能性があります.</PostVoreAssimilation_Normal.description>
+
+  <PostVoreAssimilation_Clumsy.label>不器用な同化術</PostVoreAssimilation_Clumsy.label>
+  <PostVoreAssimilation_Clumsy.description>不器用な同化術のせいで,[PAWN_label]は取り込んだ獲物を使って[PAWN_possessive]美しさを向上することができません.むしろ[PAWN_possessive]体に残る肉付きは,違和感として残ってしまうでしょう.</PostVoreAssimilation_Clumsy.description>
+
+  <PostVoreAssimilation_Unaffected.label>純潔志向の同化術</PostVoreAssimilation_Unaffected.label>
+  <PostVoreAssimilation_Unaffected.description>純潔志向の同化術のもとに,[PAWN_label]は取り込んだ獲物を実に巧みに扱い,[PAWN_possessive]見た目の価値を変えずに同化を成し遂げる事が出来ます.</PostVoreAssimilation_Unaffected.description>
+
+
+</LanguageData>

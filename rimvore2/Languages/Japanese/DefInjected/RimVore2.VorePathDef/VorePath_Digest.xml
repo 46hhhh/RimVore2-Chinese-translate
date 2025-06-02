@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Oral -->
+
+  <OralDigest.label>(消化) 口腔</OralDigest.label>
+	<OralDigest.RMBLabel>Oral vore(口腔)</OralDigest.RMBLabel>
+	<OralDigest.actionDescription>{PREDATOR}は {PREY}を丸呑みし消化しようとしている</OralDigest.actionDescription>
+  <OralDigest.description>捕食者が獲物を呑み込んで胃袋に送り,原型を保てないほどに消化して命を奪い,栄養と成れ果てに分離させます.</OralDigest.description>
+
+
+  <!-- Anal -->
+
+  <AnalDigest.label>(消化) 肛門</AnalDigest.label>
+	<AnalDigest.RMBLabel>Anal vore(肛門)</AnalDigest.RMBLabel>
+	<AnalDigest.actionDescription>{PREDATOR}は {PREY}を尻から食べ消化しようとしている</AnalDigest.actionDescription>
+  <AnalDigest.description>捕食者が獲物を尻から呑み込んで胃袋に送り,原型を保てないほどに消化して命を奪い,栄養と成れ果てに分離させます.</AnalDigest.description>
+
+
+
+</LanguageData>

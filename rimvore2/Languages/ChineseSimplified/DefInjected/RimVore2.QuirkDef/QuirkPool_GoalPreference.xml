@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- 捕食者目标偏好 -->
+
+    <!-- 消化类 -->
+    <GoalPreference_Predator_Digest_Obsessed.label>终极消化者</GoalPreference_Predator_Digest_Obsessed.label>
+    <GoalPreference_Predator_Digest_Obsessed.description>如同原始本能的具现化，[PAWN_label]会不顾一切地将猎物转化为各种形态的残渣。</GoalPreference_Predator_Digest_Obsessed.description>
+
+    <GoalPreference_Predator_Digest_Likes.label>消化爱好者</GoalPreference_Predator_Digest_Likes.label>
+    <GoalPreference_Predator_Digest_Likes.description>遵循原始冲动，[PAWN_label]享受将猎物融化成浓汤或乳汁的过程，尤其喜欢伴着挣扎声慢慢软化猎物。</GoalPreference_Predator_Digest_Likes.description>
+
+    <GoalPreference_Predator_Digest_Neutral.label>普通消化者</GoalPreference_Predator_Digest_Neutral.label>
+    <GoalPreference_Predator_Digest_Neutral.description>[PAWN_label]对消化猎物没有特别感受。</GoalPreference_Predator_Digest_Neutral.description>
+
+    <GoalPreference_Predator_Digest_Dislikes.label>消化排斥者</GoalPreference_Predator_Digest_Dislikes.label>
+    <GoalPreference_Predator_Digest_Dislikes.description>[PAWN_label]厌恶消化过程。[PAWN_pronoun]不愿夺取生命或造成伤害。</GoalPreference_Predator_Digest_Dislikes.description>
+
+    <GoalPreference_Predator_Digest_Refuses.label>绝对不杀原则</GoalPreference_Predator_Digest_Refuses.label>
+    <GoalPreference_Predator_Digest_Refuses.description>[PAWN_label]极端抗拒消化猎物。"活体消化"这个概念本身就令[PAWN_objective]毛骨悚然！</GoalPreference_Predator_Digest_Refuses.description>
+
+    <!-- 快乐类 -->
+    <GoalPreference_Predator_Pleasure_Obsessed.label>快感沉迷者</GoalPreference_Predator_Pleasure_Obsessed.label>
+    <GoalPreference_Predator_Pleasure_Obsessed.description>[PAWN_label]痴迷于将猎物用于快感获取。[PAWN_pronoun]执着于让自己的身体保持"发电状态"。</GoalPreference_Predator_Pleasure_Obsessed.description>
+
+    <GoalPreference_Predator_Pleasure_Likes.label>快感享受者</GoalPreference_Predator_Pleasure_Likes.label>
+    <GoalPreference_Predator_Pleasure_Likes.description>[PAWN_label]喜欢充分运用敏感器官，将猎物用于快感获取。</GoalPreference_Predator_Pleasure_Likes.description>
+
+    <GoalPreference_Predator_Pleasure_Neutral.label>普通快感使用者</GoalPreference_Predator_Pleasure_Neutral.label>
+    <GoalPreference_Predator_Pleasure_Neutral.description>[PAWN_label]对使用猎物获取快感没有特别感受。</GoalPreference_Predator_Pleasure_Neutral.description>
+
+    <GoalPreference_Predator_Pleasure_Dislikes.label>快感排斥者</GoalPreference_Predator_Pleasure_Dislikes.label>
+    <GoalPreference_Predator_Pleasure_Dislikes.description>[PAWN_label]厌恶将猎物用于快感获取。或许是不喜欢猎物在体内兴奋，又或许只想单方面玩弄。</GoalPreference_Predator_Pleasure_Dislikes.description>
+
+    <GoalPreference_Predator_Pleasure_Refuses.label>禁欲主义者</GoalPreference_Predator_Pleasure_Refuses.label>
+    <GoalPreference_Predator_Pleasure_Refuses.description>[PAWN_label]极端抗拒将猎物用于快感获取。认为捕食行为与情欲结合令人不适。</GoalPreference_Predator_Pleasure_Refuses.description>
+
+    <!-- 储存类 -->
+    <GoalPreference_Predator_Store_Obsessed.label>活体储藏癖</GoalPreference_Predator_Store_Obsessed.label>
+    <GoalPreference_Predator_Store_Obsessed.description>作为活体监狱，[PAWN_label]痴迷于将猎物囚禁在体内。若可能，[PAWN_pronoun]希望能将猎物关到生命尽头。</GoalPreference_Predator_Store_Obsessed.description>
+
+    <GoalPreference_Predator_Store_Likes.label>储藏爱好者</GoalPreference_Predator_Store_Likes.label>
+    <GoalPreference_Predator_Store_Likes.description>作为活体监狱，[PAWN_label]喜欢将猎物囚禁在体内。[PAWN_possessive]身体堪称完美牢房。</GoalPreference_Predator_Store_Likes.description>
+
+    <GoalPreference_Predator_Store_Neutral.label>普通储藏者</GoalPreference_Predator_Store_Neutral.label>
+    <GoalPreference_Predator_Store_Neutral.description>[PAWN_label]对囚禁猎物没有特别感受。</GoalPreference_Predator_Store_Neutral.description>
+
+    <GoalPreference_Predator_Store_Dislikes.label>储藏排斥者</GoalPreference_Predator_Store_Dislikes.label>
+    <GoalPreference_Predator_Store_Dislikes.description>[PAWN_label]厌恶囚禁猎物。[PAWN_pronoun]不愿为承载猎物而给身体增加负担，建议另寻仓库。</GoalPreference_Predator_Store_Dislikes.description>
+
+    <GoalPreference_Predator_Store_Refuses.label>自由主义者</GoalPreference_Predator_Store_Refuses.label>
+    <GoalPreference_Predator_Store_Refuses.description>[PAWN_label]极端抗拒囚禁猎物。看不见猎物的约束感会引发强烈焦虑，建议另寻仓库。</GoalPreference_Predator_Store_Refuses.description>
+
+    <!-- 捕食者-暂存偏好 -->
+    <GoalPreference_Predator_Hold_Obsessed.label>进出愉悦症</GoalPreference_Predator_Hold_Obsessed.label>
+    <GoalPreference_Predator_Hold_Obsessed.description>[PAWN_label]极度热衷于邀请猎物进行体内观光。</GoalPreference_Predator_Hold_Obsessed.description>
+
+    <GoalPreference_Predator_Hold_Likes.label>体内导游爱好者</GoalPreference_Predator_Hold_Likes.label>
+    <GoalPreference_Predator_Hold_Likes.description>[PAWN_label]喜欢引导猎物穿越体内通道。</GoalPreference_Predator_Hold_Likes.description>
+
+    <GoalPreference_Predator_Hold_Neutral.label>普通暂存者</GoalPreference_Predator_Hold_Neutral.label>
+    <GoalPreference_Predator_Hold_Neutral.description>[PAWN_label]对暂时容纳猎物没有特别感受。</GoalPreference_Predator_Hold_Neutral.description>
+
+    <GoalPreference_Predator_Hold_Dislikes.label>进出厌恶者</GoalPreference_Predator_Hold_Dislikes.label>
+    <GoalPreference_Predator_Hold_Dislikes.description>[PAWN_label]反感短暂收容猎物的行为。</GoalPreference_Predator_Hold_Dislikes.description>
+
+    <GoalPreference_Predator_Hold_Refuses.label>绝对不收容原则</GoalPreference_Predator_Hold_Refuses.label>
+    <GoalPreference_Predator_Hold_Refuses.description>[PAWN_label]极端抗拒任何形式的猎物暂存。</GoalPreference_Predator_Hold_Refuses.description>
+
+    <!-- 捕食者-治疗偏好 -->
+    <GoalPreference_Predator_Heal_Obsessed.label>荣耀医者</GoalPreference_Predator_Heal_Obsessed.label>
+    <GoalPreference_Predator_Heal_Obsessed.description>即使没有医疗舱，[PAWN_label]也乐于提供舒适卫生的体内治疗环境。</GoalPreference_Predator_Heal_Obsessed.description>
+
+    <GoalPreference_Predator_Heal_Likes.label>治疗爱好者</GoalPreference_Predator_Heal_Likes.label>
+    <GoalPreference_Predator_Heal_Likes.description>作为模范治疗者，[PAWN_label]偏好使用体内空间救助同伴。</GoalPreference_Predator_Heal_Likes.description>
+
+    <GoalPreference_Predator_Heal_Neutral.label>普通治疗者</GoalPreference_Predator_Heal_Neutral.label>
+    <GoalPreference_Predator_Heal_Neutral.description>[PAWN_label]对体内治疗没有特别感受。</GoalPreference_Predator_Heal_Neutral.description>
+
+    <GoalPreference_Predator_Heal_Dislikes.label>治疗排斥者</GoalPreference_Predator_Heal_Dislikes.label>
+    <GoalPreference_Predator_Heal_Dislikes.description>[PAWN_label]厌恶使用体内空间进行治疗。</GoalPreference_Predator_Heal_Dislikes.description>
+
+    <GoalPreference_Predator_Heal_Refuses.label>拒绝医疗舱化</GoalPreference_Predator_Heal_Refuses.label>
+    <GoalPreference_Predator_Heal_Refuses.description>[PAWN_label]极端抗拒将自身作为医疗容器使用。</GoalPreference_Predator_Heal_Refuses.description>
+
+
+    <!-- 猎物目标偏好 -->
+
+    <!-- 消化类 -->
+    <GoalPreference_Prey_Digest_Obsessed.label>终极奉献者</GoalPreference_Prey_Digest_Obsessed.label>
+    <GoalPreference_Prey_Digest_Obsessed.description>如同强迫症般，[PAWN_label]强烈渴望被捕食者完全消化。</GoalPreference_Prey_Digest_Obsessed.description>
+
+    <GoalPreference_Prey_Digest_Likes.label>营养奉献者</GoalPreference_Prey_Digest_Likes.label>
+    <GoalPreference_Prey_Digest_Likes.description>出于某种执念，[PAWN_label]时常幻想被消化的场景。</GoalPreference_Prey_Digest_Likes.description>
+
+    <GoalPreference_Prey_Digest_Neutral.label>普通被消化者</GoalPreference_Prey_Digest_Neutral.label>
+    <GoalPreference_Prey_Digest_Neutral.description>[PAWN_label]对被消化没有特别感受。</GoalPreference_Prey_Digest_Neutral.description>
+
+    <GoalPreference_Prey_Digest_Dislikes.label>生存渴望者</GoalPreference_Prey_Digest_Dislikes.label>
+    <GoalPreference_Prey_Digest_Dislikes.description>[PAWN_label]自觉人生尚未尽兴，认为被酸液溶解为时尚早。</GoalPreference_Prey_Digest_Dislikes.description>
+
+    <GoalPreference_Prey_Digest_Refuses.label>生命捍卫者</GoalPreference_Prey_Digest_Refuses.label>
+    <GoalPreference_Prey_Digest_Refuses.description>"疯了吗？谁想活生生被消化？"[PAWN_label]的价值观与此类想法水火不容。</GoalPreference_Prey_Digest_Refuses.description>
+
+    <!-- 快乐类 -->
+    <GoalPreference_Prey_Pleasure_Obsessed.label>活体玩具沉迷者</GoalPreference_Prey_Pleasure_Obsessed.label>
+    <GoalPreference_Prey_Pleasure_Obsessed.description>如同具现化的情欲玩具，[PAWN_label]渴求快感，总是主动投向捕食者的腹腔。</GoalPreference_Prey_Pleasure_Obsessed.description>
+
+    <GoalPreference_Prey_Pleasure_Likes.label>快感奉献者</GoalPreference_Prey_Pleasure_Likes.label>
+    <GoalPreference_Prey_Pleasure_Likes.description>以成为活体玩具为荣，[PAWN_label]享受被完全纳入他人体内并达到高潮的过程。</GoalPreference_Prey_Pleasure_Likes.description>
+
+    <GoalPreference_Prey_Pleasure_Neutral.label>普通快感接受者</GoalPreference_Prey_Pleasure_Neutral.label>
+    <GoalPreference_Prey_Pleasure_Neutral.description>[PAWN_label]被用作快感工具时没有特别感受。</GoalPreference_Prey_Pleasure_Neutral.description>
+
+    <GoalPreference_Prey_Pleasure_Dislikes.label>快感排斥者</GoalPreference_Prey_Pleasure_Dislikes.label>
+    <GoalPreference_Prey_Pleasure_Dislikes.description>[PAWN_label]厌恶为他人提供快感而被迫进入体内。或许[PAWN_pronoun]对肉壁完全无法产生情欲。</GoalPreference_Prey_Pleasure_Dislikes.description>
+
+    <GoalPreference_Prey_Pleasure_Refuses.label>禁欲坚守者</GoalPreference_Prey_Pleasure_Refuses.label>
+    <GoalPreference_Prey_Pleasure_Refuses.description>[PAWN_label]极端抗拒在捕食者体内获取快感。[PAWN_pronoun]无法将缠绕的肉壁与愉悦联系起来。</GoalPreference_Prey_Pleasure_Refuses.description>
+
+
+
+    <!-- 猎物-储存偏好 -->
+    <GoalPreference_Prey_Store_Obsessed.label>终生囚禁渴望者</GoalPreference_Prey_Store_Obsessed.label>
+    <GoalPreference_Prey_Store_Obsessed.description>[PAWN_label]渴望在胃袋起伏中度过余生，而非面对社会风浪。</GoalPreference_Prey_Store_Obsessed.description>
+
+    <GoalPreference_Prey_Store_Likes.label>临时栖居爱好者</GoalPreference_Prey_Store_Likes.label>
+    <GoalPreference_Prey_Store_Likes.description>[PAWN_label]偶尔会产生在他人体内度假或定居的冲动。</GoalPreference_Prey_Store_Likes.description>
+
+    <GoalPreference_Prey_Store_Neutral.label>普通被储存者</GoalPreference_Prey_Store_Neutral.label>
+    <GoalPreference_Prey_Store_Neutral.description>[PAWN_label]对被囚禁在体内没有特别感受。</GoalPreference_Prey_Store_Neutral.description>
+
+    <GoalPreference_Prey_Store_Dislikes.label>行动自由需求者</GoalPreference_Prey_Store_Dislikes.label>
+    <GoalPreference_Prey_Store_Dislikes.description>若要吞噬[PAWN_label]，最好明确释放时间。[PAWN_pronoun]在体内静置时会惦记外部事务。</GoalPreference_Prey_Store_Dislikes.description>
+
+    <GoalPreference_Prey_Store_Refuses.label>绝对自由捍卫者</GoalPreference_Prey_Store_Refuses.label>
+    <GoalPreference_Prey_Store_Refuses.description>[PAWN_label]无法忍受在捕食者体内被困数日，更不用说数周或数年。</GoalPreference_Prey_Store_Refuses.description>
+
+    <!-- 猎物-暂存偏好 -->
+    <GoalPreference_Prey_Hold_Obsessed.label>过山车快感追求者</GoalPreference_Prey_Hold_Obsessed.label>
+    <GoalPreference_Prey_Hold_Obsessed.description>[PAWN_label]痴迷于在剧烈运动的体内通道中穿行的体验。</GoalPreference_Prey_Hold_Obsessed.description>
+
+    <GoalPreference_Prey_Hold_Likes.label>短途体内游客</GoalPreference_Prey_Hold_Likes.label>
+    <GoalPreference_Prey_Hold_Likes.description>[PAWN_label]偶尔会想来场说走就走的体内一日游。</GoalPreference_Prey_Hold_Likes.description>
+
+    <GoalPreference_Prey_Hold_Neutral.label>普通过客</GoalPreference_Prey_Hold_Neutral.label>
+    <GoalPreference_Prey_Hold_Neutral.description>[PAWN_label]对被短暂容纳没有特别感受。</GoalPreference_Prey_Hold_Neutral.description>
+
+    <GoalPreference_Prey_Hold_Dislikes.label>短暂拘束排斥者</GoalPreference_Prey_Hold_Dislikes.label>
+    <GoalPreference_Prey_Hold_Dislikes.description>若要吞噬[PAWN_label]，等待自然排出绝非良策。[PAWN_pronoun]在体内静置时会焦躁不安。</GoalPreference_Prey_Hold_Dislikes.description>
+
+    <GoalPreference_Prey_Hold_Refuses.label>幽闭恐惧症患者</GoalPreference_Prey_Hold_Refuses.label>
+    <GoalPreference_Prey_Hold_Refuses.description>[PAWN_label]连几小时的体内拘束都无法忍受，更遑论整天被困。</GoalPreference_Prey_Hold_Refuses.description>
+
+    <!-- 猎物-治疗偏好 -->
+    <GoalPreference_Prey_Heal_Obsessed.label>全托管疗养狂</GoalPreference_Prey_Heal_Obsessed.label>
+    <GoalPreference_Prey_Heal_Obsessed.description>即使完全健康，[PAWN_label]也热衷于为寻求治愈而跳入他人体内。</GoalPreference_Prey_Heal_Obsessed.description>
+
+    <GoalPreference_Prey_Heal_Likes.label>温泉疗法爱好者</GoalPreference_Prey_Heal_Likes.label>
+    <GoalPreference_Prey_Heal_Likes.description>[PAWN_label]将体内治疗视为享受桑拿般的体验。</GoalPreference_Prey_Heal_Likes.description>
+
+    <GoalPreference_Prey_Heal_Neutral.label>普通治疗接受者</GoalPreference_Prey_Heal_Neutral.label>
+    <GoalPreference_Prey_Heal_Neutral.description>[PAWN_label]对接受体内治疗没有特别感受。</GoalPreference_Prey_Heal_Neutral.description>
+
+    <GoalPreference_Prey_Heal_Dislikes.label>肉质治疗排斥者</GoalPreference_Prey_Heal_Dislikes.label>
+    <GoalPreference_Prey_Heal_Dislikes.description>即便能治愈伤势，[PAWN_label]也反感为此被整个吞下。</GoalPreference_Prey_Heal_Dislikes.description>
+
+    <GoalPreference_Prey_Heal_Refuses.label>宁死不就医原则</GoalPreference_Prey_Heal_Refuses.label>
+    <GoalPreference_Prey_Heal_Refuses.description>[PAWN_label]宁愿忍受伤病也不愿接受体内治疗。</GoalPreference_Prey_Heal_Refuses.description>
+</LanguageData>

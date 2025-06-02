@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 性行为后吞噬提议特性 -->
+  <RV2_RJW_PostSexProposalChance_Always.label>强烈的占有欲</RV2_RJW_PostSexProposalChance_Always.label>
+  <RV2_RJW_PostSexProposalChance_Always.description>[PAWN_label]无法在体内没有他人的情况下达到真正的性高潮，[PAWN_pronoun]总会在性行为后提出吞噬作为"后续"。</RV2_RJW_PostSexProposalChance_Always.description>
+
+  <RV2_RJW_PostSexProposalChance_Often.label>热情敏感</RV2_RJW_PostSexProposalChance_Often.label>
+  <RV2_RJW_PostSexProposalChance_Often.description>[PAWN_label]喜欢在性行为后享受体内按摩，提出吞噬要求的频率是常人的两倍。</RV2_RJW_PostSexProposalChance_Often.description>
+
+  <RV2_RJW_PostSexProposalChance_Normal.label>无特别偏好</RV2_RJW_PostSexProposalChance_Normal.label>
+  <RV2_RJW_PostSexProposalChance_Normal.description>[PAWN_label]对吞噬没有特别的观念，性行为后提出吞噬的频率与常人无异。</RV2_RJW_PostSexProposalChance_Normal.description>
+
+  <RV2_RJW_PostSexProposalChance_Rare.label>缺乏兴趣</RV2_RJW_PostSexProposalChance_Rare.label>
+  <RV2_RJW_PostSexProposalChance_Rare.description>[PAWN_label]对将吞噬引入性行为不太感兴趣，提出的概率只有常人的一半。</RV2_RJW_PostSexProposalChance_Rare.description>
+
+  <RV2_RJW_PostSexProposalChance_Never.label>厌恶</RV2_RJW_PostSexProposalChance_Never.label>
+  <RV2_RJW_PostSexProposalChance_Never.description>[PAWN_label]无法理解将吞噬引入性快感的行为，自己绝不会主动提出。要做也请在床外进行。</RV2_RJW_PostSexProposalChance_Never.description>
+
+</LanguageData>

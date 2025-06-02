@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rv2Reformers_ReformFromRemains.label>残骸重塑</Rv2Reformers_ReformFromRemains.label>
+  <Rv2Reformers_ReformFromRemains.description>消耗使用者的精神力，复活已被消化的角色。</Rv2Reformers_ReformFromRemains.description>
+
+  <Rv2Reformers_ReformSelf.label>自我重塑</Rv2Reformers_ReformSelf.label>
+ <Rv2Reformers_ReformSelf.description>指定使用者被消化后的复活地点。每次被消化后都需要重新设置复活位置。</Rv2Reformers_ReformSelf.description>
+
+</LanguageData>

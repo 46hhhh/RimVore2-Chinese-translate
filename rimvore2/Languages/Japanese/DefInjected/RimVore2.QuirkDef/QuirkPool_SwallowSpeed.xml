@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SwallowSpeed_VeryGood.label>光速の捕食者</SwallowSpeed_VeryGood.label>
+  <SwallowSpeed_VeryGood.description>[PAWN_label]は獲物を他の4倍ほどの速度で呑み込むことができます.[PAWN_pronoun]の才覚は,丸呑み大会で上位に食い込めるほどのものです.</SwallowSpeed_VeryGood.description>
+
+  <SwallowSpeed_Good.label>クイックイーター</SwallowSpeed_Good.label>
+  <SwallowSpeed_Good.description>[PAWN_label]は獲物を他の2倍ほどの速度で呑み込むことができます.</SwallowSpeed_Good.description>
+
+  <SwallowSpeed_Normal.label>普通な捕食速度</SwallowSpeed_Normal.label>
+  <SwallowSpeed_Normal.description>[PAWN_label]は実に平均的な速度で獲物を呑み込みます.</SwallowSpeed_Normal.description>
+
+  <SwallowSpeed_Bad.label>スローイーター</SwallowSpeed_Bad.label>
+  <SwallowSpeed_Bad.description>[PAWN_label]は獲物を他の半分ほどの速度でじっくり呑み込んでいきます.</SwallowSpeed_Bad.description>
+
+  <SwallowSpeed_VeryBad.label>だらだら詰め込み派</SwallowSpeed_VeryBad.label>
+  <SwallowSpeed_VeryBad.description>[PAWN_label]は吐き戻しを避けているか,純粋にそういった趣味なのか,他の4分の1ほどの速度で獲物を呑み込んでいきます.</SwallowSpeed_VeryBad.description>
+
+
+</LanguageData>

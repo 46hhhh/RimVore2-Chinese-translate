@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 体内不适状态 -->
+  <RV2R_EndoSick.stages.1.label>初期体内不适</RV2R_EndoSick.stages.1.label>
+  <RV2R_EndoSick.stages.1.description>虽然有些眩晕，但温暖的感觉正渗透全身。</RV2R_EndoSick.stages.1.description>
+  <RV2R_EndoSick.stages.2.label>体内不适</RV2R_EndoSick.stages.2.label>
+  <RV2R_EndoSick.stages.2.description>眩晕与疲惫交织，这种仿佛身体正在融化扩散的感觉...异常舒适。</RV2R_EndoSick.stages.2.description>
+  <RV2R_EndoSick.stages.3.label>重度体内不适</RV2R_EndoSick.stages.3.label>
+  <RV2R_EndoSick.stages.3.description>已经无法正常思考了。虽然疲惫...但啊...这种感觉真好。</RV2R_EndoSick.stages.3.description>
+  <RV2R_EndoSick.stages.4.label>体内不适性微醺</RV2R_EndoSick.stages.4.label>
+  <RV2R_EndoSick.stages.4.description>好累...但是...啊，这种飘飘然的感觉...</RV2R_EndoSick.stages.4.description>
+  <RV2R_EndoSick.stages.5.label>体内不适性沉醉</RV2R_EndoSick.stages.5.label>
+  <RV2R_EndoSick.stages.5.description>有点...想睡了...睡...</RV2R_EndoSick.stages.5.description>
+
+  <!-- 能量汲取状态 -->
+  <RV2R_Drained.stages.drained-0.label>能量枯竭</RV2R_Drained.stages.drained-0.label>
+  <RV2R_Drained.stages.drained-0.description>虽然还有些眩晕，但已经好转很多了。</RV2R_Drained.stages.drained-0.description>
+  <RV2R_Drained.stages.drained-1.label>能量枯竭</RV2R_Drained.stages.drained-1.label>
+  <RV2R_Drained.stages.drained-1.description>身体发出警告，仿佛被疲惫与病痛击垮。</RV2R_Drained.stages.drained-1.description>
+  <RV2R_Drained.stages.drained-2.label>能量枯竭</RV2R_Drained.stages.drained-2.label>
+  <RV2R_Drained.stages.drained-2.description>头脑昏沉，肢体末端失去知觉。我是不是快要晕过去了...</RV2R_Drained.stages.drained-2.description>
+  <RV2R_Drained.stages.numb.label>麻木不仁</RV2R_Drained.stages.numb.label>
+  <RV2R_Drained.stages.numb.description>除了疲惫什么都感受不到。得睡一会儿...</RV2R_Drained.stages.numb.description>
+
+  <!-- 情感关系 -->
+  <RV2R_LoverPred.stages.0.label>心爱猎物</RV2R_LoverPred.stages.0.label>
+  <RV2R_LoverPred.stages.0.description>这样守护着的时刻，才像是我们应有的模样。</RV2R_LoverPred.stages.0.description>
+
+  <RV2R_LoverPrey.stages.0.label>血肉相拥</RV2R_LoverPrey.stages.0.label>
+  <RV2R_LoverPrey.stages.0.description>这样被守护的时刻，才像是我们应有的模样。</RV2R_LoverPrey.stages.0.description>
+
+  <RV2R_BondPred.stages.0.label>羁绊猎物</RV2R_BondPred.stages.0.label>
+  <RV2R_BondPred.stages.0.description>信任我的生物，正填补着我饥饿之外的某种空虚。</RV2R_BondPred.stages.0.description>
+
+  <RV2R_BondPred.stages.1.label>羁绊猎物</RV2R_BondPred.stages.1.label>
+  <RV2R_BondPred.stages.1.description>这些信任我的生物们，正填补着我饥饿之外的某种空虚。</RV2R_BondPred.stages.1.description>
+
+  <RV2R_BondPrey.stages.0.label>羁绊捕食者</RV2R_BondPrey.stages.0.label>
+  <RV2R_BondPrey.stages.0.description>在信任我的生物体内。有种被守护的安全感。</RV2R_BondPrey.stages.0.description>
+
+  <!-- 宠物关系 -->
+  <RV2R_PetPred.stages.0.label>体内宠物</RV2R_PetPred.stages.0.label>
+  <RV2R_PetPred.stages.0.description>我的宠物正待在它该在的地方。</RV2R_PetPred.stages.0.description>
+
+  <RV2R_PetPrey.stages.0.label>体内宠物</RV2R_PetPrey.stages.0.label>
+  <RV2R_PetPrey.stages.0.description>作为宠物，我正待在自己该在的地方。</RV2R_PetPrey.stages.0.description>
+
+  <!-- 关系变故 -->
+  <RV2R_Relation_PredDied.stages.0.label>我的捕食者{0}死了</RV2R_Relation_PredDied.stages.0.label>
+  <RV2R_Relation_PredDied.stages.0.description>我的捕食者死了。我的归宿...我的家...消失了。</RV2R_Relation_PredDied.stages.0.description>
+
+  <RV2R_Relation_PredLost.stages.0.label>失去了我的捕食者{0}</RV2R_Relation_PredLost.stages.0.label>
+  <RV2R_Relation_PredLost.stages.0.description>我失去了我的捕食者。如果当初以猎物身份跟紧些就好了...</RV2R_Relation_PredLost.stages.0.description>
+
+  <RV2R_KilledMyPred.stages.0.label>我杀了我的捕食者</RV2R_KilledMyPred.stages.0.label>
+
+  <RV2R_Relation_PreyDied.stages.0.label>我的宠物{0}死了</RV2R_Relation_PreyDied.stages.0.label>
+  <RV2R_Relation_PreyDied.stages.0.description>我的宠物死了。我没能保护好它...</RV2R_Relation_PreyDied.stages.0.description>
+
+  <RV2R_Relation_PreyLost.stages.0.label>失去了我的宠物{0}</RV2R_Relation_PreyLost.stages.0.label>
+  <RV2R_Relation_PreyLost.stages.0.description>我失去了我的宠物。当初不该让它出去的...</RV2R_Relation_PreyLost.stages.0.description>
+
+  <RV2R_KilledMyPrey.stages.0.label>我杀了我的宠物</RV2R_KilledMyPrey.stages.0.label>
+
+  <!-- 交易事件 -->
+  <RV2R_SoldPred.stages.0.label>捕食者交易</RV2R_SoldPred.stages.0.label>
+  <RV2R_SoldPred.stages.predator_sold.labelSocial>我卖掉了我的捕食者</RV2R_SoldPred.stages.predator_sold.labelSocial>
+  <RV2R_SoldPred.stages.0.description>我的捕食者像货物一样被卖给了商人。</RV2R_SoldPred.stages.0.description>
+
+  <RV2R_SoldPrey.stages.0.label>猎物交易</RV2R_SoldPrey.stages.0.label>
+  <RV2R_SoldPrey.stages.prey_sold.labelSocial>我卖掉了我的猎物</RV2R_SoldPrey.stages.prey_sold.labelSocial>
+  <RV2R_SoldPrey.stages.0.description>我的猎物像货物一样被卖给了商人。</RV2R_SoldPrey.stages.0.description>
+
+  <!-- 主动状态 -->
+  <RV2R_ActivePred_Reluctant.stages.0.labelSocial>在我体内</RV2R_ActivePred_Reluctant.stages.0.labelSocial>
+  <RV2R_ActivePred.stages.0.labelSocial>在我体内</RV2R_ActivePred.stages.0.labelSocial>
+  <RV2R_ActivePred_Vorny.stages.0.labelSocial>我的所有物</RV2R_ActivePred_Vorny.stages.0.labelSocial>
+
+  <RV2R_ActivePrey_Reluctant.stages.0.labelSocial>被吞食</RV2R_ActivePrey_Reluctant.stages.0.labelSocial>
+  <RV2R_ActivePrey.stages.0.labelSocial>被吞食</RV2R_ActivePrey.stages.0.labelSocial>
+  <RV2R_ActivePrey_Vorny.stages.0.labelSocial>被吞噬</RV2R_ActivePrey_Vorny.stages.0.labelSocial>
+
+</LanguageData>

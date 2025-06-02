@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 通用 -->
+  <RV2_Settings_On>开启</RV2_Settings_On>
+  <RV2_Settings_Off>关闭</RV2_Settings_Off>
+  <RV2_Settings_EnableAll>全部启用</RV2_Settings_EnableAll>
+  <RV2_Settings_DisableAll>全部禁用</RV2_Settings_DisableAll>
+  <RV2_Settings_Disabled>禁用</RV2_Settings_Disabled>
+  <RV2_Settings_Enabled>启用</RV2_Settings_Enabled>
+  <RV2_Settings_Reset>重置设置</RV2_Settings_Reset>
+  <RV2_Settings_ResetAll>全部重置</RV2_Settings_ResetAll>
+  <RV2_Settings_Guaranteed>保证</RV2_Settings_Guaranteed>
+  <RV2_Settings_None>无</RV2_Settings_None>
+  <RV2_Settings_Add>添加</RV2_Settings_Add>
+  <RV2_Settings_Remove>排除</RV2_Settings_Remove>
+  <RV2_Settings_DisableRule>禁用规则</RV2_Settings_DisableRule>
+  <RV2_Settings_EnableRule>启用规则</RV2_Settings_EnableRule>
+  <RV2_Settings_RuleDisabled>规则当前已禁用</RV2_Settings_RuleDisabled>
+  <RV2_Settings_MoveUp>上移</RV2_Settings_MoveUp>
+  <RV2_Settings_MoveDown>下移</RV2_Settings_MoveDown>
+  <RV2_Settings_Edit>编辑</RV2_Settings_Edit>
+  <RV2_Settings_Expand>展开</RV2_Settings_Expand>
+  <RV2_Settings_Collapse>折叠</RV2_Settings_Collapse>
+  
+  <RV2_Settings_Infinite>无限</RV2_Settings_Infinite>
+  
+  <!-- 设置 -->
+  <RV2_Settings_Category>RimVore-2</RV2_Settings_Category>
+  <RV2_Settings_TabNames_Debug>调试</RV2_Settings_TabNames_Debug>
+  <RV2_Settings_TabNames_Features>基本</RV2_Settings_TabNames_Features>
+  <RV2_Settings_TabNames_FineTuning>精细调整</RV2_Settings_TabNames_FineTuning>
+  <RV2_Settings_TabNames_Sounds>音效</RV2_Settings_TabNames_Sounds>
+  <RV2_Settings_TabNames_Cheats>作弊</RV2_Settings_TabNames_Cheats>
+  <RV2_Settings_TabNames_Rules>规则</RV2_Settings_TabNames_Rules>
+  <RV2_Settings_TabNames_Quirks>倾向</RV2_Settings_TabNames_Quirks>
+  <RV2_Settings_TabNames_Ideology>意识形态</RV2_Settings_TabNames_Ideology>
+  <RV2_Settings_TabNames_Combat>战斗</RV2_Settings_TabNames_Combat>
+  
+  <!-- 设置：调试 -->
+  <RV2_Settings_Debug_Logging>日志记录</RV2_Settings_Debug_Logging>
+  <RV2_Settings_Debug_VerboseLogging>详细日志</RV2_Settings_Debug_VerboseLogging>
+  <RV2_Settings_Debug_PassPredatorTick>跳过捕食者计时</RV2_Settings_Debug_PassPredatorTick>
+  <RV2_Settings_Debug_LabelRefresh>状态标签刷新间隔（单位：刻）</RV2_Settings_Debug_LabelRefresh>
+  <RV2_Settings_Debug_MaxCachedInteractions>最大缓存的互动次数</RV2_Settings_Debug_MaxCachedInteractions>
+  <RV2_Settings_Debug_MaxCachedInteractions_Tip>设置过大会占用大量内存，请注意！</RV2_Settings_Debug_MaxCachedInteractions_Tip>
+
+  <!-- 设置：功能 -->
+  <RV2_Settings_Features_VoreQuirksEnabled>吞噬倾向</RV2_Settings_Features_VoreQuirksEnabled>
+  <RV2_Settings_Features_VoreQuirksEnabled_Tip>启用角色个性化的吞噬倾向。\n通过角色菜单可以访问倾向列表。</RV2_Settings_Features_VoreQuirksEnabled_Tip>
+  <RV2_Settings_Features_FatalVoreEnabled>致命吞噬</RV2_Settings_Features_FatalVoreEnabled>
+  <RV2_Settings_Features_FatalVoreEnabled_Tip>启用可能导致被吞噬者死亡的吞噬类型。</RV2_Settings_Features_FatalVoreEnabled_Tip>
+  <RV2_Settings_Features_EndoVoreEnabled>安全吞噬</RV2_Settings_Features_EndoVoreEnabled>
+  <RV2_Settings_Features_EndoVoreEnabled_Tip>启用不会直接导致被吞噬者死亡的吞噬类型。</RV2_Settings_Features_EndoVoreEnabled_Tip>
+  <RV2_Settings_Features_FeederVoreEnabled>喂食吞噬</RV2_Settings_Features_FeederVoreEnabled>
+  <RV2_Settings_Features_FeederVoreEnabled_Tip>允许角色捕获猎物并喂给捕食者。</RV2_Settings_Features_FeederVoreEnabled_Tip>
+  <RV2_Settings_Features_AnimalsEnabled>动物</RV2_Settings_Features_AnimalsEnabled>
+  <RV2_Settings_Features_AnimalsEnabled_Tip>允许动物参与吞噬或被吞噬。</RV2_Settings_Features_AnimalsEnabled_Tip>
+  <RV2_Settings_Features_ShowVoreTab>吞噬标签</RV2_Settings_Features_ShowVoreTab>
+  <RV2_Settings_Features_ShowVoreTab_Tip>启用吞噬标签，显示捕食者体内的猎物状态。</RV2_Settings_Features_ShowVoreTab_Tip>
+  <RV2_Settings_Features_ShowRMBVoreMenu>右键吞噬菜单</RV2_Settings_Features_ShowRMBVoreMenu>
+  <RV2_Settings_Features_ShowRMBVoreMenu_Tip>右键点击角色时显示吞噬相关命令选项。</RV2_Settings_Features_ShowRMBVoreMenu_Tip>
+  <RV2_Settings_Features_RMBProposalsUseAutoVoreInterval>右键菜单使用冷却时间</RV2_Settings_Features_RMBProposalsUseAutoVoreInterval>
+  <RV2_Settings_Features_RMBProposalsUseAutoVoreInterval_Tip>冷却时间内，右键菜单中的相关命令会被禁用。</RV2_Settings_Features_RMBProposalsUseAutoVoreInterval_Tip>
+  <RV2_Settings_Features_ShowGizmo>个人菜单</RV2_Settings_Features_ShowGizmo>
+  <RV2_Settings_Features_ShowGizmo_Tip>启用倾向菜单和吞噬相关个人设置。</RV2_Settings_Features_ShowGizmo_Tip>
+  <RV2_Settings_Features_ScatEnabled>排泄物</RV2_Settings_Features_ScatEnabled>
+  <RV2_Settings_Features_ScatEnabled_Tip>不影响现有物品或当前吞噬状态！</RV2_Settings_Features_ScatEnabled_Tip>
+  <RV2_Settings_Features_BonesEnabled>骨骼</RV2_Settings_Features_BonesEnabled>
+  <RV2_Settings_Features_BonesEnabled_Tip>不影响现有物品或当前吞噬状态！</RV2_Settings_Features_BonesEnabled_Tip>
+  <RV2_Settings_Features_BackstoryGenitalsEnabled>背景生成生殖器</RV2_Settings_Features_BackstoryGenitalsEnabled>
+  <RV2_Settings_Features_BackstoryGenitalsEnabled_Tip>启用后，背景可能强制添加生殖器，导致双性等特征。</RV2_Settings_Features_BackstoryGenitalsEnabled_Tip>
+  <RV2_Settings_Features_GrapplingEnabled>抓取</RV2_Settings_Features_GrapplingEnabled>
+  <RV2_Settings_Features_GrapplingEnabled_Tip>允许角色在战斗中抓取并压制目标后进行吞噬。</RV2_Settings_Features_GrapplingEnabled_Tip>
+  <RV2_Settings_Features_StrugglingEnabled>挣扎</RV2_Settings_Features_StrugglingEnabled>
+  <RV2_Settings_Features_StrugglingEnabled_Tip>允许被吞噬者通过挣扎逃脱。</RV2_Settings_Features_StrugglingEnabled_Tip>
+  <RV2_Settings_Features_SpecificVoreScenariosIgnoreDesignations>忽略指定设置</RV2_Settings_Features_SpecificVoreScenariosIgnoreDesignations>
+  <RV2_Settings_Features_SpecificVoreScenariosIgnoreDesignations_Tip>启用后，角色可能无视菜单设置进行吞噬行为。</RV2_Settings_Features_SpecificVoreScenariosIgnoreDesignations_Tip>
+  <RV2_Settings_Features_IgnoreDesignations_MentalState>特殊精神状态</RV2_Settings_Features_IgnoreDesignations_MentalState>
+  <RV2_Settings_Features_IgnoreDesignations_MentalState_Tip>注意：与吞噬相关的精神状态可能选择致命或非致命吞噬。</RV2_Settings_Features_IgnoreDesignations_MentalState_Tip>
+  <RV2_Settings_Features_IgnoreDesignations_VoreHuntingAnimals>动物狩猎使用吞噬</RV2_Settings_Features_IgnoreDesignations_VoreHuntingAnimals>
+  <RV2_Settings_Features_IgnoreDesignations_VoreHuntingAnimals_Tip>注意：凶猛的动物通常会尝试消化猎物！</RV2_Settings_Features_IgnoreDesignations_VoreHuntingAnimals_Tip>
+  <RV2_Settings_Features_IgnoreDesignations_KidnappingRaiders>袭击者绑架吞噬</RV2_Settings_Features_IgnoreDesignations_KidnappingRaiders>
+  <RV2_Settings_Features_IgnoreDesignations_KidnappingRaiders_Tip>注意：绑架吞噬总是以“保管”为目的。</RV2_Settings_Features_IgnoreDesignations_KidnappingRaiders_Tip>
+  <RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching>目标切换</RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching>
+  <RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching_Tip>注意：启用后，捕食者可能中途改变目标（例如从享乐变为消化）。</RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching_Tip>
+  <RV2_Settings_Features_AlwaysShowDesignationGizmos>始终显示个人菜单</RV2_Settings_Features_AlwaysShowDesignationGizmos>
+  <RV2_Settings_Features_AlwaysShowDesignationGizmos_Tip>默认仅对玩家控制的角色显示个人菜单设置。</RV2_Settings_Features_AlwaysShowDesignationGizmos_Tip>
+  <RV2_Settings_Features_AddVoredPawnsToColonistBar>将体内殖民者加入列表</RV2_Settings_Features_AddVoredPawnsToColonistBar>
+  <RV2_Settings_Features_AddVoredPawnsToColonistBar_Tip>被吞噬的殖民者会显示在顶部列表中。</RV2_Settings_Features_AddVoredPawnsToColonistBar_Tip>
+  
+  <!-- 设置：精细调整 -->
+  <RV2_Settings_FineTuning_Header_VoreProposals>提议</RV2_Settings_FineTuning_Header_VoreProposals>
+  <RV2_Settings_FineTuning_Header_Misc>其他</RV2_Settings_FineTuning_Header_Misc>
+  <RV2_Settings_FineTuning_Header_AutoVore>自动吞噬</RV2_Settings_FineTuning_Header_AutoVore>
+  <RV2_Settings_FineTuning_Header_Feeding>喂食</RV2_Settings_FineTuning_Header_Feeding>
+  <RV2_Settings_FineTuning_Header_Struggling>挣扎</RV2_Settings_FineTuning_Header_Struggling>
+  
+  <RV2_Settings_FineTuning_ForbidDigestedCorpse>忽略遗骸</RV2_Settings_FineTuning_ForbidDigestedCorpse>
+  <RV2_Settings_FineTuning_ForbidDigestedCorpse_Tip>自动禁止使用消化后的遗骸，避免收集无用的骨骼。</RV2_Settings_FineTuning_ForbidDigestedCorpse_Tip>
+  <RV2_Settings_FineTuning_DefaultStripBehaviour>默认脱衣行为</RV2_Settings_FineTuning_DefaultStripBehaviour>
+  <RV2_Settings_FineTuning_DefaultStripBehaviour_Tip>当捕食者和猎物均无倾向时，决定是否脱衣。</RV2_Settings_FineTuning_DefaultStripBehaviour_Tip>
+  <RV2_Settings_FineTuning_AutoHaulVoreContainer>自动搬运消化容器</RV2_Settings_FineTuning_AutoHaulVoreContainer>
+  <RV2_Settings_FineTuning_AutoHaulVoreContainer_Tip>消化容器生成后自动设置为搬运状态。</RV2_Settings_FineTuning_AutoHaulVoreContainer_Tip>
+  <RV2_Settings_FineTuning_AutoOpenVoreContainer>自动打开消化容器</RV2_Settings_FineTuning_AutoOpenVoreContainer>
+  <RV2_Settings_FineTuning_AutoOpenVoreContainer_Tip>消化容器生成后自动设置为打开状态。</RV2_Settings_FineTuning_AutoOpenVoreContainer_Tip>
+  <RV2_Settings_FineTuning_ForbidNonFactionVoreContainer>忽略无关消化容器</RV2_Settings_FineTuning_ForbidNonFactionVoreContainer>
+  <RV2_Settings_FineTuning_ForbidNonFactionVoreContainer_Tip>忽略与玩家派系无关的消化容器。</RV2_Settings_FineTuning_ForbidNonFactionVoreContainer_Tip>
+  <RV2_Settings_FineTuning_ReformHumanoidsAsNewborn>重生为新生儿</RV2_Settings_FineTuning_ReformHumanoidsAsNewborn>
+  <RV2_Settings_FineTuning_ReformHumanoidsAsNewborn_Tip>关闭时，被吞噬者重生后会设置为最低吞噬年龄。</RV2_Settings_FineTuning_ReformHumanoidsAsNewborn_Tip>
+  <RV2_Settings_FineTuning_SkipWarmupWhenAlreadyDigesting>消化中跳过准备时间</RV2_Settings_FineTuning_SkipWarmupWhenAlreadyDigesting>
+  <RV2_Settings_FineTuning_SkipWarmupWhenAlreadyDigesting_Tip>捕食者正在消化时，新猎物会立即开始消化。</RV2_Settings_FineTuning_SkipWarmupWhenAlreadyDigesting_Tip>
+  <RV2_Settings_FineTuning_ManhuntersVoreDownedPawns>狂怒者吞噬倒地角色</RV2_Settings_FineTuning_ManhuntersVoreDownedPawns>
+  <RV2_Settings_FineTuning_ManhuntersVoreDownedPawns_Tip>狂怒状态的角色会吞噬未死亡的倒地角色。</RV2_Settings_FineTuning_ManhuntersVoreDownedPawns_Tip>
+  <RV2_Settings_FineTuning_HuntingAnimalsVoreChance>动物狩猎吞噬概率</RV2_Settings_FineTuning_HuntingAnimalsVoreChance>
+  <RV2_Settings_FineTuning_HuntingAnimalsVoreChance_Tip>动物在狩猎时尝试吞噬的概率。</RV2_Settings_FineTuning_HuntingAnimalsVoreChance_Tip>
+  <RV2_Settings_FineTuning_FailedTameVoreChance>驯服失败吞噬概率</RV2_Settings_FineTuning_FailedTameVoreChance>
+  <RV2_Settings_FineTuning_FailedTameVoreChance_Tip>驯服失败时被动物吞噬的概率。</RV2_Settings_FineTuning_FailedTameVoreChance_Tip>
+  <RV2_Settings_FineTuning_RaiderVorenappingChance>袭击者绑架吞噬概率</RV2_Settings_FineTuning_RaiderVorenappingChance>
+  <RV2_Settings_FineTuning_RaiderVorenappingChance_Tip>敌对派系角色尝试绑架时使用吞噬的概率。</RV2_Settings_FineTuning_RaiderVorenappingChance_Tip>
+  <RV2_Settings_FineTuning_MinVoreProposalCooldown>提议冷却下限</RV2_Settings_FineTuning_MinVoreProposalCooldown>
+  <RV2_Settings_FineTuning_MaxVoreProposalCooldown>提议冷却上限</RV2_Settings_FineTuning_MaxVoreProposalCooldown>
+  <RV2_Settings_FineTuning_VoreProposalCooldown_Tip>提议后的冷却时间范围。</RV2_Settings_FineTuning_VoreProposalCooldown_Tip>
+  <RV2_Settings_FineTuning_ExplainedProposalCooldown>提议冷却（游戏内时间）：{0} - {1}</RV2_Settings_FineTuning_ExplainedProposalCooldown>
+  <RV2_Settings_FineTuning_ExplainedProposalCooldown_Tip>实际时间（正常速度）：\n{0}\n至\n{1}</RV2_Settings_FineTuning_ExplainedProposalCooldown_Tip>
+  <RV2_Settings_FineTuning_ProposalTimeTicks>提议执行时间</RV2_Settings_FineTuning_ProposalTimeTicks>
+  <RV2_Settings_FineTuning_ProposalTimeTicks_Tip>发起或响应提议所需的时间。</RV2_Settings_FineTuning_ProposalTimeTicks_Tip>
+  <RV2_Settings_FineTuning_ForcedVoreChanceOnFailedProposal>提议失败强制吞噬概率：</RV2_Settings_FineTuning_ForcedVoreChanceOnFailedProposal>
+  <RV2_Settings_FineTuning_ForcedVoreChanceOnFailedProposal_Tip>提议被拒绝时，强制进行吞噬的基础概率。</RV2_Settings_FineTuning_ForcedVoreChanceOnFailedProposal_Tip>
+  <RV2_Settings_FineTuning_PrisonersMustConsentToProposal>囚犯需同意提议</RV2_Settings_FineTuning_PrisonersMustConsentToProposal>
+  <RV2_Settings_FineTuning_PrisonersMustConsentToProposal_Tip>囚犯几乎总是可以拒绝提议。</RV2_Settings_FineTuning_PrisonersMustConsentToProposal_Tip>
+  <RV2_Settings_FineTuning_SlavesMustConsentToProposal>奴隶需同意提议</RV2_Settings_FineTuning_SlavesMustConsentToProposal>
+  <RV2_Settings_FineTuning_SlavesMustConsentToProposal_Tip>奴隶几乎总是可以拒绝提议。</RV2_Settings_FineTuning_SlavesMustConsentToProposal_Tip>
+  <RV2_Settings_FineTuning_AutoAcceptAnimal>高动物技能自动接受</RV2_Settings_FineTuning_AutoAcceptAnimal>
+  <RV2_Settings_FineTuning_AutoAcceptAnimal_Tip>动物技能高的角色会自动接受动物吞噬提议。</RV2_Settings_FineTuning_AutoAcceptAnimal_Tip>
+  <RV2_Settings_FineTuning_AutoAcceptAnimalSkill>自动接受所需动物技能</RV2_Settings_FineTuning_AutoAcceptAnimalSkill>
+  <RV2_Settings_FineTuning_AutoAcceptAnimalSkill_Tip>达到此技能值的角色必定成功对动物提议。</RV2_Settings_FineTuning_AutoAcceptAnimalSkill_Tip>
+  <RV2_Settings_FineTuning_AutoAcceptSocial>高社交技能自动接受</RV2_Settings_FineTuning_AutoAcceptSocial>
+  <RV2_Settings_FineTuning_AutoAcceptSocial_Tip>社交技能远高于对方时自动接受人类吞噬提议。</RV2_Settings_FineTuning_AutoAcceptSocial_Tip>
+  <RV2_Settings_FineTuning_AutoAcceptSocialSkillDifference>自动接受技能差</RV2_Settings_FineTuning_AutoAcceptSocialSkillDifference>
+  <RV2_Settings_FineTuning_AutoAcceptSocialSkillDifference_Tip>自身社交技能减去对方技能后达到此值时必定成功。</RV2_Settings_FineTuning_AutoAcceptSocialSkillDifference_Tip>
+  <RV2_Settings_FineTuning_ProposalDeniedNotification>提议被拒通知</RV2_Settings_FineTuning_ProposalDeniedNotification>
+  <RV2_Settings_FineTuning_ProposalAcceptedNotification>提议接受通知</RV2_Settings_FineTuning_ProposalAcceptedNotification>
+  <RV2_Settings_FineTuning_FatalProposalAcceptedNotification>致命提议接受通知</RV2_Settings_FineTuning_FatalProposalAcceptedNotification>
+  <RV2_Settings_FineTuning_UnwrapOnDisposalContainerRelease>容器清空时分解遗骸</RV2_Settings_FineTuning_UnwrapOnDisposalContainerRelease>
+  <RV2_Settings_FineTuning_UnwrapOnDisposalContainerRelease_Tip>清空容器时是否自动分解遗骸。</RV2_Settings_FineTuning_UnwrapOnDisposalContainerRelease_Tip>
+  <RV2_Settings_FineTuning_MentalBreaksUseAutoVoreRules>精神崩溃使用自动吞噬规则</RV2_Settings_FineTuning_MentalBreaksUseAutoVoreRules>
+  <RV2_Settings_FineTuning_MentalBreaksUseAutoVoreRules_Tip>精神崩溃时应用自动吞噬设置。</RV2_Settings_FineTuning_MentalBreaksUseAutoVoreRules_Tip>
+  <RV2_Settings_FineTuning_StruggleBreakFreeNotification>挣扎逃脱通知</RV2_Settings_FineTuning_StruggleBreakFreeNotification>
+  <RV2_Settings_FineTuning_DefaultStruggleForceMode>默认挣扎模式</RV2_Settings_FineTuning_DefaultStruggleForceMode>
+  <RV2_Settings_FineTuning_DefaultStruggleForceMode_Tip>挣扎模式的默认值。</RV2_Settings_FineTuning_DefaultStruggleForceMode_Tip>
+  <RV2_Settings_FineTuning_FeederVoreMinPrey>喂食最小猎物数</RV2_Settings_FineTuning_FeederVoreMinPrey>
+  <RV2_Settings_FineTuning_FeederVoreMinPrey_Tip>喂食者携带的最小猎物数量。</RV2_Settings_FineTuning_FeederVoreMinPrey_Tip>
+  <RV2_Settings_FineTuning_FeederVoreMaxPrey>喂食最大猎物数</RV2_Settings_FineTuning_FeederVoreMaxPrey>
+  <RV2_Settings_FineTuning_FeederVoreMaxPrey_Tip>喂食者携带的最大猎物数量。</RV2_Settings_FineTuning_FeederVoreMaxPrey_Tip>
+  <RV2_Settings_FineTuning_StrugglingCreatesInteractions>记录挣扎日志</RV2_Settings_FineTuning_StrugglingCreatesInteractions>
+  <RV2_Settings_FineTuning_StrugglingCreatesInteractions_Tip>每次挣扎都会记录日志，可能占用空间。</RV2_Settings_FineTuning_StrugglingCreatesInteractions_Tip>
+  <RV2_Settings_FineTuning_UseAlternativeMainVoreIcon>替代吞噬图标</RV2_Settings_FineTuning_UseAlternativeMainVoreIcon>
+  <RV2_Settings_FineTuning_UseAlternativeMainVoreIcon_Tip>可能更适合某些场合。</RV2_Settings_FineTuning_UseAlternativeMainVoreIcon_Tip>
+  <RV2_Settings_FineTuning_GoalSwitchNotification>目标变更通知</RV2_Settings_FineTuning_GoalSwitchNotification>
+  <RV2_Settings_FineTuning_FailedTameVoreNotification>驯服失败吞噬通知</RV2_Settings_FineTuning_FailedTameVoreNotification>
+  <RV2_Settings_FineTuning_EjectStunDuration>排出眩晕时间</RV2_Settings_FineTuning_EjectStunDuration>
+  <RV2_Settings_FineTuning_EjectStunDuration_Tip>逃脱或旅行结束时的眩晕时间。</RV2_Settings_FineTuning_EjectStunDuration_Tip>
+  <RV2_Settings_FineTuning_BlockProposalInitiationDuringWorkTime>工作时间禁止自动吞噬</RV2_Settings_FineTuning_BlockProposalInitiationDuringWorkTime>
+  <RV2_Settings_FineTuning_BlockProposalInitiationDuringWorkTime_Tip>工作时间不发起吞噬提议。</RV2_Settings_FineTuning_BlockProposalInitiationDuringWorkTime_Tip>
+  <RV2_Settings_FineTuning_AllowVisitorsAsAutoProposalTargets>允许访客作为自动吞噬目标</RV2_Settings_FineTuning_AllowVisitorsAsAutoProposalTargets>
+  <RV2_Settings_FineTuning_AllowVisitorsAsAutoProposalTargets_Tip>默认仅限殖民地和家畜。</RV2_Settings_FineTuning_AllowVisitorsAsAutoProposalTargets_Tip>
+  <RV2_Settings_FineTuning_AllowWildAnimalAsAutoProposalTargets>允许野生动物作为自动吞噬目标</RV2_Settings_FineTuning_AllowWildAnimalAsAutoProposalTargets>
+  <RV2_Settings_FineTuning_AllowWildAnimalAsAutoProposalTargets_Tip>默认仅限殖民地和家畜。</RV2_Settings_FineTuning_AllowWildAnimalAsAutoProposalTargets_Tip>
+  <RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal>肉食动物仅消化</RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal>
+  <RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal_Tip>肉食动物（如狼、狐狸）只会进行致命吞噬。</RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal_Tip>
+  <RV2_Settings_FineTuning_ProposalRange>提议有效范围</RV2_Settings_FineTuning_ProposalRange>
+  <RV2_Settings_FineTuning_ProposalRange_Tip>自动吞噬的目标范围。</RV2_Settings_FineTuning_ProposalRange_Tip>
+  
+  <!-- 设置：音效 -->
+  <RV2_Settings_Sounds_SoundsEnabled>启用音效</RV2_Settings_Sounds_SoundsEnabled>
+  <RV2_Settings_Sounds_SoundVolumeModifier>音量调整</RV2_Settings_Sounds_SoundVolumeModifier>
+  
+  <!-- 设置：作弊 -->
+  <RV2_Settings_Cheats_VoreSpeedMultiplier>吞噬速度系数</RV2_Settings_Cheats_VoreSpeedMultiplier>
+  <RV2_Settings_Cheats_VoreSpeedMultiplier_Tip>调整吞噬相关速度。</RV2_Settings_Cheats_VoreSpeedMultiplier_Tip>
+  <RV2_Settings_Cheats_BodySizeToVoreCapacity>体型与容量比率</RV2_Settings_Cheats_BodySizeToVoreCapacity>
+  <RV2_Settings_Cheats_BodySizeToVoreCapacity_Tip>体型与吞噬容量的换算比率。</RV2_Settings_Cheats_BodySizeToVoreCapacity_Tip>
+  <RV2_Settings_Cheats_MinimumVoreCapacity>最小吞噬容量</RV2_Settings_Cheats_MinimumVoreCapacity>
+  <RV2_Settings_Cheats_MinimumVoreCapacity_Tip>所有角色的最低吞噬容量。</RV2_Settings_Cheats_MinimumVoreCapacity_Tip>
+  <RV2_Settings_Cheats_BaseInitAsPredatorChance>初始捕食者概率</RV2_Settings_Cheats_BaseInitAsPredatorChance>
+  <RV2_Settings_Cheats_BaseInitAsPredatorChance_Tip>角色初始成为捕食者的基础概率。</RV2_Settings_Cheats_BaseInitAsPredatorChance_Tip>
+  <RV2_Settings_Cheats_BaseStripChance>脱衣基础概率</RV2_Settings_Cheats_BaseStripChance>
+  <RV2_Settings_Cheats_BaseStripChance_Tip>吞噬时脱衣的随机概率。</RV2_Settings_Cheats_BaseStripChance_Tip>
+  <RV2_Settings_Cheats_FallbackNutritionValue>默认营养值</RV2_Settings_Cheats_FallbackNutritionValue>
+  <RV2_Settings_Cheats_FallbackNutritionValue_Tip>无法计算营养值时使用的默认值。</RV2_Settings_Cheats_FallbackNutritionValue_Tip>
+  <RV2_Settings_Cheats_PreventStarvingPrey>防止猎物饥饿</RV2_Settings_Cheats_PreventStarvingPrey>
+  <RV2_Settings_Cheats_PreventStarvingPrey_Tip>防止猎物因饥饿死亡。</RV2_Settings_Cheats_PreventStarvingPrey_Tip>
+  <RV2_Settings_Cheats_PreventDrainingPredatorFood>不消耗捕食者食物</RV2_Settings_Cheats_PreventDrainingPredatorFood>
+  <RV2_Settings_Cheats_PreventDrainingPredatorFood_Tip>猎物不从捕食者处获取营养。</RV2_Settings_Cheats_PreventDrainingPredatorFood_Tip>
+  <RV2_Settings_Cheats_CanStealFromNullNeed>从无需求处获取</RV2_Settings_Cheats_CanStealFromNullNeed>
+  <RV2_Settings_Cheats_CanStealFromNullNeed_Tip>允许从无需求的角色处获取需求值。</RV2_Settings_Cheats_CanStealFromNullNeed_Tip>
+  <RV2_Settings_Cheats_InternalTemperature>默认体内温度：</RV2_Settings_Cheats_InternalTemperature>
+  <RV2_Settings_Cheats_InternalTemperature_Tip>捕食者体内的默认温度。</RV2_Settings_Cheats_InternalTemperature_Tip>
+  <RV2_Settings_Cheats_AcidSavingThrowChance>部位免消化概率</RV2_Settings_Cheats_AcidSavingThrowChance>
+  <RV2_Settings_Cheats_AcidSavingThrowChance_Tip>被消化时部位免于破坏的概率。</RV2_Settings_Cheats_AcidSavingThrowChance_Tip>
+  <RV2_Settings_Cheats_AcidPityHealthFactor>免消化部位伤害</RV2_Settings_Cheats_AcidPityHealthFactor>
+  <RV2_Settings_Cheats_AcidPityHealthFactor_Tip>免消化部位的伤害比例。</RV2_Settings_Cheats_AcidPityHealthFactor_Tip>
+  <RV2_Settings_Cheats_AcidImplantDamage>植入物伤害</RV2_Settings_Cheats_AcidImplantDamage>
+  <RV2_Settings_Cheats_AcidImplantDamage_Tip>消化对人造部件的伤害比例。</RV2_Settings_Cheats_AcidImplantDamage_Tip>
+  <RV2_Settings_Cheats_ReformedPawnTraitCount>重生角色特性数量</RV2_Settings_Cheats_ReformedPawnTraitCount>
+  <RV2_Settings_Cheats_ReformedPawnTraitCount_Tip>重生角色继承的特性数量。</RV2_Settings_Cheats_ReformedPawnTraitCount_Tip>
+  <RV2_Settings_Cheats_BaseProposalAcceptanceChance>提议接受基础概率</RV2_Settings_Cheats_BaseProposalAcceptanceChance>
+  <RV2_Settings_Cheats_BaseProposalAcceptanceChance_Tip>吞噬提议的基础接受概率。</RV2_Settings_Cheats_BaseProposalAcceptanceChance_Tip>
+  <RV2_Settings_Cheats_MaxProposalModifierViaQuirks>倾向最大影响</RV2_Settings_Cheats_MaxProposalModifierViaQuirks>
+  <RV2_Settings_Cheats_MaxProposalModifierViaQuirks_Tip>倾向对接受概率的最大影响值。</RV2_Settings_Cheats_MaxProposalModifierViaQuirks_Tip>
+  <RV2_Settings_Cheats_ProposalModifierPerPreference>倾向影响系数</RV2_Settings_Cheats_ProposalModifierPerPreference>
+  <RV2_Settings_Cheats_ProposalModifierPerPreference_Tip>每个倾向对接受概率的影响。</RV2_Settings_Cheats_ProposalModifierPerPreference_Tip>
+  <RV2_Settings_Cheats_MaxPawnTraits>角色最大特性数</RV2_Settings_Cheats_MaxPawnTraits>
+  <RV2_Settings_Cheats_MaxPawnTraits_Tip>角色通过吞噬获取特性的上限。</RV2_Settings_Cheats_MaxPawnTraits_Tip>
+  <RV2_Settings_Cheats_TraitStealIgnoresLearningFactor>忽略学习系数</RV2_Settings_Cheats_TraitStealIgnoresLearningFactor>
+  <RV2_Settings_Cheats_TraitStealIgnoresLearningFactor_Tip>从其他角色获取经验时忽略学习兴趣。</RV2_Settings_Cheats_TraitStealIgnoresLearningFactor_Tip>
+  <RV2_Settings_Cheats_DisableFactionImpact>忽略派系影响</RV2_Settings_Cheats_DisableFactionImpact>
+  <RV2_Settings_Cheats_DisableFactionImpact_Tip>致命吞噬不影响派系关系。</RV2_Settings_Cheats_DisableFactionImpact_Tip>
+  <RV2_Settings_Cheats_ImplantDestructionChance>植入物破坏概率</RV2_Settings_Cheats_ImplantDestructionChance>
+  <RV2_Settings_Cheats_ImplantDestructionChance_Tip>消化时植入物被破坏的基础概率。</RV2_Settings_Cheats_ImplantDestructionChance_Tip>
+  <RV2_Settings_Cheats_DisableMentalStateChecks>禁用精神状态检查</RV2_Settings_Cheats_DisableMentalStateChecks>
+  <RV2_Settings_Cheats_DisableMentalStateChecks_Tip>允许玩家控制精神状态异常的吞噬行为。</RV2_Settings_Cheats_DisableMentalStateChecks_Tip>
+  <RV2_Settings_Cheats_AllowSelfVoreJumpOnPlayerForcedVore>允许强制吞噬目标切换</RV2_Settings_Cheats_AllowSelfVoreJumpOnPlayerForcedVore>
+  <RV2_Settings_Cheats_AllowSelfVoreJumpOnPlayerForcedVore_Tip>玩家指令的吞噬也允许目标切换。</RV2_Settings_Cheats_AllowSelfVoreJumpOnPlayerForcedVore_Tip>
+  <RV2_Settings_Cheats_ExternalEjectAlwaysSucceeds>外部排出总是成功</RV2_Settings_Cheats_ExternalEjectAlwaysSucceeds>
+  <RV2_Settings_Cheats_ExternalEjectAlwaysSucceeds_Tip>强制排出猎物时无视概率。</RV2_Settings_Cheats_ExternalEjectAlwaysSucceeds_Tip>
+  <RV2_Settings_Cheats_AllowMultipleExternalEjectAttempts>允许多次排出尝试</RV2_Settings_Cheats_AllowMultipleExternalEjectAttempts>
+  <RV2_Settings_Cheats_AllowMultipleExternalEjectAttempts_Tip>默认只能尝试一次。</RV2_Settings_Cheats_AllowMultipleExternalEjectAttempts_Tip>
+
+  <RV2_Settings_General_DisplayUnavailableRMBOptions>显示无效右键选项</RV2_Settings_General_DisplayUnavailableRMBOptions>
+  <RV2_Settings_General_DisplayUnavailableRMBOptions_Tip>右键菜单中显示不可用选项及其原因。</RV2_Settings_General_DisplayUnavailableRMBOptions_Tip>
+  <RV2_Settings_General_ResetAllSettings>重置所有设置</RV2_Settings_General_ResetAllSettings>
+  <RV2_Settings_General_ResetGeneralSettings>重置基本设置</RV2_Settings_General_ResetGeneralSettings>
+  <RV2_Settings_General_FeederVore_Tip>将角色标记为猎物，由第三方喂给捕食者。</RV2_Settings_General_FeederVore_Tip>
+
+  <!-- 设置：意识形态 -->
+  <RV2_Settings_Ideology_AutoVoreInterceptChance>忽略角色适合性概率</RV2_Settings_Ideology_AutoVoreInterceptChance>
+  <RV2_Settings_Ideology_AutoVoreInterceptChance_Tip>强制角色按意识形态角色进行吞噬的概率。</RV2_Settings_Ideology_AutoVoreInterceptChance_Tip>
+  <RV2_Settings_Ideology_VoreFeastProposalAcceptanceModifier>仪式提议系数</RV2_Settings_Ideology_VoreFeastProposalAcceptanceModifier>
+  <RV2_Settings_Ideology_VoreFeastProposalAcceptanceModifier_Tip>调整仪式中吞噬提议的接受概率和速度。</RV2_Settings_Ideology_VoreFeastProposalAcceptanceModifier_Tip>
+
+  <!-- 设置：战斗 -->
+  <RV2_Settings_Combat_GrappleVerbSelectionBaseChance>基础抓取概率</RV2_Settings_Combat_GrappleVerbSelectionBaseChance>
+  <RV2_Settings_Combat_GrappleVerbSelectionBaseChance_Tip>近战中选择抓取的基础概率（%）。</RV2_Settings_Combat_GrappleVerbSelectionBaseChance_Tip>
+  <RV2_Settings_Combat_GrappleVerbSelectionMaxChance>抓取最大概率</RV2_Settings_Combat_GrappleVerbSelectionMaxChance>
+  <RV2_Settings_Combat_GrappleVerbSelectionMaxChance_Tip>抓取概率的上限值。</RV2_Settings_Combat_GrappleVerbSelectionMaxChance_Tip>
+  <RV2_Settings_Combat_GrappleStrengthMeleeSkillDivider>近战技能系数</RV2_Settings_Combat_GrappleStrengthMeleeSkillDivider>
+  <RV2_Settings_Combat_GrappleStrengthMeleeSkillDivider_Tip>计算抓取力量的技能系数。</RV2_Settings_Combat_GrappleStrengthMeleeSkillDivider_Tip>
+  <RV2_Settings_Combat_UseAutoRules>使用自动吞噬规则</RV2_Settings_Combat_UseAutoRules>
+  <RV2_Settings_Combat_UseAutoRules_Tip>抓取判定中应用自动吞噬规则。</RV2_Settings_Combat_UseAutoRules_Tip>
+  <RV2_Settings_Combat_DefaultRequiredStruggles>默认所需挣扎次数</RV2_Settings_Combat_DefaultRequiredStruggles>
+  <RV2_Settings_Combat_DefaultRequiredStruggles_Tip>逃脱所需的默认挣扎次数。</RV2_Settings_Combat_DefaultRequiredStruggles_Tip>
+  <RV2_Settings_Combat_DefaultStruggleChance>默认挣扎成功率</RV2_Settings_Combat_DefaultStruggleChance>
+  <RV2_Settings_Combat_DefaultStruggleChance_Tip>每次挣扎造成伤害的概率。</RV2_Settings_Combat_DefaultStruggleChance_Tip>
+  <RV2_Settings_Combat_GrapplePawnsShareCell>抓取共享单元格</RV2_Settings_Combat_GrapplePawnsShareCell>
+  <RV2_Settings_Combat_GrapplePawnsShareCell_Tip>抓取时双方共享同一单元格。</RV2_Settings_Combat_GrapplePawnsShareCell_Tip>
+  <RV2_Settings_Combat_GrappleFailureStunDuration>抓取失败眩晕时间</RV2_Settings_Combat_GrappleFailureStunDuration>
+  <RV2_Settings_Combat_GrappleFailureStunDuration_Tip>抓取失败后的眩晕时间（单位：刻）。</RV2_Settings_Combat_GrappleFailureStunDuration_Tip>
+  <RV2_Settings_Combat_UseGrappleGizmoEnabled>添加“抓取”个人菜单</RV2_Settings_Combat_UseGrappleGizmoEnabled>
+  <RV2_Settings_Combat_ToggleGrappleGizmoEnabled>添加“自动抓取”个人菜单</RV2_Settings_Combat_ToggleGrappleGizmoEnabled>
+  <RV2_Settings_Combat_GrappleCanTimeout>抓取超时</RV2_Settings_Combat_GrappleCanTimeout>
+  <RV2_Settings_Combat_GrappleCanTimeout_Tip>抓取超时后自动失败。</RV2_Settings_Combat_GrappleCanTimeout_Tip>
+  <RV2_Settings_Combat_GrappleTimeoutTicks>抓取超时时间</RV2_Settings_Combat_GrappleTimeoutTicks>
+  <RV2_Settings_Combat_GrappleTimeoutTicks_Tip>抓取的最大持续时间（单位：刻）。</RV2_Settings_Combat_GrappleTimeoutTicks_Tip>
+  
+  <RV2_Settings_Combat_GrappleTimeoutExplanation>抓取将在{0}后超时</RV2_Settings_Combat_GrappleTimeoutExplanation>
+  
+  <!-- 脱衣枚举 -->
+  <RV2_Settings_General_StrippingRandom>随机</RV2_Settings_General_StrippingRandom>
+  <RV2_Settings_General_StrippingRandom_Tip>50%概率脱衣</RV2_Settings_General_StrippingRandom_Tip>
+  <RV2_Settings_General_StrippingAlways>总是脱衣</RV2_Settings_General_StrippingAlways>
+  <RV2_Settings_General_StrippingAlways_Tip>默认脱衣</RV2_Settings_General_StrippingAlways_Tip>
+  <RV2_Settings_General_StrippingNever>从不脱衣</RV2_Settings_General_StrippingNever>
+  <RV2_Settings_General_StrippingNever_Tip>默认不脱衣</RV2_Settings_General_StrippingNever_Tip>
+
+  <!-- 通知类型枚举 -->
+  <RV2_Settings_MessageNeutral>普通提醒</RV2_Settings_MessageNeutral>
+  <RV2_Settings_MessageThreatSmall>警告提醒</RV2_Settings_MessageThreatSmall>
+  <RV2_Settings_MessageThreatBig>威胁提醒</RV2_Settings_MessageThreatBig>
+  <RV2_Settings_Letter>灰色消息</RV2_Settings_Letter>
+  <RV2_Settings_LetterThreatSmall>红色消息</RV2_Settings_LetterThreatSmall>
+  <RV2_Settings_LetterThreatBig>袭击消息</RV2_Settings_LetterThreatBig>
+
+  <!-- 指定 -->
+  <RV2_Settings_Designations_Category>RimVore-2 [B] 指定</RV2_Settings_Designations_Category>
+  <RV2_Settings_Designations_ResetDesignations>重置指定</RV2_Settings_Designations_ResetDesignations>
+  <RV2_Settings_Designations_MinimumAge>吞噬最低年龄</RV2_Settings_Designations_MinimumAge>
+  <RV2_Settings_Designations_ColonyRelationOptions>角色默认</RV2_Settings_Designations_ColonyRelationOptions>
+  <RV2_Settings_Designations_RaceVoreOptions>自定义种族覆盖</RV2_Settings_Designations_RaceVoreOptions>
+  <RV2_Settings_Designations_AnimalVoreOptions>动物覆盖</RV2_Settings_Designations_AnimalVoreOptions>
+  <RV2_Settings_Designations_NoHAR>未加载人形外星种族</RV2_Settings_Designations_NoHAR>
+
+  <!-- 指定列表项 -->
+  <RV2_Settings_Designations_DesignatedPredator>是捕食者</RV2_Settings_Designations_DesignatedPredator>
+  <RV2_Settings_Designations_DesignatedEndoPrey>是非致命猎物</RV2_Settings_Designations_DesignatedEndoPrey>
+  <RV2_Settings_Designations_DesignatedFatalPrey>是致命猎物</RV2_Settings_Designations_DesignatedFatalPrey>
+  <RV2_Settings_Designations_IgnoreMinimumAge>忽略最低年龄</RV2_Settings_Designations_IgnoreMinimumAge>
+
+  <!-- 关系键 -->
+  <RV2_Settings_Designations_RelationKey_Base>基础</RV2_Settings_Designations_RelationKey_Base>
+  <RV2_Settings_Designations_RelationKey_Colonist>殖民者</RV2_Settings_Designations_RelationKey_Colonist>
+  <RV2_Settings_Designations_RelationKey_TemporaryColonist>临时殖民者</RV2_Settings_Designations_RelationKey_TemporaryColonist>
+  <RV2_Settings_Designations_RelationKey_Prisoner>囚犯</RV2_Settings_Designations_RelationKey_Prisoner>
+  <RV2_Settings_Designations_RelationKey_Raider>袭击者</RV2_Settings_Designations_RelationKey_Raider>
+  <RV2_Settings_Designations_RelationKey_Visitor>访客</RV2_Settings_Designations_RelationKey_Visitor>
+  <RV2_Settings_Designations_RelationKey_Trader>商人</RV2_Settings_Designations_RelationKey_Trader>
+  <RV2_Settings_Designations_RelationKey_Mechanoid>机械族</RV2_Settings_Designations_RelationKey_Mechanoid>
+  <RV2_Settings_Designations_RelationKey_WildAnimal>野生动物</RV2_Settings_Designations_RelationKey_WildAnimal>
+  <RV2_Settings_Designations_RelationKey_ColonyAnimal>家畜</RV2_Settings_Designations_RelationKey_ColonyAnimal>
+  <RV2_Settings_Designations_RelationKey_WildMan>野人</RV2_Settings_Designations_RelationKey_WildMan>
+
+  <!-- 倾向 -->
+  <RV2_Settings_Quirks_Category>RimVore-2 [C] 倾向</RV2_Settings_Quirks_Category>
+  <RV2_Settings_Quirks_Pools_Header>倾向池</RV2_Settings_Quirks_Pools_Header>
+  <RV2_Settings_Quirks_PoolInfo_Header>倾向池信息</RV2_Settings_Quirks_PoolInfo_Header>
+  <RV2_Settings_Quirks_QuirkInfo_Header>倾向信息</RV2_Settings_Quirks_QuirkInfo_Header>
+  <RV2_Settings_Quirks_ResetQuirks>重置倾向和池</RV2_Settings_Quirks_ResetQuirks>
+  <RV2_Settings_ResetAllRaritiesPoolList>重置所有池内倾向稀有度</RV2_Settings_ResetAllRaritiesPoolList>
+  <RV2_Settings_ResetAllRaritiesPool>重置池内倾向稀有度</RV2_Settings_ResetAllRaritiesPool>
+  <RV2_Settings_SetAllRaritiesPool>设置池内倾向稀有度</RV2_Settings_SetAllRaritiesPool>
+  <RV2_Settings_SetAllRaritiesPool_Tip>此池内所有倾向将应用此稀有度</RV2_Settings_SetAllRaritiesPool_Tip>
+
+  <RV2_Settings_Quirks_PoolInfo_Enabled>启用？</RV2_Settings_Quirks_PoolInfo_Enabled>
+  <RV2_Settings_Quirks_PoolInfo_NoPoolSelected>未选择池</RV2_Settings_Quirks_PoolInfo_NoPoolSelected>
+  <RV2_Settings_Quirks_PoolInfo_PoolName>名称：</RV2_Settings_Quirks_PoolInfo_PoolName>
+  <RV2_Settings_Quirks_PoolInfo_PoolType>池类型：</RV2_Settings_Quirks_PoolInfo_PoolType>
+  <RV2_Settings_Quirks_PoolInfo_GenerationOrder>生成顺序：</RV2_Settings_Quirks_PoolInfo_GenerationOrder>
+  <RV2_Settings_Quirks_PoolInfo_Description>描述：</RV2_Settings_Quirks_PoolInfo_Description>
+  <RV2_Settings_Quirks_PoolInfo_Quirks>倾向：</RV2_Settings_Quirks_PoolInfo_Quirks>
+
+  <RV2_Settings_Quirks_QuirkInfo_Enabled>启用？</RV2_Settings_Quirks_QuirkInfo_Enabled>
+  <RV2_Settings_Quirks_QuirkInfo_NoQuirkSelected>未选择倾向</RV2_Settings_Quirks_QuirkInfo_NoQuirkSelected>
+  <RV2_Settings_Quirks_PoolInfo_Chance>概率：</RV2_Settings_Quirks_PoolInfo_Chance>
+  <RV2_Settings_Quirks_PoolInfo_Weight>权重：</RV2_Settings_Quirks_PoolInfo_Weight>
+  <RV2_Settings_Quirks_PoolInfo_Rarity>稀有度：</RV2_Settings_Quirks_PoolInfo_Rarity>
+  <RV2_Settings_Quirks_PoolInfo_Rarity_TipOverriden>此稀有度已修改，非默认值！</RV2_Settings_Quirks_PoolInfo_Rarity_TipOverriden>
+  <RV2_Settings_Quirks_PoolInfo_Rarity_TipDefault>此稀有度为默认值</RV2_Settings_Quirks_PoolInfo_Rarity_TipDefault>
+
+  <RV2_Settings_Quirks_RequiredQuirks>必要倾向：</RV2_Settings_Quirks_RequiredQuirks>
+  <RV2_Settings_Quirks_BlockingQuirks>冲突倾向：</RV2_Settings_Quirks_BlockingQuirks>
+  <RV2_Settings_Quirks_RequiredTraits>必要特性：</RV2_Settings_Quirks_RequiredTraits>
+  <RV2_Settings_Quirks_BlockingTraits>冲突特性：</RV2_Settings_Quirks_BlockingTraits>
+  <RV2_Settings_Quirks_RequiredKeywords>必要关键词：</RV2_Settings_Quirks_RequiredKeywords>
+  <RV2_Settings_Quirks_BlockingKeywords>冲突关键词：</RV2_Settings_Quirks_BlockingKeywords>
+  <RV2_Settings_Quirks_ListNone>无</RV2_Settings_Quirks_ListNone>
+  <RV2_Settings_Quirks_QuirkPoolFilter>倾向池筛选</RV2_Settings_Quirks_QuirkPoolFilter>
+  <RV2_Settings_Quirks_QuirkFilter>倾向/稀有度筛选</RV2_Settings_Quirks_QuirkFilter>
+
+  <!-- 规则 -->
+  <RV2_Settings_Rules_Category>RimVore-2 [B] 规则</RV2_Settings_Rules_Category>
+  <RV2_Settings_Rules_RulesHeader>规则</RV2_Settings_Rules_RulesHeader>
+
+  <RV2_Settings_Rules_Reset>重置规则</RV2_Settings_Rules_Reset>
+  <RV2_Settings_Rules_SavePreset>保存</RV2_Settings_Rules_SavePreset>
+  <RV2_Settings_Rules_LoadPreset>加载</RV2_Settings_Rules_LoadPreset>
+  <RV2_Settings_Rules_RemovePreset>删除预设</RV2_Settings_Rules_RemovePreset>
+  <RV2_Settings_Rules_PresetName>名称：</RV2_Settings_Rules_PresetName>
+  
+  <RV2_Settings_Rules_TargetHeader>目标标准</RV2_Settings_Rules_TargetHeader>
+  <RV2_Settings_Rules_Target_PawnPickerNoMapActive>在野外界面可选择角色作为示例</RV2_Settings_Rules_Target_PawnPickerNoMapActive>
+  <RV2_Settings_Rules_Target_PawnPickerLabel>选中角色：</RV2_Settings_Rules_Target_PawnPickerLabel>
+  <RV2_Settings_Rules_Target_PawnPickerPickNew>选择新角色</RV2_Settings_Rules_Target_PawnPickerPickNew>
+  <RV2_Settings_Rules_Target_PawnPickerUnselect>取消选择</RV2_Settings_Rules_Target_PawnPickerUnselect>
+  <RV2_Settings_Rule_RuleTargetComponent_Inverted>反转条件</RV2_Settings_Rule_RuleTargetComponent_Inverted>
+  <RV2_Settings_Rule_RuleTargetComponent_NewComponent>新增条件</RV2_Settings_Rule_RuleTargetComponent_NewComponent>
+  <RV2_Settings_Rule_RuleTargetComponent_Everyone>所有人</RV2_Settings_Rule_RuleTargetComponent_Everyone>
+  <RV2_Settings_Rule_RuleTargetComponent_ColonyRelation>殖民地关系</RV2_Settings_Rule_RuleTargetComponent_ColonyRelation>
+  <RV2_Settings_Rule_RuleTargetComponent_Race>种族</RV2_Settings_Rule_RuleTargetComponent_Race>
+  <RV2_Settings_Rule_RuleTargetComponent_AnimalRace>动物种族</RV2_Settings_Rule_RuleTargetComponent_AnimalRace>
+  <RV2_Settings_Rule_RuleTargetComponent_Diet>食性</RV2_Settings_Rule_RuleTargetComponent_Diet>
+  <RV2_Settings_Rule_RuleTargetComponent_Gender>性别</RV2_Settings_Rule_RuleTargetComponent_Gender>
+  <RV2_Settings_Rule_RuleTargetComponent_WorkType>工作类型</RV2_Settings_Rule_RuleTargetComponent_WorkType>
+  <RV2_Settings_Rule_RuleTargetComponent_Precept>戒律</RV2_Settings_Rule_RuleTargetComponent_Precept>
+  <RV2_Settings_Rule_RuleTargetComponent_Hediff>身体状况</RV2_Settings_Rule_RuleTargetComponent_Hediff>
+  <RV2_Settings_Rule_RuleTargetComponent_Ability>能力</RV2_Settings_Rule_RuleTargetComponent_Ability>
+  <RV2_Settings_Rule_RuleTargetComponent_Apparel>服装</RV2_Settings_Rule_RuleTargetComponent_Apparel>
+  <RV2_Settings_Rule_RuleTargetComponent_Quirk>倾向</RV2_Settings_Rule_RuleTargetComponent_Quirk>
+  <RV2_Settings_Rule_RuleTargetComponent_RoyalTitle_Faction>派系</RV2_Settings_Rule_RuleTargetComponent_RoyalTitle_Faction>
+  <RV2_Settings_Rule_RuleTargetComponent_RoyalTitle>帝国头衔</RV2_Settings_Rule_RuleTargetComponent_RoyalTitle>
+  <RV2_Settings_Rule_RuleTargetComponent_Xenotype>异种类型</RV2_Settings_Rule_RuleTargetComponent_Xenotype>
+
+  <RV2_Settings_Rule_RuleTargetComponent_Combinator>逻辑关系</RV2_Settings_Rule_RuleTargetComponent_Combinator>
+  <RV2_Settings_Rule_RuleTargetComponent_Combinator_And>同时满足</RV2_Settings_Rule_RuleTargetComponent_Combinator_And>
+  <RV2_Settings_Rule_RuleTargetComponent_Combinator_Or>满足其一</RV2_Settings_Rule_RuleTargetComponent_Combinator_Or>
+
+  <RV2_Settings_Rule_RuleExplanation_NoPawnSelected>选择角色可检查是否符合条件</RV2_Settings_Rule_RuleExplanation_NoPawnSelected>
+  <RV2_Settings_Rule_RuleExplanation_Everyone>适用于所有情况</RV2_Settings_Rule_RuleExplanation_Everyone>
+  <RV2_Settings_Rule_RuleExplanation_ColonyRelation>{0}的关系：{1}</RV2_Settings_Rule_RuleExplanation_ColonyRelation>
+  <RV2_Settings_Rule_RuleExplanation_Race>{0}的种族：{1}</RV2_Settings_Rule_RuleExplanation_Race>
+  <RV2_Settings_Rule_RuleExplanation_NotAnimal>{0}不是动物</RV2_Settings_Rule_RuleExplanation_NotAnimal>
+  <RV2_Settings_Rule_RuleExplanation_AnimalRace>{0}的动物类型：{1}</RV2_Settings_Rule_RuleExplanation_AnimalRace>
+  <RV2_Settings_Rule_RuleExplanation_Diet>{0}的食性：{1}</RV2_Settings_Rule_RuleExplanation_Diet>
+  <RV2_Settings_Rule_RuleExplanation_Gender>{0}的性别：{1}</RV2_Settings_Rule_RuleExplanation_Gender>
+  <RV2_Settings_Rule_RuleExplanation_WorkType_NeverWorks>{0}无法工作</RV2_Settings_Rule_RuleExplanation_WorkType_NeverWorks>
+  <RV2_Settings_Rule_RuleExplanation_WorkType>{0}的工作类型：{1}</RV2_Settings_Rule_RuleExplanation_WorkType>
+  <RV2_Settings_Rule_RuleExplanation_Precept_NoIdeo>{0}无特定意识形态</RV2_Settings_Rule_RuleExplanation_Precept_NoIdeo>
+  <RV2_Settings_Rule_RuleExplanation_Precept>{0}的意识形态{1}包含戒律：{2}</RV2_Settings_Rule_RuleExplanation_Precept>
+  <RV2_Settings_Rule_RuleExplanation_Hediff_NoHealth>{0}无健康状态</RV2_Settings_Rule_RuleExplanation_Hediff_NoHealth>
+  <RV2_Settings_Rule_RuleExplanation_Hediff>{0}的状态：{1}</RV2_Settings_Rule_RuleExplanation_Hediff>
+  <RV2_Settings_Rule_RuleExplanation_Ability_NoAbilities>{0}无能力</RV2_Settings_Rule_RuleExplanation_Ability_NoAbilities>
+  <RV2_Settings_Rule_RuleExplanation_Ability>{0}的能力：{1}</RV2_Settings_Rule_RuleExplanation_Ability>
+  <RV2_Settings_Rule_RuleExplanation_Apparel_NoApparel>{0}未着装</RV2_Settings_Rule_RuleExplanation_Apparel_NoApparel>
+  <RV2_Settings_Rule_RuleExplanation_Apparel>{0}的服装：{1}</RV2_Settings_Rule_RuleExplanation_Apparel>
+  <RV2_Settings_Rule_RuleExplanation_Quirk_NoQuirks>{0}无倾向</RV2_Settings_Rule_RuleExplanation_Quirk_NoQuirks>
+  <RV2_Settings_Rule_RuleExplanation_Quirk>{0}的倾向：{1}</RV2_Settings_Rule_RuleExplanation_Quirk>
+  <RV2_Settings_Rule_RuleExplanation_RoyalTitle_NoTitle>{0}无头衔</RV2_Settings_Rule_RuleExplanation_RoyalTitle_NoTitle>
+  <RV2_Settings_Rule_RuleExplanation_RoyalTitle>{0}的头衔：{1}</RV2_Settings_Rule_RuleExplanation_RoyalTitle>
+  <RV2_Settings_Rule_RuleExplanation_NoXenotype>{0}无异种类型</RV2_Settings_Rule_RuleExplanation_NoXenotype>
+  <RV2_Settings_Rule_RuleExplanation_Xenotype>{0}的异种类型：{1}</RV2_Settings_Rule_RuleExplanation_Xenotype>
+  
+  <RV2_Settings_Rule_RuleExplanation_DoesNotApply>{0}当前不适用此设置</RV2_Settings_Rule_RuleExplanation_DoesNotApply>
+  <RV2_Settings_Rule_RuleExplanation_DoesApply>{0}当前适用此设置</RV2_Settings_Rule_RuleExplanation_DoesApply>
+
+  <RV2_Settings_Rules_Name>规则名称</RV2_Settings_Rules_Name>
+  <RV2_Settings_Rules_IdentifierType>类型</RV2_Settings_Rules_IdentifierType>
+  <RV2_Settings_Rules_IdentifierType_Tip>哪些角色适用此规则？</RV2_Settings_Rules_IdentifierType_Tip>
+  <RV2_Settings_Rules_IdentifierRole>角色</RV2_Settings_Rules_IdentifierRole>
+  <RV2_Settings_Rules_IdentifierRole_Tip>哪些角色类型适用此规则？</RV2_Settings_Rules_IdentifierRole_Tip>
+  <RV2_Settings_Rules_Save>保存</RV2_Settings_Rules_Save>
+  <RV2_Settings_Rules_OK>确定</RV2_Settings_Rules_OK>
+  <RV2_Settings_Rules_Cancel>取消</RV2_Settings_Rules_Cancel>
+  <RV2_Settings_Rules_Controls>顺序调整</RV2_Settings_Rules_Controls>
+
+  <RV2_Settings_Rules_RuleStateOn>强制启用，忽略前一设置</RV2_Settings_Rules_RuleStateOn>
+  <RV2_Settings_Rules_RuleStateOff>强制禁用，忽略前一设置</RV2_Settings_Rules_RuleStateOff>
+  <RV2_Settings_Rules_RuleStateCopy>继承前一设置</RV2_Settings_Rules_RuleStateCopy>
+  
+  <RV2_Settings_Rules_General>基本规则</RV2_Settings_Rules_General>
+  <RV2_Settings_Rules_ConsiderMinimumAge>考虑最低年龄？</RV2_Settings_Rules_ConsiderMinimumAge>
+  <RV2_Settings_Rules_MinimumAge>最低年龄</RV2_Settings_Rules_MinimumAge>
+  <RV2_Settings_Rules_Designation>默认规则</RV2_Settings_Rules_Designation>
+  <RV2_settings_Rules_UsesVorePathRules>使用吞噬路径规则</RV2_settings_Rules_UsesVorePathRules>
+  <RV2_settings_Rules_UsesVorePathRules_Tip>启用或禁用特定吞噬行为。</RV2_settings_Rules_UsesVorePathRules_Tip>
+  <RV2_settings_Rules_CanBeProposedTo>可被提议</RV2_settings_Rules_CanBeProposedTo>
+  <RV2_settings_Rules_CanBeProposedTo_Tip>允许对此角色发起吞噬提议。</RV2_settings_Rules_CanBeProposedTo_Tip>
+  <RV2_settings_Rules_CanForceFailedProposals>提议失败可强制</RV2_settings_Rules_CanForceFailedProposals>
+  <RV2_settings_Rules_CanForceFailedProposals_Tip>提议失败时可能引发战斗。</RV2_settings_Rules_CanForceFailedProposals_Tip>
+  <RV2_settings_Rules_CanBeForcedFailedProposals>可被强制提议</RV2_settings_Rules_CanBeForcedFailedProposals>
+  <RV2_settings_Rules_CanBeForcedFailedProposals_Tip>拒绝提议时可能被强制吞噬。</RV2_settings_Rules_CanBeForcedFailedProposals_Tip>
+  <RV2_settings_Rules_CanBeForcedIfDowned>倒地时可强制</RV2_settings_Rules_CanBeForcedIfDowned>
+  <RV2_settings_Rules_CanBeForcedIfDowned_Tip>倒地时无法拒绝提议。</RV2_settings_Rules_CanBeForcedIfDowned_Tip>
+
+  <RV2_Settings_Rules_VorePathsHeader>吞噬路径规则</RV2_Settings_Rules_VorePathsHeader>
+  <RV2_Settings_Rules_VorePathsEnableAll>全部启用</RV2_Settings_Rules_VorePathsEnableAll>
+  <RV2_Settings_Rules_VorePathsDisableAll>全部禁用</RV2_Settings_Rules_VorePathsDisableAll>
+  <RV2_Settings_Rules_Enabled>启用？</RV2_Settings_Rules_Enabled>
+  <RV2_Settings_Rules_Enabled_Tip>完全禁用此吞噬路径。</RV2_Settings_Rules_Enabled_Tip>
+  <RV2_Settings_Rules_AllowedInAutoVore>自动吞噬？</RV2_Settings_Rules_AllowedInAutoVore>
+  <RV2_Settings_Rules_AllowedInAutoVore_Tip>禁止角色自动使用此吞噬路径。</RV2_Settings_Rules_AllowedInAutoVore_Tip>
+  <RV2_Settings_Rules_Container>遗骸容器</RV2_Settings_Rules_Container>
+  <RV2_Settings_Rules_Container_Tip>消化后生成的容器。</RV2_Settings_Rules_Container_Tip>
+  <RV2_Settings_Rules_CorpseProcessing>尸体处理</RV2_Settings_Rules_CorpseProcessing>
+  <RV2_Settings_Rules_CorpseProcessing_Tip>消化后尸体的状态。</RV2_Settings_Rules_CorpseProcessing_Tip>
+  <RV2_Settings_Rules_StruggleForceMode>挣扎模式</RV2_Settings_Rules_StruggleForceMode>
+  <RV2_Settings_Rules_StruggleForceMode_Tip>被吞噬时的挣扎行为。</RV2_Settings_Rules_StruggleForceMode_Tip>
+  <RV2_Settings_Rules_RequiredStruggles>所需挣扎次数</RV2_Settings_Rules_RequiredStruggles>
+  <RV2_Settings_Rules_RequiredStruggles_Tip>逃脱所需的挣扎次数。</RV2_Settings_Rules_RequiredStruggles_Tip>
+  
+  <RV2_Settings_Rules_AutoVoreOn>当前允许自动吞噬\n点击关闭</RV2_Settings_Rules_AutoVoreOn>
+  <RV2_Settings_Rules_AutoVoreOff>当前禁止自动吞噬\n点击开启</RV2_Settings_Rules_AutoVoreOff>
+  <RV2_Settings_Rules_DesignatedPredatorOn>当前允许成为捕食者\n点击关闭</RV2_Settings_Rules_DesignatedPredatorOn>
+  <RV2_Settings_Rules_DesignatedPredatorOff>当前禁止成为捕食者\n点击开启</RV2_Settings_Rules_DesignatedPredatorOff>
+  <RV2_Settings_Rules_DesignatedEndoPreyOn>当前允许成为非致命猎物\n点击关闭</RV2_Settings_Rules_DesignatedEndoPreyOn>
+  <RV2_Settings_Rules_DesignatedEndoPreyOff>当前禁止成为非致命猎物\n点击开启</RV2_Settings_Rules_DesignatedEndoPreyOff>
+  <RV2_Settings_Rules_DesignatedFatalPreyOn>当前允许成为致命猎物\n点击关闭</RV2_Settings_Rules_DesignatedFatalPreyOn>
+  <RV2_Settings_Rules_DesignatedFatalPreyOff>当前禁止成为致命猎物\n点击开启</RV2_Settings_Rules_DesignatedFatalPreyOff>
+
+
+  <RV2_Settings_ChangePrompt_DefaultStruggleForceMode>默认挣扎模式已更改。是否将此设置应用到其他路径？\n\n仅将"{0}"改为"{1}"，不影响其他设置。</RV2_Settings_ChangePrompt_DefaultStruggleForceMode>
+
+</LanguageData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 厌恶态度 -->
+  <RV2_FatalVore_Disliked.stages.0.label>参与致命吞噬</RV2_FatalVore_Disliked.stages.0.label>
+  <RV2_FatalVore_Disliked.stages.0.description>本不该这么做，教义不会接纳我的行为...</RV2_FatalVore_Disliked.stages.0.description>
+
+  <RV2_FatalVore_Know_Disliked.stages.0.label>致命吞噬参与者</RV2_FatalVore_Know_Disliked.stages.0.label>
+
+  <!-- 极度厌恶态度 -->
+  <RV2_FatalVore_Abhorrent.stages.0.label>进行致命吞噬</RV2_FatalVore_Abhorrent.stages.0.label>
+  <RV2_FatalVore_Abhorrent.stages.0.description>明知违反教义却参与致命吞噬，真是令人毛骨悚然的感觉。</RV2_FatalVore_Abhorrent.stages.0.description>
+
+  <RV2_FatalVore_Know_Abhorrent.stages.0.label>有人进行了致命吞噬!!</RV2_FatalVore_Know_Abhorrent.stages.0.label>
+  <RV2_FatalVore_Know_Abhorrent.stages.0.description>周围有人参与致命吞噬，这是违反教义的可憎行为！</RV2_FatalVore_Know_Abhorrent.stages.0.description>
+
+  <RV2_FatalVore_Know_Social_Abhorrent.stages.0.label>致命吞噬实施者</RV2_FatalVore_Know_Social_Abhorrent.stages.0.label>
+
+  <!-- 喜爱态度 -->
+  <RV2_FatalVore_Liked.stages.0.label>参与致命吞噬</RV2_FatalVore_Liked.stages.0.label>
+  <RV2_FatalVore_Liked.stages.0.description>体验神圣艺术，心灵得到满足。</RV2_FatalVore_Liked.stages.0.description>
+
+  <RV2_FatalVore_Know_Liked.stages.0.label>致命吞噬实践者</RV2_FatalVore_Know_Liked.stages.0.label>
+
+  <!-- 必须执行态度 -->
+  <RV2_FatalVore_Required.stages.0.label>完成致命吞噬</RV2_FatalVore_Required.stages.0.label>
+  <RV2_FatalVore_Required.stages.0.description>通过不造成死亡的吞噬体验，我能更加坚定信仰。</RV2_FatalVore_Required.stages.0.description>
+
+  <RV2_FatalVore_Know_Required.stages.0.label>有人完成了致命吞噬!</RV2_FatalVore_Know_Required.stages.0.label>
+  <RV2_FatalVore_Know_Required.stages.0.description>周围有人完成了不见血的致命吞噬，这是无比崇高的行为！</RV2_FatalVore_Know_Required.stages.0.description>
+
+  <RV2_FatalVore_Know_Social_Required.stages.0.label>神圣猎物宠护者</RV2_FatalVore_Know_Social_Required.stages.0.label>
+
+  <RV2_NoRecentFatalVore_Required.stages.0.label>渴望致命吞噬</RV2_NoRecentFatalVore_Required.stages.0.label>
+  <RV2_NoRecentFatalVore_Required.stages.0.description>距离上次致命吞噬他人已经过去太久了。</RV2_NoRecentFatalVore_Required.stages.0.description>
+
+</LanguageData>

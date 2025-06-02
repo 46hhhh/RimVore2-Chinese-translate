@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2_EADD_SettingsTab>Esegn's Stuff</RV2_EADD_SettingsTab>
+
+  <RV2_EADD_Settings_VorePathConflictsHeader>捕食パスの競合</RV2_EADD_Settings_VorePathConflictsHeader>
+
+  <RV2_EADD_Settings_EnableVorePathConflicts>捕食パスの競合を有効化</RV2_EADD_Settings_EnableVorePathConflicts>
+  <RV2_EADD_Settings_EnableVorePathConflicts_Tip>体内で相反する捕食プロセスが発生することを防ぎます.例えば,ひとつの胃袋で体内保管と消化を同時に行えません.必要に応じ,最初の捕食パスに強制的に切り替えます.</RV2_EADD_Settings_EnableVorePathConflicts_Tip>
+  <RV2_EADD_Settings_AllowConflictingManualInteractions>競合する手動命令を許可</RV2_EADD_Settings_AllowConflictingManualInteractions>
+  <RV2_EADD_Settings_AllowConflictingManualInteractions_Tip>手動Voreの命令(基本的に右クリック)を,競合がある場合でも可能にします.競合をごり押しするものではないため,パスの切り替わりは必要に応じ発生します.</RV2_EADD_Settings_AllowConflictingManualInteractions_Tip>
+  <RV2_EADD_Settings_AllowGoalSwitchersToProposeConflicting>子煩悩持ちが競合パスを申し出</RV2_EADD_Settings_AllowGoalSwitchersToProposeConflicting>
+  <RV2_EADD_Settings_AllowGoalSwitchersToProposeConflicting_Tip>"子煩悩"傾向など,Voreの目的を変更する可能性がある捕食者が,競合する捕食パスを申し出る事を可能にします.Voreの目的はその後に競合しないものに切り替えられます.自動と手動のVore両方に適用されます.</RV2_EADD_Settings_AllowGoalSwitchersToProposeConflicting_Tip>
+  <RV2_EADD_Settings_PathConflictsIgnoreDesignations>ルールを無視した競合</RV2_EADD_Settings_PathConflictsIgnoreDesignations>
+  <RV2_EADD_Settings_PathConflictsIgnoreDesignations_Tip>オンにすると,被食者が消化されるかどうかといったルールが,競合解決に適応されなくなります.この設定は競合を防ぐために上2つの設定を上書きします.Voreの目的を変更する可能性がある捕食者の目的変更も,デフォルトの基本設定で許可されていなければ行われません.</RV2_EADD_Settings_PathConflictsIgnoreDesignations_Tip>
+
+  <RV2_EADD_Settings_AccidentalDigestionHeader>不本意な消化</RV2_EADD_Settings_AccidentalDigestionHeader>
+
+  <RV2_EADD_Settings_EnableAccidentalDigestion>不本意な消化を有効化</RV2_EADD_Settings_EnableAccidentalDigestion>
+  <RV2_EADD_Settings_EnableAccidentalDigestion_Tip>被食者を安全に体内に収めている捕食者が寝ている,または意識が低下しているなどの場合,Voreの目的を消化へ無意識的に切り替える場合があり,被食者はその事を捕食者に気づいてもらおうと抵抗します.</RV2_EADD_Settings_EnableAccidentalDigestion_Tip>
+  <RV2_EADD_Settings_BaseAccidentalDigestionTickChance>不本意な消化の基本確率</RV2_EADD_Settings_BaseAccidentalDigestionTickChance>
+  <RV2_EADD_Settings_BaseAccidentalDigestionTickChance_Tip>捕食者が"体内時計"カウント(10回/1時間にVoreのプロセスが計算されるカウント)毎に不本意な消化が始まってしまう確率を示します.この確率は寝ている時など,不本意な消化が始まる条件が整った時にのみ発生し,傾向や健康状態によって左右されます.</RV2_EADD_Settings_BaseAccidentalDigestionTickChance_Tip>
+  <RV2_EADD_Settings_AccidentalDigestionChanceExample>合計 {0} カウント時の確率: {1}%</RV2_EADD_Settings_AccidentalDigestionChanceExample>
+  <RV2_EADD_Settings_AccidentalDigestionChanceExample_Tip>If accidental digestion was rolled for at the base chance for this many ticks in a row, this is the percent chance it would happen. For reference, the default temporary hold oral vore path has prey in the stomach for 36 ticks. Bear in mind accidental digestion may not be always possible to start over the whole duration.</RV2_EADD_Settings_AccidentalDigestionChanceExample_Tip>
+  <RV2_EADD_Settings_AccidentalDigestionIgnoresDesignations>不本意な消化がルールを無視する</RV2_EADD_Settings_AccidentalDigestionIgnoresDesignations>
+  <RV2_EADD_Settings_AccidentalDigestionIgnoresDesignations_Tip>If enabled, accidental digestion can happen to prey even if they are designated with fatal disabled.</RV2_EADD_Settings_AccidentalDigestionIgnoresDesignations_Tip>
+  <RV2_EADD_Settings_AccidentalDigestionNotificationType>不本意な消化発生時の通知</RV2_EADD_Settings_AccidentalDigestionNotificationType>
+  <RV2_EADD_Settings_AccidentalDigestionNotificationType_Tip>What kind of notification, if any, you want to see when accidental digestion happens. Set it to "None" if you'd like it to be as much a surprise for you as it is for the predator!</RV2_EADD_Settings_AccidentalDigestionNotificationType_Tip>
+  <RV2_EADD_Settings_BasePredatorAwarenessChance>捕食者が気づく基本確率</RV2_EADD_Settings_BasePredatorAwarenessChance>
+  <RV2_EADD_Settings_BasePredatorAwarenessChance_Tip>Base chance per tick that a predator becomes aware they've started accidentally digesting their prey. Modified by quirks and how effectively the prey struggles, if relevant.</RV2_EADD_Settings_BasePredatorAwarenessChance_Tip>
+  <RV2_EADD_Settings_PredatorAwarenessChanceExample>準備プロセス中の確率: {0}%</RV2_EADD_Settings_PredatorAwarenessChanceExample>
+  <RV2_EADD_Settings_PredatorAwarenessChanceExample_Tip>The "warmup" phase of fatal digestion lasts for 24 ticks. This is the total chance a predator at the base awareness chance per tick will notice that they are accidentally digesting over that many ticks.</RV2_EADD_Settings_PredatorAwarenessChanceExample_Tip>
+  <RV2_EADD_Settings_PreyMustStruggleToBeNoticed>被食者が気づかせるために必ず抵抗</RV2_EADD_Settings_PreyMustStruggleToBeNoticed>
+  <RV2_EADD_Settings_PreyMustStruggleToBeNoticed_Tip>If enabled, a predator can only notice they are accidentally digesting their prey if the prey is struggling. Ignored if struggling is disabled as a mechanic. If prey is unable to struggle, the predator will never notice that they are accidentally digesting them!</RV2_EADD_Settings_PreyMustStruggleToBeNoticed_Tip>
+  <RV2_EADD_Settings_CanAlwaysAccidentallyDigest>不本意な消化が常にあり得る</RV2_EADD_Settings_CanAlwaysAccidentallyDigest>
+  <RV2_EADD_Settings_CanAlwaysAccidentallyDigest_Tip>Ordinarily, accidental digestion can only start if a predator is sleeping or has reduced consciousness. If this setting is enabled, it can happen at any time.</RV2_EADD_Settings_CanAlwaysAccidentallyDigest_Tip>
+  <RV2_EADD_Settings_LongTermPreventsAccidentalDigestion>閉じ込め目的では不本意な消化を防ぐ</RV2_EADD_Settings_LongTermPreventsAccidentalDigestion>
+  <RV2_EADD_Settings_LongTermPreventsAccidentalDigestion_Tip>If enabled, accidental digestion cannot begin if it would affect prey that have a manual pass condition stage, i.e. the long-term store goal. Keeps belly pets and the like safe.</RV2_EADD_Settings_LongTermPreventsAccidentalDigestion_Tip>
+  <RV2_EADD_Settings_AccidentalDigestionCooldown>不本意な消化のクールダウン</RV2_EADD_Settings_AccidentalDigestionCooldown>
+  <RV2_EADD_Settings_AccidentalDigestionCooldown_Tip>For any given predator, wait this many ticks after accidental digestion starts before it can happen again. For reference, 60000 ticks is one in-game day.</RV2_EADD_Settings_AccidentalDigestionCooldown_Tip>
+  <RV2_EADD_Settings_AllowAwarenessRolls>察知確率を有効化</RV2_EADD_Settings_AllowAwarenessRolls>
+  <RV2_EADD_Settings_AllowAwarenessRolls_Tip>If enabled, predators have a chance per rare tick to realize they are accidentally digesting their prey, and stop it if they are. If disabled, the only way to stop it is to let the prey struggle out, or to manually eject them.</RV2_EADD_Settings_AllowAwarenessRolls_Tip>
+  <RV2_EADD_Settings_AbortDigestionThreshold>不本意な消化の中止可能ライン</RV2_EADD_Settings_AbortDigestionThreshold>
+  <RV2_EADD_Settings_AbortDigestionThreshold_Tip>If prey is being accidentally digested and digestion has actually started, consider it too late to stop digesting if digestion progress goes above this value. Mainly for cases where you'd prefer prey just get digested entirely, rather than be released half-melted, like if you have the Reformers submod.</RV2_EADD_Settings_AbortDigestionThreshold_Tip>
+
+  <RV2_EADD_Settings_ExtrasHeader>追加設定</RV2_EADD_Settings_ExtrasHeader>
+
+  <RV2_EADD_Settings_EnableEndoanalepticsSupplements>体内療剤を有効化</RV2_EADD_Settings_EnableEndoanalepticsSupplements>
+  <RV2_EADD_Settings_EnableEndoanalepticsSupplements_Tip>Allows a doctor to use medicine on a pawn capable of healing vore to give them endoanaleptics supplements, which allows healing vore to tend wounds as if it were the adminstering doctor tending them.</RV2_EADD_Settings_EnableEndoanalepticsSupplements_Tip>
+  <RV2_EADD_Settings_HealWaitDefaultPlayer>癒しVoreの待機デフォルト(プレイヤー)</RV2_EADD_Settings_HealWaitDefaultPlayer>
+  <RV2_EADD_Settings_HealWaitDefaultPlayer_Tip>Whether player-controlled pawns should, by default, wait for endoanaleptics supplements before tending the wounds of their prey. Can be manually overridden.</RV2_EADD_Settings_HealWaitDefaultPlayer_Tip>
+  <RV2_EADD_Settings_HealWaitDefaultOther>癒しVoreの待機デフォルト(その他)</RV2_EADD_Settings_HealWaitDefaultOther>
+  <RV2_EADD_Settings_HealWaitDefaultOther_Tip>Whether non-player-controlled pawns should, by default, wait for endoanaleptics supplements before tending the wounds of their prey. Can only be manually overridden if the "show all designations" setting from the base mod is enabled.</RV2_EADD_Settings_HealWaitDefaultOther_Tip>
+  <RV2_EADD_Settings_EndoanalepticsSkipWarmup>体内療剤が準備プロセスをスキップ</RV2_EADD_Settings_EndoanalepticsSkipWarmup>
+  <RV2_EADD_Settings_EndoanalepticsSkipWarmup_Tip>When enabled, the warmup phase of heal vore will be skipped if the predator has any endoanaleptics supplements, so that the prey can be tended right away.</RV2_EADD_Settings_EndoanalepticsSkipWarmup_Tip>
+  <RV2_EADD_Settings_HealVoreWaitsForImmunity>癒しVoreで免疫獲得を待つ</RV2_EADD_Settings_HealVoreWaitsForImmunity>
+  <RV2_EADD_Settings_HealVoreWaitsForImmunity_Tip>有効化した場合,癒すために捕食された患者がすべての病で免疫を獲得しないと治療が完了したとみなされません.</RV2_EADD_Settings_HealVoreWaitsForImmunity_Tip>
+
+</LanguageData>

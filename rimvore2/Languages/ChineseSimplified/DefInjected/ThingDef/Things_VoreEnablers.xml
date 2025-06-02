@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 目标激活器 -->
+  <!-- 这些主要解锁角色现有类型的新目标 -->
+
+  <RV2_GoalEnabler_ConvertLube.label>爱液化激活种子</RV2_GoalEnabler_ConvertLube.label>
+  <RV2_GoalEnabler_ConvertLube.description>利用超凡微械激活体内转化液，能将猎物转化为爱液的装置。</RV2_GoalEnabler_ConvertLube.description>
+
+  <RV2_GoalEnabler_ConvertMilk.label>乳化激活种子</RV2_GoalEnabler_ConvertMilk.label>
+  <RV2_GoalEnabler_ConvertMilk.description>利用超凡微械激活乳腺转化液，能将猎物转化为乳汁的装置。</RV2_GoalEnabler_ConvertMilk.description>
+
+  <RV2_GoalEnabler_ConvertSperm.label>精液化激活种子</RV2_GoalEnabler_ConvertSperm.label>
+  <RV2_GoalEnabler_ConvertSperm.description>利用超凡微械激活精囊转化液，能将猎物转化为精液的装置。</RV2_GoalEnabler_ConvertSperm.description>
+
+  <RV2_GoalEnabler_Digest.label>消化激活种子</RV2_GoalEnabler_Digest.label>
+  <RV2_GoalEnabler_Digest.description>利用超凡微械增强消化液活性，使大型猎物也能被消化的装置。</RV2_GoalEnabler_Digest.description>
+
+  <!-- 解锁暂存和愉悦目标 -->
+
+  <RV2_GoalEnabler_Tempendo.label>体内环境调节种子</RV2_GoalEnabler_Tempendo.label>
+  <RV2_GoalEnabler_Tempendo.description>通过超凡微械改善体内卫生、湿度和含氧量，使短期容纳更为舒适的装置。</RV2_GoalEnabler_Tempendo.description>
+
+  <RV2_GoalEnabler_Store.label>长期容纳调节种子</RV2_GoalEnabler_Store.label>
+  <RV2_GoalEnabler_Store.description>通过超凡微械优化体内环境参数，使长期容纳也能保持舒适的装置。</RV2_GoalEnabler_Store.description>
+
+  <RV2_GoalEnabler_Heal.label>人工再生腺体</RV2_GoalEnabler_Heal.label>
+  <RV2_GoalEnabler_Heal.description>利用超凡微械生成可控转化液，使捕食者具备治疗猎物能力的腺体。</RV2_GoalEnabler_Heal.description>
+
+  <RV2_GoalEnabler_Reform.label>基因重组种子</RV2_GoalEnabler_Reform.label>
+  <RV2_GoalEnabler_Reform.description>通过超凡微械改写生殖基因，使捕食者能在基因层面重构猎物的装置。</RV2_GoalEnabler_Reform.description>
+
+  <!-- 类型激活器 -->
+  <!-- 这些主要解锁角色现有目标的新吞食类型 -->
+
+  <RV2_TypeEnabler_Oral.label>口腔柔化种子</RV2_TypeEnabler_Oral.label>
+  <RV2_TypeEnabler_Oral.description>通过超凡微械增强口腔至胃部的弹性，实现完整吞咽猎物的装置。</RV2_TypeEnabler_Oral.description>
+
+  <RV2_TypeEnabler_Anal.label>肛门柔化种子</RV2_TypeEnabler_Anal.label>
+  <RV2_TypeEnabler_Anal.description>通过超凡微械增强肛门至肠道的弹性，实现肛门吞食猎物的装置。</RV2_TypeEnabler_Anal.description>
+
+  <RV2_TypeEnabler_Vaginal.label>阴道柔化种子</RV2_TypeEnabler_Vaginal.label>
+  <RV2_TypeEnabler_Vaginal.description>通过超凡微械增强阴道至子宫的弹性，实现阴道吞食猎物的装置。</RV2_TypeEnabler_Vaginal.description>
+
+  <RV2_TypeEnabler_Cock.label>阴茎柔化种子</RV2_TypeEnabler_Cock.label>
+  <RV2_TypeEnabler_Cock.description>通过超凡微械增强尿道至膀胱的弹性，实现阴茎吞食猎物的装置。</RV2_TypeEnabler_Cock.description>
+
+  <RV2_TypeEnabler_Nipple.label>乳首柔化种子</RV2_TypeEnabler_Nipple.label>
+  <RV2_TypeEnabler_Nipple.description>通过超凡微械增强乳腺系统的弹性，实现乳首吞食猎物的装置。</RV2_TypeEnabler_Nipple.description>
+
+</LanguageData>

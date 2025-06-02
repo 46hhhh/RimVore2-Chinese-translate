@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 意外消化察觉等级 -->
+  <AccidentalDigestionAwareness_VeryHigh.label>高度警觉</AccidentalDigestionAwareness_VeryHigh.label>
+  <AccidentalDigestionAwareness_VeryHigh.description>[PAWN_label]对[PAWN_possessive]猎物始终保持高度关注，极有可能察觉自己正在意外消化猎物。</AccidentalDigestionAwareness_VeryHigh.description>
+
+  <AccidentalDigestionAwareness_High.label>敏锐感知</AccidentalDigestionAwareness_High.label>
+  <AccidentalDigestionAwareness_High.description>[PAWN_label]比任何人都更在意[PAWN_possessive]猎物，能轻易发现异常状况。</AccidentalDigestionAwareness_High.description>
+
+  <AccidentalDigestionAwareness_Neutral.label>普通警觉</AccidentalDigestionAwareness_Neutral.label>
+  <AccidentalDigestionAwareness_Neutral.description>[PAWN_label]不会特别关注[PAWN_possessive]猎物，但也不至于完全忽视。</AccidentalDigestionAwareness_Neutral.description>
+
+  <AccidentalDigestionAwareness_Low.label>心不在焉</AccidentalDigestionAwareness_Low.label>
+  <AccidentalDigestionAwareness_Low.description>[PAWN_label]很少考虑[PAWN_possessive]猎物状况，很难察觉自己正在意外消化。</AccidentalDigestionAwareness_Low.description>
+
+  <AccidentalDigestionAwareness_VeryLow.label>安全意识薄弱</AccidentalDigestionAwareness_VeryLow.label>
+  <AccidentalDigestionAwareness_VeryLow.description>[PAWN_label]几乎不关注[PAWN_possessive]猎物，极难察觉消化系统失控。</AccidentalDigestionAwareness_VeryLow.description>
+
+  <AccidentalDigestionAwareness_None.label>盲目无知</AccidentalDigestionAwareness_None.label>
+  <AccidentalDigestionAwareness_None.description>[PAWN_label]完全不了解体内状况，即使正在消化猎物也浑然不觉。</AccidentalDigestionAwareness_None.description>
+
+  <!-- 消化控制等级 -->
+  <AccidentalDigestionControl_Total.label>绝对掌控</AccidentalDigestionControl_Total.label>
+  <AccidentalDigestionControl_Total.description>[PAWN_label]能完美控制所有储存器官，绝不会意外消化任何目标。</AccidentalDigestionControl_Total.description>
+
+  <AccidentalDigestionControl_VeryHigh.label>精准控制</AccidentalDigestionControl_VeryHigh.label>
+  <AccidentalDigestionControl_VeryHigh.description>[PAWN_label]对身体有精密掌控力，极少发生意外消化。</AccidentalDigestionControl_VeryHigh.description>
+
+  <AccidentalDigestionControl_High.label>良好控制</AccidentalDigestionControl_High.label>
+  <AccidentalDigestionControl_High.description>[PAWN_label]的控制力优于常人，很少意外消化[PAWN_possessive]猎物。</AccidentalDigestionControl_High.description>
+
+  <AccidentalDigestionControl_Neutral.label>普通控制</AccidentalDigestionControl_Neutral.label>
+  <AccidentalDigestionControl_Neutral.description>[PAWN_label]对消化液的控制力处于平均水平。</AccidentalDigestionControl_Neutral.description>
+
+  <AccidentalDigestionControl_Low.label>控制失调</AccidentalDigestionControl_Low.label>
+  <AccidentalDigestionControl_Low.description>[PAWN_label]难以有效控制体内环境，被其吞噬需格外谨慎。</AccidentalDigestionControl_Low.description>
+
+  <AccidentalDigestionControl_VeryLow.label>失控边缘</AccidentalDigestionControl_VeryLow.label>
+  <AccidentalDigestionControl_VeryLow.description>进入[PAWN_label]体内近乎赌博——[PAWN_possessive]器官常会违背捕食者意志试图消化猎物。</AccidentalDigestionControl_VeryLow.description>
+</LanguageData>

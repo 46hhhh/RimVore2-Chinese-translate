@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NCS_CumSlime.label>生きた精液スライム</NCS_CumSlime.label>
+  <NCS_CumSlime.description>この奇妙な生命体は,捕食者による玉の中での変質の産物です.寿命は短く,定期的にザーメンを摂らないと壊死してしまいます.武器や衣服は使えませんが,素手で突撃させるとまとわりついて行動を阻害したり,デコイとして攻撃を受けさせたりすることができます.</NCS_CumSlime.description>
+  <NCS_CumSlime.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮膚</NCS_CumSlime.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <NCS_CumSlime.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>髪</NCS_CumSlime.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <NCS_CumSlime.tools.0.label>スライムの収縮</NCS_CumSlime.tools.0.label>
+  <NCS_CumSlime.tools.1.label>体</NCS_CumSlime.tools.1.label>
+
+
+</LanguageData>

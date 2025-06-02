@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 厌恶态度 -->
+  <RV2_AnimalPrey_Disliked.stages.0.label>吞噬动物</RV2_AnimalPrey_Disliked.stages.0.label>
+  <RV2_AnimalPrey_Disliked.stages.0.description>本不该这么做，教义不会接纳我的行为...</RV2_AnimalPrey_Disliked.stages.0.description>
+
+  <RV2_AnimalPrey_Know_Disliked.stages.0.label>吞噬动物者</RV2_AnimalPrey_Know_Disliked.stages.0.label>
+
+  <!-- 极度厌恶态度 -->
+  <RV2_AnimalPrey_Abhorrent.stages.0.label>吞噬动物</RV2_AnimalPrey_Abhorrent.stages.0.label>
+  <RV2_AnimalPrey_Abhorrent.stages.0.description>明知违反教义却吞噬动物，真是令人毛骨悚然的感觉。</RV2_AnimalPrey_Abhorrent.stages.0.description>
+
+  <RV2_AnimalPrey_Know_Abhorrent.stages.0.label>有人吞噬了动物!!</RV2_AnimalPrey_Know_Abhorrent.stages.0.label>
+  <RV2_AnimalPrey_Know_Abhorrent.stages.0.description>周围有人吞噬动物，这是违反教义的可憎行为！</RV2_AnimalPrey_Know_Abhorrent.stages.0.description>
+
+  <RV2_AnimalPrey_Know_Social_Abhorrent.stages.0.label>动物吞噬者</RV2_AnimalPrey_Know_Social_Abhorrent.stages.0.label>
+
+  <!-- 喜爱态度 -->
+  <RV2_AnimalPrey_Liked.stages.0.label>吞噬动物</RV2_AnimalPrey_Liked.stages.0.label>
+  <RV2_AnimalPrey_Liked.stages.0.description>实践神圣艺术，心灵得到满足。</RV2_AnimalPrey_Liked.stages.0.description>
+
+  <RV2_AnimalPrey_Know_Liked.stages.0.label>动物品尝者</RV2_AnimalPrey_Know_Liked.stages.0.label>
+
+  <!-- 必须执行态度 -->
+  <RV2_AnimalPrey_Required.stages.0.label>吞噬动物</RV2_AnimalPrey_Required.stages.0.label>
+  <RV2_AnimalPrey_Required.stages.0.description>通过吞噬动物，我能更加坚定信仰。</RV2_AnimalPrey_Required.stages.0.description>
+
+  <RV2_AnimalPrey_Know_Required.stages.0.label>有人吞噬了动物!</RV2_AnimalPrey_Know_Required.stages.0.label>
+  <RV2_AnimalPrey_Know_Required.stages.0.description>周围有人吞噬动物，这是值得尊敬的行为！</RV2_AnimalPrey_Know_Required.stages.0.description>
+
+  <RV2_AnimalPrey_Know_Social_Required.stages.0.label>圣兽侍奉者</RV2_AnimalPrey_Know_Social_Required.stages.0.label>
+
+  <RV2_NoRecentAnimalPrey_Required.stages.0.label>渴望吞噬动物</RV2_NoRecentAnimalPrey_Required.stages.0.label>
+  <RV2_NoRecentAnimalPrey_Required.stages.0.description>距离上次吞噬动物已经过去太久了。</RV2_NoRecentAnimalPrey_Required.stages.0.description>
+
+  <!-- 对圣兽的极度厌恶态度 -->
+  <RV2_AnimalPrey_Abhorrent_Venerated.stages.0.label>吞噬吞噬圣兽!</RV2_AnimalPrey_Abhorrent_Venerated.stages.0.label>
+  <RV2_AnimalPrey_Abhorrent_Venerated.stages.0.description>将神圣生物变成腹中之物的自己，简直是殖民地的耻辱。</RV2_AnimalPrey_Abhorrent_Venerated.stages.0.description>
+
+  <RV2_AnimalPrey_Know_Abhorrent_Venerated.stages.0.label>圣兽亵渎者</RV2_AnimalPrey_Know_Abhorrent_Venerated.stages.0.label>
+
+  <!-- 对圣兽的喜爱态度 -->
+  <RV2_AnimalPrey_Liked_Venerated.stages.0.label>吞噬圣兽</RV2_AnimalPrey_Liked_Venerated.stages.0.label>
+  <RV2_AnimalPrey_Liked_Venerated.stages.0.description>吞噬圣兽是无上的荣耀。</RV2_AnimalPrey_Liked_Venerated.stages.0.description>
+
+  <RV2_AnimalPrey_Know_Liked_Venerated.stages.0.label>神圣之舌</RV2_AnimalPrey_Know_Liked_Venerated.stages.0.label>
+
+</LanguageData>
