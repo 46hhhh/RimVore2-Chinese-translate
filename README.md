@@ -1,41 +1,32 @@
-# Rimvore-JP
-this mod is for Japanese.
- it include patching failes to translate, be carefull.
+# Rimvore-CN 中文翻译模组
 
-このmodはrimvore-2を楽しむため、自主作製した日本語用の翻訳modです。
-パッチを用いて一部の英文を強制改変しているため、不本意な改変やバグに注意してください。
+## 模组说明
+本模组为Rimworld的Rimvore系列模组提供中文翻译支持。请注意，本模组包含补丁文件，安装时请谨慎。
 
-メインmodリンク- https://gitlab.com/Nabber/rimvore-2
+## 支持模组列表
+- [Rimvore-2](https://gitlab.com/Nabber/rimvore-2)
+- [RimVore-2 (Overstuffed)](https://gitlab.com/MamaHorseteeth/rimvore-2-overstuffed)  
+- [Carnivorous Plants](https://gitlab.com/Nabber/carnivorousplants)  
+- [CumSlimes](https://gitlab.com/Nabber/cumslimes)  
+- [CumSlimes (Cheat version)](https://gitlab.com/Nabber/cumslimesarepeopletoo)  
+- [RimVore2 Drinkable Piss](https://gitlab.com/misplacedtf/rimvore2piss/)  
+- [RimVore2 Edible Scat](https://gitlab.com/misplacedtf/RimVore2scat/)  
+- [RimVore-2 Reformers](https://gitlab.com/whatif12stuff/rv2reformers)  
+- [RimVore - 2Bulges](https://gitlab.com/whatif12/rutrix-bulges-continued)  
+- [RimVore-2 Interactions](https://gitlab.com/whatif12/rutrix-interactions-continued)  
+- [RimVore2 -Rut's Stuff](https://gitlab.com/whatif12/rutrix-misc-continued)  
+- RV2-Aspirations (找不到链接)
+- [RimVore2 - Esegn's Additions](https://gitlab.com/ASarcasticDragon/RV2-Esegn-Additions)  
 
-# 対応mod
--Rimvore-2 
+## 已知未翻译内容
+- Rimvore-2和Overstuffed模组中关于吞噬(vore)过程中的心情文本和稀有度设定(因工作量过大暂未完成)
 
--RimVore-2 (Overstuffed) 
+## 问题反馈
+如果您发现以下问题，欢迎报告：
+1. 补丁相关的功能问题
+2. 翻译错误(上述已知未翻译内容除外)
 
--Carnivorous Plants 
+如果您发现新的Rimvore相关模组需要翻译支持，及时报告可能会加快翻译进度。
 
--CumSlimes 
-
--CumSlimes (Cheat version) 
-
--RimVore2 Drinkable Piss 
-
--RimVore2 Edible Scat 
-
--RimVore-2 Reformers 
-
--RimVore - 2Bulges
-
--RimVore-2 Interactions
-
--RimVore2 -Rut's Stuff
-
--RV2-Aspirations
-
--RimVore2 - Esegn's Additions
-
-#既知の未翻訳部
--Rimvore-2とOverstuffedのvore中の心情テキストとレアリティ(作業量過多)
-
-パッチ周りの不具合や翻訳ミス(上記の翻訳漏れを除き)を発見したら、ある程度対応しますので報告お願いします。
-また、新たなrimvore関係のmodで翻訳が求められる場合は、報告してくれたら対応が早くなる可能性があります。
+## 注意事项
+本翻译模组仍在完善中，可能会存在部分内容未完全本地化的情况。
