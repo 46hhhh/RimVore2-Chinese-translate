@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 特殊捕食能力 -->
+  <Enablers_Overstuffed.label>特殊捕食能力</Enablers_Overstuffed.label>
+  <Enablers_Overstuffed.description>表示该角色通过特殊方式或目的进行吞噬时，体内容纳猎物的能力倾向。通过设置稀有度可使普通人也能进行此类特殊吞噬，若安装吞噬扩展装置则不受限制可增强此能力。</Enablers_Overstuffed.description>
+
+
+</LanguageData>

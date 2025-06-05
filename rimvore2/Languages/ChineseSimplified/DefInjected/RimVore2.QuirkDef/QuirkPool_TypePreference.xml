@@ -92,5 +92,104 @@
   
   <TypePreference_Predator_Vaginal_Refuses.label>极端抗拒的阴道使用者</TypePreference_Predator_Vaginal_Refuses.label>
   <TypePreference_Predator_Vaginal_Refuses.description>[PAWN_label]极度抗拒将[PAWN_possessive]猎物塞入阴道。</TypePreference_Predator_Vaginal_Refuses.description>
+
+  <!-- 肛门偏好 -->
+  <TypePreference_Prey_Anal_Obsessed.label>肛门狂热</TypePreference_Prey_Anal_Obsessed.label>
+  <TypePreference_Prey_Anal_Obsessed.description>[PAWN_label]痴迷于被挤压、推入并填满肠道的感觉。</TypePreference_Prey_Anal_Obsessed.description>
+
+  <TypePreference_Prey_Anal_Likes.label>肛门偏好</TypePreference_Prey_Anal_Likes.label>
+  <TypePreference_Prey_Anal_Likes.description>[PAWN_label]享受从肛门被推入的感觉，肠道的紧致与温暖带来安心感。</TypePreference_Prey_Anal_Likes.description>
+
+  <TypePreference_Prey_Anal_Neutral.label>肛门中立</TypePreference_Prey_Anal_Neutral.label>
+  <TypePreference_Prey_Anal_Neutral.description>[PAWN_label]对被肛门吞噬没有特别感受。</TypePreference_Prey_Anal_Neutral.description>
+
+  <TypePreference_Prey_Anal_Dislikes.label>肛门厌恶</TypePreference_Prey_Anal_Dislikes.label>
+  <TypePreference_Prey_Anal_Dislikes.description>[PAWN_label]反感从肛门被推入，对肠道内部的肮脏偏见即使亲身体验也无法改变。</TypePreference_Prey_Anal_Dislikes.description>
+
+  <TypePreference_Prey_Anal_Refuses.label>肛门抗拒</TypePreference_Prey_Anal_Refuses.label>
+  <TypePreference_Prey_Anal_Refuses.description>[PAWN_label]极度抗拒从肛门被推入，认为那不过是运输废料的管道。</TypePreference_Prey_Anal_Refuses.description>
+
+  <!-- 阴茎偏好 -->
+  <TypePreference_Prey_Cock_Obsessed.label>阴茎狂热</TypePreference_Prey_Cock_Obsessed.label>
+  <TypePreference_Prey_Cock_Obsessed.description>[PAWN_label]痴迷于清洁那狭窄管道、发出声响、成为蛇的饵食，最终被推入深处的感觉。</TypePreference_Prey_Cock_Obsessed.description>
+
+  <TypePreference_Prey_Cock_Likes.label>阴茎偏好</TypePreference_Prey_Cock_Likes.label>
+  <TypePreference_Prey_Cock_Likes.description>[PAWN_label]喜欢从阴茎被推入的感觉，那会变成舒适的精液浴。</TypePreference_Prey_Cock_Likes.description>
+
+  <TypePreference_Prey_Cock_Neutral.label>阴茎中立</TypePreference_Prey_Cock_Neutral.label>
+  <TypePreference_Prey_Cock_Neutral.description>[PAWN_label]对被阴茎吞噬没有特别感受。</TypePreference_Prey_Cock_Neutral.description>
+
+  <TypePreference_Prey_Cock_Dislikes.label>阴茎厌恶</TypePreference_Prey_Cock_Dislikes.label>
+  <TypePreference_Prey_Cock_Dislikes.description>[PAWN_label]反感从阴茎被推入，那狭窄压迫感和复杂肮脏的内部环境令人不适。</TypePreference_Prey_Cock_Dislikes.description>
+
+  <TypePreference_Prey_Cock_Refuses.label>阴茎抗拒</TypePreference_Prey_Cock_Refuses.label>
+  <TypePreference_Prey_Cock_Refuses.description>[PAWN_label]极度抗拒从阴茎被推入，认为阴茎只应用于插入而非进入。</TypePreference_Prey_Cock_Refuses.description>
+
+  <!-- 乳头偏好 -->
+  <TypePreference_Prey_Nipple_Obsessed.label>乳头狂热</TypePreference_Prey_Nipple_Obsessed.label>
+  <TypePreference_Prey_Nipple_Obsessed.description>[PAWN_label]痴迷于被推入那紧缩入口、成为巨峰一部分、浸泡在乳汁浴中的感觉。</TypePreference_Prey_Nipple_Obsessed.description>
+
+  <TypePreference_Prey_Nipple_Likes.label>乳头偏好</TypePreference_Prey_Nipple_Likes.label>
+  <TypePreference_Prey_Nipple_Likes.description>[PAWN_label]喜欢从乳头被推入，享受乳汁浴的舒适感。</TypePreference_Prey_Nipple_Likes.description>
+
+  <TypePreference_Prey_Nipple_Neutral.label>乳头中立</TypePreference_Prey_Nipple_Neutral.label>
+  <TypePreference_Prey_Nipple_Neutral.description>[PAWN_label]对被乳头吞噬没有特别感受。</TypePreference_Prey_Nipple_Neutral.description>
+
+  <TypePreference_Prey_Nipple_Dislikes.label>乳头厌恶</TypePreference_Prey_Nipple_Dislikes.label>
+  <TypePreference_Prey_Nipple_Dislikes.description>[PAWN_label]反感从乳头被推入，认为乳房只应用于吸吮而非被吸吮。</TypePreference_Prey_Nipple_Dislikes.description>
+
+  <TypePreference_Prey_Nipple_Refuses.label>乳头抗拒</TypePreference_Prey_Nipple_Refuses.label>
+  <TypePreference_Prey_Nipple_Refuses.description>[PAWN_label]极度抗拒从乳头被推入，认为乳房根本没有适合的空腔。</TypePreference_Prey_Nipple_Refuses.description>
+
+  <!-- 全程旅行偏好 -->
+  <TypePreference_Prey_FullTour_Obsessed.label>全程旅行狂热</TypePreference_Prey_FullTour_Obsessed.label>
+  <TypePreference_Prey_FullTour_Obsessed.description>[PAWN_label]痴迷于从捕食者入口到出口的每一刻亲密接触。</TypePreference_Prey_FullTour_Obsessed.description>
+
+  <TypePreference_Prey_FullTour_Likes.label>全程旅行偏好</TypePreference_Prey_FullTour_Likes.label>
+  <TypePreference_Prey_FullTour_Likes.description>[PAWN_label]享受在捕食者体内的全程旅行，体验各种奇妙感觉。</TypePreference_Prey_FullTour_Likes.description>
+
+  <TypePreference_Prey_FullTour_Neutral.label>全程旅行中立</TypePreference_Prey_FullTour_Neutral.label>
+  <TypePreference_Prey_FullTour_Neutral.description>[PAWN_label]对全程旅行没有特别感受。</TypePreference_Prey_FullTour_Neutral.description>
+
+  <TypePreference_Prey_FullTour_Dislikes.label>全程旅行厌恶</TypePreference_Prey_FullTour_Dislikes.label>
+  <TypePreference_Prey_FullTour_Dislikes.description>[PAWN_label]反感在捕食者体内的全程旅行，因为体内环境并非总是友善。</TypePreference_Prey_FullTour_Dislikes.description>
+
+  <TypePreference_Prey_FullTour_Refuses.label>全程旅行抗拒</TypePreference_Prey_FullTour_Refuses.label>
+  <TypePreference_Prey_FullTour_Refuses.description>[PAWN_label]极度抗拒全程旅行，光是想象作为食物被困在黑暗肠道中就感到强烈不安。</TypePreference_Prey_FullTour_Refuses.description>
+
+  <!-- 口腔偏好 -->
+  <TypePreference_Prey_Oral_Obsessed.label>口腔狂热</TypePreference_Prey_Oral_Obsessed.label>
+  <TypePreference_Prey_Oral_Obsessed.description>[PAWN_label]痴迷于被吞咽、通过喉咙、被舌头玩弄最终送入胃部的过程。</TypePreference_Prey_Oral_Obsessed.description>
+
+  <TypePreference_Prey_Oral_Likes.label>口腔偏好</TypePreference_Prey_Oral_Likes.label>
+  <TypePreference_Prey_Oral_Likes.description>[PAWN_label]喜欢从口腔被推入，享受被舌头玩弄的独特体验。</TypePreference_Prey_Oral_Likes.description>
+
+  <TypePreference_Prey_Oral_Neutral.label>口腔中立</TypePreference_Prey_Oral_Neutral.label>
+  <TypePreference_Prey_Oral_Neutral.description>[PAWN_label]对被口腔吞噬没有特别感受。</TypePreference_Prey_Oral_Neutral.description>
+
+  <TypePreference_Prey_Oral_Dislikes.label>口腔厌恶</TypePreference_Prey_Oral_Dislikes.label>
+  <TypePreference_Prey_Oral_Dislikes.description>[PAWN_label]反感从口腔被推入，认为牙齿本就不是为温柔吞咽而设计的。</TypePreference_Prey_Oral_Dislikes.description>
+
+  <TypePreference_Prey_Oral_Refuses.label>口腔抗拒</TypePreference_Prey_Oral_Refuses.label>
+  <TypePreference_Prey_Oral_Refuses.description>[PAWN_label]极度抗拒从口腔被推入，对胃部及其入口有着本能的排斥。</TypePreference_Prey_Oral_Refuses.description>
+
+  <!-- 阴道偏好 -->
+  <TypePreference_Prey_Vaginal_Obsessed.label>阴道狂热</TypePreference_Prey_Vaginal_Obsessed.label>
+  <TypePreference_Prey_Vaginal_Obsessed.description>[PAWN_label]痴迷于被撬开入口、通过产道、最终囚禁在子宫中的感觉！</TypePreference_Prey_Vaginal_Obsessed.description>
+
+  <TypePreference_Prey_Vaginal_Likes.label>阴道偏好</TypePreference_Prey_Vaginal_Likes.label>
+  <TypePreference_Prey_Vaginal_Likes.description>[PAWN_label]喜欢从阴道被推入的感觉。</TypePreference_Prey_Vaginal_Likes.description>
+
+  <!-- 阴道吞噬偏好 - 中立 -->
+  <TypePreference_Prey_Vaginal_Neutral.label>阴道吞噬中立</TypePreference_Prey_Vaginal_Neutral.label>
+  <TypePreference_Prey_Vaginal_Neutral.description>[PAWN_label]对通过阴道被吞噬没有特别感受。</TypePreference_Prey_Vaginal_Neutral.description>
+
+  <!-- 阴道吞噬偏好 - 厌恶 -->
+  <TypePreference_Prey_Vaginal_Dislikes.label>厌恶阴道吞噬</TypePreference_Prey_Vaginal_Dislikes.label>
+  <TypePreference_Prey_Vaginal_Dislikes.description>[PAWN_label]反感被从阴道推入。那种仿佛变回婴儿的感觉有时会成为心理负担。</TypePreference_Prey_Vaginal_Dislikes.description>
+
+  <!-- 阴道吞噬偏好 - 强烈拒绝 -->
+  <TypePreference_Prey_Vaginal_Refuses.label>抗拒阴道吞噬</TypePreference_Prey_Vaginal_Refuses.label>
+  <TypePreference_Prey_Vaginal_Refuses.description>[PAWN_label]极度厌恶被从阴道推入。那种被分娩般的感受，只有婴儿时期才应该经历！</TypePreference_Prey_Vaginal_Refuses.description>
   
 </LanguageData>

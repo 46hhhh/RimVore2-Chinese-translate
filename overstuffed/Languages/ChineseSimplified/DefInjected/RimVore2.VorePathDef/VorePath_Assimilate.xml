@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 口腔吸收 -->
-  <OralAssimilate.label>(吸收)唇部</OralAssimilate.label>
-  <OralAssimilate.RMBLabel>唇部吸收</OralAssimilate.RMBLabel>
-  <OralAssimilate.actionDescription>{0}正试图通过唇部吸收{1}</OralAssimilate.actionDescription>
-  <OralAssimilate.description>通过唇部吸收猎物可永久增强唇部丰满度与润泽感(游戏内无视觉变化)。</OralAssimilate.description>
+  <!-- 口腔永久融合 -->
+  <OralAssimilate.label>(永久融合)唇部</OralAssimilate.label>
+  <OralAssimilate.RMBLabel>唇部永久融合</OralAssimilate.RMBLabel>
+  <OralAssimilate.actionDescription>{0}正试图通过唇部永久融合{1}</OralAssimilate.actionDescription>
+  <OralAssimilate.description>通过唇部永久融合猎物可永久增强唇部丰满度与润泽感(游戏内无视觉变化)。</OralAssimilate.description>
 
-  <!-- 肛门吸收 -->
-  <AnalAssimilate.label>(吸收)臀部</AnalAssimilate.label>
-  <AnalAssimilate.RMBLabel>臀部吸收</AnalAssimilate.RMBLabel>
-  <AnalAssimilate.actionDescription>{0}正试图通过臀部吸收{1}</AnalAssimilate.actionDescription>
-  <AnalAssimilate.description>臀部吸收可永久增强臀部丰满度与弹性(游戏内无视觉变化)。</AnalAssimilate.description>
+  <!-- 肛门永久融合 -->
+  <AnalAssimilate.label>(永久融合)臀部</AnalAssimilate.label>
+  <AnalAssimilate.RMBLabel>臀部永久融合</AnalAssimilate.RMBLabel>
+  <AnalAssimilate.actionDescription>{0}正试图通过臀部永久融合{1}</AnalAssimilate.actionDescription>
+  <AnalAssimilate.description>臀部永久融合可永久增强臀部丰满度与弹性(游戏内无视觉变化)。</AnalAssimilate.description>
 
-  <!-- 阴部吸收 -->
-  <VaginalAssimilate.label>(吸收)阴唇</VaginalAssimilate.label>
-  <VaginalAssimilate.RMBLabel>阴唇吸收</VaginalAssimilate.RMBLabel>
-  <VaginalAssimilate.actionDescription>{0}正试图通过阴唇吸收{1}</VaginalAssimilate.actionDescription>
-  <VaginalAssimilate.description>阴唇吸收可永久增强私处丰满度与性感度(游戏内无视觉变化)。</VaginalAssimilate.description>
+  <!-- 阴部永久融合 -->
+  <VaginalAssimilate.label>(永久融合)阴唇</VaginalAssimilate.label>
+  <VaginalAssimilate.RMBLabel>阴唇永久融合</VaginalAssimilate.RMBLabel>
+  <VaginalAssimilate.actionDescription>{0}正试图通过阴唇永久融合{1}</VaginalAssimilate.actionDescription>
+  <VaginalAssimilate.description>阴唇永久融合可永久增强私处丰满度与性感度(游戏内无视觉变化)。</VaginalAssimilate.description>
 
-  <!-- 阴茎吸收 -->
-  <CockAssimilate.label>(吸收)阴茎</CockAssimilate.label>
-  <CockAssimilate.RMBLabel>阴茎吸收</CockAssimilate.RMBLabel>
-  <CockAssimilate.actionDescription>{0}正试图通过阴茎吸收{1}</CockAssimilate.actionDescription>
-  <CockAssimilate.description>阴茎吸收可永久增强尺寸与性感表现(游戏内无视觉变化)。</CockAssimilate.description>
+  <!-- 阴茎永久融合 -->
+  <CockAssimilate.label>(永久融合)阴茎</CockAssimilate.label>
+  <CockAssimilate.RMBLabel>阴茎永久融合</CockAssimilate.RMBLabel>
+  <CockAssimilate.actionDescription>{0}正试图通过阴茎永久融合{1}</CockAssimilate.actionDescription>
+  <CockAssimilate.description>阴茎永久融合可永久增强尺寸与性感表现(游戏内无视觉变化)。</CockAssimilate.description>
 
-  <!-- 乳首吸收 -->
-  <NippleAssimilate.label>(吸收)乳尖</NippleAssimilate.label>
-  <NippleAssimilate.RMBLabel>乳尖吸收</NippleAssimilate.RMBLabel>
-  <NippleAssimilate.actionDescription>{0}正试图通过乳尖吸收{1}</NippleAssimilate.actionDescription>
-  <NippleAssimilate.description>乳尖吸收可永久增强胸部丰满度与性感度(游戏内无视觉变化)。</NippleAssimilate.description>
+  <!-- 乳首永久融合 -->
+  <NippleAssimilate.label>(永久融合)乳尖</NippleAssimilate.label>
+  <NippleAssimilate.RMBLabel>乳尖永久融合</NippleAssimilate.RMBLabel>
+  <NippleAssimilate.actionDescription>{0}正试图通过乳尖永久融合{1}</NippleAssimilate.actionDescription>
+  <NippleAssimilate.description>乳尖永久融合可永久增强胸部丰满度与性感度(游戏内无视觉变化)。</NippleAssimilate.description>
 
-  <!-- 乳沟吸收 -->
-  <CleavageAssimilate.label>(吸收)乳沟</CleavageAssimilate.label>
-  <CleavageAssimilate.RMBLabel>乳沟吸收</CleavageAssimilate.RMBLabel>
-  <CleavageAssimilate.actionDescription>{0}正试图通过乳沟吸收{1}</CleavageAssimilate.actionDescription>
-  <CleavageAssimilate.description>乳沟吸收可永久增强胸部曲线美(游戏内无视觉变化)。</CleavageAssimilate.description>
+  <!-- 乳沟永久融合 -->
+  <CleavageAssimilate.label>(永久融合)乳沟</CleavageAssimilate.label>
+  <CleavageAssimilate.RMBLabel>乳沟永久融合</CleavageAssimilate.RMBLabel>
+  <CleavageAssimilate.actionDescription>{0}正试图通过乳沟永久融合{1}</CleavageAssimilate.actionDescription>
+  <CleavageAssimilate.description>乳沟永久融合可永久增强胸部曲线美(游戏内无视觉变化)。</CleavageAssimilate.description>
 
-  <!-- 脐部吸收 -->
-  <NavelAssimilate.label>(吸收)脐部</NavelAssimilate.label>
-  <NavelAssimilate.RMBLabel>脐部吸收</NavelAssimilate.RMBLabel>
-  <NavelAssimilate.actionDescription>{0}正试图通过脐部吸收{1}</NavelAssimilate.actionDescription>
-  <NavelAssimilate.description>脐部吸收可永久增强腹部柔软质感(游戏内无视觉变化)。</NavelAssimilate.description>
+  <!-- 脐部永久融合 -->
+  <NavelAssimilate.label>(永久融合)脐部</NavelAssimilate.label>
+  <NavelAssimilate.RMBLabel>脐部永久融合</NavelAssimilate.RMBLabel>
+  <NavelAssimilate.actionDescription>{0}正试图通过脐部永久融合{1}</NavelAssimilate.actionDescription>
+  <NavelAssimilate.description>脐部永久融合可永久增强腹部柔软质感(游戏内无视觉变化)。</NavelAssimilate.description>
 
-  <!-- 乳房吸收 -->
-  <UdderAssimilate.label>(吸收)乳房</UdderAssimilate.label>
-  <UdderAssimilate.RMBLabel>乳房吸收</UdderAssimilate.RMBLabel>
-  <UdderAssimilate.actionDescription>{0}正试图通过乳房吸收{1}</UdderAssimilate.actionDescription>
-  <UdderAssimilate.description>乳房吸收可永久增强胸部丰满度(游戏内无视觉变化)。</UdderAssimilate.description>
+  <!-- 乳房永久融合 -->
+  <UdderAssimilate.label>(永久融合)乳房</UdderAssimilate.label>
+  <UdderAssimilate.RMBLabel>乳房永久融合</UdderAssimilate.RMBLabel>
+  <UdderAssimilate.actionDescription>{0}正试图通过乳房永久融合{1}</UdderAssimilate.actionDescription>
+  <UdderAssimilate.description>乳房永久融合可永久增强胸部丰满度(游戏内无视觉变化)。</UdderAssimilate.description>
 
 </LanguageData>

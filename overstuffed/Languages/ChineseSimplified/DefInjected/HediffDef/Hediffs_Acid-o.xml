@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 基础转换效果 -->
+  <RV2_ChemfuelConversionEnzymes.label>化学燃料转化中</RV2_ChemfuelConversionEnzymes.label>
+  <RV2_ChemfuelConversionEnzymes.injuryProps.destroyedLabel>已转化为燃料</RV2_ChemfuelConversionEnzymes.injuryProps.destroyedLabel>
+  <RV2_ChemfuelConversionEnzymes.injuryProps.destroyedOutLabel>已排出燃料</RV2_ChemfuelConversionEnzymes.injuryProps.destroyedOutLabel>
+  <RV2_ChemfuelConversionEnzymes.labelNoun>燃料转化酶</RV2_ChemfuelConversionEnzymes.labelNoun>
+
+  <RV2_EggConversionEnzymes.label>卵质转化中</RV2_EggConversionEnzymes.label>
+  <RV2_EggConversionEnzymes.injuryProps.destroyedLabel>已转化为卵</RV2_EggConversionEnzymes.injuryProps.destroyedLabel>
+  <RV2_EggConversionEnzymes.injuryProps.destroyedOutLabel>已排出卵</RV2_EggConversionEnzymes.injuryProps.destroyedOutLabel>
+  <RV2_EggConversionEnzymes.labelNoun>卵质转化酶</RV2_EggConversionEnzymes.labelNoun>
+
+  <RV2_UrineConversionEnzymes.label>尿液转化中</RV2_UrineConversionEnzymes.label>
+  <RV2_UrineConversionEnzymes.injuryProps.destroyedLabel>已转化为尿液</RV2_UrineConversionEnzymes.injuryProps.destroyedLabel>
+  <RV2_UrineConversionEnzymes.injuryProps.destroyedOutLabel>已排出尿液</RV2_UrineConversionEnzymes.injuryProps.destroyedOutLabel>
+  <RV2_UrineConversionEnzymes.labelNoun>尿液转化酶</RV2_UrineConversionEnzymes.labelNoun>
+
+  <RV2_AssimilationAvulsion.label>同化撕裂</RV2_AssimilationAvulsion.label>
+  <RV2_AssimilationAvulsion.injuryProps.destroyedLabel>同化中断</RV2_AssimilationAvulsion.injuryProps.destroyedLabel>
+  <RV2_AssimilationAvulsion.injuryProps.destroyedOutLabel>同化排出</RV2_AssimilationAvulsion.injuryProps.destroyedOutLabel>
+  <RV2_AssimilationAvulsion.labelNoun>不完全同化</RV2_AssimilationAvulsion.labelNoun>
+
+  <!-- 消化中断相关 -->
+  <RV2_DigestionRecovery.description>该角色曾短暂暴露于消化液中，现正处于恢复阶段。若短期内再次发生，身体脆弱性将逐步加剧！</RV2_DigestionRecovery.description>
+  <RV2_DigestionRecovery.stages.0.label>消化恢复中 (&lt;25%)</RV2_DigestionRecovery.stages.0.label>
+  <RV2_DigestionRecovery.stages.1.label>消化恢复中 (&gt;25%)</RV2_DigestionRecovery.stages.1.label>
+  <RV2_DigestionRecovery.stages.2.label>消化恢复中 (&gt;50%)</RV2_DigestionRecovery.stages.2.label>
+  <RV2_DigestionRecovery.stages.3.label>消化恢复中 (&gt;75%)</RV2_DigestionRecovery.stages.3.label>
+  <RV2_DigestionRecovery.labelNoun>消化恢复状态</RV2_DigestionRecovery.labelNoun>
+
+</LanguageData>

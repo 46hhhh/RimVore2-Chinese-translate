@@ -14,7 +14,7 @@
   <ConvertChemfuel.label>燃料化</ConvertChemfuel.label>
   <ConvertEggs.label>卵化</ConvertEggs.label>
   <ConvertUrine.label>尿液化</ConvertUrine.label>
-  <Assimilate.label>吸收</Assimilate.label>
+  <Assimilate.label>永久融合</Assimilate.label>
 
   <!-- 注释掉的原始内容保留不变 -->
   <!-- if changing species ever becomes practical, that's where this sucker is
@@ -28,6 +28,6 @@
     </requiredDesignations>
   </RimVore2.VoreGoalDef> -->
 
-  <Amalgamate.label>融合</Amalgamate.label>
+  <Amalgamate.label>可逆融合</Amalgamate.label>
 
 </LanguageData>

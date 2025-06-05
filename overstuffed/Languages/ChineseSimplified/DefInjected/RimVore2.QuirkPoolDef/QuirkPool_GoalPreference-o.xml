@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食者偏好 -->
+  <GoalPreference_Predator_Amalgamate.label>捕食目标偏好(可逆融合)</GoalPreference_Predator_Amalgamate.label>
+  <GoalPreference_Predator_Amalgamate.description>表示该角色偏好将猎物可逆融合的程度。极端情况下会始终选择可逆融合猎物，反之亦然。</GoalPreference_Predator_Amalgamate.description>
+
+  <GoalPreference_Predator_Assimilate.label>捕食目标偏好(永久融合)</GoalPreference_Predator_Assimilate.label>
+  <GoalPreference_Predator_Assimilate.description>表示该角色偏好将猎物永久融合的程度。极端情况下会始终选择永久融合猎物，反之亦然。</GoalPreference_Predator_Assimilate.description>
+
+  <!-- 猎物偏好 -->
+  <GoalPreference_Prey_Amalgamate.label>被捕食偏好(可逆融合)</GoalPreference_Prey_Amalgamate.label>
+  <GoalPreference_Prey_Amalgamate.description>表示该角色偏好被可逆融合的程度。极端情况下会主动寻求被可逆融合，反之亦然。需注意调整此倾向的出现率，若偏好可逆融合的猎物过多，可能会出现多个角色长期作为他人身体一部分存在的情况。</GoalPreference_Prey_Amalgamate.description>
+
+  <GoalPreference_Prey_Assimilate.label>被捕食偏好(永久融合)</GoalPreference_Prey_Assimilate.label>
+  <GoalPreference_Prey_Assimilate.description>表示该角色偏好被永久融合的程度。极端情况下会主动寻求被永久融合，反之亦然。需注意调整此倾向的出现率，偏好永久融合的捕食者很可能不知不觉就将猎物转化为自身肉体的一部分。</GoalPreference_Prey_Assimilate.description>
+
+</LanguageData>

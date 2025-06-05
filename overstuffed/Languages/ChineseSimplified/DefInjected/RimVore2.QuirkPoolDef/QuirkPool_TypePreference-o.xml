@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食方式偏好 -->
+  <TypePreference_Predator_Cleavage.label>捕食偏好(乳沟吞噬)</TypePreference_Predator_Cleavage.label>
+  <TypePreference_Predator_Cleavage.description>表示该角色偏好使用乳沟进行捕食的程度。极端情况下会始终通过乳沟吞噬猎物，反之亦然。</TypePreference_Predator_Cleavage.description>
+
+  <TypePreference_Predator_Membrane.label>捕食偏好(表皮吞噬)</TypePreference_Predator_Membrane.label>
+  <TypePreference_Predator_Membrane.description>表示该角色偏好使用史莱姆状表皮进行捕食的程度。极端情况下会始终通过表皮吞噬猎物，反之亦然。</TypePreference_Predator_Membrane.description>
+
+  <TypePreference_Predator_Navel.label>捕食偏好(脐部吞噬)</TypePreference_Predator_Navel.label>
+  <TypePreference_Predator_Navel.description>表示该角色偏好使用肚脐进行捕食的程度。极端情况下会始终通过脐部吞噬猎物，反之亦然。</TypePreference_Predator_Navel.description>
+
+  <TypePreference_Predator_Tailmaw.label>捕食偏好(尾口吞噬)</TypePreference_Predator_Tailmaw.label>
+  <TypePreference_Predator_Tailmaw.description>表示该角色偏好使用尾部口器进行捕食的程度。极端情况下会始终通过尾口吞噬猎物，反之亦然。</TypePreference_Predator_Tailmaw.description>
+
+  <TypePreference_Predator_Udder.label>捕食偏好(乳房吞噬)</TypePreference_Predator_Udder.label>
+  <TypePreference_Predator_Udder.description>表示该角色偏好使用乳房进行捕食的程度。极端情况下会始终通过乳房吞噬猎物，反之亦然。</TypePreference_Predator_Udder.description>
+
+  <!-- 被捕食方式偏好 -->
+  <TypePreference_Prey_Cleavage.label>被捕食偏好(乳沟进入)</TypePreference_Prey_Cleavage.label>
+  <TypePreference_Prey_Cleavage.description>表示该角色偏好通过乳沟被吞噬的程度。极端情况下会主动寻求通过乳沟被吞噬，反之亦然。</TypePreference_Prey_Cleavage.description>
+
+  <TypePreference_Prey_Membrane.label>被捕食偏好(表皮进入)</TypePreference_Prey_Membrane.label>
+  <TypePreference_Prey_Membrane.description>表示该角色偏好通过史莱姆状表皮被吞噬的程度。极端情况下会主动寻求通过表皮被吞噬，反之亦然。</TypePreference_Prey_Membrane.description>
+
+  <TypePreference_Prey_Navel.label>被捕食偏好(脐部进入)</TypePreference_Prey_Navel.label>
+  <TypePreference_Prey_Navel.description>表示该角色偏好通过肚脐被吞噬的程度。极端情况下会主动寻求通过脐部被吞噬，反之亦然。</TypePreference_Prey_Navel.description>
+
+  <TypePreference_Prey_Tailmaw.label>被捕食偏好(尾口进入)</TypePreference_Prey_Tailmaw.label>
+  <TypePreference_Prey_Tailmaw.description>表示该角色偏好通过尾部口器被吞噬的程度。极端情况下会主动寻求通过尾口被吞噬，反之亦然。</TypePreference_Prey_Tailmaw.description>
+
+  <TypePreference_Prey_Udder.label>被捕食偏好(乳房进入)</TypePreference_Prey_Udder.label>
+  <TypePreference_Prey_Udder.description>表示该角色偏好通过乳房被吞噬的程度。极端情况下会主动寻求通过乳房被吞噬，反之亦然。</TypePreference_Prey_Udder.description>
+
+</LanguageData>

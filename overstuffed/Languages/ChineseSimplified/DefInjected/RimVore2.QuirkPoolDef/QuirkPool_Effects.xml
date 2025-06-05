@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 捕食效果 -->
+  <PostVoreAssimilation.label>捕食后效果(吸收)</PostVoreAssimilation.label>
+  <PostVoreAssimilation.description>表示该角色吸收猎物(伴随实质死亡)时对捕食者产生的影响。注意：此效果需以具备吸收能力为前提。</PostVoreAssimilation.description>
+
+
+</LanguageData>

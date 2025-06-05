@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ItemDamage.label>物品损伤</ItemDamage.label>
+  <ItemDamage.label>物品伤害</ItemDamage.label>
   <ItemDamage.description>表示该角色通过消化等转化过程将猎物液化时，对猎物装备的植入物/衣物等造成的损伤程度。</ItemDamage.description>
 
 
