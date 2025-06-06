@@ -4,7 +4,7 @@
   <!-- 目标启用器 -->
 
   <Enablers_Overstuffed_Goal_Absorb.label>细胞融合</Enablers_Overstuffed_Goal_Absorb.label>
-  <Enablers_Overstuffed_Goal_Absorb.description>[PAWN_label]能在细胞层面与其他生命同化。既可单向吸收，也可双向融合。</Enablers_Overstuffed_Goal_Absorb.description>
+  <Enablers_Overstuffed_Goal_Absorb.description>[PAWN_label]能在细胞层面与其他生命同化。</Enablers_Overstuffed_Goal_Absorb.description>
 
   <Enablers_Overstuffed_Goal_Amalgamate.label>可逆融合</Enablers_Overstuffed_Goal_Amalgamate.label>
   <Enablers_Overstuffed_Goal_Amalgamate.description>[PAWN_label]能在细胞层面与其他生命同化，但仅限可逆的安全范围，无法完全吸收。</Enablers_Overstuffed_Goal_Amalgamate.description>
@@ -36,7 +36,7 @@
   <Enablers_Overstuffed_Type_Tailmaw.label>柔软尾口</Enablers_Overstuffed_Type_Tailmaw.label>
   <Enablers_Overstuffed_Type_Tailmaw.description>[PAWN_label]的尾巴末端生有可伸缩的嘴，能吞咽活体猎物。</Enablers_Overstuffed_Type_Tailmaw.description>
 
-  <Enablers_Overstuffed_Type_Udder.label>弹性乳囊</Enablers_Overstuffed_Type_Udder.label>
+  <Enablers_Overstuffed_Type_Udder.label>弹性乳房</Enablers_Overstuffed_Type_Udder.label>
   <Enablers_Overstuffed_Type_Udder.description>[PAWN_label]的乳房具备惊人伸缩性，可容纳活体猎物。</Enablers_Overstuffed_Type_Udder.description>
 
 </LanguageData>

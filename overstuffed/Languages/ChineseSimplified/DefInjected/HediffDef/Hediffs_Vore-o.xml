@@ -1,371 +1,372 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+    <!-- 臀 -->
 
-  <!-- Anus   <.label></.label>-->
+    <RV2_PreyInAnusAmalgamating.label>臀中的猎物</RV2_PreyInAnusAmalgamating.label>
+    <RV2_PreyInAnusAmalgamating.description>该角色正试图将猎物暂时融入臀中。</RV2_PreyInAnusAmalgamating.description>
 
-  <RV2_PreyInAnusAmalgamating.label>尻肉の中の獲物</RV2_PreyInAnusAmalgamating.label>
-  <RV2_PreyInAnusAmalgamating.description>このキャラクターは獲物を生ける尻肉として一時的に取り込もうとしています.</RV2_PreyInAnusAmalgamating.description>
+    <RV2_PreyInAnusAssimilating.label>臀中的猎物</RV2_PreyInAnusAssimilating.label>
+    <RV2_PreyInAnusAssimilating.description>该角色正试图将猎物永久融入臀中。</RV2_PreyInAnusAssimilating.description>
 
-  <RV2_PreyInAnusAssimilating.label>尻肉の中の獲物</RV2_PreyInAnusAssimilating.label>
-  <RV2_PreyInAnusAssimilating.description>このキャラクターは獲物を生ける尻肉として永久に取り込もうとしています.</RV2_PreyInAnusAssimilating.description>
+    <RV2_PreyInAnusContacting.label>臀中的猎物</RV2_PreyInAnusContacting.label>
+    <RV2_PreyInAnusContacting.description>该角色正在调整体位，准备将猎物融入臀。</RV2_PreyInAnusContacting.description>
 
-  <RV2_PreyInAnusContacting.label>尻肉の中の獲物</RV2_PreyInAnusContacting.label>
-  <RV2_PreyInAnusContacting.description>このキャラクターは獲物を生ける尻肉として取り込むための体位を取っています.</RV2_PreyInAnusContacting.description>
+    <RV2_PreyInAnusLoosening.label>臀中的猎物</RV2_PreyInAnusLoosening.label>
+    <RV2_PreyInAnusLoosening.description>该角色开始为猎物融入臀部做准备。</RV2_PreyInAnusLoosening.description>
 
-  <RV2_PreyInAnusLoosening.label>尻肉の中の獲物</RV2_PreyInAnusLoosening.label>
-  <RV2_PreyInAnusLoosening.description>このキャラクターは尻に取り込まれる獲物に対して何かしらの準備を始めています.</RV2_PreyInAnusLoosening.description>
+    <RV2_PreyInAnusPurging.label>臀中的猎物</RV2_PreyInAnusPurging.label>
+    <RV2_PreyInAnusPurging.description>该角色正试图排出臀部无法融合的无机物。</RV2_PreyInAnusPurging.description>
 
-  <RV2_PreyInAnusPurging.label>尻肉の中の獲物</RV2_PreyInAnusPurging.label>
-  <RV2_PreyInAnusPurging.description>このキャラクターは尻に取り込まれた獲物の残骸を除去しようとしています.</RV2_PreyInAnusPurging.description>
+    <RV2_PreyInAnusReshaping.label>臀中的猎物</RV2_PreyInAnusReshaping.label>
+    <RV2_PreyInAnusReshaping.description>该角色正试图重塑臀部中的猎物。</RV2_PreyInAnusReshaping.description>
 
-  <RV2_PreyInAnusReshaping.label>尻肉の中の獲物</RV2_PreyInAnusReshaping.label>
-  <RV2_PreyInAnusReshaping.description>このキャラクターは尻に取り込まれた獲物を再形成させようとしています.</RV2_PreyInAnusReshaping.description>
 
+    <!-- 膀胱 -->
 
-  <!-- Bladder -->
+    <RV2_PreyInBladder.label>膀胱中的猎物</RV2_PreyInBladder.label>
 
-  <RV2_PreyInBladder.label>膀胱の中の獲物</RV2_PreyInBladder.label>
+    <RV2_PreyInBladderPassing.label>膀胱中的猎物</RV2_PreyInBladderPassing.label>
+    <RV2_PreyInBladderPassing.description>该角色正试图将猎物推向更深处。</RV2_PreyInBladderPassing.description>
 
-  <RV2_PreyInBladderPassing.label>膀胱の中の獲物</RV2_PreyInBladderPassing.label>
-  <RV2_PreyInBladderPassing.description>このキャラクターは獲物を更に奥に押し込もうとしています.</RV2_PreyInBladderPassing.description>
+    <RV2_PreyInBladderPleasuring.label>膀胱中的猎物</RV2_PreyInBladderPleasuring.label>
+    <RV2_PreyInBladderPleasuring.description>该角色正在用膀胱玩弄猎物。</RV2_PreyInBladderPleasuring.description>
 
-  <RV2_PreyInBladderPleasuring.label>膀胱の中の獲物</RV2_PreyInBladderPleasuring.label>
-  <RV2_PreyInBladderPleasuring.description>このキャラクターは獲物を膀胱で弄んでいます.</RV2_PreyInBladderPleasuring.description>
+    <RV2_PreyInBladderStoring.label>膀胱中的猎物</RV2_PreyInBladderStoring.label>
+    <RV2_PreyInBladderStoring.description>该角色将猎物囚禁在膀胱中。</RV2_PreyInBladderStoring.description>
 
-  <RV2_PreyInBladderStoring.label>膀胱の中の獲物</RV2_PreyInBladderStoring.label>
-  <RV2_PreyInBladderStoring.description>このキャラクターは獲物を膀胱に閉じ込めています.</RV2_PreyInBladderStoring.description>
+    <RV2_PreyInBladderWarming.label>膀胱中的猎物</RV2_PreyInBladderWarming.label>
+    <RV2_PreyInBladderWarming.description>该角色正在分泌下一步处理所需要的酶。</RV2_PreyInBladderWarming.description>
 
-  <RV2_PreyInBladderWarming.label>膀胱の中の獲物</RV2_PreyInBladderWarming.label>
-  <RV2_PreyInBladderWarming.description>このキャラクターは膀胱の中の獲物に対して何かしらの準備を始めています.</RV2_PreyInBladderWarming.description>
+    <!-- 胸部 -->
+    <RV2_PreyInBreastsAmalgamating.label>胸中的猎物</RV2_PreyInBreastsAmalgamating.label>
+    <RV2_PreyInBreastsAmalgamating.description>该角色正试图将猎物暂时融入胸中。</RV2_PreyInBreastsAmalgamating.description>
 
+    <RV2_PreyInBreastsAssimilating.label>胸中的猎物</RV2_PreyInBreastsAssimilating.label>
+    <RV2_PreyInBreastsAssimilating.description>该角色正试图将猎物永久融入胸中。</RV2_PreyInBreastsAssimilating.description>
 
-  <!-- Breasts -->
-  <RV2_PreyInBreastsAmalgamating.label>胸の中の獲物</RV2_PreyInBreastsAmalgamating.label>
-  <RV2_PreyInBreastsAmalgamating.description>このキャラクターは獲物を生ける乳肉として一時的に取り込もうとしています.</RV2_PreyInBreastsAmalgamating.description>
-  <RV2_PreyInBreastsAssimilating.label>胸の中の獲物</RV2_PreyInBreastsAssimilating.label>
-  <RV2_PreyInBreastsAssimilating.description>このキャラクターは獲物を生ける乳肉として永久に取り込もうとしています.</RV2_PreyInBreastsAssimilating.description>
-  <RV2_PreyInBreastsConvertingChemfuel.label>胸の中の獲物</RV2_PreyInBreastsConvertingChemfuel.label>
-  <RV2_PreyInBreastsConvertingChemfuel.description>このキャラクターは獲物の成れ果てをオイルに作り替えようとしています.</RV2_PreyInBreastsConvertingChemfuel.description>
+    <RV2_PreyInBreastsConvertingChemfuel.label>胸中的猎物</RV2_PreyInBreastsConvertingChemfuel.label>
+    <RV2_PreyInBreastsConvertingChemfuel.description>该角色正试图将猎物的遗体转化为燃油。</RV2_PreyInBreastsConvertingChemfuel.description>
 
+    <!-- 乳沟 -->
 
-  <!-- Cleavage -->
+    <RV2_PreyInCleavage.label>乳沟中的猎物</RV2_PreyInCleavage.label>
 
-  <RV2_PreyInCleavage.label>谷間の中の獲物</RV2_PreyInCleavage.label>
+    <RV2_PreyInCleavageExiting.label>乳沟中的猎物</RV2_PreyInCleavageExiting.label>
+    <RV2_PreyInCleavageExiting.description>该角色正试图将猎物从乳沟中释放出来。</RV2_PreyInCleavageExiting.description>
 
-  <RV2_PreyInCleavageExiting.label>谷間の中の獲物</RV2_PreyInCleavageExiting.label>
-  <RV2_PreyInCleavageExiting.description>このキャラクターは獲物を谷間から出そうとしています.</RV2_PreyInCleavageExiting.description>
+    <RV2_PreyInCleavageContacting.label>乳沟中的猎物</RV2_PreyInCleavageContacting.label>
+    <RV2_PreyInCleavageContacting.description>该角色正在调整体位，准备将猎物融入乳沟中。</RV2_PreyInCleavageContacting.description>
 
-  <RV2_PreyInCleavageContacting.label>谷間の中の獲物</RV2_PreyInCleavageContacting.label>
-  <RV2_PreyInCleavageContacting.description>このキャラクターは獲物を生ける谷間として取り込むための体位を取っています.</RV2_PreyInCleavageContacting.description>
+    <RV2_PreyInCleavageLoosening.label>乳沟中的猎物</RV2_PreyInCleavageLoosening.label>
+    <RV2_PreyInCleavageLoosening.description>该角色开始为猎物融入乳沟做准备。</RV2_PreyInCleavageLoosening.description>
 
-  <RV2_PreyInCleavageLoosening.label>谷間の中の獲物</RV2_PreyInCleavageLoosening.label>
-  <RV2_PreyInCleavageLoosening.description>このキャラクターは谷間に取り込まれる獲物に対して何かしらの準備を始めています.</RV2_PreyInCleavageLoosening.description>
+    <RV2_PreyInCleavagePassing.label>乳沟中的猎物</RV2_PreyInCleavagePassing.label>
+    <RV2_PreyInCleavagePassing.description>该角色正试图将猎物吞入乳沟中。</RV2_PreyInCleavagePassing.description>
 
-  <RV2_PreyInCleavagePassing.label>谷間の中の獲物</RV2_PreyInCleavagePassing.label>
-  <RV2_PreyInCleavagePassing.description>このキャラクターは獲物を谷間に押し込もうとしています.</RV2_PreyInCleavagePassing.description>
+    <RV2_PreyInCleavagePleasuring.label>乳沟中的猎物</RV2_PreyInCleavagePleasuring.label>
+    <RV2_PreyInCleavagePleasuring.description>该角色正在用胸部玩弄猎物。</RV2_PreyInCleavagePleasuring.description>
 
-  <RV2_PreyInCleavagePleasuring.label>谷間の中の獲物</RV2_PreyInCleavagePleasuring.label>
-  <RV2_PreyInCleavagePleasuring.description>このキャラクターは獲物を胸と全身で弄んでいます.</RV2_PreyInCleavagePleasuring.description>
+    <RV2_PreyInCleavageStoring.label>乳沟中的猎物</RV2_PreyInCleavageStoring.label>
+    <RV2_PreyInCleavageStoring.description>该角色将猎物囚禁在乳沟中。</RV2_PreyInCleavageStoring.description>
 
-  <RV2_PreyInCleavageStoring.label>谷間の中の獲物</RV2_PreyInCleavageStoring.label>
-  <RV2_PreyInCleavageStoring.description>このキャラクターは獲物を谷間の中に閉じ込めています.</RV2_PreyInCleavageStoring.description>
+    <RV2_PreyInCleavagePurging.label>乳沟中的猎物</RV2_PreyInCleavagePurging.label>
+    <RV2_PreyInCleavagePurging.description>该角色正试图排出乳沟中无法融合的无机物。</RV2_PreyInCleavagePurging.description>
 
-  <RV2_PreyInCleavagePurging.label>谷間の中の獲物</RV2_PreyInCleavagePurging.label>
-  <RV2_PreyInCleavagePurging.description>このキャラクターは谷間に取り込まれた獲物の残骸を除去しようとしています.</RV2_PreyInCleavagePurging.description>
+    <RV2_PreyInCleavageReshaping.label>乳沟中的猎物</RV2_PreyInCleavageReshaping.label>
+    <RV2_PreyInCleavageReshaping.description>该角色正试图重塑乳沟中的猎物。</RV2_PreyInCleavageReshaping.description>
 
-  <RV2_PreyInCleavageReshaping.label>谷間の中の獲物</RV2_PreyInCleavageReshaping.label>
-  <RV2_PreyInCleavageReshaping.description>このキャラクターは谷間に取り込まれた獲物を再形成させようとしています.</RV2_PreyInCleavageReshaping.description>
 
+    <!-- 阴茎 -->
+    <RV2_PreyInCockAmalgamating.label>阴茎中的猎物</RV2_PreyInCockAmalgamating.label>
+    <RV2_PreyInCockAmalgamating.description>该角色正试图将猎物暂时融入阴茎组织中。</RV2_PreyInCockAmalgamating.description>
 
-  <!-- Cock -->
-  <RV2_PreyInCockAmalgamating.label>竿の中の獲物</RV2_PreyInCockAmalgamating.label>
-  <RV2_PreyInCockAmalgamating.description>このキャラクターは獲物を生ける竿肉として一時的に取り込もうとしています.</RV2_PreyInCockAmalgamating.description>
-  <RV2_PreyInCockAssimilating.label>竿の中の獲物</RV2_PreyInCockAssimilating.label>
-  <RV2_PreyInCockAssimilating.description>このキャラクターは獲物を生ける肉棒として永久に取り込もうとしています.</RV2_PreyInCockAssimilating.description>
-  <RV2_PreyInCockContacting.label>竿の中の獲物</RV2_PreyInCockContacting.label>
-  <RV2_PreyInCockContacting.description>このキャラクターは獲物を生ける肉棒として取り込むための体位を取っています.</RV2_PreyInCockContacting.description>
-  <RV2_PreyInCockLoosening.label>竿の中の獲物</RV2_PreyInCockLoosening.label>
-  <RV2_PreyInCockLoosening.description>このキャラクターは竿に取り込まれる獲物に対して何かしらの準備を始めています.</RV2_PreyInCockLoosening.description>
-  <RV2_PreyInCockPurging.label>竿の中の獲物</RV2_PreyInCockPurging.label>
-  <RV2_PreyInCockPurging.description>このキャラクターは竿に取り込まれた獲物の残骸を除去しようとしています.</RV2_PreyInCockPurging.description>
-  <RV2_PreyInCockReshaping.label>竿の中の獲物</RV2_PreyInCockReshaping.label>
-  <RV2_PreyInCockReshaping.description>このキャラクターは竿に取り込まれた獲物を再形成させようとしています.</RV2_PreyInCockReshaping.description>
+    <RV2_PreyInCockAssimilating.label>阴茎中的猎物</RV2_PreyInCockAssimilating.label>
+    <RV2_PreyInCockAssimilating.description>该角色正试图将猎物永久融入阴茎组织中。</RV2_PreyInCockAssimilating.description>
 
+    <RV2_PreyInCockContacting.label>阴茎中的猎物</RV2_PreyInCockContacting.label>
+    <RV2_PreyInCockContacting.description>该角色正在调整体位，准备将猎物融入阴茎组织中。</RV2_PreyInCockContacting.description>
 
-  <!-- Kidney -->
+    <RV2_PreyInCockLoosening.label>阴茎中的猎物</RV2_PreyInCockLoosening.label>
+    <RV2_PreyInCockLoosening.description>该角色开始为猎物融入阴茎组织做准备。</RV2_PreyInCockLoosening.description>
 
-  <RV2_PreyInKidney.label>腎臓の中の獲物</RV2_PreyInKidney.label>
+    <RV2_PreyInCockPurging.label>阴茎中的猎物</RV2_PreyInCockPurging.label>
+    <RV2_PreyInCockPurging.description>该角色正试图排出阴茎中无法融合的无机物。</RV2_PreyInCockPurging.description>
 
-  <RV2_PreyInKidneyConvertingUrine.label>腎臓の中の獲物</RV2_PreyInKidneyConvertingUrine.label>
-  <RV2_PreyInKidneyConvertingUrine.description>このキャラクターは獲物の成れ果てを尿に作り替えようとしています.</RV2_PreyInKidneyConvertingUrine.description>
+    <RV2_PreyInCockReshaping.label>阴茎中的猎物</RV2_PreyInCockReshaping.label>
+    <RV2_PreyInCockReshaping.description>该角色正试图重塑阴茎组织中的猎物。</RV2_PreyInCockReshaping.description>
 
-  <RV2_PreyInKidneyDissolving.label>腎臓の中の獲物</RV2_PreyInKidneyDissolving.label>
-  <RV2_PreyInKidneyDissolving.description>このキャラクターは獲物を腎の中で溶かそうとしています.この工程で飢えを満たすことはできません.</RV2_PreyInKidneyDissolving.description>
+    <!-- 睾丸 -->
+    <RV2_PreyInTesticlesConvertingChemfuel.label>睾丸中的猎物</RV2_PreyInTesticlesConvertingChemfuel.label>
+    <RV2_PreyInTesticlesConvertingChemfuel.description>该角色正试图将无法融合的无机物转化为燃油。</RV2_PreyInTesticlesConvertingChemfuel.description>
 
-  <RV2_PreyInKidneyMushing.label>腎臓の中の獲物</RV2_PreyInKidneyMushing.label>
-  <RV2_PreyInKidneyMushing.description>このキャラクターは獲物だったものを腎の中で解きほぐそうとしています.この工程で飢えを満たすことはできません.</RV2_PreyInKidneyMushing.description>
 
+    <!-- 肾脏 -->
 
-  <!-- Insides -->
+    <RV2_PreyInKidney.label>肾脏中的猎物</RV2_PreyInKidney.label>
 
-  <RV2_PreyInInsides.label>中の獲物</RV2_PreyInInsides.label>
+    <RV2_PreyInKidneyConvertingUrine.label>肾脏中的猎物</RV2_PreyInKidneyConvertingUrine.label>
+    <RV2_PreyInKidneyConvertingUrine.description>该角色正试图将猎物的遗体转化为尿液。</RV2_PreyInKidneyConvertingUrine.description>
 
-  <RV2_PreyInInsidesChurning.label>中の獲物</RV2_PreyInInsidesChurning.label>
-  <RV2_PreyInInsidesChurning.description>このキャラクターは溶けかけの獲物を完全にスープにしようとしています.</RV2_PreyInInsidesChurning.description>
+    <RV2_PreyInKidneyDissolving.label>肾脏中的猎物</RV2_PreyInKidneyDissolving.label>
+    <RV2_PreyInKidneyDissolving.description>该角色正试图在肾脏中溶解猎物。此过程无法满足饥饿感。</RV2_PreyInKidneyDissolving.description>
 
-  <RV2_PreyInInsidesDigesting.label>中の獲物</RV2_PreyInInsidesDigesting.label>
-  <RV2_PreyInInsidesDigesting.description>このキャラクターは獲物を消化しようとしています.</RV2_PreyInInsidesDigesting.description>
+    <RV2_PreyInKidneyMushing.label>肾脏中的猎物</RV2_PreyInKidneyMushing.label>
+    <RV2_PreyInKidneyMushing.description>该角色正试图在肾脏中分解猎物的遗体。此过程无法满足饥饿感。</RV2_PreyInKidneyMushing.description>
 
-  <RV2_PreyInInsidesProcessing.label>中の獲物</RV2_PreyInInsidesProcessing.label>
-  <RV2_PreyInInsidesProcessing.description>このキャラクターは柔らかい体で獲物の成れ果てから栄養を吸収しようとしています.</RV2_PreyInInsidesProcessing.description>
 
-  <RV2_PreyInInsidesPleasuring.label>中の獲物</RV2_PreyInInsidesPleasuring.label>
-  <RV2_PreyInInsidesPleasuring.description>このキャラクターは獲物をその柔らかい体で弄んでいます.</RV2_PreyInInsidesPleasuring.description>
+    <!-- 体内 -->
 
-  <RV2_PreyInInsidesStoring.label>中の獲物</RV2_PreyInInsidesStoring.label>
-  <RV2_PreyInInsidesStoring.description>このキャラクターは獲物を柔らかい体内に閉じ込めています.</RV2_PreyInInsidesStoring.description>
+    <RV2_PreyInInsides.label>体内的猎物</RV2_PreyInInsides.label>
 
-  <RV2_PreyInInsidesWarming.label>中の獲物</RV2_PreyInInsidesWarming.label>
-  <RV2_PreyInInsidesWarming.description>このキャラクターは体の中の獲物に対して何かしらの準備を始めています.</RV2_PreyInInsidesWarming.description>
+    <RV2_PreyInInsidesChurning.label>体内的猎物</RV2_PreyInInsidesChurning.label>
+    <RV2_PreyInInsidesChurning.description>该角色正试图将半溶解的猎物彻底转化为浓汤。</RV2_PreyInInsidesChurning.description>
 
+    <RV2_PreyInInsidesDigesting.label>体内的猎物</RV2_PreyInInsidesDigesting.label>
+    <RV2_PreyInInsidesDigesting.description>该角色正试图消化猎物。</RV2_PreyInInsidesDigesting.description>
 
-  <!-- Membrane -->
+    <RV2_PreyInInsidesProcessing.label>体内的猎物</RV2_PreyInInsidesProcessing.label>
+    <RV2_PreyInInsidesProcessing.description>该角色正试图用柔软的身体从猎物遗体中吸收营养。</RV2_PreyInInsidesProcessing.description>
 
-  <RV2_PreyInMembrane.label>皮膚の中の獲物</RV2_PreyInMembrane.label>
+    <RV2_PreyInInsidesPleasuring.label>体内的猎物</RV2_PreyInInsidesPleasuring.label>
+    <RV2_PreyInInsidesPleasuring.description>该角色正用柔软的身体玩弄猎物。</RV2_PreyInInsidesPleasuring.description>
 
-  <RV2_PreyInMembraneDumping.label>皮膚の中の獲物</RV2_PreyInMembraneDumping.label>
-  <RV2_PreyInMembraneDumping.description>このキャラクターは獲物の成れ果てを外皮から出そうとしています.</RV2_PreyInMembraneDumping.description>
+    <RV2_PreyInInsidesStoring.label>体内的猎物</RV2_PreyInInsidesStoring.label>
+    <RV2_PreyInInsidesStoring.description>该角色将猎物囚禁在柔软的身体内部。</RV2_PreyInInsidesStoring.description>
 
-  <RV2_PreyInMembraneExiting.label>皮膚の中の獲物</RV2_PreyInMembraneExiting.label>
-  <RV2_PreyInMembraneExiting.description>このキャラクターは獲物を外皮から出そうとしています.</RV2_PreyInMembraneExiting.description>
+    <RV2_PreyInInsidesWarming.label>体内的猎物</RV2_PreyInInsidesWarming.label>
+    <RV2_PreyInInsidesWarming.description>该角色开始为体内的猎物做准备。</RV2_PreyInInsidesWarming.description>
 
-  <RV2_PreyInMembranePassing.label>皮膚の中の獲物</RV2_PreyInMembranePassing.label>
-  <RV2_PreyInMembranePassing.description>このキャラクターは獲物を外皮を通して押し込もうとしています.</RV2_PreyInMembranePassing.description>
 
-  <RV2_PreyInMembranePleasuring.label>皮膚の中の獲物</RV2_PreyInMembranePleasuring.label>
-  <RV2_PreyInMembranePleasuring.description>このキャラクターは獲物を皮膚を通して弄んでいます.</RV2_PreyInMembranePleasuring.description>
+    <!-- 皮肤 -->
 
+    <RV2_PreyInMembrane.label>皮肤中的猎物</RV2_PreyInMembrane.label>
 
-  <!-- Mouth -->
+    <RV2_PreyInMembraneDumping.label>皮肤中的猎物</RV2_PreyInMembraneDumping.label>
+    <RV2_PreyInMembraneDumping.description>该角色正试图将猎物遗体从表皮排出。</RV2_PreyInMembraneDumping.description>
 
-  <RV2_PreyInMouthAssimilating.label>唇の中の獲物</RV2_PreyInMouthAssimilating.label>
-  <RV2_PreyInMouthAssimilating.description>このキャラクターは獲物を生ける唇として永久に取り込もうとしていて,会話と呼吸が少し難しくなっています.</RV2_PreyInMouthAssimilating.description>
+    <RV2_PreyInMembraneExiting.label>皮肤中的猎物</RV2_PreyInMembraneExiting.label>
+    <RV2_PreyInMembraneExiting.description>该角色正试图将猎物从表皮中释放。</RV2_PreyInMembraneExiting.description>
 
-  <RV2_PreyInMouthContacting.label>唇の中の獲物</RV2_PreyInMouthContacting.label>
-  <RV2_PreyInMouthContacting.description>このキャラクターは獲物をキスか舌攻めかで獲物を弄んでいて,会話と呼吸が少し難しくなっています.</RV2_PreyInMouthContacting.description>
+    <RV2_PreyInMembranePassing.label>皮肤中的猎物</RV2_PreyInMembranePassing.label>
+    <RV2_PreyInMembranePassing.description>该角色正试图将猎物通过表皮挤压进入。</RV2_PreyInMembranePassing.description>
 
-  <RV2_PreyInMouthLoosening.label>唇の中の獲物</RV2_PreyInMouthLoosening.label>
-  <RV2_PreyInMouthLoosening.description>このキャラクターは唇に取り込まれる獲物に対して何かしらの準備を始めていて,会話と呼吸が少し難しくなっています.</RV2_PreyInMouthLoosening.description>
+    <RV2_PreyInMembranePleasuring.label>皮肤中的猎物</RV2_PreyInMembranePleasuring.label>
+    <RV2_PreyInMembranePleasuring.description>该角色正通过皮肤玩弄猎物。</RV2_PreyInMembranePleasuring.description>
 
-  <RV2_PreyInMouthPurging.label>唇の中の獲物</RV2_PreyInMouthPurging.label>
-  <RV2_PreyInMouthPurging.description>このキャラクターは唇に取り込まれた獲物の残骸を除去しようとしていまて,会話と呼吸が少し難しくなっています.</RV2_PreyInMouthPurging.description>
+    <!-- 口腔 -->
 
-  <RV2_PreyInMouthReshaping.label>唇の中の獲物</RV2_PreyInMouthReshaping.label>
-  <RV2_PreyInMouthReshaping.description>このキャラクターは唇に取り込まれた獲物を再形成させようとしていて,会話と呼吸が少し難しくなっています.</RV2_PreyInMouthReshaping.description>
+    <RV2_PreyInMouthAssimilating.label>唇中的猎物</RV2_PreyInMouthAssimilating.label>
+    <RV2_PreyInMouthAssimilating.description>该角色正试图将猎物永久融入嘴唇中，导致说话和呼吸略显困难。</RV2_PreyInMouthAssimilating.description>
 
+    <RV2_PreyInMouthContacting.label>唇中的猎物</RV2_PreyInMouthContacting.label>
+    <RV2_PreyInMouthContacting.description>该角色正通过亲吻或舌技玩弄猎物，导致说话和呼吸略显困难。</RV2_PreyInMouthContacting.description>
 
-  <!-- doesn't use mouth-specific stages -->
+    <RV2_PreyInMouthLoosening.label>唇中的猎物</RV2_PreyInMouthLoosening.label>
+    <RV2_PreyInMouthLoosening.description>该角色开始为嘴唇融入猎物做准备，导致说话和呼吸略显困难。</RV2_PreyInMouthLoosening.description>
 
-  <RV2_PreyInMouthAmalgamating.label>唇の中の獲物</RV2_PreyInMouthAmalgamating.label>
-  <RV2_PreyInMouthAmalgamating.description>このキャラクターは獲物を生ける唇として一時的に取り込もうとしています.</RV2_PreyInMouthAmalgamating.description>
+    <RV2_PreyInMouthPurging.label>唇中的猎物</RV2_PreyInMouthPurging.label>
+    <RV2_PreyInMouthPurging.description>该角色正试图排出嘴唇中无法融合的无机物，导致说话和呼吸略显困难。</RV2_PreyInMouthPurging.description>
 
+    <RV2_PreyInMouthReshaping.label>唇中的猎物</RV2_PreyInMouthReshaping.label>
+    <RV2_PreyInMouthReshaping.description>该角色正试图重塑嘴唇中的猎物，导致说话和呼吸略显困难。</RV2_PreyInMouthReshaping.description>
 
-  <!-- Navel -->
+    <!-- 不使用口腔专属阶段 -->
 
-  <RV2_PreyInNavel.label>へその中の獲物</RV2_PreyInNavel.label>
+    <RV2_PreyInMouthAmalgamating.label>唇中的猎物</RV2_PreyInMouthAmalgamating.label>
+    <RV2_PreyInMouthAmalgamating.description>该角色正试图将猎物暂时融入嘴唇中。</RV2_PreyInMouthAmalgamating.description>
 
-  <RV2_PreyInNavelContacting.label>へその中の獲物</RV2_PreyInNavelContacting.label>
-  <RV2_PreyInNavelContacting.description>このキャラクターは獲物を生ける腹肉として取り込むための体位を取っています.</RV2_PreyInNavelContacting.description>
+    <!-- 喉咙 -->
 
-  <RV2_PreyInNavelAmalgamating.label>へその中の獲物</RV2_PreyInNavelAmalgamating.label>
-  <RV2_PreyInNavelAmalgamating.description>このキャラクターは獲物を生ける腹肉として一時的に取り込もうとしています.</RV2_PreyInNavelAmalgamating.description>
+    <RV2_PreyInThroat.label>喉咙中的猎物</RV2_PreyInThroat.label>
 
-  <RV2_PreyInNavelAssimilating.label>へその中の獲物</RV2_PreyInNavelAssimilating.label>
-  <RV2_PreyInNavelAssimilating.description>このキャラクターは獲物を生ける腹肉として永久に取り込もうとしています.</RV2_PreyInNavelAssimilating.description>
+    <!-- 肚脐 -->
 
-  <RV2_PreyInNavelExiting.label>へその中の獲物</RV2_PreyInNavelExiting.label>
-  <RV2_PreyInNavelExiting.description>このキャラクターは獲物をへそから出そうとしています.</RV2_PreyInNavelExiting.description>
+    <RV2_PreyInNavel.label>肚脐中的猎物</RV2_PreyInNavel.label>
 
-  <RV2_PreyInNavelLoosening.label>へその中の獲物</RV2_PreyInNavelLoosening.label>
-  <RV2_PreyInNavelLoosening.description>このキャラクターはへそに取り込まれる獲物に対して何かしらの準備を始めています.</RV2_PreyInNavelLoosening.description>
+    <RV2_PreyInNavelContacting.label>肚脐中的猎物</RV2_PreyInNavelContacting.label>
+    <RV2_PreyInNavelContacting.description>该角色正在调整体位，准备将猎物融入腹部。</RV2_PreyInNavelContacting.description>
 
-  <RV2_PreyInNavelPassing.label>へその中の獲物</RV2_PreyInNavelPassing.label>
-  <RV2_PreyInNavelPassing.description>このキャラクターは獲物をへそに押し込もうとしています.</RV2_PreyInNavelPassing.description>
+    <RV2_PreyInNavelAmalgamating.label>肚脐中的猎物</RV2_PreyInNavelAmalgamating.label>
+    <RV2_PreyInNavelAmalgamating.description>该角色正试图将猎物暂时融入腹部。</RV2_PreyInNavelAmalgamating.description>
 
-  <RV2_PreyInNavelPleasuring.label>へその中の獲物</RV2_PreyInNavelPleasuring.label>
-  <RV2_PreyInNavelPleasuring.description>このキャラクターは獲物をへそで弄んでいます.</RV2_PreyInNavelPleasuring.description>
+    <RV2_PreyInNavelAssimilating.label>肚脐中的猎物</RV2_PreyInNavelAssimilating.label>
+    <RV2_PreyInNavelAssimilating.description>该角色正试图将猎物永久融入腹部。</RV2_PreyInNavelAssimilating.description>
 
-  <RV2_PreyInNavelPurging.label>へその中の獲物</RV2_PreyInNavelPurging.label>
-  <RV2_PreyInNavelPurging.description>このキャラクターはへそに取り込まれた獲物の残骸を除去しようとしています.</RV2_PreyInNavelPurging.description>
+    <RV2_PreyInNavelExiting.label>肚脐中的猎物</RV2_PreyInNavelExiting.label>
+    <RV2_PreyInNavelExiting.description>该角色正试图将猎物从肚脐中排出。</RV2_PreyInNavelExiting.description>
 
-  <RV2_PreyInNavelReshaping.label>へその中の獲物</RV2_PreyInNavelReshaping.label>
-  <RV2_PreyInNavelReshaping.description>このキャラクターはへそに取り込まれた獲物を再形成させようとしています.</RV2_PreyInNavelReshaping.description>
+    <RV2_PreyInNavelLoosening.label>肚脐中的猎物</RV2_PreyInNavelLoosening.label>
+    <RV2_PreyInNavelLoosening.description>该角色开始为猎物融入肚脐做准备。</RV2_PreyInNavelLoosening.description>
 
-  <RV2_PreyInNavelStoring.label>へその中の獲物</RV2_PreyInNavelStoring.label>
-  <RV2_PreyInNavelStoring.description>このキャラクターは獲物をへその中に閉じ込めています.</RV2_PreyInNavelStoring.description>
+    <RV2_PreyInNavelPassing.label>肚脐中的猎物</RV2_PreyInNavelPassing.label>
+    <RV2_PreyInNavelPassing.description>该角色正试图将猎物吞入肚脐。</RV2_PreyInNavelPassing.description>
 
+    <RV2_PreyInNavelPleasuring.label>肚脐中的猎物</RV2_PreyInNavelPleasuring.label>
+    <RV2_PreyInNavelPleasuring.description>该角色正在用肚脐玩弄猎物。</RV2_PreyInNavelPleasuring.description>
 
-  <!-- Nipple -->
-  <RV2_PreyInNippleAmalgamating.label>乳首の中の獲物</RV2_PreyInNippleAmalgamating.label>
-  <RV2_PreyInNippleAmalgamating.description>このキャラクターは獲物を生ける乳首として取り込むための体位を取っています.</RV2_PreyInNippleAmalgamating.description>
-  <RV2_PreyInNippleAssimilating.label>乳首の中の獲物</RV2_PreyInNippleAssimilating.label>
-  <RV2_PreyInNippleAssimilating.description>このキャラクターは獲物を生ける乳首として永久に取り込もうとしています.</RV2_PreyInNippleAssimilating.description>
-  <RV2_PreyInNippleContacting.label>乳首の中の獲物</RV2_PreyInNippleContacting.label>
-  <RV2_PreyInNippleContacting.description>このキャラクターは獲物を生ける乳首として一時的に取り込もうとしています.</RV2_PreyInNippleContacting.description>
-  <RV2_PreyInNippleLoosening.label>乳首の中の獲物</RV2_PreyInNippleLoosening.label>
-  <RV2_PreyInNippleLoosening.description>このキャラクターは乳首に取り込まれる獲物に対して何かしらの準備を始めています.</RV2_PreyInNippleLoosening.description>
-  <RV2_PreyInNipplePurging.label>乳首の中の獲物</RV2_PreyInNipplePurging.label>
-  <RV2_PreyInNipplePurging.description>このキャラクターは乳首に取り込まれた獲物の残骸を除去しようとしています.</RV2_PreyInNipplePurging.description>
-  <RV2_PreyInNippleReshaping.label>乳首の中の獲物</RV2_PreyInNippleReshaping.label>
-  <RV2_PreyInNippleReshaping.description>このキャラクターは乳首に取り込まれた獲物を再形成させようとしています.</RV2_PreyInNippleReshaping.description>
+    <RV2_PreyInNavelPurging.label>肚脐中的猎物</RV2_PreyInNavelPurging.label>
+    <RV2_PreyInNavelPurging.description>该角色正试图排出肚脐中无法融合的无机物。</RV2_PreyInNavelPurging.description>
 
+    <RV2_PreyInNavelReshaping.label>肚脐中的猎物</RV2_PreyInNavelReshaping.label>
+    <RV2_PreyInNavelReshaping.description>该角色正试图重塑肚脐中的猎物。</RV2_PreyInNavelReshaping.description>
 
-  <!-- Ovary -->
+    <RV2_PreyInNavelStoring.label>肚脐中的猎物</RV2_PreyInNavelStoring.label>
+    <RV2_PreyInNavelStoring.description>该角色将猎物囚禁在肚脐中。</RV2_PreyInNavelStoring.description>
 
-  <RV2_PreyInOvary.label>卵巣の中の獲物</RV2_PreyInOvary.label>
 
-  <RV2_PreyInOvaryConvertingEggs.label>卵巣の中の獲物</RV2_PreyInOvaryConvertingEggs.label>
-  <RV2_PreyInOvaryConvertingEggs.description>このキャラクターは獲物の成れ果てを卵に作り替えようとしています.</RV2_PreyInOvaryConvertingEggs.description>
+    <!-- 乳头 -->
+    <RV2_PreyInNippleAmalgamating.label>乳头中的猎物</RV2_PreyInNippleAmalgamating.label>
+    <RV2_PreyInNippleAmalgamating.description>该角色正在调整体位，准备将猎物融入乳头。</RV2_PreyInNippleAmalgamating.description>
 
-  <RV2_PreyInOvaryDissolving.label>卵巣の中の獲物</RV2_PreyInOvaryDissolving.label>
-  <RV2_PreyInOvaryDissolving.description>このキャラクターは獲物を卵巣の中で溶かそうとしています.この工程で飢えを満たすことはできません.</RV2_PreyInOvaryDissolving.description>
+    <RV2_PreyInNippleAssimilating.label>乳头中的猎物</RV2_PreyInNippleAssimilating.label>
+    <RV2_PreyInNippleAssimilating.description>该角色正试图将猎物永久融入乳头。</RV2_PreyInNippleAssimilating.description>
 
-  <RV2_PreyInOvaryMushing.label>卵巣の中の獲物</RV2_PreyInOvaryMushing.label>
-  <RV2_PreyInOvaryMushing.description>このキャラクターは獲物だったものを卵巣の中で解きほぐそうとしています.この工程で飢えを満たすことはできません.</RV2_PreyInOvaryMushing.description>
+    <RV2_PreyInNippleContacting.label>乳头中的猎物</RV2_PreyInNippleContacting.label>
+    <RV2_PreyInNippleContacting.description>该角色正试图将猎物暂时融入乳头。</RV2_PreyInNippleContacting.description>
 
-  <RV2_PreyInOvaryWarming.label>卵巣の中の獲物</RV2_PreyInOvaryWarming.label>
-  <RV2_PreyInOvaryWarming.description>このキャラクターは卵巣の中の獲物に対して何かしらの準備を始めています.</RV2_PreyInOvaryWarming.description>
+    <RV2_PreyInNippleLoosening.label>乳头中的猎物</RV2_PreyInNippleLoosening.label>
+    <RV2_PreyInNippleLoosening.description>该角色开始为猎物融入乳头做准备。</RV2_PreyInNippleLoosening.description>
 
+    <RV2_PreyInNipplePurging.label>乳头中的猎物</RV2_PreyInNipplePurging.label>
+    <RV2_PreyInNipplePurging.description>该角色正试图排出乳头中无法融合的无机物。</RV2_PreyInNipplePurging.description>
 
-  <!-- Tailmaw -->
+    <RV2_PreyInNippleReshaping.label>乳头中的猎物</RV2_PreyInNippleReshaping.label>
+    <RV2_PreyInNippleReshaping.description>该角色正试图重塑乳头中的猎物。</RV2_PreyInNippleReshaping.description>
 
-  <RV2_PreyInTailmaw.label>尾口の中の獲物</RV2_PreyInTailmaw.label>
+    <!-- 阴道 -->
 
-  <RV2_PreyInTailmawExiting.label>尾口の中の獲物</RV2_PreyInTailmawExiting.label>
-  <RV2_PreyInTailmawExiting.description>このキャラクターは獲物を尾口から出そうとしています.</RV2_PreyInTailmawExiting.description>
+    <RV2_PreyInVaginaAmalgamating.label>阴唇中的猎物</RV2_PreyInVaginaAmalgamating.label>
+    <RV2_PreyInVaginaAmalgamating.description>该角色正试图将猎物暂时融入阴唇中。</RV2_PreyInVaginaAmalgamating.description>
 
-  <RV2_PreyInTailmawPassing.label>尾口の中の獲物</RV2_PreyInTailmawPassing.label>
-  <RV2_PreyInTailmawPassing.description>このキャラクターは獲物を尾口に押し込もうとしています.</RV2_PreyInTailmawPassing.description>
+    <RV2_PreyInVaginaAssimilating.label>阴唇中的猎物</RV2_PreyInVaginaAssimilating.label>
+    <RV2_PreyInVaginaAssimilating.description>该角色正试图将猎物永久融入阴唇中。</RV2_PreyInVaginaAssimilating.description>
 
-  <RV2_PreyInTailmawPleasuring.label>尾口の中の獲物</RV2_PreyInTailmawPleasuring.label>
-  <RV2_PreyInTailmawPleasuring.description>このキャラクターは獲物を尾口でオーラルセックスをして弄んでいます.</RV2_PreyInTailmawPleasuring.description>
+    <RV2_PreyInVaginaContacting.label>阴唇中的猎物</RV2_PreyInVaginaContacting.label>
+    <RV2_PreyInVaginaContacting.description>该角色正在调整体位，准备将猎物融入阴唇。</RV2_PreyInVaginaContacting.description>
 
+    <RV2_PreyInVaginaLoosening.label>阴唇中的猎物</RV2_PreyInVaginaLoosening.label>
+    <RV2_PreyInVaginaLoosening.description>该角色开始为猎物融入阴唇做准备。</RV2_PreyInVaginaLoosening.description>
 
-  <!-- TailThroat -->
+    <RV2_PreyInVaginaPurging.label>阴唇中的猎物</RV2_PreyInVaginaPurging.label>
+    <RV2_PreyInVaginaPurging.description>该角色正试图排出阴道中无法融合的无机物。</RV2_PreyInVaginaPurging.description>
+    <RV2_PreyInVaginaReshaping.label>阴唇中的猎物</RV2_PreyInVaginaReshaping.label>
+    <RV2_PreyInVaginaReshaping.description>该角色正试图重塑阴道中的猎物。</RV2_PreyInVaginaReshaping.description>
 
-  <RV2_PreyInTailthroat.label>尾口喉の中の獲物</RV2_PreyInTailthroat.label>
 
+    <!-- 子宫 -->
+    <RV2_PreyInWombConvertingChemfuel.label>子宫中的猎物</RV2_PreyInWombConvertingChemfuel.label>
+    <RV2_PreyInWombConvertingChemfuel.description>该角色正试图将猎物的遗体转化为燃油。</RV2_PreyInWombConvertingChemfuel.description>
+    <RV2_PreyInWombPassing.label>子宫中的猎物</RV2_PreyInWombPassing.label>
+    <RV2_PreyInWombPassing.description>该角色正试图将猎物推向更深处。</RV2_PreyInWombPassing.description>
 
-  <!-- currently unused
+    <!-- 卵巢 -->
+
+    <RV2_PreyInOvary.label>卵巢中的猎物</RV2_PreyInOvary.label>
+
+    <RV2_PreyInOvaryConvertingEggs.label>卵巢中的猎物</RV2_PreyInOvaryConvertingEggs.label>
+    <RV2_PreyInOvaryConvertingEggs.description>该角色正试图将猎物的遗体转化为卵细胞。</RV2_PreyInOvaryConvertingEggs.description>
+
+    <RV2_PreyInOvaryDissolving.label>卵巢中的猎物</RV2_PreyInOvaryDissolving.label>
+    <RV2_PreyInOvaryDissolving.description>该角色正试图在卵巢中溶解猎物。此过程无法满足饥饿感。</RV2_PreyInOvaryDissolving.description>
+
+    <RV2_PreyInOvaryMushing.label>卵巢中的猎物</RV2_PreyInOvaryMushing.label>
+    <RV2_PreyInOvaryMushing.description>该角色正试图在卵巢中分解猎物的遗体。此过程无法满足饥饿感。</RV2_PreyInOvaryMushing.description>
+
+    <RV2_PreyInOvaryWarming.label>卵巢中的猎物</RV2_PreyInOvaryWarming.label>
+    <RV2_PreyInOvaryWarming.description>该角色正在分泌下一步处理所需要的酶。</RV2_PreyInOvaryWarming.description>
+
+    <!-- 尾口 -->
+
+    <RV2_PreyInTailmaw.label>尾口中的猎物</RV2_PreyInTailmaw.label>
+
+    <RV2_PreyInTailmawExiting.label>尾口中的猎物</RV2_PreyInTailmawExiting.label>
+    <RV2_PreyInTailmawExiting.description>该角色正试图将猎物从尾口中排出。</RV2_PreyInTailmawExiting.description>
+
+    <RV2_PreyInTailmawPassing.label>尾口中的猎物</RV2_PreyInTailmawPassing.label>
+    <RV2_PreyInTailmawPassing.description>该角色正试图将猎物吞入尾口。</RV2_PreyInTailmawPassing.description>
+
+    <RV2_PreyInTailmawPleasuring.label>尾口中的猎物</RV2_PreyInTailmawPleasuring.label>
+    <RV2_PreyInTailmawPleasuring.description>该角色正用尾口玩弄猎物。</RV2_PreyInTailmawPleasuring.description>
+
+
+    <!-- 尾喉 -->
+
+    <RV2_PreyInTailthroat.label>尾喉中的猎物</RV2_PreyInTailthroat.label>
+
+
+    <!-- 当前未使用
   <HediffDef ParentName="RV2_PreyInTailthroat">
     <defName>RV2_PreyInTailthroatExiting</defName>
-    <description>This pawn is regurgitating their prey out of their tail-throat.</description>
+    <description>该角色正通过尾喉将猎物反刍排出。</description>
   </HediffDef> -->
 
-  <RV2_PreyInTailThroatPassing.label>尾口喉の中の獲物</RV2_PreyInTailThroatPassing.label>
-  <RV2_PreyInTailThroatPassing.description>このキャラクターは獲物を尾口の喉奥に押し込もうとしています.</RV2_PreyInTailThroatPassing.description>
+    <RV2_PreyInTailThroatPassing.label>尾喉中的猎物</RV2_PreyInTailThroatPassing.label>
+    <RV2_PreyInTailThroatPassing.description>该角色正试图将猎物吞入尾喉深处。</RV2_PreyInTailThroatPassing.description>
 
-  <RV2_PreyInTailThroatPleasuring.label>尾口喉の中の獲物</RV2_PreyInTailThroatPleasuring.label>
-  <RV2_PreyInTailThroatPleasuring.description>このキャラクターは獲物を尾口の喉奥で弄んでいます.</RV2_PreyInTailThroatPleasuring.description>
+    <RV2_PreyInTailThroatPleasuring.label>尾喉中的猎物</RV2_PreyInTailThroatPleasuring.label>
+    <RV2_PreyInTailThroatPleasuring.description>该角色正在尾喉深处玩弄猎物。</RV2_PreyInTailThroatPleasuring.description>
 
-  <RV2_PreyInTailThroatStoring.label>尾口喉の中の獲物</RV2_PreyInTailThroatStoring.label>
-  <RV2_PreyInTailThroatStoring.description>このキャラクターは獲物を尾口の喉の中に閉じ込めています.</RV2_PreyInTailThroatStoring.description>
+    <RV2_PreyInTailThroatStoring.label>尾喉中的猎物</RV2_PreyInTailThroatStoring.label>
+    <RV2_PreyInTailThroatStoring.description>该角色将猎物囚禁在尾喉之中。</RV2_PreyInTailThroatStoring.description>
 
+    <!-- 乳房 -->
 
-  <!-- Testicles -->
-  <RV2_PreyInTesticlesConvertingChemfuel.label>玉の中の獲物</RV2_PreyInTesticlesConvertingChemfuel.label>
-  <RV2_PreyInTesticlesConvertingChemfuel.description>このキャラクターは獲物の成れ果てをオイルに作り替えようとしています.</RV2_PreyInTesticlesConvertingChemfuel.description>
+    <RV2_PreyInUdder.label>乳房中的猎物</RV2_PreyInUdder.label>
 
+    <RV2_PreyInUdderConvertingChemfuel.label>乳房中的猎物</RV2_PreyInUdderConvertingChemfuel.label>
+    <RV2_PreyInUdderConvertingChemfuel.description>该角色正试图将猎物的遗体转化为燃油。</RV2_PreyInUdderConvertingChemfuel.description>
 
-  <!-- Throat -->
+    <RV2_PreyInUdderConvertingMilk.label>乳房中的猎物</RV2_PreyInUdderConvertingMilk.label>
+    <RV2_PreyInUdderConvertingMilk.description>该角色正试图将猎物的遗体转化为乳汁。</RV2_PreyInUdderConvertingMilk.description>
 
-  <RV2_PreyInThroat.label>喉の中の獲物</RV2_PreyInThroat.label>
+    <RV2_PreyInUdderDissolving.label>乳房中的猎物</RV2_PreyInUdderDissolving.label>
+    <RV2_PreyInUdderDissolving.description>该角色正试图在乳房中溶解猎物。此过程无法满足饥饿感。</RV2_PreyInUdderDissolving.description>
 
+    <RV2_PreyInUdderMushing.label>乳房中的猎物</RV2_PreyInUdderMushing.label>
+    <RV2_PreyInUdderMushing.description>该角色正试图在乳房中分解猎物的遗体。此过程无法满足饥饿感。</RV2_PreyInUdderMushing.description>
 
-  <!-- Udder -->
+    <RV2_PreyInUdderPleasuring.label>乳房中的猎物</RV2_PreyInUdderPleasuring.label>
+    <RV2_PreyInUdderPleasuring.description>该角色正在用乳房玩弄猎物。</RV2_PreyInUdderPleasuring.description>
 
-  <RV2_PreyInUdder.label>乳房の中の獲物</RV2_PreyInUdder.label>
+    <RV2_PreyInUdderStoring.label>乳房中的猎物</RV2_PreyInUdderStoring.label>
+    <RV2_PreyInUdderStoring.description>该角色将猎物囚禁在乳房内部。</RV2_PreyInUdderStoring.description>
 
-  <RV2_PreyInUdderConvertingChemfuel.label>乳房の中の獲物</RV2_PreyInUdderConvertingChemfuel.label>
-  <RV2_PreyInUdderConvertingChemfuel.description>このキャラクターは獲物の成れ果てをオイルに作り替えようとしています.</RV2_PreyInUdderConvertingChemfuel.description>
-
-  <RV2_PreyInUdderConvertingMilk.label>乳房の中の獲物</RV2_PreyInUdderConvertingMilk.label>
-  <RV2_PreyInUdderConvertingMilk.description>このキャラクターは獲物の成れ果てをミルクに作り替えようとしています.</RV2_PreyInUdderConvertingMilk.description>
-
-  <RV2_PreyInUdderDissolving.label>乳房の中の獲物</RV2_PreyInUdderDissolving.label>
-  <RV2_PreyInUdderDissolving.description>このキャラクターは獲物を乳房の中で溶かそうとしています.この工程で飢えを満たすことはできません.</RV2_PreyInUdderDissolving.description>
-
-  <RV2_PreyInUdderMushing.label>乳房の中の獲物</RV2_PreyInUdderMushing.label>
-  <RV2_PreyInUdderMushing.description>このキャラクターは獲物だったものを乳房の中で解きほぐそうとしています.この工程で飢えを満たすことはできません.</RV2_PreyInUdderMushing.description>
-
-  <RV2_PreyInUdderPleasuring.label>乳房の中の獲物</RV2_PreyInUdderPleasuring.label>
-  <RV2_PreyInUdderPleasuring.description>このキャラクターは獲物を乳房で弄んでいます.</RV2_PreyInUdderPleasuring.description>
-  <RV2_PreyInUdderStoring.label>乳房の中の獲物</RV2_PreyInUdderStoring.label>
-  <RV2_PreyInUdderStoring.description>このキャラクターは獲物を乳房の中に閉じ込めています.</RV2_PreyInUdderStoring.description>
-  <RV2_PreyInUdderWarming.label>乳房の中の獲物</RV2_PreyInUdderWarming.label>
-  <RV2_PreyInUdderWarming.description>このキャラクターは乳房の中の獲物に対して何かしらの準備を始めています.</RV2_PreyInUdderWarming.description>
+    <RV2_PreyInUdderWarming.label>乳房中的猎物</RV2_PreyInUdderWarming.label>
+    <RV2_PreyInUdderWarming.description>该角色开始为乳房中的猎物做准备。</RV2_PreyInUdderWarming.description>
 
 
-  <!-- UdderNipple -->
+    <!-- 乳头 -->
 
-  <RV2_PreyInUdderNipple.label>乳頭の中の獲物</RV2_PreyInUdderNipple.label>
+    <RV2_PreyInUdderNipple.label>乳头中的猎物</RV2_PreyInUdderNipple.label>
 
-  <RV2_PreyInUdderNippleAmalgamating.label>乳頭の中の獲物</RV2_PreyInUdderNippleAmalgamating.label>
-  <RV2_PreyInUdderNippleAmalgamating.description>このキャラクターは獲物を生ける乳頭として一時的に取り込もうとしています.</RV2_PreyInUdderNippleAmalgamating.description>
+    <RV2_PreyInUdderNippleAmalgamating.label>乳头中的猎物</RV2_PreyInUdderNippleAmalgamating.label>
+    <RV2_PreyInUdderNippleAmalgamating.description>该角色正试图将猎物暂时融入乳头中。</RV2_PreyInUdderNippleAmalgamating.description>
 
-  <RV2_PreyInUdderNippleAssimilating.label>乳頭の中の獲物</RV2_PreyInUdderNippleAssimilating.label>
-  <RV2_PreyInUdderNippleAssimilating.description>このキャラクターは獲物を生ける乳頭として永久に取り込もうとしています.</RV2_PreyInUdderNippleAssimilating.description>
+    <RV2_PreyInUdderNippleAssimilating.label>乳头中的猎物</RV2_PreyInUdderNippleAssimilating.label>
+    <RV2_PreyInUdderNippleAssimilating.description>该角色正试图将猎物永久融入乳头中。</RV2_PreyInUdderNippleAssimilating.description>
 
-  <RV2_PreyInUdderNippleContacting.label>乳頭の中の獲物</RV2_PreyInUdderNippleContacting.label>
-  <RV2_PreyInUdderNippleContacting.description>このキャラクターは獲物を生ける乳頭として取り込むための体位を取っています.</RV2_PreyInUdderNippleContacting.description>
+    <RV2_PreyInUdderNippleContacting.label>乳头中的猎物</RV2_PreyInUdderNippleContacting.label>
+    <RV2_PreyInUdderNippleContacting.description>该角色正在调整体位，准备将猎物融入乳头。</RV2_PreyInUdderNippleContacting.description>
 
-  <RV2_PreyInUdderNippleDumping.label>乳頭の中の獲物</RV2_PreyInUdderNippleDumping.label>
-  <RV2_PreyInUdderNippleDumping.description>このキャラクターは獲物の成れ果てを乳頭から出そうとしています.</RV2_PreyInUdderNippleDumping.description>
+    <RV2_PreyInUdderNippleDumping.label>乳头中的猎物</RV2_PreyInUdderNippleDumping.label>
+    <RV2_PreyInUdderNippleDumping.description>该角色正试图将猎物遗体从乳头排出。</RV2_PreyInUdderNippleDumping.description>
 
-  <RV2_PreyInUdderNippleExiting.label>乳頭の中の獲物</RV2_PreyInUdderNippleExiting.label>
-  <RV2_PreyInUdderNippleExiting.description>このキャラクターは獲物を乳頭から出そうとしています.</RV2_PreyInUdderNippleExiting.description>
+    <RV2_PreyInUdderNippleExiting.label>乳头中的猎物</RV2_PreyInUdderNippleExiting.label>
+    <RV2_PreyInUdderNippleExiting.description>该角色正试图将猎物从乳头中释放。</RV2_PreyInUdderNippleExiting.description>
 
-  <RV2_PreyInUdderNippleLoosening.label>乳頭の中の獲物</RV2_PreyInUdderNippleLoosening.label>
-  <RV2_PreyInUdderNippleLoosening.description>このキャラクターは乳頭に取り込まれる獲物に対して何かしらの準備を始めています.</RV2_PreyInUdderNippleLoosening.description>
+    <RV2_PreyInUdderNippleLoosening.label>乳头中的猎物</RV2_PreyInUdderNippleLoosening.label>
+    <RV2_PreyInUdderNippleLoosening.description>该角色开始为乳头融入猎物做准备。</RV2_PreyInUdderNippleLoosening.description>
 
-  <RV2_PreyInUdderNipplePassing.label>乳頭の中の獲物</RV2_PreyInUdderNipplePassing.label>
-  <RV2_PreyInUdderNipplePassing.description>このキャラクターは獲物を乳頭に押し込もうとしています.</RV2_PreyInUdderNipplePassing.description>
+    <RV2_PreyInUdderNipplePassing.label>乳头中的猎物</RV2_PreyInUdderNipplePassing.label>
+    <RV2_PreyInUdderNipplePassing.description>该角色正试图将猎物挤压进入乳头。</RV2_PreyInUdderNipplePassing.description>
 
-  <RV2_PreyInUdderNipplePleasuring.label>乳頭の中の獲物</RV2_PreyInUdderNipplePleasuring.label>
-  <RV2_PreyInUdderNipplePleasuring.description>このキャラクターは獲物を乳頭で弄んでいます.</RV2_PreyInUdderNipplePleasuring.description>
+    <RV2_PreyInUdderNipplePleasuring.label>乳头中的猎物</RV2_PreyInUdderNipplePleasuring.label>
+    <RV2_PreyInUdderNipplePleasuring.description>该角色正在用乳头玩弄猎物。</RV2_PreyInUdderNipplePleasuring.description>
 
-  <RV2_PreyInUdderNipplePurging.label>乳頭の中の獲物</RV2_PreyInUdderNipplePurging.label>
-  <RV2_PreyInUdderNipplePurging.description>このキャラクターは乳頭に取り込まれた獲物の残骸を除去しようとしています.</RV2_PreyInUdderNipplePurging.description>
+    <RV2_PreyInUdderNipplePurging.label>乳头中的猎物</RV2_PreyInUdderNipplePurging.label>
+    <RV2_PreyInUdderNipplePurging.description>该角色正试图排出乳头中无法融合的无机物。</RV2_PreyInUdderNipplePurging.description>
 
-  <RV2_PreyInUdderNippleReshaping.label>乳頭の中の獲物</RV2_PreyInUdderNippleReshaping.label>
-  <RV2_PreyInUdderNippleReshaping.description>このキャラクターは乳頭に取り込まれた獲物を再形成させようとしています.</RV2_PreyInUdderNippleReshaping.description>
-
-
-  <!-- Vagina -->
-
-  <RV2_PreyInVaginaAmalgamating.label>陰門の中の獲物</RV2_PreyInVaginaAmalgamating.label>
-  <RV2_PreyInVaginaAmalgamating.description>このキャラクターは獲物を生ける陰肉として一時的に取り込もうとしています.</RV2_PreyInVaginaAmalgamating.description>
-
-  <RV2_PreyInVaginaAssimilating.label>陰門の中の獲物</RV2_PreyInVaginaAssimilating.label>
-  <RV2_PreyInVaginaAssimilating.description>このキャラクターは獲物を生ける陰肉として永久に取り込もうとしています.</RV2_PreyInVaginaAssimilating.description>
-
-  <RV2_PreyInVaginaContacting.label>陰門の中の獲物</RV2_PreyInVaginaContacting.label>
-  <RV2_PreyInVaginaContacting.description>このキャラクターは獲物を生ける陰門として取り込むための体位を取っています.</RV2_PreyInVaginaContacting.description>
-
-  <RV2_PreyInVaginaLoosening.label>陰門の中の獲物</RV2_PreyInVaginaLoosening.label>
-  <RV2_PreyInVaginaLoosening.description>このキャラクターは陰門に取り込まれる獲物に対して何かしらの準備を始めています.</RV2_PreyInVaginaLoosening.description>
-
-  <RV2_PreyInVaginaPurging.label>陰門の中の獲物</RV2_PreyInVaginaPurging.label>
-  <RV2_PreyInVaginaPurging.description>このキャラクターは膣に取り込まれた獲物の残骸を除去しようとしています.</RV2_PreyInVaginaPurging.description>
-  <RV2_PreyInVaginaReshaping.label>陰門の中の獲物</RV2_PreyInVaginaReshaping.label>
-  <RV2_PreyInVaginaReshaping.description>このキャラクターは膣に取り込まれた獲物を再形成させようとしています.</RV2_PreyInVaginaReshaping.description>
-
-
-  <!-- Womb -->
-  <RV2_PreyInWombConvertingChemfuel.label>子宮の中の獲物</RV2_PreyInWombConvertingChemfuel.label>
-  <RV2_PreyInWombConvertingChemfuel.description>このキャラクターは獲物の成れ果てをオイルに作り替えようとしています.</RV2_PreyInWombConvertingChemfuel.description>
-  <RV2_PreyInWombPassing.label>子宮の中の獲物</RV2_PreyInWombPassing.label>
-  <RV2_PreyInWombPassing.description>このキャラクターは獲物を更に奥に押し込もうとしています.</RV2_PreyInWombPassing.description>
-
+    <RV2_PreyInUdderNippleReshaping.label>乳头中的猎物</RV2_PreyInUdderNippleReshaping.label>
+    <RV2_PreyInUdderNippleReshaping.description>该角色正试图重塑乳头中的猎物。</RV2_PreyInUdderNippleReshaping.description>
 
 </LanguageData>

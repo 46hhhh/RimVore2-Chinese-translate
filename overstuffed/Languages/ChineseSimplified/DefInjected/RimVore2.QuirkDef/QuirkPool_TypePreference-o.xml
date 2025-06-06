@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- MH: 这些特性的已知缺陷：它们以传统吞噬行为为描述对象，未考虑吸收机制。可惜！ -->
+    <TypePreference_Predator_Cleavage_Obsessed.label>贪欲的乳沟使用者</TypePreference_Predator_Cleavage_Obsessed.label>
+    <TypePreference_Predator_Cleavage_Obsessed.description>[PAWN_label]尤其偏爱将猎物塞入乳沟中，胜过其他方式。没有比这更能轻易建立“亲密”关系的入口了。</TypePreference_Predator_Cleavage_Obsessed.description>
+
+    <TypePreference_Predator_Cleavage_Likes.label>颇有造诣的乳沟使用者</TypePreference_Predator_Cleavage_Likes.label>
+    <TypePreference_Predator_Cleavage_Likes.description>[PAWN_label]喜欢将猎物塞入乳沟中。乳沟越深越好，这样就不必担心身体伸展的问题。</TypePreference_Predator_Cleavage_Likes.description>
+
+    <TypePreference_Predator_Cleavage_Neutral.label>冷漠的乳沟使用者</TypePreference_Predator_Cleavage_Neutral.label>
+    <TypePreference_Predator_Cleavage_Neutral.description>[PAWN_label]对用乳沟吞噬猎物没有特别的感受。</TypePreference_Predator_Cleavage_Neutral.description>
+
+    <TypePreference_Predator_Cleavage_Dislikes.label>挑剔的乳沟使用者</TypePreference_Predator_Cleavage_Dislikes.label>
+    <TypePreference_Predator_Cleavage_Dislikes.description>[PAWN_label]不喜欢将猎物塞入臀部。那里本就不该是入口。</TypePreference_Predator_Cleavage_Dislikes.description>
+
+    <TypePreference_Predator_Cleavage_Refuses.label>厌恶乳沟使用者</TypePreference_Predator_Cleavage_Refuses.label>
+    <TypePreference_Predator_Cleavage_Refuses.description>[PAWN_label]极度反感将猎物塞入臀部。这种深度既非入口，将其称为吞噬也违背了定义。</TypePreference_Predator_Cleavage_Refuses.description>
+
+    <TypePreference_Predator_Membrane_Obsessed.label>贪欲的皮肤使用者</TypePreference_Predator_Membrane_Obsessed.label>
+    <TypePreference_Predator_Membrane_Obsessed.description>[PAWN_label]像史莱姆一样，尤其喜爱用其柔韧的皮肤包裹猎物。以新的骨架踏足大地感觉也不错。</TypePreference_Predator_Membrane_Obsessed.description>
+
+    <TypePreference_Predator_Membrane_Likes.label>颇有造诣的皮肤使用者</TypePreference_Predator_Membrane_Likes.label>
+    <TypePreference_Predator_Membrane_Likes.description>[PAWN_label]像史莱姆一样，喜欢用其柔韧的皮肤包裹猎物。软软弹弹……</TypePreference_Predator_Membrane_Likes.description>
+
+    <TypePreference_Predator_Membrane_Neutral.label>冷漠的皮肤使用者</TypePreference_Predator_Membrane_Neutral.label>
+    <TypePreference_Predator_Membrane_Neutral.description>[PAWN_label]对用史莱姆般的皮肤吞噬猎物没有特别的感受。</TypePreference_Predator_Membrane_Neutral.description>
+
+    <TypePreference_Predator_Membrane_Dislikes.label>挑剔的皮肤使用者</TypePreference_Predator_Membrane_Dislikes.label>
+    <TypePreference_Predator_Membrane_Dislikes.description>[PAWN_label]不喜欢像史莱姆一样用柔韧的皮肤包裹猎物。在户外将整个身体包裹会带来卫生问题。</TypePreference_Predator_Membrane_Dislikes.description>
+
+    <TypePreference_Predator_Membrane_Refuses.label>厌恶皮肤使用者</TypePreference_Predator_Membrane_Refuses.label>
+    <TypePreference_Predator_Membrane_Refuses.description>[PAWN_label]极度反感像史莱姆一样用柔韧的皮肤包裹猎物。为什么要背负他人的身体行动？</TypePreference_Predator_Membrane_Refuses.description>
+
+    <TypePreference_Predator_Navel_Obsessed.label>贪欲的肚脐使用者</TypePreference_Predator_Navel_Obsessed.label>
+    <TypePreference_Predator_Navel_Obsessed.description>[PAWN_label]尤其偏爱将猎物塞入肚脐中，胜过其他方式。没有比这更能彰显腹部的方式了。</TypePreference_Predator_Navel_Obsessed.description>
+
+    <TypePreference_Predator_Navel_Likes.label>颇有造诣的肚脐使用者</TypePreference_Predator_Navel_Likes.label>
+    <TypePreference_Predator_Navel_Likes.description>[PAWN_label]喜欢将猎物塞入肚脐中。既然它曾经有用，为何不让它一辈子都有用呢！</TypePreference_Predator_Navel_Likes.description>
+
+    <TypePreference_Predator_Navel_Neutral.label>冷漠的肚脐使用者</TypePreference_Predator_Navel_Neutral.label>
+    <TypePreference_Predator_Navel_Neutral.description>[PAWN_label]对用肚脐吞噬猎物没有特别的感受。</TypePreference_Predator_Navel_Neutral.description>
+
+    <TypePreference_Predator_Navel_Dislikes.label>挑剔的肚脐使用者</TypePreference_Predator_Navel_Dislikes.label>
+    <TypePreference_Predator_Navel_Dislikes.description>[PAWN_label]不喜欢将猎物塞入肚脐中。它早已处理完毕，使命结束了！</TypePreference_Predator_Navel_Dislikes.description>
+
+    <TypePreference_Predator_Navel_Refuses.label>厌恶肚脐使用者</TypePreference_Predator_Navel_Refuses.label>
+    <TypePreference_Predator_Navel_Refuses.description>[PAWN_label]极度反感将猎物塞入肚脐中。自己早已不是初生的胎儿了！</TypePreference_Predator_Navel_Refuses.description>
+
+    <TypePreference_Predator_Tailmaw_Obsessed.label>贪欲的尾口使用者</TypePreference_Predator_Tailmaw_Obsessed.label>
+    <TypePreference_Predator_Tailmaw_Obsessed.description>[PAWN_label]尤其偏爱将猎物塞入尾口中，胜过其他方式。玩弄猎物时，感觉像两个人在一同狩猎。</TypePreference_Predator_Tailmaw_Obsessed.description>
+
+    <TypePreference_Predator_Tailmaw_Likes.label>颇有造诣的尾口使用者</TypePreference_Predator_Tailmaw_Likes.label>
+    <TypePreference_Predator_Tailmaw_Likes.description>[PAWN_label]喜欢将猎物塞入尾口中。一条能容纳人的大嘴尾巴，还能有其他用途吗？</TypePreference_Predator_Tailmaw_Likes.description>
+
+    <TypePreference_Predator_Tailmaw_Neutral.label>冷漠的尾口使用者</TypePreference_Predator_Tailmaw_Neutral.label>
+    <TypePreference_Predator_Tailmaw_Neutral.description>[PAWN_label]对用尾口吞噬猎物没有特别的感受。</TypePreference_Predator_Tailmaw_Neutral.description>
+
+    <TypePreference_Predator_Tailmaw_Dislikes.label>挑剔的尾口使用者</TypePreference_Predator_Tailmaw_Dislikes.label>
+    <TypePreference_Predator_Tailmaw_Dislikes.description>[PAWN_label]不喜欢将猎物塞入尾口中。比起肛门，体位要困难得多。</TypePreference_Predator_Tailmaw_Dislikes.description>
+
+    <TypePreference_Predator_Tailmaw_Refuses.label>厌恶尾口使用者</TypePreference_Predator_Tailmaw_Refuses.label>
+    <TypePreference_Predator_Tailmaw_Refuses.description>[PAWN_label]极度反感将猎物塞入尾口中。[PAWN_pronoun]已经有嘴了，为何还要用这种东西？</TypePreference_Predator_Tailmaw_Refuses.description>
+
+    <TypePreference_Predator_Udder_Obsessed.label>贪欲的乳房使用者</TypePreference_Predator_Udder_Obsessed.label>
+    <TypePreference_Predator_Udder_Obsessed.description>[PAWN_label]尤其偏爱将猎物塞入乳房中，胜过其他方式。哞哞！</TypePreference_Predator_Udder_Obsessed.description>
+
+    <TypePreference_Predator_Udder_Likes.label>颇有造诣的乳房使用者</TypePreference_Predator_Udder_Likes.label>
+    <TypePreference_Predator_Udder_Likes.description>[PAWN_label]喜欢将猎物塞入乳房中。牛奶，好东西。</TypePreference_Predator_Udder_Likes.description>
+
+    <TypePreference_Predator_Udder_Neutral.label>冷漠的乳房使用者</TypePreference_Predator_Udder_Neutral.label>
+    <TypePreference_Predator_Udder_Neutral.description>[PAWN_label]对用乳房吞噬猎物没有特别的感受。</TypePreference_Predator_Udder_Neutral.description>
+
+    <TypePreference_Predator_Udder_Dislikes.label>挑剔的乳房使用者</TypePreference_Predator_Udder_Dislikes.label>
+    <TypePreference_Predator_Udder_Dislikes.description>[PAWN_label]不喜欢将猎物塞入乳房中。获取牛奶明明有更好的方式。</TypePreference_Predator_Udder_Dislikes.description>
+
+    <TypePreference_Predator_Udder_Refuses.label>厌恶乳房使用者</TypePreference_Predator_Udder_Refuses.label>
+    <TypePreference_Predator_Udder_Refuses.description>[PAWN_label]极度反感将猎物塞入乳房中。想找奶牛的话请另寻他人。</TypePreference_Predator_Udder_Refuses.description>
+
+    <!-- 猎物侧 -->
+
+    <TypePreference_Prey_Cleavage_Obsessed.label>执着的乳沟偏好</TypePreference_Prey_Cleavage_Obsessed.label>
+    <TypePreference_Prey_Cleavage_Obsessed.description>[PAWN_label]热爱被压入乳沟、在其中摩挲，直至彻底沉溺于那深邃中的全部过程。</TypePreference_Prey_Cleavage_Obsessed.description>
+
+    <TypePreference_Prey_Cleavage_Likes.label>适度的乳沟偏好</TypePreference_Prey_Cleavage_Likes.label>
+    <TypePreference_Prey_Cleavage_Likes.description>[PAWN_label]喜欢被塞入乳沟中。既然能被那巍峨双峰揉捏包裹，又何须拒绝更进一步？</TypePreference_Prey_Cleavage_Likes.description>
+
+    <TypePreference_Prey_Cleavage_Neutral.label>冷漠的乳沟偏好</TypePreference_Prey_Cleavage_Neutral.label>
+    <TypePreference_Prey_Cleavage_Neutral.description>[PAWN_label]对被乳沟吞噬没有特别感受。</TypePreference_Prey_Cleavage_Neutral.description>
+
+    <TypePreference_Prey_Cleavage_Dislikes.label>排斥的乳沟偏好</TypePreference_Prey_Cleavage_Dislikes.label>
+    <TypePreference_Prey_Cleavage_Dislikes.description>[PAWN_label]厌恶被塞入乳沟。若论吞噬的定义，更明确的部位才合适。</TypePreference_Prey_Cleavage_Dislikes.description>
+
+    <TypePreference_Prey_Cleavage_Refuses.label>极端的乳沟排斥</TypePreference_Prey_Cleavage_Refuses.label>
+    <TypePreference_Prey_Cleavage_Refuses.description>[PAWN_label]极度抗拒被塞入乳沟。这也配称为吞噬？</TypePreference_Prey_Cleavage_Refuses.description>
+
+    <TypePreference_Prey_Membrane_Obsessed.label>执着的皮肤偏好</TypePreference_Prey_Membrane_Obsessed.label>
+    <TypePreference_Prey_Membrane_Obsessed.description>[PAWN_label]痴迷于跃入对方躯体，在史莱姆般的胶质中游弋，最终被彻底融合的每个瞬间。</TypePreference_Prey_Membrane_Obsessed.description>
+
+    <TypePreference_Prey_Membrane_Likes.label>适度的皮肤偏好</TypePreference_Prey_Membrane_Likes.label>
+    <TypePreference_Prey_Membrane_Likes.description>[PAWN_label]享受被柔韧皮肤包裹的过程。在黏液里畅游并非坏事。</TypePreference_Prey_Membrane_Likes.description>
+
+    <TypePreference_Prey_Membrane_Neutral.label>冷漠的皮肤偏好</TypePreference_Prey_Membrane_Neutral.label>
+    <TypePreference_Prey_Membrane_Neutral.description>[PAWN_label]对被皮肤吸收没有特别感受。</TypePreference_Prey_Membrane_Neutral.description>
+
+    <TypePreference_Prey_Membrane_Dislikes.label>排斥的皮肤偏好</TypePreference_Prey_Membrane_Dislikes.label>
+    <TypePreference_Prey_Membrane_Dislikes.description>[PAWN_label]反感被皮肤包裹。总觉得……哪里不太对劲。</TypePreference_Prey_Membrane_Dislikes.description>
+
+    <TypePreference_Prey_Membrane_Refuses.label>极端的皮肤排斥</TypePreference_Prey_Membrane_Refuses.label>
+    <TypePreference_Prey_Membrane_Refuses.description>[PAWN_label]极度抗拒皮肤吸收。既无肉壁遮蔽，又缺视觉阻隔，简直是公开处刑。</TypePreference_Prey_Membrane_Refuses.description>
+
+    <TypePreference_Prey_Navel_Obsessed.label>执着的肚脐偏好</TypePreference_Prey_Navel_Obsessed.label>
+    <TypePreference_Prey_Navel_Obsessed.description>[PAWN_label]着迷于钻入腹间缝隙，撑开曾经的生命通道，最终被腹腔容纳的全过程。</TypePreference_Prey_Navel_Obsessed.description>
+
+    <TypePreference_Prey_Navel_Likes.label>适度的肚脐偏好</TypePreference_Prey_Navel_Likes.label>
+    <TypePreference_Prey_Navel_Likes.description>[PAWN_label]喜欢被肚脐吸入。若能尽情享受腹部温暖，这点逼仄又何妨！</TypePreference_Prey_Navel_Likes.description>
+
+    <TypePreference_Prey_Navel_Neutral.label>冷漠的肚脐偏好</TypePreference_Prey_Navel_Neutral.label>
+    <TypePreference_Prey_Navel_Neutral.description>[PAWN_label]对被肚脐吞噬没有特别感受。</TypePreference_Prey_Navel_Neutral.description>
+
+    <TypePreference_Prey_Navel_Dislikes.label>排斥的肚脐偏好</TypePreference_Prey_Navel_Dislikes.label>
+    <TypePreference_Prey_Navel_Dislikes.description>[PAWN_label]厌恶被塞入肚脐。那深处如古老遗迹般污秽不堪。</TypePreference_Prey_Navel_Dislikes.description>
+
+    <TypePreference_Prey_Navel_Refuses.label>极端的肚脐排斥</TypePreference_Prey_Navel_Refuses.label>
+    <TypePreference_Prey_Navel_Refuses.description>[PAWN_label]极度抗拒肚脐吞噬。这个凹陷被缝合，自有其因果缘由。</TypePreference_Prey_Navel_Refuses.description>
+
+    <TypePreference_Prey_Tailmaw_Obsessed.label>执着的尾口偏好</TypePreference_Prey_Tailmaw_Obsessed.label>
+    <TypePreference_Prey_Tailmaw_Obsessed.description>[PAWN_label]沉醉于被背后伸出的蛇形口器叼起、吞咽、贯穿躯体的每个瞬间。</TypePreference_Prey_Tailmaw_Obsessed.description>
+
+    <TypePreference_Prey_Tailmaw_Likes.label>适度的尾口偏好</TypePreference_Prey_Tailmaw_Likes.label>
+    <TypePreference_Prey_Tailmaw_Likes.description>[PAWN_label]享受被尾口吞入。一个能自由活动的肉袋，能拓展无数可能性。</TypePreference_Prey_Tailmaw_Likes.description>
+
+    <TypePreference_Prey_Tailmaw_Neutral.label>冷漠的尾口偏好</TypePreference_Prey_Tailmaw_Neutral.label>
+    <TypePreference_Prey_Tailmaw_Neutral.description>[PAWN_label]对被尾口吞噬没有特别感受。</TypePreference_Prey_Tailmaw_Neutral.description>
+
+    <TypePreference_Prey_Tailmaw_Dislikes.label>排斥的尾口偏好</TypePreference_Prey_Tailmaw_Dislikes.label>
+    <TypePreference_Prey_Tailmaw_Dislikes.description>[PAWN_label]反感尾口吞噬。第二张嘴在传说中本是恐怖的象征。</TypePreference_Prey_Tailmaw_Dislikes.description>
+
+    <TypePreference_Prey_Tailmaw_Refuses.label>极端的尾口排斥</TypePreference_Prey_Tailmaw_Refuses.label>
+    <TypePreference_Prey_Tailmaw_Refuses.description>[PAWN_label]极度抗拒尾口吞噬。即便[PAWN_pronoun]能直面杀人魔，[PAWN_possessive]内心深处仍保留着对蛇形长吻巨口的原始恐惧。</TypePreference_Prey_Tailmaw_Refuses.description>
+
+    <TypePreference_Prey_Udder_Obsessed.label>执着的乳房偏好</TypePreference_Prey_Udder_Obsessed.label>
+    <TypePreference_Prey_Udder_Obsessed.description>[PAWN_label]痴迷于被纳入乳房、作为隆起物浸泡在乳汁中，被野兽般粗暴对待的全过程。</TypePreference_Prey_Udder_Obsessed.description>
+
+    <TypePreference_Prey_Udder_Likes.label>适度的乳房偏好</TypePreference_Prey_Udder_Likes.label>
+    <TypePreference_Prey_Udder_Likes.description>[PAWN_label]喜欢被塞入乳房中。哞——！</TypePreference_Prey_Udder_Likes.description>
+
+    <TypePreference_Prey_Udder_Neutral.label>冷漠的乳房偏好</TypePreference_Prey_Udder_Neutral.label>
+    <TypePreference_Prey_Udder_Neutral.description>[PAWN_label]对被乳房吞噬没有特别感受。</TypePreference_Prey_Udder_Neutral.description>
+
+    <TypePreference_Prey_Udder_Dislikes.label>排斥的乳房偏好</TypePreference_Prey_Udder_Dislikes.label>
+    <TypePreference_Prey_Udder_Dislikes.description>[PAWN_label]厌恶乳房吞噬。[PAWN_pronoun]眼中，乳房实在不算什么愉快存在。</TypePreference_Prey_Udder_Dislikes.description>
+
+    <TypePreference_Prey_Udder_Refuses.label>极端的乳房排斥</TypePreference_Prey_Udder_Refuses.label>
+    <TypePreference_Prey_Udder_Refuses.description>[PAWN_label]极度抗拒乳房吞噬。若是野兽也罢，对人类做这种事简直……</TypePreference_Prey_Udder_Refuses.description>
+
+</LanguageData>

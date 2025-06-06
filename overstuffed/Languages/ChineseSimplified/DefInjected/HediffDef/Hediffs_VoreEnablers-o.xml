@@ -1,49 +1,48 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Goal Enablers 
-  These mainly unlock new goals for a pawn's exisiting types. -->
+  <!-- 目标启用器 
+  这些主要为角色现有类型解锁新目标。 -->
 
-  <RV2_GoalEnabler_Absorb.label>体に疼く同化力</RV2_GoalEnabler_Absorb.label>
-  <RV2_GoalEnabler_Absorb.description>このキャラクターは,特殊な身体組織のもとに,他の生命と細胞レベルで同化することが出来ます.一方通行(吸収)なものと行き戻り可能(融合)の両方が可能です.</RV2_GoalEnabler_Absorb.description>
+  <RV2_GoalEnabler_Absorb.label>细胞融合</RV2_GoalEnabler_Absorb.label>
+  <RV2_GoalEnabler_Absorb.description>该角色拥有特殊的身体组织，能够在细胞层面与其他生命同化。</RV2_GoalEnabler_Absorb.description>
 
 
-  <!-- MH: would like to extend this to bladder and intestines, maybe also ovaries instead of womb -->
+  <!-- MH: 希望扩展至膀胱和肠道，或许还能用卵巢代替子宫 -->
 
-  <RV2_GoalEnabler_ConvertChemfuel.label>化学香る蒸留液</RV2_GoalEnabler_ConvertChemfuel.label>
-  <RV2_GoalEnabler_ConvertChemfuel.description>このキャラクターは,強力な変質液のもとに,生きた獲物を生殖器あるいは胸の中で化学燃料に作り替えることができます.</RV2_GoalEnabler_ConvertChemfuel.description>
+  <RV2_GoalEnabler_ConvertChemfuel.label>化合燃料酶</RV2_GoalEnabler_ConvertChemfuel.label>
+  <RV2_GoalEnabler_ConvertChemfuel.description>该角色通过强效转化液，能将活体猎物在生殖器或胸部转化为化合燃料。</RV2_GoalEnabler_ConvertChemfuel.description>
 
-  <RV2_GoalEnabler_ConvertEggs.label>母性溢れる卵化液</RV2_GoalEnabler_ConvertEggs.label>
-  <RV2_GoalEnabler_ConvertEggs.description>このキャラクターは,強力な変質液のもとに,生きた獲物を卵巣の中で卵に作り替えることができます.</RV2_GoalEnabler_ConvertEggs.description>
+  <RV2_GoalEnabler_ConvertEggs.label>卵化酶</RV2_GoalEnabler_ConvertEggs.label>
+  <RV2_GoalEnabler_ConvertEggs.description>该角色通过强效转化液，能将活体猎物在卵巢中转化为卵。</RV2_GoalEnabler_ConvertEggs.description>
 
 
   <!-- <HediffDef ParentName="RV2_VoreEnabledPart_Base">
     <defName>RV2_GoalEnabler_ConvertLiquor</defName>
-    <label>Cervesifactory enzymes</label>
-    <description>This pawn's genitals and breasts can produce an enzyme which distills living tissues into an alcohol quite similar to beer.</description>
+    <label>啤酒酿造酶</label>
+    <description>该角色的生殖器和乳房能分泌一种酶，将活体组织蒸馏成类似啤酒的酒精饮料。</description>
   </HediffDef> -->
 
-  <RV2_GoalEnabler_ConvertUrine.label>腎を満たす衛生液</RV2_GoalEnabler_ConvertUrine.label>
-  <RV2_GoalEnabler_ConvertUrine.description>このキャラクターは,強力な変質液のもとに,生きた獲物を腎臓の中で尿に作り替えることができます.</RV2_GoalEnabler_ConvertUrine.description>
+  <RV2_GoalEnabler_ConvertUrine.label>尿化酶</RV2_GoalEnabler_ConvertUrine.label>
+  <RV2_GoalEnabler_ConvertUrine.description>该角色通过强效转化液，能将活体猎物在肾脏中转化为尿液。</RV2_GoalEnabler_ConvertUrine.description>
 
 
-  <!-- Type Enablers 
-  These mainly unlock new types for a pawn's exisiting goals. -->
+  <!-- 类型启用器 
+  这些主要为角色现有目标解锁新类型。 -->
 
-  <RV2_TypeEnabler_Cleavage.label>奥深い谷間</RV2_TypeEnabler_Cleavage.label>
-  <RV2_TypeEnabler_Cleavage.description>このキャラクターは,豊満かつ柔軟な谷間を持ち,生きた獲物を胸の谷間から丸呑みすることができます.</RV2_TypeEnabler_Cleavage.description>
+  <RV2_TypeEnabler_Cleavage.label>幽深乳沟</RV2_TypeEnabler_Cleavage.label>
+  <RV2_TypeEnabler_Cleavage.description>该角色拥有丰满柔韧的乳沟，可从胸间完整吞食活体猎物。</RV2_TypeEnabler_Cleavage.description>
 
-  <RV2_TypeEnabler_Membrane.label>ドロドロの皮膚細胞</RV2_TypeEnabler_Membrane.label>
-  <RV2_TypeEnabler_Membrane.description>このキャラクターは,スライムのような柔軟な体を持ち,生きた獲物を皮膚から取り込むことができます.</RV2_TypeEnabler_Membrane.description>
+  <RV2_TypeEnabler_Membrane.label>流动性表皮</RV2_TypeEnabler_Membrane.label>
+  <RV2_TypeEnabler_Membrane.description>该角色拥有史莱姆般的柔软躯体，能通过皮肤吸纳活体猎物。</RV2_TypeEnabler_Membrane.description>
 
-  <RV2_TypeEnabler_Navel.label>奥深いへそ</RV2_TypeEnabler_Navel.label>
-  <RV2_TypeEnabler_Navel.description>このキャラクターは,強靭かつ柔軟なへそを持ち,生きた獲物をへそから丸呑みすることができます.</RV2_TypeEnabler_Navel.description>
+  <RV2_TypeEnabler_Navel.label>深渊脐孔</RV2_TypeEnabler_Navel.label>
+  <RV2_TypeEnabler_Navel.description>该角色拥有强韧柔韧的肚脐，可从脐部完整吞食活体猎物。</RV2_TypeEnabler_Navel.description>
 
-  <RV2_TypeEnabler_Tailmaw.label>柔らかい尻尾口</RV2_TypeEnabler_Tailmaw.label>
-  <RV2_TypeEnabler_Tailmaw.description>このキャラクターは,強靭な口と柔軟な喉を持つ尻尾を持ち,生きた獲物を尻尾口から丸呑みすることができます.</RV2_TypeEnabler_Tailmaw.description>
+  <RV2_TypeEnabler_Tailmaw.label>柔软尾口</RV2_TypeEnabler_Tailmaw.label>
+  <RV2_TypeEnabler_Tailmaw.description>该角色尾部生有强韧口器与柔软喉道，可通过尾口完整吞食活体猎物。</RV2_TypeEnabler_Tailmaw.description>
 
-  <RV2_TypeEnabler_Udder.label>柔らかい乳房</RV2_TypeEnabler_Udder.label>
-  <RV2_TypeEnabler_Udder.description>このキャラクターは,強靭かつ柔軟な乳房を持ち,生きた獲物を乳房から丸呑みすることができます.</RV2_TypeEnabler_Udder.description>
-
+  <RV2_TypeEnabler_Udder.label>柔软乳房</RV2_TypeEnabler_Udder.label>
+  <RV2_TypeEnabler_Udder.description>该角色拥有强韧柔韧的乳房，可直接通过乳房完整吞食活体猎物。</RV2_TypeEnabler_Udder.description>
 
 </LanguageData>
