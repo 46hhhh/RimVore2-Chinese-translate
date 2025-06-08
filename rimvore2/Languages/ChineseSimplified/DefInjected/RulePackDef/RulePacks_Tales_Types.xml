@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RV2_Type_Oral.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[RV2_bodypart][INITIATOR_possessive]</RV2_Type_Oral.rulePack.rulesStrings.0>
+  <RV2_Type_Oral.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[INITIATOR_possessive][RV2_bodypart]</RV2_Type_Oral.rulePack.rulesStrings.0>
   <RV2_Type_Oral.rulePack.rulesStrings.1>RV2_bodypart->喉咙</RV2_Type_Oral.rulePack.rulesStrings.1>
   <RV2_Type_Oral.rulePack.rulesStrings.2>RV2_bodypart->食道</RV2_Type_Oral.rulePack.rulesStrings.2>
   <RV2_Type_Oral.rulePack.rulesStrings.3>RV2_init_predVerb->吞咽下去</RV2_Type_Oral.rulePack.rulesStrings.3>
@@ -12,7 +12,7 @@
   <RV2_Type_Oral.rulePack.rulesStrings.8>RV2_exit_predVerb->吐出来</RV2_Type_Oral.rulePack.rulesStrings.8>
   <RV2_Type_Oral.rulePack.rulesStrings.9>RV2_exit_preyVerb->吐出</RV2_Type_Oral.rulePack.rulesStrings.9>
 
-  <RV2_Type_FullTour.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[RV2_bodypart][INITIATOR_possessive]</RV2_Type_FullTour.rulePack.rulesStrings.0>
+  <RV2_Type_FullTour.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[INITIATOR_possessive][RV2_bodypart]</RV2_Type_FullTour.rulePack.rulesStrings.0>
   <RV2_Type_FullTour.rulePack.rulesStrings.1>RV2_bodypart->喉咙</RV2_Type_FullTour.rulePack.rulesStrings.1>
   <RV2_Type_FullTour.rulePack.rulesStrings.2>RV2_bodypart->食道</RV2_Type_FullTour.rulePack.rulesStrings.2>
   <RV2_Type_FullTour.rulePack.rulesStrings.3>RV2_init_predVerb->吞咽下去</RV2_Type_FullTour.rulePack.rulesStrings.3>
@@ -23,7 +23,7 @@
   <RV2_Type_FullTour.rulePack.rulesStrings.8>RV2_exit_predVerb->排出体外</RV2_Type_FullTour.rulePack.rulesStrings.8>
   <RV2_Type_FullTour.rulePack.rulesStrings.9>RV2_exit_preyVerb->排出</RV2_Type_FullTour.rulePack.rulesStrings.9>
   
-  <RV2_Type_Anal.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[RV2_bodypart][INITIATOR_possessive]</RV2_Type_Anal.rulePack.rulesStrings.0>
+  <RV2_Type_Anal.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[INITIATOR_possessive][RV2_bodypart]</RV2_Type_Anal.rulePack.rulesStrings.0>
   <RV2_Type_Anal.rulePack.rulesStrings.1>RV2_bodypart->孔穴</RV2_Type_Anal.rulePack.rulesStrings.1>
   <RV2_Type_Anal.rulePack.rulesStrings.2>RV2_bodypart->肛门</RV2_Type_Anal.rulePack.rulesStrings.2>
   <RV2_Type_Anal.rulePack.rulesStrings.3>RV2_bodypart->排泄口</RV2_Type_Anal.rulePack.rulesStrings.3>
@@ -32,7 +32,7 @@
   <RV2_Type_Anal.rulePack.rulesStrings.6>RV2_exit_predVerb->排出体外</RV2_Type_Anal.rulePack.rulesStrings.6>
   <RV2_Type_Anal.rulePack.rulesStrings.7>RV2_exit_preyVerb->排出</RV2_Type_Anal.rulePack.rulesStrings.7>
 
-  <RV2_Type_Vaginal.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[RV2_bodypart][INITIATOR_possessive]</RV2_Type_Vaginal.rulePack.rulesStrings.0>
+  <RV2_Type_Vaginal.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[INITIATOR_possessive][RV2_bodypart]</RV2_Type_Vaginal.rulePack.rulesStrings.0>
   <RV2_Type_Vaginal.rulePack.rulesStrings.1>RV2_bodypart->阴道</RV2_Type_Vaginal.rulePack.rulesStrings.1>
   <RV2_Type_Vaginal.rulePack.rulesStrings.2>RV2_bodypart->私处</RV2_Type_Vaginal.rulePack.rulesStrings.2>
   <RV2_Type_Vaginal.rulePack.rulesStrings.3>RV2_bodypart->花径</RV2_Type_Vaginal.rulePack.rulesStrings.3>
@@ -42,7 +42,7 @@
   <RV2_Type_Vaginal.rulePack.rulesStrings.7>RV2_exit_predVerb->喷涌而出</RV2_Type_Vaginal.rulePack.rulesStrings.7>
   <RV2_Type_Vaginal.rulePack.rulesStrings.8>RV2_exit_preyVerb->喷出</RV2_Type_Vaginal.rulePack.rulesStrings.8>
 
-  <RV2_Type_Cock.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[RV2_bodypart][INITIATOR_possessive]</RV2_Type_Cock.rulePack.rulesStrings.0>
+  <RV2_Type_Cock.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[INITIATOR_possessive][RV2_bodypart]</RV2_Type_Cock.rulePack.rulesStrings.0>
   <RV2_Type_Cock.rulePack.rulesStrings.1>RV2_bodypart->阴茎</RV2_Type_Cock.rulePack.rulesStrings.1>
   <RV2_Type_Cock.rulePack.rulesStrings.2>RV2_bodypart->肉棒</RV2_Type_Cock.rulePack.rulesStrings.2>
   <RV2_Type_Cock.rulePack.rulesStrings.3>RV2_bodypart->尿道</RV2_Type_Cock.rulePack.rulesStrings.3>
@@ -51,7 +51,7 @@
   <RV2_Type_Cock.rulePack.rulesStrings.6>RV2_exit_predVerb->释放出来</RV2_Type_Cock.rulePack.rulesStrings.6>
   <RV2_Type_Cock.rulePack.rulesStrings.7>RV2_exit_preyVerb->释放</RV2_Type_Cock.rulePack.rulesStrings.7>
 
-  <RV2_Type_Nipple.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[RV2_bodypart][INITIATOR_possessive]</RV2_Type_Nipple.rulePack.rulesStrings.0>
+  <RV2_Type_Nipple.rulePack.rulesStrings.0>extraSentencePack->[INITIATOR_nameDef]使用[INITIATOR_possessive][RV2_bodypart]</RV2_Type_Nipple.rulePack.rulesStrings.0>
   <RV2_Type_Nipple.rulePack.rulesStrings.1>RV2_init_predVerb->从乳头吸入</RV2_Type_Nipple.rulePack.rulesStrings.1>
   <RV2_Type_Nipple.rulePack.rulesStrings.2>RV2_bodypart->乳头</RV2_Type_Nipple.rulePack.rulesStrings.2>
   <RV2_Type_Nipple.rulePack.rulesStrings.3>RV2_addendum->为了给[PREY_definite]提供乳汁浴</RV2_Type_Nipple.rulePack.rulesStrings.3>

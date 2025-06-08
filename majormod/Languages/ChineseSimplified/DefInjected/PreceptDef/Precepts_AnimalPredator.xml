@@ -1,49 +1,31 @@
+<!-- Precepts_AnimalPredator.xml -->
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 厌恶态度 -->
-  <RV2_AnimalPredator_Disliked.stages.0.label>被动物吞噬</RV2_AnimalPredator_Disliked.stages.0.label>
-  <RV2_AnimalPredator_Disliked.stages.0.description>本不该这么做，教义不会接纳我的行为...</RV2_AnimalPredator_Disliked.stages.0.description>
+  <!-- 厌恶 -->
+  <RV2_AnimalPredator_Disliked.label>厌恶</RV2_AnimalPredator_Disliked.label>
+  <RV2_AnimalPredator_Disliked.description>被动物吞噬的行为不应被提倡。</RV2_AnimalPredator_Disliked.description>
 
-  <RV2_AnimalPredator_Know_Disliked.stages.0.label>被动物吞噬</RV2_AnimalPredator_Know_Disliked.stages.0.label>
+  <!-- 憎恶 -->
+  <RV2_AnimalPredator_Abhorrent.label>憎恶</RV2_AnimalPredator_Abhorrent.label>
+  <RV2_AnimalPredator_Abhorrent.description>动物并非为吞噬而生，这种行为是对我们信仰的亵渎。</RV2_AnimalPredator_Abhorrent.description>
 
-  <!-- 极度厌恶态度 -->
-  <RV2_AnimalPredator_Abhorrent.stages.0.label>被动物吞噬</RV2_AnimalPredator_Abhorrent.stages.0.label>
-  <RV2_AnimalPredator_Abhorrent.stages.0.description>明知违反教义却被动物吞噬，真是令人毛骨悚然的感觉。</RV2_AnimalPredator_Abhorrent.stages.0.description>
+  <!-- 喜好 -->
+  <RV2_AnimalPredator_Liked.label>喜好</RV2_AnimalPredator_Liked.label>
+  <RV2_AnimalPredator_Liked.description>被动物吞噬的行为应当被鼓励。</RV2_AnimalPredator_Liked.description>
 
-  <RV2_AnimalPredator_Know_Abhorrent.stages.0.label>有人被动物吞噬!!</RV2_AnimalPredator_Know_Abhorrent.stages.0.label>
-  <RV2_AnimalPredator_Know_Abhorrent.stages.0.description>周围有人被动物吞噬，这是违反教义的可憎行为！</RV2_AnimalPredator_Know_Abhorrent.stages.0.description>
+  <!-- 必须 -->
+  <RV2_AnimalPredator_Required.label>必须</RV2_AnimalPredator_Required.label>
+  <RV2_AnimalPredator_Required.description>我们生来就是动物的食物，这个事实必须在日常生活中得到确认。</RV2_AnimalPredator_Required.description>
+  <RV2_AnimalPredator_Required.comps.3.description>{VORERELATEDINTERVAL}天内未被动物吞噬</RV2_AnimalPredator_Required.comps.3.description>
 
-  <RV2_AnimalPredator_Know_Social_Abhorrent.stages.0.label>被动物吞噬者</RV2_AnimalPredator_Know_Social_Abhorrent.stages.0.label>
+  <!-- 圣兽憎恶 -->
+  <RV2_AnimalPredator_Abhorrent_Venerated.label>憎恶(圣兽)</RV2_AnimalPredator_Abhorrent_Venerated.label>
+  <RV2_AnimalPredator_Abhorrent_Venerated.description>被圣兽吞噬是不可饶恕的行为。</RV2_AnimalPredator_Abhorrent_Venerated.description>
 
-  <!-- 喜爱态度 -->
-  <RV2_AnimalPredator_Liked.stages.0.label>被动物吞噬</RV2_AnimalPredator_Liked.stages.0.label>
-  <RV2_AnimalPredator_Liked.stages.0.description>接触神圣艺术，心灵得到满足。</RV2_AnimalPredator_Liked.stages.0.description>
-
-  <RV2_AnimalPredator_Know_Liked.stages.0.label>动物饲料</RV2_AnimalPredator_Know_Liked.stages.0.label>
-
-  <!-- 必须执行态度 -->
-  <RV2_AnimalPredator_Required.stages.0.label>被动物吞噬</RV2_AnimalPredator_Required.stages.0.label>
-  <RV2_AnimalPredator_Required.stages.0.description>通过被动物吞噬，我能更加坚定信仰。</RV2_AnimalPredator_Required.stages.0.description>
-
-  <RV2_AnimalPredator_Know_Required.stages.0.label>有人被动物吞噬!</RV2_AnimalPredator_Know_Required.stages.0.label>
-  <RV2_AnimalPredator_Know_Required.stages.0.description>周围有人被动物吞噬，这是值得尊敬的行为！</RV2_AnimalPredator_Know_Required.stages.0.description>
-
-  <RV2_AnimalPredator_Know_Social_Required.stages.0.label>圣兽侍奉者</RV2_AnimalPredator_Know_Social_Required.stages.0.label>
-
-  <RV2_NoRecentAnimalPredator_Required.stages.0.label>渴望被动物吞噬</RV2_NoRecentAnimalPredator_Required.stages.0.label>
-  <RV2_NoRecentAnimalPredator_Required.stages.0.description>距离上次被动物吞噬已经过去太久了。</RV2_NoRecentAnimalPredator_Required.stages.0.description>
-
-  <!-- 对圣兽的极度厌恶态度 -->
-  <RV2_AnimalPredator_Abhorrent_Venerated.stages.0.label>被圣兽吞噬!</RV2_AnimalPredator_Abhorrent_Venerated.stages.0.label>
-  <RV2_AnimalPredator_Abhorrent_Venerated.stages.0.description>让神圣生物饱腹的自己，简直是殖民地的耻辱。</RV2_AnimalPredator_Abhorrent_Venerated.stages.0.description>
-
-  <RV2_AnimalPredator_Know_Abhorrent_Venerated.stages.0.label>圣兽虐待者</RV2_AnimalPredator_Know_Abhorrent_Venerated.stages.0.label>
-
-  <!-- 对圣兽的喜爱态度 -->
-  <RV2_AnimalPredator_Liked_Venerated.stages.0.label>被圣兽吞噬</RV2_AnimalPredator_Liked_Venerated.stages.0.label>
-  <RV2_AnimalPredator_Liked_Venerated.stages.0.description>被圣兽吞噬是无上的荣耀。</RV2_AnimalPredator_Liked_Venerated.stages.0.description>
-
-  <RV2_AnimalPredator_Know_Liked_Venerated.stages.0.label>神圣食物</RV2_AnimalPredator_Know_Liked_Venerated.stages.0.label>
+  <!-- 圣兽喜好 -->
+  <RV2_AnimalPredator_Liked_Venerated.label>喜好(圣兽)</RV2_AnimalPredator_Liked_Venerated.label>
+  <RV2_AnimalPredator_Liked_Venerated.description>被圣兽吞噬的行为应当被鼓励。</RV2_AnimalPredator_Liked_Venerated.description>
 
 </LanguageData>
+

@@ -2,10 +2,10 @@
 <LanguageData>
 
   <RV2_FatalVore.label>致命吞噬</RV2_FatalVore.label>
-  <RV2_FatalVore.logRulesInitiator.rulesStrings.0>r_logentry->作为致命吞噬</RV2_FatalVore.logRulesInitiator.rulesStrings.0>
+  <RV2_FatalVore.logRulesInitiator.rulesStrings.0>r_logentry->致命吞噬!</RV2_FatalVore.logRulesInitiator.rulesStrings.0>
 
   <RV2_EndoVore.label>安全吞噬</RV2_EndoVore.label>
-  <RV2_EndoVore.logRulesInitiator.rulesStrings.0>r_logentry->作为安全吞噬</RV2_EndoVore.logRulesInitiator.rulesStrings.0>
+  <RV2_EndoVore.logRulesInitiator.rulesStrings.0>r_logentry->安全吞噬</RV2_EndoVore.logRulesInitiator.rulesStrings.0>
 
   <RV2_Feeding_Predator.label>喂食捕食者</RV2_Feeding_Predator.label>
   <RV2_Feeding_Predator.logRulesInitiator.rulesStrings.0>r_logentry->将猎物喂给[RECIPIENT_nameDef]食用。</RV2_Feeding_Predator.logRulesInitiator.rulesStrings.0>
