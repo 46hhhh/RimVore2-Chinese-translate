@@ -1,37 +1,23 @@
+<!-- Precepts_Predation.xml -->
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 厌恶态度 -->
-  <RV2_PredatorInitiatedVore_Disliked.stages.0.label>进行活体吞噬</RV2_PredatorInitiatedVore_Disliked.stages.0.label>
-  <RV2_PredatorInitiatedVore_Disliked.stages.0.description>本不该这么做，教义不会接纳我的行为...</RV2_PredatorInitiatedVore_Disliked.stages.0.description>
+  <!-- 厌恶 -->
+  <RV2_Predation_Disliked.label>厌恶</RV2_Predation_Disliked.label>
+  <RV2_Predation_Disliked.description>我们并非为吞噬他人而生。</RV2_Predation_Disliked.description>
 
-  <RV2_PredatorInitiatedVore_Know_Disliked.stages.0.label>可憎的捕食者</RV2_PredatorInitiatedVore_Know_Disliked.stages.0.label>
+  <!-- 憎恶 -->
+  <RV2_Predation_Abhorrent.label>憎恶</RV2_Predation_Abhorrent.label>
+  <RV2_Predation_Abhorrent.description>作为捕食者参与吞噬者应当被清除。</RV2_Predation_Abhorrent.description>
 
-  <!-- 极度厌恶态度 -->
-  <RV2_PredatorInitiatedVore_Abhorrent.stages.0.label>实施活体吞噬</RV2_PredatorInitiatedVore_Abhorrent.stages.0.label>
-  <RV2_PredatorInitiatedVore_Abhorrent.stages.0.description>这明显违背教义，我到底在做什么?</RV2_PredatorInitiatedVore_Abhorrent.stages.0.description>
+  <!-- 喜好 -->
+  <RV2_Predation_Liked.label>喜好</RV2_Predation_Liked.label>
+  <RV2_Predation_Liked.description>捕食行为应当被鼓励和赞美。</RV2_Predation_Liked.description>
 
-  <RV2_PredatorInitiatedVore_Know_Abhorrent.stages.0.label>有人成为了捕食者!!</RV2_PredatorInitiatedVore_Know_Abhorrent.stages.0.label>
-  <RV2_PredatorInitiatedVore_Know_Abhorrent.stages.0.description>周围有人实施了活体吞噬，这是违反教义的可憎行为！</RV2_PredatorInitiatedVore_Know_Abhorrent.stages.0.description>
-
-  <RV2_PredatorInitiatedVore_Know_Social_Abhorrent.stages.0.label>渎神捕食者</RV2_PredatorInitiatedVore_Know_Social_Abhorrent.stages.0.label>
-
-  <!-- 喜爱态度 -->
-  <RV2_PredatorInitiatedVore_Liked.stages.0.label>完成活体吞噬</RV2_PredatorInitiatedVore_Liked.stages.0.label>
-  <RV2_PredatorInitiatedVore_Liked.stages.0.description>践行神圣仪式，心灵得到满足。</RV2_PredatorInitiatedVore_Liked.stages.0.description>
-
-  <RV2_PredatorInitiatedVore_Know_Liked.stages.0.label>光荣捕食者</RV2_PredatorInitiatedVore_Know_Liked.stages.0.label>
-
-  <!-- 必须执行态度 -->
-  <RV2_PredatorInitiatedVore_Required.stages.0.label>履行捕食职责</RV2_PredatorInitiatedVore_Required.stages.0.label>
-  <RV2_PredatorInitiatedVore_Required.stages.0.description>通过持续履行捕食者职责，我能更加坚定信仰！</RV2_PredatorInitiatedVore_Required.stages.0.description>
-
-  <RV2_PredatorInitiatedVore_Know_Required.stages.0.label>有人履行了捕食职责!</RV2_PredatorInitiatedVore_Know_Required.stages.0.label>
-  <RV2_PredatorInitiatedVore_Know_Required.stages.0.description>周围有人履行了捕食者职责，场面何其壮观！</RV2_PredatorInitiatedVore_Know_Required.stages.0.description>
-
-  <RV2_PredatorInitiatedVore_Know_Social_Required.stages.0.label>神圣捕食者</RV2_PredatorInitiatedVore_Know_Social_Required.stages.0.label>
-
-  <RV2_NoRecentPredatorInitiatedVore_Required.stages.0.label>渴望履行捕食职责</RV2_NoRecentPredatorInitiatedVore_Required.stages.0.label>
-  <RV2_NoRecentPredatorInitiatedVore_Required.stages.0.description>距离上次履行捕食者职责已经过去太久了。</RV2_NoRecentPredatorInitiatedVore_Required.stages.0.description>
+  <!-- 必须 -->
+  <RV2_Predation_Required.label>必须</RV2_Predation_Required.label>
+  <RV2_Predation_Required.description>唯有不断吞噬他人，我们才能践行教义真谛。</RV2_Predation_Required.description>
+  <RV2_Predation_Required.comps.3.description>{VORERELATEDINTERVAL}天内未进行吞噬</RV2_Predation_Required.comps.3.description>
 
 </LanguageData>
+

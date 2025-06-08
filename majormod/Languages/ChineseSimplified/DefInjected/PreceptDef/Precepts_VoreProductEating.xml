@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 吞噬产物食用相关 -->
-  <RV2_AteVoreProduct_Abhorrent.stages.0.label>食用消化残渣</RV2_AteVoreProduct_Abhorrent.stages.0.label>
-  <RV2_AteVoreProduct_Abhorrent.stages.0.description>这明显违背教义，我到底在做什么?</RV2_AteVoreProduct_Abhorrent.stages.0.description>
+  <!-- 憎恶 -->
+  <RV2_VoreProductEating_Abhorrent.label>憎恶</RV2_VoreProductEating_Abhorrent.label>
+  <RV2_VoreProductEating_Abhorrent.description>这绝非生命应有的归宿。</RV2_VoreProductEating_Abhorrent.description>
 
-  <RV2_AteVoreProduct_Know_Abhorrent.stages.0.label>残渣食用者</RV2_AteVoreProduct_Know_Abhorrent.stages.0.label>
+  <!-- 偏好 -->
+  <RV2_VoreProductEating_Preferred.label>偏好</RV2_VoreProductEating_Preferred.label>
+  <RV2_VoreProductEating_Preferred.description>生命浓缩的风味无与伦比。</RV2_VoreProductEating_Preferred.description>
 
-  <RV2_AteVoreProduct_Preferred.stages.0.label>享用消化产物</RV2_AteVoreProduct_Preferred.stages.0.label>
-  <RV2_AteVoreProduct_Preferred.stages.0.description>就算天天吃也无妨</RV2_AteVoreProduct_Preferred.stages.0.description>
-
-  <RV2_AteVoreProduct_Required.stages.0.label>完成残渣进食仪式</RV2_AteVoreProduct_Required.stages.0.label>
-  <RV2_AteVoreProduct_Required.stages.0.description>遵循信仰之道！</RV2_AteVoreProduct_Required.stages.0.description>
-
-  <RV2_NoRecentVoreProduct_Required.stages.0.label>渴望食用消化残渣</RV2_NoRecentVoreProduct_Required.stages.0.label>
-  <RV2_NoRecentVoreProduct_Required.stages.0.description>距离上次食用吞噬产物已经过去太久了，必须再次进食。</RV2_NoRecentVoreProduct_Required.stages.0.description>
-
+  <!-- 必须 -->
+  <RV2_VoreProductEating_Required.label>必须</RV2_VoreProductEating_Required.label>
+  <RV2_VoreProductEating_Required.description>应将其作为日常饮食的重要组成部分。</RV2_VoreProductEating_Required.description>
+  <RV2_VoreProductEating_Required.comps.1.description>{VORERELATEDINTERVAL}天内未食用吞噬产物</RV2_VoreProductEating_Required.comps.1.description>
 
 </LanguageData>

@@ -2,12 +2,12 @@
 <LanguageData>
 
   <!-- 极度厌恶态度 -->
-  <RV2_InterruptedVore_Abhorrent.stages.0.label>打断吞噬仪式</RV2_InterruptedVore_Abhorrent.stages.0.label>
-  <RV2_InterruptedVore_Abhorrent.stages.0.description>强行将猎物从捕食者口中救出，但同伴们不会认同这种行为。</RV2_InterruptedVore_Abhorrent.stages.0.description>
+  <RV2_InterruptedVore_Abhorrent.stages.0.label>吞噬被打断</RV2_InterruptedVore_Abhorrent.stages.0.label>
+  <RV2_InterruptedVore_Abhorrent.stages.0.description>强行将猎物从捕食者口中救出，没有人会认同这种行为。</RV2_InterruptedVore_Abhorrent.stages.0.description>
 
-  <RV2_InterruptedVore_Know_Abhorrent.stages.0.label>有人打断了吞噬仪式!!</RV2_InterruptedVore_Know_Abhorrent.stages.0.label>
-  <RV2_InterruptedVore_Know_Abhorrent.stages.0.description>周围有人打断了神圣的吞噬仪式，这是违反教义的可憎行为！</RV2_InterruptedVore_Know_Abhorrent.stages.0.description>
+  <RV2_InterruptedVore_Know_Abhorrent.stages.0.label>有人打断了吞噬进程!!</RV2_InterruptedVore_Know_Abhorrent.stages.0.label>
+  <RV2_InterruptedVore_Know_Abhorrent.stages.0.description>周围有人打断了神圣的吞噬，这是违反教义的可憎行为！</RV2_InterruptedVore_Know_Abhorrent.stages.0.description>
 
-  <RV2_InterruptedVore_Know_Social_Abhorrent.stages.0.label>仪式破坏者</RV2_InterruptedVore_Know_Social_Abhorrent.stages.0.label>
+  <RV2_InterruptedVore_Know_Social_Abhorrent.stages.0.label>吞噬进程破坏者</RV2_InterruptedVore_Know_Social_Abhorrent.stages.0.label>
 
 </LanguageData>
