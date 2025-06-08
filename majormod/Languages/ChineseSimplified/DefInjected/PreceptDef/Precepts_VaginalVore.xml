@@ -1,29 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- 厌恶态度 -->
+  <RV2_VaginalVore_Disliked.stages.0.label>参与阴道吞噬</RV2_VaginalVore_Disliked.stages.0.label>
+  <RV2_VaginalVore_Disliked.stages.0.description>本不该这么做，教义不会接纳我的行为...</RV2_VaginalVore_Disliked.stages.0.description>
 
-  <!-- 厌恶 -->
+  <RV2_VaginalVore_Know_Disliked.stages.0.label>阴道吞噬参与者</RV2_VaginalVore_Know_Disliked.stages.0.label>
 
-  <RV2_VaginalVore_Disliked.label>厌恶</RV2_VaginalVore_Disliked.label>
-  <RV2_VaginalVore_Disliked.description>阴道吞噬行为不应被提倡。</RV2_VaginalVore_Disliked.description>
+  <!-- 极度厌恶态度 -->
+  <RV2_VaginalVore_Abhorrent.stages.0.label>进行阴道吞噬</RV2_VaginalVore_Abhorrent.stages.0.label>
+  <RV2_VaginalVore_Abhorrent.stages.0.description>明知违反教义却参与了阴道吞噬，真是令人毛骨悚然的感觉。</RV2_VaginalVore_Abhorrent.stages.0.description>
 
+  <RV2_VaginalVore_Know_Abhorrent.stages.0.label>有人进行了阴道吞噬!!</RV2_VaginalVore_Know_Abhorrent.stages.0.label>
+  <RV2_VaginalVore_Know_Abhorrent.stages.0.description>周围有人参与了阴道吞噬，这是违反教义的可憎行为！</RV2_VaginalVore_Know_Abhorrent.stages.0.description>
 
-  <!-- 憎恶 -->
+  <RV2_VaginalVore_Know_Social_Abhorrent.stages.0.label>阴道吞噬行为</RV2_VaginalVore_Know_Social_Abhorrent.stages.0.label>
 
-  <RV2_VaginalVore_Abhorrent.label>憎恶</RV2_VaginalVore_Abhorrent.label>
-  <RV2_VaginalVore_Abhorrent.description>阴道吞噬是对我们信仰的亵渎。</RV2_VaginalVore_Abhorrent.description>
+  <!-- 喜爱态度 -->
+  <RV2_VaginalVore_Liked.stages.0.label>进行阴道吞噬</RV2_VaginalVore_Liked.stages.0.label>
+  <RV2_VaginalVore_Liked.stages.0.description>接触神圣艺术，心灵得到满足。</RV2_VaginalVore_Liked.stages.0.description>
 
+  <RV2_VaginalVore_Know_Liked.stages.0.label>阴道吞噬参与者</RV2_VaginalVore_Know_Liked.stages.0.label>
 
-  <!-- 喜好 -->
+  <!-- 必须执行态度 -->
+  <RV2_VaginalVore_Required.stages.0.label>完成阴道吞噬</RV2_VaginalVore_Required.stages.0.label>
+  <RV2_VaginalVore_Required.stages.0.description>为彰显信仰而行的神圣之举。</RV2_VaginalVore_Required.stages.0.description>
 
-  <RV2_VaginalVore_Liked.label>喜好</RV2_VaginalVore_Liked.label>
-  <RV2_VaginalVore_Liked.description>阴道吞噬应当被鼓励和赞美。</RV2_VaginalVore_Liked.description>
+  <RV2_VaginalVore_Know_Required.stages.0.label>有人完成了阴道吞噬!!</RV2_VaginalVore_Know_Required.stages.0.label>
+  <RV2_VaginalVore_Know_Required.stages.0.description>周围有人完成了阴道吞噬，这是无比崇高的行为！</RV2_VaginalVore_Know_Required.stages.0.description>
 
+  <RV2_VaginalVore_Know_Social_Required.stages.0.label>神圣阴道吞噬参与者</RV2_VaginalVore_Know_Social_Required.stages.0.label>
 
-  <!-- 必须 -->
-
-  <RV2_VaginalVore_Required.label>必须</RV2_VaginalVore_Required.label>
-  <RV2_VaginalVore_Required.description>阴道是神圣领域，必须通过阴道吞噬来表达崇拜之情。</RV2_VaginalVore_Required.description>
-  <RV2_VaginalVore_Required.comps.3.description>{VORERELATEDINTERVAL}天内未进行阴道吞噬</RV2_VaginalVore_Required.comps.3.description>
-
+  <RV2_NoRecentVaginalVore_Required.stages.0.label>渴望参与阴道吞噬</RV2_NoRecentVaginalVore_Required.stages.0.label>
+  <RV2_NoRecentVaginalVore_Required.stages.0.description>距离上次参与阴道吞噬已经过去太久了。</RV2_NoRecentVaginalVore_Required.stages.0.description>
 
 </LanguageData>

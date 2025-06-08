@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 厌恶 -->
-  <RV2_EndoVore_Disliked.label>厌恶</RV2_EndoVore_Disliked.label>
-  <RV2_EndoVore_Disliked.description>不消化猎物的行为不应被提倡。</RV2_EndoVore_Disliked.description>
+  <!-- 厌恶态度 -->
+  <RV2_EndoVore_Disliked.stages.0.label>参与安全吞噬</RV2_EndoVore_Disliked.stages.0.label>
+  <RV2_EndoVore_Disliked.stages.0.description>本不该这么做，教义不会接纳我的行为...</RV2_EndoVore_Disliked.stages.0.description>
 
-  <!-- 憎恶 -->
-  <RV2_EndoVore_Abhorrent.label>憎恶</RV2_EndoVore_Abhorrent.label>
-  <RV2_EndoVore_Abhorrent.description>无意消化却吞噬他人的行为是对我们信仰的亵渎。</RV2_EndoVore_Abhorrent.description>
+  <RV2_EndoVore_Know_Disliked.stages.0.label>安全吞噬参与者</RV2_EndoVore_Know_Disliked.stages.0.label>
 
-  <!-- 喜好 -->
-  <RV2_EndoVore_Liked.label>喜好</RV2_EndoVore_Liked.label>
-  <RV2_EndoVore_Liked.description>不消化而完整吞噬的行为应当被鼓励和赞美。</RV2_EndoVore_Liked.description>
+  <!-- 极度厌恶态度 -->
+  <RV2_EndoVore_Abhorrent.stages.0.label>进行安全吞噬</RV2_EndoVore_Abhorrent.stages.0.label>
+  <RV2_EndoVore_Abhorrent.stages.0.description>明知违反教义却参与安全吞噬，真是令人毛骨悚然的感觉。</RV2_EndoVore_Abhorrent.stages.0.description>
 
-  <!-- 必须 -->
-  <RV2_EndoVore_Required.label>必须</RV2_EndoVore_Required.label>
-  <RV2_EndoVore_Required.description>我们生来就是为了宠爱他人，完整吞噬与保存是最崇高的慈善，是不可断绝的文化传统。</RV2_EndoVore_Required.description>
-  <RV2_EndoVore_Required.comps.3.description>{VORERELATEDINTERVAL}天内未进行完整吞噬</RV2_EndoVore_Required.comps.3.description>
+  <RV2_EndoVore_Know_Abhorrent.stages.0.label>有人进行了安全吞噬!!</RV2_EndoVore_Know_Abhorrent.stages.0.label>
+  <RV2_EndoVore_Know_Abhorrent.stages.0.description>周围有人参与安全吞噬，这是违反教义的可憎行为！</RV2_EndoVore_Know_Abhorrent.stages.0.description>
+
+  <RV2_EndoVore_Know_Social_Abhorrent.stages.0.label>安全吞噬实施者</RV2_EndoVore_Know_Social_Abhorrent.stages.0.label>
+
+  <!-- 喜爱态度 -->
+  <RV2_EndoVore_Liked.stages.0.label>参与安全吞噬</RV2_EndoVore_Liked.stages.0.label>
+  <RV2_EndoVore_Liked.stages.0.description>体验神圣艺术，心灵得到满足。</RV2_EndoVore_Liked.stages.0.description>
+
+  <RV2_EndoVore_Know_Liked.stages.0.label>安全吞噬实践者</RV2_EndoVore_Know_Liked.stages.0.label>
+
+  <!-- 必须执行态度 -->
+  <RV2_EndoVore_Required.stages.0.label>完成安全吞噬</RV2_EndoVore_Required.stages.0.label>
+  <RV2_EndoVore_Required.stages.0.description>通过不造成死亡的吞噬体验，我能更加坚定信仰。</RV2_EndoVore_Required.stages.0.description>
+
+  <RV2_EndoVore_Know_Required.stages.0.label>有人完成了安全吞噬!</RV2_EndoVore_Know_Required.stages.0.label>
+  <RV2_EndoVore_Know_Required.stages.0.description>周围有人完成了不见血的安全吞噬，这是无比崇高的行为！</RV2_EndoVore_Know_Required.stages.0.description>
+
+  <RV2_EndoVore_Know_Social_Required.stages.0.label>神圣猎物宠护者</RV2_EndoVore_Know_Social_Required.stages.0.label>
+
+  <RV2_NoRecentEndoVore_Required.stages.0.label>渴望安全吞噬</RV2_NoRecentEndoVore_Required.stages.0.label>
+  <RV2_NoRecentEndoVore_Required.stages.0.description>距离上次安全吞噬他人已经过去太久了。</RV2_NoRecentEndoVore_Required.stages.0.description>
 
 </LanguageData>
