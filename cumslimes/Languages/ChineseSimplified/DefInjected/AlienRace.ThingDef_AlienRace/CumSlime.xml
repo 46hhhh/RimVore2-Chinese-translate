@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NCS_CumSlime.label>活体精液史莱姆</NCS_CumSlime.label>
+  <NCS_CumSlime.description>该奇异生命体是捕食者在睾丸内转化的产物。寿命短暂，若不定时补充精液便会坏死。虽无法使用武器或衣物，但可命令其徒手突袭——通过缠绕阻碍目标行动，或作为诱饵吸引火力。</NCS_CumSlime.description>
+  <NCS_CumSlime.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>体表</NCS_CumSlime.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <NCS_CumSlime.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>核心</NCS_CumSlime.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <NCS_CumSlime.tools.0.label>黏液收缩</NCS_CumSlime.tools.0.label>
+  <NCS_CumSlime.tools.1.label>凝胶体</NCS_CumSlime.tools.1.label>
+
+</LanguageData>

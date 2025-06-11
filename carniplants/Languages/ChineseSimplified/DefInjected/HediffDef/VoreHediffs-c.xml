@@ -1,0 +1,24 @@
+<!-- VoreHediffs-c.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 消化囊相关 -->
+  <NCP_PreyInDigestiveSackWarming.label>消化囊中的猎物</NCP_PreyInDigestiveSackWarming.label>
+  <NCP_PreyInDigestiveSackWarming.description>该角色正在分泌消化酶</NCP_PreyInDigestiveSackWarming.description>
+
+  <NCP_PreyInDigestiveSackDigesting.label>消化囊中的猎物</NCP_PreyInDigestiveSackDigesting.label>
+  <NCP_PreyInDigestiveSackDigesting.description>该角色正在消化猎物</NCP_PreyInDigestiveSackDigesting.description>
+
+  <NCP_PreyInDigestiveSackChurning.label>消化囊中的猎物</NCP_PreyInDigestiveSackChurning.label>
+  <NCP_PreyInDigestiveSackChurning.description>该角色正在分解死亡猎物</NCP_PreyInDigestiveSackChurning.description>
+
+  <NCP_PreyInDigestiveSackProcessing.label>消化囊中的猎物</NCP_PreyInDigestiveSackProcessing.label>
+  <NCP_PreyInDigestiveSackProcessing.description>该角色正在吸收猎物养分</NCP_PreyInDigestiveSackProcessing.description>
+
+  <!-- 根部相关 -->
+  <NCP_PreyInRootExiting.label>根部猎物</NCP_PreyInRootExiting.label>
+  <NCP_PreyInRootExiting.description>该角色正排出猎物残渣</NCP_PreyInRootExiting.description>
+
+  <!-- 花瓣相关 -->
+  <NCP_PreyInPetalsEntering.label>花瓣中的猎物</NCP_PreyInPetalsEntering.label>
+  <NCP_PreyInPetalsEntering.description>该角色正将猎物吞入体内</NCP_PreyInPetalsEntering.description>
+</LanguageData>

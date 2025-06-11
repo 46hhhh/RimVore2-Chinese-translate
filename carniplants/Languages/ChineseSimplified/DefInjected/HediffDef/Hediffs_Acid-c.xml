@@ -1,0 +1,13 @@
+<!-- Hediffs_Acid-c.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NCP_DigestiveAcid.labelNoun>植物消化酸</NCP_DigestiveAcid.labelNoun>
+  
+  <RV2_DigestionRecovery.description>该角色曾暴露于消化液中，虽已开始恢复，但若短期内再次暴露，将导致不可逆的严重损伤！</RV2_DigestionRecovery.description>
+  <RV2_DigestionRecovery.stages.0.label>消化恢复中（&lt;25%）</RV2_DigestionRecovery.stages.0.label>
+  <RV2_DigestionRecovery.stages.1.label>消化恢复中（&gt;25%）</RV2_DigestionRecovery.stages.1.label>
+  <RV2_DigestionRecovery.stages.2.label>消化恢复中（&gt;50%）</RV2_DigestionRecovery.stages.2.label>
+  <RV2_DigestionRecovery.stages.3.label>消化恢复中（&gt;75%）</RV2_DigestionRecovery.stages.3.label>
+  <RV2_DigestionRecovery.labelNoun>消化恢复状态</RV2_DigestionRecovery.labelNoun>
+</LanguageData>
+

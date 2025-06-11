@@ -1,0 +1,10 @@
+<!-- PitcherPlant.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NCP_PitcherPlant.label>捕虫瓶植物</NCP_PitcherPlant.label>
+  <NCP_PitcherPlant.labelPlural>捕虫瓶植物</NCP_PitcherPlant.labelPlural>
+  <NCP_PitcherPlant.labelMale>雄性捕虫瓶植物</NCP_PitcherPlant.labelMale>
+  <NCP_PitcherPlant.labelMalePlural>雄性捕虫瓶植物</NCP_PitcherPlant.labelMalePlural>
+  <NCP_PitcherPlant.labelFemale>雌性捕虫瓶植物</NCP_PitcherPlant.labelFemale>
+  <NCP_PitcherPlant.labelFemalePlural>雌性捕虫瓶植物</NCP_PitcherPlant.labelFemalePlural>
+</LanguageData>

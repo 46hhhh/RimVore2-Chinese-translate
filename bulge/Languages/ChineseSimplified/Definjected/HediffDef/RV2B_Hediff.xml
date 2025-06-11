@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+ <!--<RV2B_Bulge.label>膨胀</RV2B_Bulge.label>-->
+<RV2B_Bulge.description>残留物</RV2B_Bulge.description>
+ <!--<RV2B_BellyBulge.label>腹部膨胀</RV2B_BellyBulge.label> -->
+<RV2B_BellyBulge.description>腹部膨胀，一种受躯干内猎物总量影响的健康状态</RV2B_BellyBulge.description>
+ <!--<RV2B_StomachBulge.label>胃部膨胀</RV2B_StomachBulge.label>-->
+<RV2B_StomachBulge.description>胃部膨胀，一种受胃内猎物总量影响的健康状态</RV2B_StomachBulge.description>
+ <!--<RV2B_IntestineBulge.label>肠道膨胀</RV2B_IntestineBulge.label>-->
+<RV2B_IntestineBulge.description>肠道膨胀，一种受肠内猎物总量影响的健康状态</RV2B_IntestineBulge.description>
+ <!--<RV2B_WombBulge.label>子宫膨胀</RV2B_WombBulge.label>-->
+<RV2B_WombBulge.description>子宫膨胀，一种受子宫内猎物总量影响的健康状态</RV2B_WombBulge.description>
+ <!--<RV2B_TestiesBulge.label>睾丸膨胀</RV2B_TestiesBulge.label>-->
+<RV2B_TestiesBulge.description>睾丸膨胀，一种受睾丸内猎物总量影响的健康状态</RV2B_TestiesBulge.description>
+ <!--<RV2B_BreastBulge.label>胸部膨胀</RV2B_BreastBulge.label>-->
+<RV2B_BreastBulge.description>胸部膨胀，一种受乳房内猎物总量影响的健康状态</RV2B_BreastBulge.description>
+ <!--<RV2B_TailBulge.label>尾部膨胀</RV2B_TailBulge.label>-->
+<RV2B_TailBulge.description>尾部膨胀，一种受尾内猎物总量影响的健康状态</RV2B_TailBulge.description>
+
+</LanguageData>

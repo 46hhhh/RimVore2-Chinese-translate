@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- 被爱人吞噬的渴望 -->
+  <VoreAspiration_BeEndoByLover.label>渴望被爱人吞噬</VoreAspiration_BeEndoByLover.label>
+  <VoreAspiration_BeEndoByLover.description>{0}渴望在安全吞噬的前提下，进入恋人的体内。</VoreAspiration_BeEndoByLover.description>
+  <VoreAspiration_BeEndoByLover.satisfiedWhenText>{0}被有恋爱关系的捕食者安全地吞噬了。</VoreAspiration_BeEndoByLover.satisfiedWhenText>
+
+  <!-- 套娃式吞噬的渴望 -->
+  <VoreAspiration_Voreception.label>体内套娃</VoreAspiration_Voreception.label>
+  <VoreAspiration_Voreception.description>{0}向往着"套娃式吞噬"——即已吞噬猎物的捕食者又被其他捕食者吞噬的情景。</VoreAspiration_Voreception.description>
+  <VoreAspiration_Voreception.satisfiedWhenText>{0}被卷入了捕食者的递归式吞噬链中。</VoreAspiration_Voreception.satisfiedWhenText>
+
+  <!-- 投喂爱人的渴望 -->
+  <VoreAspiration_FeedLoverToAnother.label>渴望投喂爱人</VoreAspiration_FeedLoverToAnother.label>
+  <VoreAspiration_FeedLoverToAnother.description>{0}想要让恋人被其他捕食者吃掉。</VoreAspiration_FeedLoverToAnother.description>
+  <VoreAspiration_FeedLoverToAnother.satisfiedWhenText>{0}通过某种方式或目的，让有恋爱关系的人被捕食者吞噬了。</VoreAspiration_FeedLoverToAnother.satisfiedWhenText>
+
+  <!-- 重生渴望 -->
+  <VoreAspiration_BeReformed.label>渴望消化重生</VoreAspiration_BeReformed.label>
+  <VoreAspiration_BeReformed.description>{0}想要体验从被消化到重生的完整过程。</VoreAspiration_BeReformed.description>
+  
+</LanguageData>

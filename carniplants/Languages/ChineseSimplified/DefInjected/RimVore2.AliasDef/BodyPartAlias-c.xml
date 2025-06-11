@@ -1,0 +1,8 @@
+<!-- BodyPartAlias-c.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <bodyPart_petals.label>花瓣</bodyPart_petals.label>
+  <bodyPart_digestiveSack.label>消化囊</bodyPart_digestiveSack.label>
+  <bodyPart_root.label>根系</bodyPart_root.label>
+</LanguageData>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NCP_PetalPlant.label>花瓣植物</NCP_PetalPlant.label>
+  <NCP_PetalPlant.description>&lt;i&gt;俗称：捕蝇草&lt;/i&gt;\n在巨型昆虫肆虐的边境世界，食虫植物为生存竞争而巨大化，最终进化出能够容纳并分解绝大多数生物的特殊构造。\n\n该植物通过花萼底部积聚的特殊信息素产生诱捕效果。长期暴露于植株周围甜腻空气中的生物会产生幻觉，不由自主地靠近。当受害者循着气味接近时，地表感应器官立即触发，潜伏的花瓣会瞬间包裹猎物。这些花瓣内壁可分泌储存消化液，能够逐步分解猎物并吸收养分。</NCP_PetalPlant.description>
+  <NCP_PetalPlant.tools.0.label>花冠部</NCP_PetalPlant.tools.0.label>
+
+</LanguageData>

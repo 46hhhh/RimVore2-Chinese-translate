@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NCP_PitcherPlant.label>捕虫瓶植物</NCP_PitcherPlant.label>
+  <NCP_PitcherPlant.description>&lt;i&gt;俗称：猪笼草&lt;/i&gt;\n在巨型昆虫横行的蛮荒世界，食肉植物为适应捕食需求而进化出巨大体型，最终获得了能够容纳并分解绝大多数生物的特殊生理结构。\n\n该植物在展开捕虫瓶时会释放特殊信息素。长时间暴露于植株周围甜腻空气中的生物会产生致幻效果，被诱导主动靠近。当受害者试图探寻气味来源时，瓶口滑腻的内壁会将其引入酸液池中。一旦捕虫瓶被猎物填满，瓶盖便会立即闭合，彻底阻断逃生通道。</NCP_PitcherPlant.description>
+  <NCP_PitcherPlant.tools.0.label>捕虫瓶口</NCP_PitcherPlant.tools.0.label>
+
+</LanguageData>

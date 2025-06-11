@@ -1,0 +1,12 @@
+<!-- BodyParts_General-c.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NCP_PP_Pod.label>捕虫囊</NCP_PP_Pod.label>
+  <NCP_PP_Root.label>根部</NCP_PP_Root.label>
+  <NCP_PP_Petals.label>花瓣</NCP_PP_Petals.label>
+  <NCP_PP_UpperStem.label>茎上部</NCP_PP_UpperStem.label>
+  <NCP_PP_DigestiveSack.label>消化囊</NCP_PP_DigestiveSack.label>
+  <NCP_PP_Leaf.label>叶片</NCP_PP_Leaf.label>
+  <NCP_PP_EssenceOfLife.label>生命核心</NCP_PP_EssenceOfLife.label>
+  <NCP_PP_Stem.label>茎干</NCP_PP_Stem.label>
+</LanguageData>

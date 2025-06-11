@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NCP_JawPlant.label>颚夹植物</NCP_JawPlant.label>
+  <NCP_JawPlant.description>&lt;i&gt;俗称：钳颚草&lt;/i&gt;\n在巨型昆虫横行的边境世界，食虫植物为适应环境而巨大化，最终进化出能够容纳并分解绝大多数生物的身体构造。\n\n该植物在张口时会释放特殊信息素。长时间暴露于植株周围甜腻空气中的生物会产生幻觉，被诱导靠近。当受害者踩踏根部蔓延的叶片时，其颚部会立即转向猎物，将虚弱不堪的躯体纳入体内。茎干中央设有储存腔室，强烈的消化酸可将猎物分解得无影无踪。</NCP_JawPlant.description>
+  <NCP_JawPlant.tools.0.label>头部</NCP_JawPlant.tools.0.label>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<!-- JawPlant.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NCP_JawPlant.label>颚夹植物</NCP_JawPlant.label>
+  <NCP_JawPlant.labelPlural>颚夹植物</NCP_JawPlant.labelPlural>
+  <NCP_JawPlant.labelMale>雄性颚夹植物</NCP_JawPlant.labelMale>
+  <NCP_JawPlant.labelMalePlural>雄性颚夹植物</NCP_JawPlant.labelMalePlural>
+  <NCP_JawPlant.labelFemale>雌性颚夹植物</NCP_JawPlant.labelFemale>
+  <NCP_JawPlant.labelFemalePlural>雌性颚夹植物</NCP_JawPlant.labelFemalePlural>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NCP_Lured.label>信息素魅惑状态</NCP_Lured.label>
+  <NCP_Lured.beginLetter>{0}被信息素迷惑，正不由自主地靠近食肉植物！</NCP_Lured.beginLetter>
+  <NCP_Lured.beginLetterLabel>信息素魅惑状态</NCP_Lured.beginLetterLabel>
+  <NCP_Lured.recoveryMessage>{0}已从信息素魅惑状态中恢复清醒</NCP_Lured.recoveryMessage>
+  <NCP_Lured.baseInspectLine>精神状态：信息素魅惑</NCP_Lured.baseInspectLine>
+</LanguageData>

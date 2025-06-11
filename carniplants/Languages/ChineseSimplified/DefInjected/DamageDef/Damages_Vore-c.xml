@@ -1,0 +1,6 @@
+<!-- Damages_Vore-c.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NCP_DigestiveAcid.label>消化性酸蚀伤害</NCP_DigestiveAcid.label>
+  <NCP_DigestiveAcid.deathMessage>{0}已被完全消化</NCP_DigestiveAcid.deathMessage>
+</LanguageData>

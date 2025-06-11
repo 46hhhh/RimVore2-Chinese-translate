@@ -1,0 +1,7 @@
+<!-- PheromoneSpreader.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NCP_PheromoneSpreader.label>信息素扩散</NCP_PheromoneSpreader.label>
+  <NCP_PheromoneSpreader.description>信息素引诱效应</NCP_PheromoneSpreader.description>
+</LanguageData>
+

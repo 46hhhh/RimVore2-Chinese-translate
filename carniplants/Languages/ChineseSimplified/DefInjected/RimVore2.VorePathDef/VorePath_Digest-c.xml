@@ -1,0 +1,9 @@
+<!-- VorePath_Digest-c.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NCP_PetalsDigest.label>（消化）植物吞噬</NCP_PetalsDigest.label>
+  <NCP_PetalsDigest.RMBLabel>花瓣吞噬（植物）</NCP_PetalsDigest.RMBLabel>
+  <NCP_PetalsDigest.actionDescription>{0}正试图将{1}吞入(植物)消化囊并消化</NCP_PetalsDigest.actionDescription>
+  <NCP_PetalsDigest.description>食肉植物的特殊消化过程</NCP_PetalsDigest.description>
+</LanguageData>
+
