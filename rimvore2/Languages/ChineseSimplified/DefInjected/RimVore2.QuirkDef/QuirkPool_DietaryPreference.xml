@@ -1,140 +1,142 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 捕食者-动物类偏好 -->
-  
-  <DietaryPreference_Predator_Animals_Obsessed.label>动物狂热爱好者</DietaryPreference_Predator_Animals_Obsessed.label>
-  <DietaryPreference_Predator_Animals_Obsessed.description>[PAWN_label]痴迷于将动物作为猎物。千万别让[PAWN_pronoun]看到你的宠物。</DietaryPreference_Predator_Animals_Obsessed.description>
+    <!-- 捕食者-动物类偏好 -->
 
-  <DietaryPreference_Predator_Animals_Likes.label>厚皮毛爱好者</DietaryPreference_Predator_Animals_Likes.label>
-  <DietaryPreference_Predator_Animals_Likes.description>[PAWN_label]喜欢以动物为猎物。这种源自远古的本能欲望根深蒂固。</DietaryPreference_Predator_Animals_Likes.description>
+    <DietaryPreference_Predator_Animals_Obsessed.label>动物狂热爱好者</DietaryPreference_Predator_Animals_Obsessed.label>
+    <DietaryPreference_Predator_Animals_Obsessed.description>[PAWN_label]痴迷于将动物作为猎物。千万别让[PAWN_pronoun]看到你的宠物。</DietaryPreference_Predator_Animals_Obsessed.description>
 
-  <DietaryPreference_Predator_Animals_Neutral.label>普通动物口味</DietaryPreference_Predator_Animals_Neutral.label>
-  <DietaryPreference_Predator_Animals_Neutral.description>[PAWN_label]对以动物为猎物既不喜欢也不厌恶。</DietaryPreference_Predator_Animals_Neutral.description>
+    <DietaryPreference_Predator_Animals_Likes.label>动物爱好者</DietaryPreference_Predator_Animals_Likes.label>
+    <DietaryPreference_Predator_Animals_Likes.description>[PAWN_label]喜欢以动物为猎物。这种源自远古的本能欲望根深蒂固。</DietaryPreference_Predator_Animals_Likes.description>
 
-  <DietaryPreference_Predator_Animals_Dislikes.label>厌恶野兽腥臊</DietaryPreference_Predator_Animals_Dislikes.label>
-  <DietaryPreference_Predator_Animals_Dislikes.description>[PAWN_label]不愿将动物视为猎物。或许是反感朋友被吃，或是更偏好其他猎物类型，又或许单纯讨厌口腔沾染牲畜的泥腥味。</DietaryPreference_Predator_Animals_Dislikes.description>
+    <DietaryPreference_Predator_Animals_Neutral.label>中立的动物吞噬者</DietaryPreference_Predator_Animals_Neutral.label>
+    <DietaryPreference_Predator_Animals_Neutral.description>[PAWN_label]对以动物为猎物既不喜欢也不厌恶。</DietaryPreference_Predator_Animals_Neutral.description>
 
-  <DietaryPreference_Predator_Animals_Refuses.label>坚决拒食动物</DietaryPreference_Predator_Animals_Refuses.label>
-  <DietaryPreference_Predator_Animals_Refuses.description>[PAWN_label]绝不主动捕食动物。宁愿费时屠宰烹饪，也拒绝活体吞噬。</DietaryPreference_Predator_Animals_Refuses.description>
+    <DietaryPreference_Predator_Animals_Dislikes.label>厌恶野兽腥臊</DietaryPreference_Predator_Animals_Dislikes.label>
+    <DietaryPreference_Predator_Animals_Dislikes.description>[PAWN_label]不愿将动物视为猎物。或许是反感朋友被吃，或是更偏好其他猎物类型，又或许单纯讨厌口腔沾染牲畜的泥腥味。</DietaryPreference_Predator_Animals_Dislikes.description>
 
-  <!-- 捕食者-人形类偏好(食人变体) -->
-  
-  <DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.label>人形狂热(食人)</DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.label>
-  <DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.description>作为食人者，[PAWN_label]甚至将同伴也视为理想猎物。比起人肉派，[PAWN_pronoun]更钟爱活体进食的极致体验。</DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.description>
+    <DietaryPreference_Predator_Animals_Refuses.label>坚决拒食动物</DietaryPreference_Predator_Animals_Refuses.label>
+    <DietaryPreference_Predator_Animals_Refuses.description>[PAWN_label]绝不主动捕食动物。宁愿费时屠宰烹饪，也拒绝活体吞噬。</DietaryPreference_Predator_Animals_Refuses.description>
 
-  <DietaryPreference_Predator_Humanoids_Likes_Cannibal.label>柔软肌肤爱好者(食人)</DietaryPreference_Predator_Humanoids_Likes_Cannibal.label>
-  <DietaryPreference_Predator_Humanoids_Likes_Cannibal.description>作为食人者，[PAWN_label]享受以同类为猎物的过程。人类天生兼具清洁与美味，堪称完美食材。</DietaryPreference_Predator_Humanoids_Likes_Cannibal.description>
+    <!-- 捕食者-人形类偏好(食人变体) -->
 
-  <!-- 捕食者-人形类偏好(非食人变体) -->
-  
-  <DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.label>人形狂热(安全)</DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.label>
-  <DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.description>只要确保安全，[PAWN_label]极度渴望将同伴作为猎物。那深不见底的黑暗欲望时刻渴求着猎物。</DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.description>
+    <DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.label>人形狂热(食人)</DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.label>
+    <DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.description>作为食人者，[PAWN_label]甚至将同伴也视为理想猎物。比起人肉派，[PAWN_pronoun]更钟爱活体进食的极致体验。</DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.description>
 
-  <DietaryPreference_Predator_Humanoids_Likes_NotCannibal.label>柔软肌肤爱好者(安全)</DietaryPreference_Predator_Humanoids_Likes_NotCannibal.label>
-  <DietaryPreference_Predator_Humanoids_Likes_NotCannibal.description>在安全前提下，[PAWN_label]喜欢以同类为猎物。但无论如何喜爱，消化行为仍等同于食人。</DietaryPreference_Predator_Humanoids_Likes_NotCannibal.description>
+    <DietaryPreference_Predator_Humanoids_Likes_Cannibal.label>柔软肌肤爱好者(食人)</DietaryPreference_Predator_Humanoids_Likes_Cannibal.label>
+    <DietaryPreference_Predator_Humanoids_Likes_Cannibal.description>作为食人者，[PAWN_label]享受以同类为猎物的过程。人类天生兼具清洁与美味，堪称完美食材。</DietaryPreference_Predator_Humanoids_Likes_Cannibal.description>
 
-  <!-- 捕食者-人形类偏好 -->
-  <DietaryPreference_Predator_Humanoids_Dislikes.label>人形厌恶</DietaryPreference_Predator_Humanoids_Dislikes.label>
-  <DietaryPreference_Predator_Humanoids_Dislikes.description>[PAWN_label]厌恶将同伴视为猎物。不知是反感类似食人的背德感，还是单纯讨厌人类。这种排斥感已深入骨髓。</DietaryPreference_Predator_Humanoids_Dislikes.description>
+    <!-- 捕食者-人形类偏好(非食人变体) -->
 
-  <DietaryPreference_Predator_Humanoids_Refuses.label>坚决拒食人形</DietaryPreference_Predator_Humanoids_Refuses.label>
-  <DietaryPreference_Predator_Humanoids_Refuses.description>[PAWN_label]绝不将同伴视为猎物，也绝不主动消化。无论是否涉及食人，这种行为都会树敌太多。</DietaryPreference_Predator_Humanoids_Refuses.description>
+    <DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.label>人形狂热(安全)</DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.label>
+    <DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.description>只要确保安全，[PAWN_label]极度渴望将同伴作为猎物。那深不见底的黑暗欲望时刻渴求着猎物。</DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.description>
 
-  <!-- 捕食者-昆虫类偏好 -->
-  <DietaryPreference_Predator_Insectoids_Obsessed.label>昆虫狂热者</DietaryPreference_Predator_Insectoids_Obsessed.label>
-  <DietaryPreference_Predator_Insectoids_Obsessed.description>[PAWN_label]痴迷于将昆虫作为猎物。虽然让体内变成虫巢的想法很危险，但[PAWN_pronoun]就是偏爱那些 grotesque 的甲壳口感。</DietaryPreference_Predator_Insectoids_Obsessed.description>
+    <DietaryPreference_Predator_Humanoids_Likes_NotCannibal.label>柔软肌肤爱好者(安全)</DietaryPreference_Predator_Humanoids_Likes_NotCannibal.label>
+    <DietaryPreference_Predator_Humanoids_Likes_NotCannibal.description>在安全前提下，[PAWN_label]喜欢以同类为猎物。但无论如何喜爱，消化行为仍等同于食人。</DietaryPreference_Predator_Humanoids_Likes_NotCannibal.description>
 
-  <DietaryPreference_Predator_Insectoids_Likes.label>甲壳爱好者</DietaryPreference_Predator_Insectoids_Likes.label>
-  <DietaryPreference_Predator_Insectoids_Likes.description>[PAWN_label]喜欢以昆虫为猎物。[PAWN_possessive]钟爱甲壳的舌头同样享受虫肉滋味。</DietaryPreference_Predator_Insectoids_Likes.description>
+    <DietaryPreference_Predator_Humanoids_Neutral.label>中立的人形吞噬者</DietaryPreference_Predator_Humanoids_Neutral.label>
+    <DietaryPreference_Predator_Humanoids_Neutral.description>[PAWN_label]对人类猎物既无偏爱也无厌恶。既不关心是否消化他们，也谈不上喜欢这种味道。</DietaryPreference_Predator_Humanoids_Neutral.description>
 
-  <DietaryPreference_Predator_Insectoids_Neutral.label>普通昆虫口味</DietaryPreference_Predator_Insectoids_Neutral.label>
-  <DietaryPreference_Predator_Insectoids_Neutral.description>[PAWN_label]对以昆虫为猎物既不喜欢也不厌恶。</DietaryPreference_Predator_Insectoids_Neutral.description>
+    <DietaryPreference_Predator_Humanoids_Dislikes.label>人形厌恶</DietaryPreference_Predator_Humanoids_Dislikes.label>
+    <DietaryPreference_Predator_Humanoids_Dislikes.description>[PAWN_label]厌恶将同伴视为猎物。不知是反感类似食人的背德感，还是单纯讨厌人类。这种排斥感已深入骨髓。</DietaryPreference_Predator_Humanoids_Dislikes.description>
 
-  <DietaryPreference_Predator_Insectoids_Dislikes.label>厌恶虫类感</DietaryPreference_Predator_Insectoids_Dislikes.label>
-  <DietaryPreference_Predator_Insectoids_Dislikes.description>[PAWN_label]不愿将活虫作为猎物。[PAWN_pronoun]的个人戒律将"体内有活虫爬行"列为禁忌。</DietaryPreference_Predator_Insectoids_Dislikes.description>
+    <DietaryPreference_Predator_Humanoids_Refuses.label>坚决拒食人形</DietaryPreference_Predator_Humanoids_Refuses.label>
+    <DietaryPreference_Predator_Humanoids_Refuses.description>[PAWN_label]绝不将同伴视为猎物，也绝不主动消化。无论是否涉及食人，这种行为都会树敌太多。</DietaryPreference_Predator_Humanoids_Refuses.description>
 
-  <DietaryPreference_Predator_Insectoids_Refuses.label>坚决拒食昆虫</DietaryPreference_Predator_Insectoids_Refuses.label>
-  <DietaryPreference_Predator_Insectoids_Refuses.description>[PAWN_label]极度抗拒选择昆虫作为猎物，光是想象就令[PAWN_possessive]身体战栗不已。</DietaryPreference_Predator_Insectoids_Refuses.description>
+    <!-- 捕食者-昆虫类偏好 -->
+    <DietaryPreference_Predator_Insectoids_Obsessed.label>昆虫狂热者</DietaryPreference_Predator_Insectoids_Obsessed.label>
+    <DietaryPreference_Predator_Insectoids_Obsessed.description>[PAWN_label]痴迷于将昆虫作为猎物。虽然让体内变成虫巢的想法很危险，但[PAWN_pronoun]就是偏爱那些 grotesque 的甲壳口感。</DietaryPreference_Predator_Insectoids_Obsessed.description>
 
-  <!-- 捕食者-机械族偏好 -->
-  <DietaryPreference_Predator_Mechanoids_Obsessed.label>机械狂热者</DietaryPreference_Predator_Mechanoids_Obsessed.label>
-  <DietaryPreference_Predator_Mechanoids_Obsessed.description>[PAWN_label]渴求以机械族为猎物。[PAWN_pronoun]渴望金属，甚至能品尝精金的味道。虽然钢铁之躯能否被消化尚存疑问，但这种癖好确实独一无二。注意：当前该特性直接关联消化能力，后续可能调整。</DietaryPreference_Predator_Mechanoids_Obsessed.description>
+    <DietaryPreference_Predator_Insectoids_Likes.label>甲壳爱好者</DietaryPreference_Predator_Insectoids_Likes.label>
+    <DietaryPreference_Predator_Insectoids_Likes.description>[PAWN_label]喜欢以昆虫为猎物。[PAWN_possessive]钟爱甲壳的舌头同样享受虫肉滋味。</DietaryPreference_Predator_Insectoids_Likes.description>
 
-  <DietaryPreference_Predator_Mechanoids_Likes.label>金属质感爱好者</DietaryPreference_Predator_Mechanoids_Likes.label>
-  <DietaryPreference_Predator_Mechanoids_Likes.description>[PAWN_label]喜欢以机械族为猎物。虽然消化钢铁之躯存疑，但这种偏好确实别具一格。注意：当前该特性直接关联消化能力，后续可能调整。</DietaryPreference_Predator_Mechanoids_Likes.description>
+    <DietaryPreference_Predator_Insectoids_Neutral.label>中立的昆虫吞噬者</DietaryPreference_Predator_Insectoids_Neutral.label>
+    <DietaryPreference_Predator_Insectoids_Neutral.description>[PAWN_label]对以昆虫为猎物既不喜欢也不厌恶。</DietaryPreference_Predator_Insectoids_Neutral.description>
 
-  <DietaryPreference_Predator_Mechanoids_Neutral.label>普通机械族口味</DietaryPreference_Predator_Mechanoids_Neutral.label>
-  <DietaryPreference_Predator_Mechanoids_Neutral.description>[PAWN_label]对以机械族为猎物既不喜欢也不厌恶。</DietaryPreference_Predator_Mechanoids_Neutral.description>
+    <DietaryPreference_Predator_Insectoids_Dislikes.label>厌恶虫类感</DietaryPreference_Predator_Insectoids_Dislikes.label>
+    <DietaryPreference_Predator_Insectoids_Dislikes.description>[PAWN_label]不愿将活虫作为猎物。[PAWN_pronoun]的个人戒律将"体内有活虫爬行"列为禁忌。</DietaryPreference_Predator_Insectoids_Dislikes.description>
 
-  <DietaryPreference_Predator_Mechanoids_Dislikes.label>排斥非有机体</DietaryPreference_Predator_Mechanoids_Dislikes.label>
-  <DietaryPreference_Predator_Mechanoids_Dislikes.description>[PAWN_label]很少选择机械族作为猎物。没有体温与生命体征，吞咽体验也令人不适。</DietaryPreference_Predator_Mechanoids_Dislikes.description>
+    <DietaryPreference_Predator_Insectoids_Refuses.label>坚决拒食昆虫</DietaryPreference_Predator_Insectoids_Refuses.label>
+    <DietaryPreference_Predator_Insectoids_Refuses.description>[PAWN_label]极度抗拒选择昆虫作为猎物，光是想象就令[PAWN_possessive]身体战栗不已。</DietaryPreference_Predator_Insectoids_Refuses.description>
 
-  <DietaryPreference_Predator_Mechanoids_Refuses.label>坚决拒食机械</DietaryPreference_Predator_Mechanoids_Refuses.label>
-  <DietaryPreference_Predator_Mechanoids_Refuses.description>[PAWN_label]绝不自发吞噬机械族。[PAWN_pronoun]对那些可能造成内伤的无生命体抱有绝对厌恶。</DietaryPreference_Predator_Mechanoids_Refuses.description>
+    <!-- 捕食者-机械族偏好 -->
+    <DietaryPreference_Predator_Mechanoids_Obsessed.label>机械狂热者</DietaryPreference_Predator_Mechanoids_Obsessed.label>
+    <DietaryPreference_Predator_Mechanoids_Obsessed.description>[PAWN_label]渴求以机械族为猎物。[PAWN_pronoun]渴望金属，甚至能品尝精金的味道。虽然钢铁之躯能否被消化尚存疑问，但这种癖好确实独一无二。注意：当前该特性直接关联消化能力，后续可能调整。</DietaryPreference_Predator_Mechanoids_Obsessed.description>
 
-  <!-- 猎物-动物类偏好 -->
-  <DietaryPreference_Prey_Animals_Obsessed.label>动物依存症</DietaryPreference_Prey_Animals_Obsessed.label>
-  <DietaryPreference_Prey_Animals_Obsessed.description>[PAWN_label]极度渴望成为动物的猎物。若[PAWN_pronoun]缺席集会，请检查牲畜或宠物的腹部是否隆起。</DietaryPreference_Prey_Animals_Obsessed.description>
+    <DietaryPreference_Predator_Mechanoids_Likes.label>金属质感爱好者</DietaryPreference_Predator_Mechanoids_Likes.label>
+    <DietaryPreference_Predator_Mechanoids_Likes.description>[PAWN_label]喜欢以机械族为猎物。虽然消化钢铁之躯存疑，但这种偏好确实别具一格。注意：当前该特性直接关联消化能力，后续可能调整。</DietaryPreference_Predator_Mechanoids_Likes.description>
 
-  <DietaryPreference_Prey_Animals_Likes.label>野兽胃袋爱好者</DietaryPreference_Prey_Animals_Likes.label>
-  <DietaryPreference_Prey_Animals_Likes.description>[PAWN_label]享受成为动物猎物的感觉。将安危托付给不会言语的野兽充满刺激，而不可预测的释放时机更添魅力。</DietaryPreference_Prey_Animals_Likes.description>
+    <DietaryPreference_Predator_Mechanoids_Neutral.label>中立的机械吞噬者</DietaryPreference_Predator_Mechanoids_Neutral.label>
+    <DietaryPreference_Predator_Mechanoids_Neutral.description>[PAWN_label]对以机械族为猎物既不喜欢也不厌恶。</DietaryPreference_Predator_Mechanoids_Neutral.description>
 
-  <DietaryPreference_Prey_Animals_Neutral.label>普通动物囚笼体验</DietaryPreference_Prey_Animals_Neutral.label>
-  <DietaryPreference_Prey_Animals_Neutral.description>[PAWN_label]对成为动物猎物既不喜欢也不厌恶。</DietaryPreference_Prey_Animals_Neutral.description>
+    <DietaryPreference_Predator_Mechanoids_Dislikes.label>排斥非有机体</DietaryPreference_Predator_Mechanoids_Dislikes.label>
+    <DietaryPreference_Predator_Mechanoids_Dislikes.description>[PAWN_label]很少选择机械族作为猎物。没有体温与生命体征，吞咽体验也令人不适。</DietaryPreference_Predator_Mechanoids_Dislikes.description>
 
-  <DietaryPreference_Prey_Animals_Dislikes.label>排斥野兽束缚感</DietaryPreference_Prey_Animals_Dislikes.label>
-  <DietaryPreference_Prey_Animals_Dislikes.description>[PAWN_label]讨厌成为动物猎物。[PAWN_pronoun]不信任缺乏理性的野兽会适时释放[PAWN_objective]。</DietaryPreference_Prey_Animals_Dislikes.description>
+    <DietaryPreference_Predator_Mechanoids_Refuses.label>坚决拒食机械</DietaryPreference_Predator_Mechanoids_Refuses.label>
+    <DietaryPreference_Predator_Mechanoids_Refuses.description>[PAWN_label]绝不自发吞噬机械族。[PAWN_pronoun]对那些可能造成内伤的无生命体抱有绝对厌恶。</DietaryPreference_Predator_Mechanoids_Refuses.description>
 
-  <DietaryPreference_Prey_Animals_Refuses.label>坚决拒绝兽腹</DietaryPreference_Prey_Animals_Refuses.label>
-  <DietaryPreference_Prey_Animals_Refuses.description>[PAWN_label]绝不自愿成为动物的猎物。这就像用唾液涂抹自己的脸一样令人作呕。</DietaryPreference_Prey_Animals_Refuses.description>
+    <!-- 猎物-动物类偏好 -->
+    <DietaryPreference_Prey_Animals_Obsessed.label>动物依存症</DietaryPreference_Prey_Animals_Obsessed.label>
+    <DietaryPreference_Prey_Animals_Obsessed.description>[PAWN_label]极度渴望成为动物的猎物。若[PAWN_pronoun]缺席集会，请检查牲畜或宠物的腹部是否隆起。</DietaryPreference_Prey_Animals_Obsessed.description>
 
-  <!-- 猎物-人形类偏好 -->
-  <DietaryPreference_Prey_Humanoids_Obsessed.label>人形依存症</DietaryPreference_Prey_Humanoids_Obsessed.label>
-  <DietaryPreference_Prey_Humanoids_Obsessed.description>[PAWN_label]极度渴望成为同类的猎物。[PAWN_pronoun]不介意被任何人吞噬。</DietaryPreference_Prey_Humanoids_Obsessed.description>
+    <DietaryPreference_Prey_Animals_Likes.label>野兽胃袋爱好者</DietaryPreference_Prey_Animals_Likes.label>
+    <DietaryPreference_Prey_Animals_Likes.description>[PAWN_label]享受成为动物猎物的感觉。将安危托付给不会言语的野兽充满刺激，而不可预测的释放时机更添魅力。</DietaryPreference_Prey_Animals_Likes.description>
 
-  <DietaryPreference_Prey_Humanoids_Likes.label>精致肉囊爱好者</DietaryPreference_Prey_Humanoids_Likes.label>
-  <DietaryPreference_Prey_Humanoids_Likes.description>[PAWN_label]喜欢成为同类的猎物。[PAWN_possessive]与捕食者亲密互动的体验也不错。</DietaryPreference_Prey_Humanoids_Likes.description>
+    <DietaryPreference_Prey_Animals_Neutral.label>对动物吞噬中立</DietaryPreference_Prey_Animals_Neutral.label>
+    <DietaryPreference_Prey_Animals_Neutral.description>[PAWN_label]对成为动物猎物既不喜欢也不厌恶。</DietaryPreference_Prey_Animals_Neutral.description>
 
-  <DietaryPreference_Prey_Humanoids_Neutral.label>普通人体囚笼</DietaryPreference_Prey_Humanoids_Neutral.label>
-  <DietaryPreference_Prey_Humanoids_Neutral.description>[PAWN_label]对成为同类猎物既不喜欢也不厌恶。</DietaryPreference_Prey_Humanoids_Neutral.description>
+    <DietaryPreference_Prey_Animals_Dislikes.label>排斥野兽束缚感</DietaryPreference_Prey_Animals_Dislikes.label>
+    <DietaryPreference_Prey_Animals_Dislikes.description>[PAWN_label]讨厌成为动物猎物。[PAWN_pronoun]不信任缺乏理性的野兽会适时释放[PAWN_objective]。</DietaryPreference_Prey_Animals_Dislikes.description>
 
-  <DietaryPreference_Prey_Humanoids_Dislikes.label>排斥人形束缚</DietaryPreference_Prey_Humanoids_Dislikes.label>
-  <DietaryPreference_Prey_Humanoids_Dislikes.description>[PAWN_label]厌恶被同类囚禁。[PAWN_pronoun]总觉得被人吞噬就像被社会规则束缚一样窒息。</DietaryPreference_Prey_Humanoids_Dislikes.description>
+    <DietaryPreference_Prey_Animals_Refuses.label>坚决拒绝兽腹</DietaryPreference_Prey_Animals_Refuses.label>
+    <DietaryPreference_Prey_Animals_Refuses.description>[PAWN_label]绝不自愿成为动物的猎物。这就像用唾液涂抹自己的脸一样令人作呕。</DietaryPreference_Prey_Animals_Refuses.description>
 
-  <DietaryPreference_Prey_Humanoids_Refuses.label>坚决拒绝人腹</DietaryPreference_Prey_Humanoids_Refuses.label>
-  <DietaryPreference_Prey_Humanoids_Refuses.description>[PAWN_label]绝不自愿成为同类猎物。至少有三种矛盾观念让[PAWN_pronoun]无法接受被吞噬。</DietaryPreference_Prey_Humanoids_Refuses.description>
+    <!-- 猎物-人形类偏好 -->
+    <DietaryPreference_Prey_Humanoids_Obsessed.label>人形依存症</DietaryPreference_Prey_Humanoids_Obsessed.label>
+    <DietaryPreference_Prey_Humanoids_Obsessed.description>[PAWN_label]极度渴望成为同类的猎物。[PAWN_pronoun]不介意被任何人吞噬。</DietaryPreference_Prey_Humanoids_Obsessed.description>
 
-  <!-- 猎物-昆虫类偏好 -->
-  <DietaryPreference_Prey_Insectoids_Obsessed.label>虫巢共生者</DietaryPreference_Prey_Insectoids_Obsessed.label>
-  <DietaryPreference_Prey_Insectoids_Obsessed.description>[PAWN_label]痴迷于成为昆虫的猎物。要与虫巢融为一体，这是唯一途径。</DietaryPreference_Prey_Insectoids_Obsessed.description>
+    <DietaryPreference_Prey_Humanoids_Likes.label>精致肉囊爱好者</DietaryPreference_Prey_Humanoids_Likes.label>
+    <DietaryPreference_Prey_Humanoids_Likes.description>[PAWN_label]喜欢成为同类的猎物。[PAWN_possessive]与捕食者亲密互动的体验也不错。</DietaryPreference_Prey_Humanoids_Likes.description>
 
-  <DietaryPreference_Prey_Insectoids_Likes.label>怪异虫囊爱好者</DietaryPreference_Prey_Insectoids_Likes.label>
-  <DietaryPreference_Prey_Insectoids_Likes.description>[PAWN_label]享受成为昆虫猎物的感觉。那些外表美丽的昆虫，内部同样能带来刺激体验。</DietaryPreference_Prey_Insectoids_Likes.description>
+    <DietaryPreference_Prey_Humanoids_Neutral.label>对人体吞噬中立</DietaryPreference_Prey_Humanoids_Neutral.label>
+    <DietaryPreference_Prey_Humanoids_Neutral.description>[PAWN_label]对成为同类猎物既不喜欢也不厌恶。</DietaryPreference_Prey_Humanoids_Neutral.description>
 
-  <DietaryPreference_Prey_Insectoids_Neutral.label>普通虫体囚笼</DietaryPreference_Prey_Insectoids_Neutral.label>
-  <DietaryPreference_Prey_Insectoids_Neutral.description>[PAWN_label]对成为昆虫猎物既不喜欢也不厌恶。</DietaryPreference_Prey_Insectoids_Neutral.description>
+    <DietaryPreference_Prey_Humanoids_Dislikes.label>排斥人形束缚</DietaryPreference_Prey_Humanoids_Dislikes.label>
+    <DietaryPreference_Prey_Humanoids_Dislikes.description>[PAWN_label]厌恶被同类囚禁。[PAWN_pronoun]总觉得被人吞噬就像被社会规则束缚一样窒息。</DietaryPreference_Prey_Humanoids_Dislikes.description>
 
-  <DietaryPreference_Prey_Insectoids_Dislikes.label>排斥虫类生机</DietaryPreference_Prey_Insectoids_Dislikes.label>
-  <DietaryPreference_Prey_Insectoids_Dislikes.description>[PAWN_label]讨厌成为昆虫猎物。很少有人知道，虫子心情好时其实会安全进食...</DietaryPreference_Prey_Insectoids_Dislikes.description>
+    <DietaryPreference_Prey_Humanoids_Refuses.label>坚决拒绝人腹</DietaryPreference_Prey_Humanoids_Refuses.label>
+    <DietaryPreference_Prey_Humanoids_Refuses.description>[PAWN_label]绝不自愿成为同类猎物。至少有三种矛盾观念让[PAWN_pronoun]无法接受被吞噬。</DietaryPreference_Prey_Humanoids_Refuses.description>
 
-  <DietaryPreference_Prey_Insectoids_Refuses.label>坚决拒绝虫腹</DietaryPreference_Prey_Insectoids_Refuses.label>
-  <DietaryPreference_Prey_Insectoids_Refuses.description>[PAWN_label]绝不选择昆虫作为捕食者。即便反复清洗身体，[PAWN_pronoun]也永远感觉不到洁净。</DietaryPreference_Prey_Insectoids_Refuses.description>
+    <!-- 猎物-昆虫类偏好 -->
+    <DietaryPreference_Prey_Insectoids_Obsessed.label>虫巢共生者</DietaryPreference_Prey_Insectoids_Obsessed.label>
+    <DietaryPreference_Prey_Insectoids_Obsessed.description>[PAWN_label]痴迷于成为昆虫的猎物。要与虫巢融为一体，这是唯一途径。</DietaryPreference_Prey_Insectoids_Obsessed.description>
 
-  <!-- 猎物-机械族偏好 -->
-  <DietaryPreference_Prey_Mechanoids_Obsessed.label>机械共生体</DietaryPreference_Prey_Mechanoids_Obsessed.label>
-  <DietaryPreference_Prey_Mechanoids_Obsessed.description>[PAWN_label]狂热迷恋成为机械族猎物。[PAWN_pronoun]偏爱无机壁的冰冷触感与规律性的机械摩擦声，胜过生物的内脏律动。</DietaryPreference_Prey_Mechanoids_Obsessed.description>
+    <DietaryPreference_Prey_Insectoids_Likes.label>怪异虫囊爱好者</DietaryPreference_Prey_Insectoids_Likes.label>
+    <DietaryPreference_Prey_Insectoids_Likes.description>[PAWN_label]享受成为昆虫猎物的感觉。那些外表美丽的昆虫，内部同样能带来刺激体验。</DietaryPreference_Prey_Insectoids_Likes.description>
 
-  <DietaryPreference_Prey_Mechanoids_Likes.label>工业容器爱好者</DietaryPreference_Prey_Mechanoids_Likes.label>
-  <DietaryPreference_Prey_Mechanoids_Likes.description>[PAWN_label]喜欢成为机械族猎物。那些冰冷不可抗拒的金属躯体，既独特又令人兴奋。</DietaryPreference_Prey_Mechanoids_Likes.description>
+    <DietaryPreference_Prey_Insectoids_Neutral.label>对虫族吞噬中立</DietaryPreference_Prey_Insectoids_Neutral.label>
+    <DietaryPreference_Prey_Insectoids_Neutral.description>[PAWN_label]对成为昆虫猎物既不喜欢也不厌恶。</DietaryPreference_Prey_Insectoids_Neutral.description>
 
-  <DietaryPreference_Prey_Mechanoids_Neutral.label>普通机械囚笼</DietaryPreference_Prey_Mechanoids_Neutral.label>
-  <DietaryPreference_Prey_Mechanoids_Neutral.description>[PAWN_label]对成为机械族猎物既不喜欢也不厌恶。</DietaryPreference_Prey_Mechanoids_Neutral.description>
+    <DietaryPreference_Prey_Insectoids_Dislikes.label>排斥虫类生机</DietaryPreference_Prey_Insectoids_Dislikes.label>
+    <DietaryPreference_Prey_Insectoids_Dislikes.description>[PAWN_label]讨厌成为昆虫猎物。很少有人知道，虫子心情好时其实会安全进食...</DietaryPreference_Prey_Insectoids_Dislikes.description>
 
-  <DietaryPreference_Prey_Mechanoids_Dislikes.label>排斥机械禁锢</DietaryPreference_Prey_Mechanoids_Dislikes.label>
-  <DietaryPreference_Prey_Mechanoids_Dislikes.description>[PAWN_label]厌恶被机械族囚禁。齿轮的咔嗒声会在耳边无止境地回响。</DietaryPreference_Prey_Mechanoids_Dislikes.description>
+    <DietaryPreference_Prey_Insectoids_Refuses.label>坚决拒绝虫腹</DietaryPreference_Prey_Insectoids_Refuses.label>
+    <DietaryPreference_Prey_Insectoids_Refuses.description>[PAWN_label]绝不选择昆虫作为捕食者。即便反复清洗身体，[PAWN_pronoun]也永远感觉不到洁净。</DietaryPreference_Prey_Insectoids_Refuses.description>
 
-  <DietaryPreference_Prey_Mechanoids_Refuses.label>坚决拒绝机械舱</DietaryPreference_Prey_Mechanoids_Refuses.label>
-  <DietaryPreference_Prey_Mechanoids_Refuses.description>[PAWN_label]宁死也不愿进入机械族体内。即便有自杀倾向，[PAWN_pronoun]也不会选择这种终结方式。</DietaryPreference_Prey_Mechanoids_Refuses.description>
+    <!-- 猎物-机械族偏好 -->
+    <DietaryPreference_Prey_Mechanoids_Obsessed.label>机械共生体</DietaryPreference_Prey_Mechanoids_Obsessed.label>
+    <DietaryPreference_Prey_Mechanoids_Obsessed.description>[PAWN_label]狂热迷恋成为机械族猎物。[PAWN_pronoun]偏爱无机壁的冰冷触感与规律性的机械摩擦声，胜过生物的内脏律动。</DietaryPreference_Prey_Mechanoids_Obsessed.description>
+
+    <DietaryPreference_Prey_Mechanoids_Likes.label>工业容器爱好者</DietaryPreference_Prey_Mechanoids_Likes.label>
+    <DietaryPreference_Prey_Mechanoids_Likes.description>[PAWN_label]喜欢成为机械族猎物。那些冰冷不可抗拒的金属躯体，既独特又令人兴奋。</DietaryPreference_Prey_Mechanoids_Likes.description>
+
+    <DietaryPreference_Prey_Mechanoids_Neutral.label>对机械吞噬中立</DietaryPreference_Prey_Mechanoids_Neutral.label>
+    <DietaryPreference_Prey_Mechanoids_Neutral.description>[PAWN_label]对成为机械族猎物既不喜欢也不厌恶。</DietaryPreference_Prey_Mechanoids_Neutral.description>
+
+    <DietaryPreference_Prey_Mechanoids_Dislikes.label>排斥机械禁锢</DietaryPreference_Prey_Mechanoids_Dislikes.label>
+    <DietaryPreference_Prey_Mechanoids_Dislikes.description>[PAWN_label]厌恶被机械族囚禁。齿轮的咔嗒声会在耳边无止境地回响。</DietaryPreference_Prey_Mechanoids_Dislikes.description>
+
+    <DietaryPreference_Prey_Mechanoids_Refuses.label>坚决拒绝机械舱</DietaryPreference_Prey_Mechanoids_Refuses.label>
+    <DietaryPreference_Prey_Mechanoids_Refuses.description>[PAWN_label]宁死也不愿进入机械族体内。即便有自杀倾向，[PAWN_pronoun]也不会选择这种终结方式。</DietaryPreference_Prey_Mechanoids_Refuses.description>
 
 </LanguageData>

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <Patch>
 <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="NCS_CumSlime"]/baseDesc</xpath>
     <value>
-       <baseDesc>精液から作られた,ドロドロな肉体をもとに生まれ変わった存在です.最低限の作業をこなし,戦闘では敵にまとわりついて拘束する役割も担います.</baseDesc>
+       <baseDesc>由精液构成的黏稠生命体，具有重塑形体的能力。能够执行基础劳作，并在战斗中通过缠绕束缚敌人发挥战术作用。</baseDesc>
     </value>
 </Operation>
-
 </Patch>

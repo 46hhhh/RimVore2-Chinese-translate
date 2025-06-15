@@ -17,7 +17,7 @@
   <!-- 意外消化设置 -->
   <RV2_EADD_Settings_AccidentalDigestionHeader>意外消化</RV2_EADD_Settings_AccidentalDigestionHeader>
   <RV2_EADD_Settings_EnableAccidentalDigestion>启用意外消化</RV2_EADD_Settings_EnableAccidentalDigestion>
-  <RV2_EADD_Settings_EnableAccidentalDigestion_Tip>当安全储存猎物的捕食者睡眠或意识模糊时，可能无意识切换至消化目标，猎物会通过挣扎尝试提醒捕食者。</RV2_EADD_Settings_EnableAccidentalDigestion_Tip>
+  <RV2_EADD_Settings_EnableAccidentalDigestion_Tip>当安全类型的猎物的捕食者睡眠或意识模糊时，可能无意识切换至消化目标，猎物会通过挣扎尝试提醒捕食者。</RV2_EADD_Settings_EnableAccidentalDigestion_Tip>
   <RV2_EADD_Settings_BaseAccidentalDigestionTickChance>基础触发概率(每刻)</RV2_EADD_Settings_BaseAccidentalDigestionTickChance>
   <RV2_EADD_Settings_BaseAccidentalDigestionTickChance_Tip>捕食者每经历一次"体内时钟"计数（每小时10次）时触发意外消化的基础概率。需满足睡眠等条件才会生效，受特质和健康状态影响。</RV2_EADD_Settings_BaseAccidentalDigestionTickChance_Tip>
   <RV2_EADD_Settings_AccidentalDigestionChanceExample>连续{0}刻累计概率: {1}%</RV2_EADD_Settings_AccidentalDigestionChanceExample>
@@ -55,5 +55,9 @@
   <RV2_EADD_Settings_EndoanalepticsSkipWarmup_Tip>启用后，当捕食者持有体内疗剂时，治疗性捕食将跳过准备阶段直接开始治疗。</RV2_EADD_Settings_EndoanalepticsSkipWarmup_Tip>
   <RV2_EADD_Settings_HealVoreWaitsForImmunity>治疗需等待免疫完成</RV2_EADD_Settings_HealVoreWaitsForImmunity>
   <RV2_EADD_Settings_HealVoreWaitsForImmunity_Tip>启用后，被捕食治疗的病人需对所有疾病获得免疫力才会被视为治疗完成。</RV2_EADD_Settings_HealVoreWaitsForImmunity_Tip>
+  
+  <RV2_EADD_Settings_WakePredatorOnEndoEnd>捕食者在安全吞噬结束后苏醒</RV2_EADD_Settings_WakePredatorOnEndoEnd>
+  <RV2_EADD_Settings_WakePredatorOnEndoEnd_Tip>开启后，当猎物安全地到达了释放阶段且他(她)的捕食者正在睡觉，那么捕食者会立刻苏醒并释放猎物。可以避免猎物因捕食者睡眠而长期处于释放阶段。</RV2_EADD_Settings_WakePredatorOnEndoEnd_Tip>
+
 
 </LanguageData>

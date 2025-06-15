@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 目标激活器 -->
+  <RV2_InstallGoalEnabler_Absorb.label>植入同化激活细胞</RV2_InstallGoalEnabler_Absorb.label>
+  <RV2_InstallGoalEnabler_Absorb.description>通过植入同化激活细胞，使机体获得生物同化能力</RV2_InstallGoalEnabler_Absorb.description>
+
+  <RV2_InstallGoalEnabler_ConvertChemfuel.label>植入燃油转化激活器</RV2_InstallGoalEnabler_ConvertChemfuel.label>
+  <RV2_InstallGoalEnabler_ConvertChemfuel.description>通过植入燃油转化激活器，使机体获得生物质燃油转化能力</RV2_InstallGoalEnabler_ConvertChemfuel.description>
+
+  <RV2_InstallGoalEnabler_ConvertEggs.label>植入卵化激活器</RV2_InstallGoalEnabler_ConvertEggs.label>
+  <RV2_InstallGoalEnabler_ConvertEggs.description>通过植入卵化激活器，使机体获得生物质卵化能力</RV2_InstallGoalEnabler_ConvertEggs.description>
+
+  <RV2_InstallGoalEnabler_ConvertUrine.label>植入尿液转化激活器</RV2_InstallGoalEnabler_ConvertUrine.label>
+  <RV2_InstallGoalEnabler_ConvertUrine.description>通过植入尿液转化激活器，使机体获得生物质尿液转化能力</RV2_InstallGoalEnabler_ConvertUrine.description>
+
+  <!-- 类型激活器 -->
+  <RV2_InstallTypeEnabler_Cleavage.label>植入胸部陷落装置</RV2_InstallTypeEnabler_Cleavage.label>
+  <RV2_InstallTypeEnabler_Cleavage.description>通过植入胸部陷落装置，使乳沟区域具备完整吞噬功能</RV2_InstallTypeEnabler_Cleavage.description>
+
+  <RV2_InstallTypeEnabler_Membrane.label>植入表皮异化激活器</RV2_InstallTypeEnabler_Membrane.label>
+  <RV2_InstallTypeEnabler_Membrane.description>通过植入表皮异化激活器，使皮肤组织具备吞噬吸收功能</RV2_InstallTypeEnabler_Membrane.description>
+
+  <RV2_InstallTypeEnabler_Navel.label>植入腹部陷落探针</RV2_InstallTypeEnabler_Navel.label>
+  <RV2_InstallTypeEnabler_Navel.description>通过植入腹部陷落探针，使脐部区域具备完整吞噬功能</RV2_InstallTypeEnabler_Navel.description>
+
+  <RV2_InstallTypeEnabler_Tailmaw.label>植入尾部口腔觉醒器</RV2_InstallTypeEnabler_Tailmaw.label>
+  <RV2_InstallTypeEnabler_Tailmaw.description>通过植入尾部口腔觉醒器，使尾部末端形成功能性吞噬器官</RV2_InstallTypeEnabler_Tailmaw.description>
+
+  <RV2_InstallTypeEnabler_Udder.label>植入乳房软化器</RV2_InstallTypeEnabler_Udder.label>
+  <RV2_InstallTypeEnabler_Udder.description>通过植入乳房软化器，使乳腺组织具备吞噬储存功能</RV2_InstallTypeEnabler_Udder.description>
+
+</LanguageData>

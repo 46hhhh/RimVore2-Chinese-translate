@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 目标激活器 
+  主要用于解锁角色现有类型的新目标 -->
+
+  <RV2_MakeGoalEnabler_Absorb.label>制造同化激活细胞</RV2_MakeGoalEnabler_Absorb.label>
+  <RV2_MakeGoalEnabler_ConvertChemfuel.label>制造燃油转化激活器</RV2_MakeGoalEnabler_ConvertChemfuel.label>
+  <RV2_MakeGoalEnabler_ConvertEggs.label>制造卵化激活器</RV2_MakeGoalEnabler_ConvertEggs.label>
+  <RV2_MakeGoalEnabler_ConvertUrine.label>制造尿液转化激活器</RV2_MakeGoalEnabler_ConvertUrine.label>
+
+  <!-- 类型激活器 
+  主要用于解锁角色现有目标的新类型 -->
+
+  <RV2_MakeTypeEnabler_Cleavage.label>制造胸部陷落装置</RV2_MakeTypeEnabler_Cleavage.label>
+  <RV2_MakeTypeEnabler_Membrane.label>制造表皮异化激活器</RV2_MakeTypeEnabler_Membrane.label>
+  <RV2_MakeTypeEnabler_Navel.label>制造腹部陷落探针</RV2_MakeTypeEnabler_Navel.label>
+  <RV2_MakeTypeEnabler_Tailmaw.label>制造尾部口腔觉醒器</RV2_MakeTypeEnabler_Tailmaw.label>
+  <RV2_MakeTypeEnabler_Udder.label>制造乳房软化器</RV2_MakeTypeEnabler_Udder.label>
+
+</LanguageData>

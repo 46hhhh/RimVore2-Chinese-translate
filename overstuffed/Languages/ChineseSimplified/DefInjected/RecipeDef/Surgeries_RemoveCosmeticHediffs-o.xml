@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 唇部整形 -->
+  <RV2_RemoveCosmeticHediff_Lips.label>移除唇部吸收性增生组织</RV2_RemoveCosmeticHediff_Lips.label>
+  <RV2_RemoveCosmeticHediff_Lips.description>手术移除因吸收导致的唇部组织增生</RV2_RemoveCosmeticHediff_Lips.description>
+  <RV2_RemoveCosmeticHediff_Lips.jobString>正在进行唇部组织移除</RV2_RemoveCosmeticHediff_Lips.jobString>
+
+  <RV2_RemoveCosmeticHediff_Lips_Beautiful.label>移除唇部吸收性增生组织</RV2_RemoveCosmeticHediff_Lips_Beautiful.label>
+  <RV2_RemoveCosmeticHediff_Lips_Beautiful.description>手术移除因吸收导致的唇部组织增生</RV2_RemoveCosmeticHediff_Lips_Beautiful.description>
+  <RV2_RemoveCosmeticHediff_Lips_Beautiful.jobString>正在进行唇部组织移除</RV2_RemoveCosmeticHediff_Lips_Beautiful.jobString>
+
+  <RV2_RemoveCosmeticHediff_Lips_Scarred.label>移除唇部吸收性增生组织</RV2_RemoveCosmeticHediff_Lips_Scarred.label>
+  <RV2_RemoveCosmeticHediff_Lips_Scarred.description>手术移除因吸收导致的唇部组织增生</RV2_RemoveCosmeticHediff_Lips_Scarred.description>
+  <RV2_RemoveCosmeticHediff_Lips_Scarred.jobString>正在进行唇部组织移除</RV2_RemoveCosmeticHediff_Lips_Scarred.jobString>
+
+  <!-- 臀部整形 -->
+  <RV2_RemoveCosmeticHediff_Ass.label>移除臀部吸收性增生组织</RV2_RemoveCosmeticHediff_Ass.label>
+  <RV2_RemoveCosmeticHediff_Ass.description>手术移除因吸收导致的臀部组织增生</RV2_RemoveCosmeticHediff_Ass.description>
+  <RV2_RemoveCosmeticHediff_Ass.jobString>正在进行臀部组织移除</RV2_RemoveCosmeticHediff_Ass.jobString>
+
+  <RV2_RemoveCosmeticHediff_Ass_Beautiful.label>移除臀部吸收性增生组织</RV2_RemoveCosmeticHediff_Ass_Beautiful.label>
+  <RV2_RemoveCosmeticHediff_Ass_Beautiful.description>手术移除因吸收导致的臀部组织增生</RV2_RemoveCosmeticHediff_Ass_Beautiful.description>
+  <RV2_RemoveCosmeticHediff_Ass_Beautiful.jobString>正在进行臀部组织移除</RV2_RemoveCosmeticHediff_Ass_Beautiful.jobString>
+
+  <RV2_RemoveCosmeticHediff_Ass_Scarred.label>移除臀部吸收性增生组织</RV2_RemoveCosmeticHediff_Ass_Scarred.label>
+  <RV2_RemoveCosmeticHediff_Ass_Scarred.description>手术移除因吸收导致的臀部组织增生</RV2_RemoveCosmeticHediff_Ass_Scarred.description>
+  <RV2_RemoveCosmeticHediff_Ass_Scarred.jobString>正在进行臀部组织移除</RV2_RemoveCosmeticHediff_Ass_Scarred.jobString>
+
+  <!-- 阴部整形 -->
+  <RV2_RemoveCosmeticHediff_Labia.label>移除阴唇吸收性增生组织</RV2_RemoveCosmeticHediff_Labia.label>
+  <RV2_RemoveCosmeticHediff_Labia.description>手术移除因吸收导致的阴唇组织增生</RV2_RemoveCosmeticHediff_Labia.description>
+  <RV2_RemoveCosmeticHediff_Labia.jobString>正在进行阴唇组织移除</RV2_RemoveCosmeticHediff_Labia.jobString>
+
+  <RV2_RemoveCosmeticHediff_Labia_Beautiful.label>移除阴唇吸收性增生组织</RV2_RemoveCosmeticHediff_Labia_Beautiful.label>
+  <RV2_RemoveCosmeticHediff_Labia_Beautiful.description>手术移除因吸收导致的阴唇组织增生</RV2_RemoveCosmeticHediff_Labia_Beautiful.description>
+  <RV2_RemoveCosmeticHediff_Labia_Beautiful.jobString>正在进行阴唇组织移除</RV2_RemoveCosmeticHediff_Labia_Beautiful.jobString>
+
+  <RV2_RemoveCosmeticHediff_Labia_Scarred.label>移除阴唇吸收性增生组织</RV2_RemoveCosmeticHediff_Labia_Scarred.label>
+  <RV2_RemoveCosmeticHediff_Labia_Scarred.description>手术移除因吸收导致的阴唇组织增生</RV2_RemoveCosmeticHediff_Labia_Scarred.description>
+  <RV2_RemoveCosmeticHediff_Labia_Scarred.jobString>正在进行阴唇组织移除</RV2_RemoveCosmeticHediff_Labia_Scarred.jobString>
+
+
+  <!-- 腹部整形 -->
+  <RV2_RemoveCosmeticHediff_Belly.label>移除腹部吸收性增生组织</RV2_RemoveCosmeticHediff_Belly.label>
+  <RV2_RemoveCosmeticHediff_Belly.description>手术移除因吸收导致的腹部组织增生</RV2_RemoveCosmeticHediff_Belly.description>
+  <RV2_RemoveCosmeticHediff_Belly.jobString>正在进行腹部组织移除</RV2_RemoveCosmeticHediff_Belly.jobString>
+
+  <RV2_RemoveCosmeticHediff_Belly_Beautiful.label>移除腹部吸收性增生组织</RV2_RemoveCosmeticHediff_Belly_Beautiful.label>
+  <RV2_RemoveCosmeticHediff_Belly_Beautiful.description>手术移除因吸收导致的腹部组织增生</RV2_RemoveCosmeticHediff_Belly_Beautiful.description>
+  <RV2_RemoveCosmeticHediff_Belly_Beautiful.jobString>正在进行腹部组织移除</RV2_RemoveCosmeticHediff_Belly_Beautiful.jobString>
+
+  <RV2_RemoveCosmeticHediff_Belly_Scarred.label>移除腹部吸收性增生组织</RV2_RemoveCosmeticHediff_Belly_Scarred.label>
+  <RV2_RemoveCosmeticHediff_Belly_Scarred.description>手术移除因吸收导致的腹部组织增生</RV2_RemoveCosmeticHediff_Belly_Scarred.description>
+  <RV2_RemoveCosmeticHediff_Belly_Scarred.jobString>正在进行腹部组织移除</RV2_RemoveCosmeticHediff_Belly_Scarred.jobString>
+
+</LanguageData>
