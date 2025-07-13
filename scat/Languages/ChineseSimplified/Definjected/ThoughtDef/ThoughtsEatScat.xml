@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  
+  <RV2_ConsumedDigestedPrey_Scat_VeryGood.stages.0.label>享用最爱的排遗物</RV2_ConsumedDigestedPrey_Scat_VeryGood.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Scat_VeryGood.stages.0.description>这简直是堪比高级巧克力蛋糕的美味珍馐！</RV2_ConsumedDigestedPrey_Scat_VeryGood.stages.0.description>
+  
+  <RV2_ConsumedDigestedPrey_Scat_Good.stages.0.label>品尝喜欢的排遗物</RV2_ConsumedDigestedPrey_Scat_Good.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Scat_Good.stages.0.description>如同巧克力般在口中缓缓融化。</RV2_ConsumedDigestedPrey_Scat_Good.stages.0.description>
+  
+  <RV2_ConsumedDigestedPrey_Scat.stages.0.label>吞食消化后的猎物</RV2_ConsumedDigestedPrey_Scat.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Scat.stages.0.description>倒没有字面意思那么恶心。</RV2_ConsumedDigestedPrey_Scat.stages.0.description>
+  
+  <RV2_ConsumedDigestedPrey_Scat_Bad.stages.0.label>勉强吞下厌恶的排遗物</RV2_ConsumedDigestedPrey_Scat_Bad.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Scat_Bad.stages.0.description>真难想象它原本会是多么美味的食物...</RV2_ConsumedDigestedPrey_Scat_Bad.stages.0.description>
+  
+  <RV2_ConsumedDigestedPrey_Scat_VeryBad.stages.0.label>被迫吞下最厌恶的排遗物</RV2_ConsumedDigestedPrey_Scat_VeryBad.stages.0.label>
+  <RV2_ConsumedDigestedPrey_Scat_VeryBad.stages.0.description>这就是在吃屎！</RV2_ConsumedDigestedPrey_Scat_VeryBad.stages.0.description>
+</LanguageData>

@@ -7,7 +7,7 @@
   <!-- 规则目标角色 -->
   <RV2_RuleTargetRole_All>全部</RV2_RuleTargetRole_All>
   <RV2_RuleTargetRole_Predator>捕食者</RV2_RuleTargetRole_Predator>
-  <RV2_RuleTargetRole_Prey>被食者</RV2_RuleTargetRole_Prey>
+  <RV2_RuleTargetRole_Prey>猎物</RV2_RuleTargetRole_Prey>
   <RV2_RuleTargetRole_Feeder>喂食者</RV2_RuleTargetRole_Feeder>
 
   <!-- 尸体处理类型 -->

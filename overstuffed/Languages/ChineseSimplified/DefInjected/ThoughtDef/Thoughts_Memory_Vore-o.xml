@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 口腔融合 -->
+
+  <RV2_PredatorOralAmalgamateEnd.stages.0.label>从唇部组织重塑了{0}</RV2_PredatorOralAmalgamateEnd.stages.0.label>
+  <RV2_PredatorOralAmalgamateEnd.stages.0.description>嘴唇变轻了些，不过说话更利索了</RV2_PredatorOralAmalgamateEnd.stages.0.description>
+
+  <RV2_PreyOralAmalgamateEnd.stages.0.label>从{0}的唇部组织中被重塑</RV2_PreyOralAmalgamateEnd.stages.0.label>
+  <RV2_PreyOralAmalgamateEnd.stages.0.description>没想到嘴唇还有这种用途...</RV2_PreyOralAmalgamateEnd.stages.0.description>
+
+
+  <!-- 口腔同化 -->
+
+  <RV2_PredatorOralAssimilateSuccess.stages.0.label>将{0}吸收为唇部组织</RV2_PredatorOralAssimilateSuccess.stages.0.label>
+  <RV2_PredatorOralAssimilateSuccess.stages.0.description>把{1}同化成了我的唇部组织。多汁！</RV2_PredatorOralAssimilateSuccess.stages.0.description>
+
+  <RV2_PredatorOralAssimilateInterrupted.stages.0.label>{0}的唇部同化被打断</RV2_PredatorOralAssimilateInterrupted.stages.0.label>
+  <RV2_PredatorOralAssimilateInterrupted.stages.0.description>本想将{1}同化成唇部组织，{1}却逃走了。真不够意思</RV2_PredatorOralAssimilateInterrupted.stages.0.description>
+
+  <RV2_PreyOralAssimilateInterrupted.stages.0.label>从{0}的唇部同化中逃脱</RV2_PreyOralAssimilateInterrupted.stages.0.label>
+  <RV2_PreyOralAssimilateInterrupted.stages.0.description>{1}居然想把我变成成他的嘴唇！才不要！</RV2_PreyOralAssimilateInterrupted.stages.0.description>
+
+
+  <!-- 肛门融合 -->
+
+  <RV2_PredatorAnalAmalgamateEnd.stages.0.label>从臀部组织重塑了{0}</RV2_PredatorAnalAmalgamateEnd.stages.0.label>
+  <RV2_PredatorAnalAmalgamateEnd.stages.0.description>臀部没那么丰满了，但走路反而更轻松</RV2_PredatorAnalAmalgamateEnd.stages.0.description>
+
+  <RV2_PreyAnalAmalgamateEnd.stages.0.label>从{0}的臀部组织中被重塑</RV2_PreyAnalAmalgamateEnd.stages.0.label>
+  <RV2_PreyAnalAmalgamateEnd.stages.0.description>这些"坐垫材料"够我用好一阵子了！</RV2_PreyAnalAmalgamateEnd.stages.0.description>
+
+
+  <!-- 肛门同化 -->
+
+  <RV2_PredatorAnalAssimilateSuccess.stages.0.label>将{0}吸收为臀部组织</RV2_PredatorAnalAssimilateSuccess.stages.0.label>
+  <RV2_PredatorAnalAssimilateSuccess.stages.0.description>把{1}填充成了我的臀部。多么柔软！</RV2_PredatorAnalAssimilateSuccess.stages.0.description>
+
+  <RV2_PredatorAnalAssimilateInterrupted.stages.0.label>{0}的臀部同化被打断</RV2_PredatorAnalAssimilateInterrupted.stages.0.label>
+  <RV2_PredatorAnalAssimilateInterrupted.stages.0.description>本想用{1}来填充臀部，{1}却逃走了。我的座椅本该更舒适的</RV2_PredatorAnalAssimilateInterrupted.stages.0.description>
+
+  <RV2_PreyAnalAssimilateInterrupted.stages.0.label>从{0}的臀部同化中逃脱</RV2_PreyAnalAssimilateInterrupted.stages.0.label>
+  <RV2_PreyAnalAssimilateInterrupted.stages.0.description>{1}居然想把我变成臀垫！才不要被坐着！</RV2_PreyAnalAssimilateInterrupted.stages.0.description>
+
+  <!-- 阴道融合 -->
+
+  <RV2_PredatorVaginalAmalgamateEnd.stages.0.label>从阴部组织重塑了{0}</RV2_PredatorVaginalAmalgamateEnd.stages.0.label>
+  <RV2_PredatorVaginalAmalgamateEnd.stages.0.description>私处不再那么饱满，但走路反而更轻松了</RV2_PredatorVaginalAmalgamateEnd.stages.0.description>
+
+  <RV2_PreyVaginalAmalgamateEnd.stages.0.label>从{0}的阴部组织中被重塑</RV2_PreyVaginalAmalgamateEnd.stages.0.label>
+  <RV2_PreyVaginalAmalgamateEnd.stages.0.description>刚刚被"加工"得够呛...</RV2_PreyVaginalAmalgamateEnd.stages.0.description>
+
+
+  <!-- 阴道同化 -->
+
+  <RV2_PredatorVaginalAssimilateSuccess.stages.0.label>将{0}吸收为阴部组织</RV2_PredatorVaginalAssimilateSuccess.stages.0.label>
+  <RV2_PredatorVaginalAssimilateSuccess.stages.0.description>用{1}填充了我的私处。变得好紧致...</RV2_PredatorVaginalAssimilateSuccess.stages.0.description>
+
+  <RV2_PredatorVaginalAssimilateInterrupted.stages.0.label>{0}的阴部同化被打断</RV2_PredatorVaginalAssimilateInterrupted.stages.0.label>
+  <RV2_PredatorVaginalAssimilateInterrupted.stages.0.description>本想用{1}来填充私处，{1}却逃走了。本来可以更性奋的</RV2_PredatorVaginalAssimilateInterrupted.stages.0.description>
+
+  <RV2_PreyVaginalAssimilateInterrupted.stages.0.label>从{0}的阴部同化中逃脱</RV2_PreyVaginalAssimilateInterrupted.stages.0.label>
+  <RV2_PreyVaginalAssimilateInterrupted.stages.0.description>{1}居然想用我来填充他们的私处！我才不要被那样使用！</RV2_PreyVaginalAssimilateInterrupted.stages.0.description>
+
+
+  <!-- 阴道转化 -->
+
+  <RV2_PredatorVaginalConvertChemfuelSuccess.stages.0.label>通过阴道将{0}转化为燃油</RV2_PredatorVaginalConvertChemfuelSuccess.stages.0.label>
+  <RV2_PredatorVaginalConvertChemfuelSuccess.stages.0.description>将{1}阴吞并融化成燃油。易燃材料才是最刺激的润滑剂！</RV2_PredatorVaginalConvertChemfuelSuccess.stages.0.description>
+
+  <RV2_PredatorVaginalConvertChemfuelInterrupted.stages.0.label>子宫内{0}的燃油转化被打断</RV2_PredatorVaginalConvertChemfuelInterrupted.stages.0.label>
+  <RV2_PredatorVaginalConvertChemfuelInterrupted.stages.0.description>本想将{1}融化成燃油，{1}却逃走了。现在憋得难受...</RV2_PredatorVaginalConvertChemfuelInterrupted.stages.0.description>
+
+  <RV2_PreyVaginalConvertChemfuelInterrupted.stages.0.label>从{0}子宫内的燃油转化中逃脱</RV2_PreyVaginalConvertChemfuelInterrupted.stages.0.label>
+  <RV2_PreyVaginalConvertChemfuelInterrupted.stages.0.description>{1}居然想在子宫里把我融化成燃油！我可不想被烧掉！</RV2_PreyVaginalConvertChemfuelInterrupted.stages.0.description>
+
+  <RV2_PredatorVaginalConvertEggsSuccess.stages.0.label>通过阴道将{0}转化为卵</RV2_PredatorVaginalConvertEggsSuccess.stages.0.label>
+  <RV2_PredatorVaginalConvertEggsSuccess.stages.0.description>将{1}阴吞并融化成卵。留着当点心！</RV2_PredatorVaginalConvertEggsSuccess.stages.0.description>
+
+  <RV2_PredatorVaginalConvertEggsInterrupted.stages.0.label>子宫内{0}的卵转化被打断</RV2_PredatorVaginalConvertEggsInterrupted.stages.0.label>
+  <RV2_PredatorVaginalConvertEggsInterrupted.stages.0.description>本想将{1}融化成卵，{1}却逃走了。现在憋得难受...</RV2_PredatorVaginalConvertEggsInterrupted.stages.0.description>
+
+  <RV2_PreyVaginalConvertEggsInterrupted.stages.0.label>从{0}子宫内的卵转化中逃脱</RV2_PreyVaginalConvertEggsInterrupted.stages.0.label>
+  <RV2_PreyVaginalConvertEggsInterrupted.stages.0.description>{1}居然想在子宫里把我融化成卵！我才不是卵！</RV2_PreyVaginalConvertEggsInterrupted.stages.0.description>
+
+  <!-- 阴茎融合 -->
+
+  <RV2_PredatorCockAmalgamateEnd.stages.0.label>从阴茎组织重塑了{0}</RV2_PredatorCockAmalgamateEnd.stages.0.label>
+  <RV2_PredatorCockAmalgamateEnd.stages.0.description>阴茎没那么饱满了，不过走路反而更方便</RV2_PredatorCockAmalgamateEnd.stages.0.description>
+
+  <RV2_PreyCockAmalgamateEnd.stages.0.label>从{0}的阴茎组织中被重塑</RV2_PreyCockAmalgamateEnd.stages.0.label>
+  <RV2_PreyCockAmalgamateEnd.stages.0.description>没想到会被困在这种地方...</RV2_PreyCockAmalgamateEnd.stages.0.description>
+
+
+  <!-- 阴茎同化 -->
+
+  <RV2_PredatorCockAssimilateSuccess.stages.0.label>将{0}吸收为阴茎组织</RV2_PredatorCockAssimilateSuccess.stages.0.label>
+  <RV2_PredatorCockAssimilateSuccess.stages.0.description>用{1}充实了我的阴茎。这狂野之旅永不停歇！</RV2_PredatorCockAssimilateSuccess.stages.0.description>
+
+  <RV2_PredatorCockAssimilateInterrupted.stages.0.label>{0}的阴茎同化被打断</RV2_PredatorCockAssimilateInterrupted.stages.0.label>
+  <RV2_PredatorCockAssimilateInterrupted.stages.0.description>本想用{1}来充实阴茎，{1}却逃走了。趁你还有腿赶紧跑吧</RV2_PredatorCockAssimilateInterrupted.stages.0.description>
+
+  <RV2_PreyCockAssimilateInterrupted.stages.0.label>从{0}的阴茎同化中逃脱</RV2_PreyCockAssimilateInterrupted.stages.0.label>
+  <RV2_PreyCockAssimilateInterrupted.stages.0.description>{1}居然想让我成为他性器的永久部件！我才不要这种用途！</RV2_PreyCockAssimilateInterrupted.stages.0.description>
+
+
+  <!-- 阴茎转化 -->
+
+  <RV2_PredatorCockConvertChemfuelSuccess.stages.0.label>用阴囊将{0}转化为燃油</RV2_PredatorCockConvertChemfuelSuccess.stages.0.label>
+  <RV2_PredatorCockConvertChemfuelSuccess.stages.0.description>将{1}分解熔炼成了燃油。下次自慰时该带个打火机</RV2_PredatorCockConvertChemfuelSuccess.stages.0.description>
+
+  <RV2_PredatorCockConvertChemfuelInterrupted.stages.0.label>阴囊对{0}的燃油转化被打断</RV2_PredatorCockConvertChemfuelInterrupted.stages.0.label>
+  <RV2_PredatorCockConvertChemfuelInterrupted.stages.0.description>本想将{1}提炼成燃油，{1}却逃走了。现在憋得难受...</RV2_PredatorCockConvertChemfuelInterrupted.stages.0.description>
+
+  <RV2_PreyCockConvertChemfuelInterrupted.stages.0.label>从{0}阴囊的燃油转化中逃脱</RV2_PreyCockConvertChemfuelInterrupted.stages.0.label>
+  <RV2_PreyCockConvertChemfuelInterrupted.stages.0.description>{1}居然想把我熔化成燃油！我才不要被烧掉！</RV2_PreyCockConvertChemfuelInterrupted.stages.0.description>
+
+  <!-- 乳首融合 -->
+
+  <RV2_PredatorNippleAmalgamateEnd.stages.0.label>从乳头组织重塑了{0}</RV2_PredatorNippleAmalgamateEnd.stages.0.label>
+  <RV2_PredatorNippleAmalgamateEnd.stages.0.description>乳头没那么凸起了，不过穿衣服倒是更方便了</RV2_PredatorNippleAmalgamateEnd.stages.0.description>
+
+  <RV2_PreyNippleAmalgamateEnd.stages.0.label>从{0}的乳头组织中被重塑</RV2_PreyNippleAmalgamateEnd.stages.0.label>
+  <RV2_PreyNippleAmalgamateEnd.stages.0.description>那些拉扯和摩擦的感觉...</RV2_PreyNippleAmalgamateEnd.stages.0.description>
+
+
+  <!-- 乳首同化 -->
+
+  <RV2_PredatorNippleAssimilateSuccess.stages.0.label>将{0}吸收为乳头组织</RV2_PredatorNippleAssimilateSuccess.stages.0.label>
+  <RV2_PredatorNippleAssimilateSuccess.stages.0.description>用{1}填充了我的乳头。太敏感了...！~</RV2_PredatorNippleAssimilateSuccess.stages.0.description>
+
+  <RV2_PredatorNippleAssimilateInterrupted.stages.0.label>{0}的乳头同化被打断</RV2_PredatorNippleAssimilateInterrupted.stages.0.label>
+  <RV2_PredatorNippleAssimilateInterrupted.stages.0.description>本想用{1}来丰满乳头，{1}却逃走了。你是讨厌乳汁吗？</RV2_PredatorNippleAssimilateInterrupted.stages.0.description>
+
+  <RV2_PreyNippleAssimilateInterrupted.stages.0.label>从{0}的乳头同化中逃脱</RV2_PreyNippleAssimilateInterrupted.stages.0.label>
+  <RV2_PreyNippleAssimilateInterrupted.stages.0.description>{1}居然想把我变成乳头！我才不要被那样吸吮！</RV2_PreyNippleAssimilateInterrupted.stages.0.description>
+
+
+  <!-- 乳首转化 -->
+
+  <RV2_PredatorNippleConvertChemfuelSuccess.stages.0.label>在胸部将{0}转化为燃油</RV2_PredatorNippleConvertChemfuelSuccess.stages.0.label>
+  <RV2_PredatorNippleConvertChemfuelSuccess.stages.0.description>我将{1}从乳头吸出并融化成燃油。要是有专门收集的漏斗就好了...</RV2_PredatorNippleConvertChemfuelSuccess.stages.0.description>
+
+  <RV2_PredatorNippleConvertChemfuelInterrupted.stages.0.label>胸部内{0}的燃油转化被打断</RV2_PredatorNippleConvertChemfuelInterrupted.stages.0.label>
+  <RV2_PredatorNippleConvertChemfuelInterrupted.stages.0.description>本想将{1}榨取成燃油，{1}却逃走了。我的出油口都干涸了...</RV2_PredatorNippleConvertChemfuelInterrupted.stages.0.description>
+
+  <RV2_PreyNippleConvertChemfuelInterrupted.stages.0.label>从{0}胸部的燃油转化中逃脱</RV2_PreyNippleConvertChemfuelInterrupted.stages.0.label>
+  <RV2_PreyNippleConvertChemfuelInterrupted.stages.0.description>{1}居然想把我榨成燃油！我才不要被烧掉！</RV2_PreyNippleConvertChemfuelInterrupted.stages.0.description>
+
+  <!-- 阴茎膀胱转化 -->
+
+  <RV2_PredatorCockBladderConvertUrineSuccess.stages.0.label>在肾脏将{0}转化为尿液</RV2_PredatorCockBladderConvertUrineSuccess.stages.0.label>
+  <RV2_PredatorCockBladderConvertUrineSuccess.stages.0.description>我将{1}分解并融化成尿液。真是场豪雨！</RV2_PredatorCockBladderConvertUrineSuccess.stages.0.description>
+
+  <RV2_PredatorCockBladderConvertUrineInterrupted.stages.0.label>肾脏内{0}的尿液转化被打断</RV2_PredatorCockBladderConvertUrineInterrupted.stages.0.label>
+  <RV2_PredatorCockBladderConvertUrineInterrupted.stages.0.description>本想将{1}转化成尿液，{1}却逃走了。看来只能多喝点水了</RV2_PredatorCockBladderConvertUrineInterrupted.stages.0.description>
+
+  <RV2_PreyCockBladderConvertUrineInterrupted.stages.0.label>从{0}肾脏的尿液转化中逃脱</RV2_PreyCockBladderConvertUrineInterrupted.stages.0.label>
+  <RV2_PreyCockBladderConvertUrineInterrupted.stages.0.description>{1}居然想把我变成尿液！太恶心了！</RV2_PreyCockBladderConvertUrineInterrupted.stages.0.description>
+
+
+  <!-- 阴道膀胱转化 -->
+
+  <RV2_PredatorVaginalBladderConvertUrineSuccess.stages.0.label>在肾脏将{0}转化为尿液</RV2_PredatorVaginalBladderConvertUrineSuccess.stages.0.label>
+  <RV2_PredatorVaginalBladderConvertUrineSuccess.stages.0.description>我将{1}分解并融化成尿液。真是场细雨！</RV2_PredatorVaginalBladderConvertUrineSuccess.stages.0.description>
+
+  <RV2_PredatorVaginalBladderConvertUrineInterrupted.stages.0.label>肾脏内{0}的尿液转化被打断</RV2_PredatorVaginalBladderConvertUrineInterrupted.stages.0.label>
+  <RV2_PredatorVaginalBladderConvertUrineInterrupted.stages.0.description>本想将{1}转化成尿液，{1}却逃走了。看来只能多喝点水了</RV2_PredatorVaginalBladderConvertUrineInterrupted.stages.0.description>
+
+  <RV2_PreyVaginalBladderConvertUrineInterrupted.stages.0.label>从{0}肾脏的尿液转化中逃脱</RV2_PreyVaginalBladderConvertUrineInterrupted.stages.0.label>
+  <RV2_PreyVaginalBladderConvertUrineInterrupted.stages.0.description>{1}居然想把我变成尿液！太恶心了！</RV2_PreyVaginalBladderConvertUrineInterrupted.stages.0.description>
+
+
+  <!-- 阴茎膀胱快感 -->
+
+  <RV2_PredatorCockBladderPleasureSuccess.stages.0.label>将{0}吞入膀胱以获得快感</RV2_PredatorCockBladderPleasureSuccess.stages.0.label>
+  <RV2_PredatorCockBladderPleasureSuccess.stages.0.description>{1}从内部刺激我的膀胱！我还在颤抖...~</RV2_PredatorCockBladderPleasureSuccess.stages.0.description>
+
+  <RV2_PredatorCockBladderPleasureInterrupted.stages.0.label>将{0}吞入膀胱的过程被打断</RV2_PredatorCockBladderPleasureInterrupted.stages.0.label>
+  <RV2_PredatorCockBladderPleasureInterrupted.stages.0.description>本想给{1}来个黄金浴，{1}却干扰了。就不能让我放松一会吗？</RV2_PredatorCockBladderPleasureInterrupted.stages.0.description>
+
+  <RV2_PreyCockBladderPleasureSuccess.stages.0.label>被{0}吞入膀胱以获得快感</RV2_PreyCockBladderPleasureSuccess.stages.0.label>
+  <RV2_PreyCockBladderPleasureSuccess.stages.0.description>{1}给了我一个温暖持久的黄金浴！虽然需要好好冲洗，但还是很放松！</RV2_PreyCockBladderPleasureSuccess.stages.0.description>
+
+  <RV2_PreyCockBladderPleasureInterrupted.stages.0.label>被{0}吞入膀胱的过程被打断</RV2_PreyCockBladderPleasureInterrupted.stages.0.label>
+  <RV2_PreyCockBladderPleasureInterrupted.stages.0.description>{1}本想给我黄金浴，{1}却干扰了。我本想在温泉里放松一下的...</RV2_PreyCockBladderPleasureInterrupted.stages.0.description>
+
+
+  <!-- 阴道膀胱快感 -->
+
+  <RV2_PredatorVaginalBladderPleasureSuccess.stages.0.label>将{0}吞入膀胱以获得快感</RV2_PredatorVaginalBladderPleasureSuccess.stages.0.label>
+  <RV2_PredatorVaginalBladderPleasureSuccess.stages.0.description>{1}从内部刺激我的膀胱！我还在颤抖...~</RV2_PredatorVaginalBladderPleasureSuccess.stages.0.description>
+
+  <RV2_PredatorVaginalBladderPleasureInterrupted.stages.0.label>将{0}吞入膀胱的过程被打断</RV2_PredatorVaginalBladderPleasureInterrupted.stages.0.label>
+  <RV2_PredatorVaginalBladderPleasureInterrupted.stages.0.description>本想给{1}来个黄金浴，{1}却干扰了。就不能让我放松一会吗？</RV2_PredatorVaginalBladderPleasureInterrupted.stages.0.description>
+
+  <RV2_PreyVaginalBladderPleasureSuccess.stages.0.label>被{0}吞入膀胱以获得快感</RV2_PreyVaginalBladderPleasureSuccess.stages.0.label>
+  <RV2_PreyVaginalBladderPleasureSuccess.stages.0.description>{1}给了我一个温暖持久的黄金浴！虽然需要好好冲洗，但还是很放松！</RV2_PreyVaginalBladderPleasureSuccess.stages.0.description>
+
+  <RV2_PreyVaginalBladderPleasureInterrupted.stages.0.label>被{0}吞入膀胱的过程被打断</RV2_PreyVaginalBladderPleasureInterrupted.stages.0.label>
+  <RV2_PreyVaginalBladderPleasureInterrupted.stages.0.description>{1}本想给我黄金浴，{1}却干扰了。我本想在温泉里放松一下的...</RV2_PreyVaginalBladderPleasureInterrupted.stages.0.description>
+
+  <!-- 阴茎膀胱储存 -->
+
+  <RV2_PredatorCockBladderStoreEnd.stages.0.label>将{0}从膀胱储存中释放</RV2_PredatorCockBladderStoreEnd.stages.0.label>
+  <RV2_PredatorCockBladderStoreEnd.stages.0.description>这下胯部轻松多了！</RV2_PredatorCockBladderStoreEnd.stages.0.description>
+
+  <RV2_PreyCockBladderStoreEnd.stages.0.label>从{0}的膀胱储存中被释放</RV2_PreyCockBladderStoreEnd.stages.0.label>
+  <RV2_PreyCockBladderStoreEnd.stages.0.description>终于又能自由活动了。</RV2_PreyCockBladderStoreEnd.stages.0.description>
+
+
+  <!-- 阴道膀胱储存 -->
+
+  <RV2_PredatorVaginalBladderStoreEnd.stages.0.label>将{0}从膀胱储存中释放</RV2_PredatorVaginalBladderStoreEnd.stages.0.label>
+  <RV2_PredatorVaginalBladderStoreEnd.stages.0.description>这下胯部轻松多了！</RV2_PredatorVaginalBladderStoreEnd.stages.0.description>
+
+  <RV2_PreyVaginalBladderStoreEnd.stages.0.label>从{0}的膀胱储存中被释放</RV2_PreyVaginalBladderStoreEnd.stages.0.label>
+  <RV2_PreyVaginalBladderStoreEnd.stages.0.description>终于又能自由活动了。</RV2_PreyVaginalBladderStoreEnd.stages.0.description>
+
+  <!-- 乳沟融合 -->
+
+  <RV2_PredatorCleavageAmalgamateEnd.stages.0.label>从胸部组织重塑了{0}</RV2_PredatorCleavageAmalgamateEnd.stages.0.label>
+  <RV2_PredatorCleavageAmalgamateEnd.stages.0.description>胸部变小了些，不过穿衣服更方便了</RV2_PredatorCleavageAmalgamateEnd.stages.0.description>
+
+  <RV2_PreyCleavageAmalgamateEnd.stages.0.label>从{0}的胸部组织中被重塑</RV2_PreyCleavageAmalgamateEnd.stages.0.label>
+  <RV2_PreyCleavageAmalgamateEnd.stages.0.description>那些摇晃和翻滚的感觉...</RV2_PreyCleavageAmalgamateEnd.stages.0.description>
+
+
+  <!-- 乳沟同化 -->
+
+  <RV2_PredatorCleavageAssimilateSuccess.stages.0.label>将{0}吸收为胸部组织</RV2_PredatorCleavageAssimilateSuccess.stages.0.label>
+  <RV2_PredatorCleavageAssimilateSuccess.stages.0.description>我把{1}塞进双峰间吸收了。反正你的胸部在我身上看起来更合适</RV2_PredatorCleavageAssimilateSuccess.stages.0.description>
+
+  <RV2_PredatorCleavageAssimilateInterrupted.stages.0.label>{0}的胸部同化被打断</RV2_PredatorCleavageAssimilateInterrupted.stages.0.label>
+  <RV2_PredatorCleavageAssimilateInterrupted.stages.0.description>本想用{1}来丰满胸部，{1}却逃走了。现在谁来填充我的胸罩呢？</RV2_PredatorCleavageAssimilateInterrupted.stages.0.description>
+
+  <RV2_PreyCleavageAssimilateInterrupted.stages.0.label>从{0}的胸部同化中逃脱</RV2_PreyCleavageAssimilateInterrupted.stages.0.label>
+  <RV2_PreyCleavageAssimilateInterrupted.stages.0.description>{1}居然想把我永远夹在他们的双峰之间！</RV2_PreyCleavageAssimilateInterrupted.stages.0.description>
+
+
+  <!-- 乳沟消化 -->
+
+  <RV2_PredatorCleavageDigestSuccess.stages.0.label>通过乳沟消化了{0}</RV2_PredatorCleavageDigestSuccess.stages.0.label>
+  <RV2_PredatorCleavageDigestSuccess.stages.0.description>我把{1}塞进乳沟后咕噜咕噜消化了。没想到我的乳沟也能消化东西吧？</RV2_PredatorCleavageDigestSuccess.stages.0.description>
+
+  <RV2_PredatorCleavageDigestInterrupted.stages.0.label>{0}的乳沟消化被打断</RV2_PredatorCleavageDigestInterrupted.stages.0.label>
+  <RV2_PredatorCleavageDigestInterrupted.stages.0.description>本想消化{1}，{1}却逃走了。现在该吃什么好呢？</RV2_PredatorCleavageDigestInterrupted.stages.0.description>
+
+  <RV2_PreyCleavageDigestInterrupted.stages.0.label>逃脱乳沟消化</RV2_PreyCleavageDigestInterrupted.stages.0.label>
+  <RV2_PreyCleavageDigestInterrupted.stages.0.description>{1}居然想用乳沟消化我！这太奇怪了...</RV2_PreyCleavageDigestInterrupted.stages.0.description>
+
+
+  <!-- 乳沟娱乐 -->
+
+  <RV2_PredatorCleavagePleasureSuccess.stages.0.label>将{0}夹在乳沟中嬉戏</RV2_PredatorCleavagePleasureSuccess.stages.0.label>
+  <RV2_PredatorCleavagePleasureSuccess.stages.0.description>我把{1}夹在双峰间弹来弹去玩耍</RV2_PredatorCleavagePleasureSuccess.stages.0.description>
+
+  <RV2_PredatorCleavagePleasureInterrupted.stages.0.label>{0}的乳沟嬉戏被打断</RV2_PredatorCleavagePleasureInterrupted.stages.0.label>
+  <RV2_PredatorCleavagePleasureInterrupted.stages.0.description>本想将{1}塞进乳沟，{1}却逃走了。就不能让我放松一会儿吗？</RV2_PredatorCleavagePleasureInterrupted.stages.0.description>
+
+  <RV2_PreyCleavagePleasureSuccess.stages.0.label>被{0}夹在乳沟中嬉戏</RV2_PreyCleavagePleasureSuccess.stages.0.label>
+  <RV2_PreyCleavagePleasureSuccess.stages.0.description>{1}把我塞进了他们的乳沟！又温暖又柔软...~</RV2_PreyCleavagePleasureSuccess.stages.0.description>
+
+  <RV2_PreyCleavagePleasureInterrupted.stages.0.label>{0}的乳沟嬉戏被打断</RV2_PreyCleavagePleasureInterrupted.stages.0.label>
+  <RV2_PreyCleavagePleasureInterrupted.stages.0.description>{1}想把我塞进他们的胸部，但被打断了。真扫兴...</RV2_PreyCleavagePleasureInterrupted.stages.0.description>
+
+
+  <!-- 乳沟储存 -->
+
+  <RV2_PredatorCleavageStoreEnd.stages.0.label>将{0}从胸部储存中释放</RV2_PredatorCleavageStoreEnd.stages.0.label>
+  <RV2_PredatorCleavageStoreEnd.stages.0.description>啊，我的背终于轻松了！</RV2_PredatorCleavageStoreEnd.stages.0.description>
+
+  <RV2_PreyCleavageStoreEnd.stages.0.label>从{0}的胸部储存中被释放</RV2_PreyCleavageStoreEnd.stages.0.label>
+  <RV2_PreyCleavageStoreEnd.stages.0.description>终于又能自由活动了</RV2_PreyCleavageStoreEnd.stages.0.description>
+
+<!-- 膜消化 -->
+
+  <RV2_PredatorMembraneDigestSuccess.stages.0.label>包裹并消化了{0}</RV2_PredatorMembraneDigestSuccess.stages.0.label>
+  <RV2_PredatorMembraneDigestSuccess.stages.0.description>我将{1}包裹在体内慢慢消化。饱腹感十足！</RV2_PredatorMembraneDigestSuccess.stages.0.description>
+
+  <RV2_PredatorMembraneDigestInterrupted.stages.0.label>对{0}的包裹消化被打断</RV2_PredatorMembraneDigestInterrupted.stages.0.label>
+  <RV2_PredatorMembraneDigestInterrupted.stages.0.description>本想消化{1}却被逃走了。空虚感油然而生...</RV2_PredatorMembraneDigestInterrupted.stages.0.description>
+
+  <RV2_PreyMembraneDigestInterrupted.stages.0.label>从{0}的消化中逃脱</RV2_PreyMembraneDigestInterrupted.stages.0.label>
+  <RV2_PreyMembraneDigestInterrupted.stages.0.description>{1}居然想把我整个消化掉！太可怕了！</RV2_PreyMembraneDigestInterrupted.stages.0.description>
+
+
+  <!-- 膜快感 -->
+
+  <RV2_PredatorMembranePleasureSuccess.stages.0.label>包裹按摩了{0}</RV2_PredatorMembranePleasureSuccess.stages.0.label>
+  <RV2_PredatorMembranePleasureSuccess.stages.0.description>我将{1}完全包裹，进行了一场深入的全方位按摩...~</RV2_PredatorMembranePleasureSuccess.stages.0.description>
+
+  <RV2_PredatorMembranePleasureInterrupted.stages.0.label>对{0}的包裹按摩被打断</RV2_PredatorMembranePleasureInterrupted.stages.0.label>
+  <RV2_PredatorMembranePleasureInterrupted.stages.0.description>本想通过包裹{1}来场亲密接触，{1}却逃走了。连片刻放松都不行吗？</RV2_PredatorMembranePleasureInterrupted.stages.0.description>
+
+  <RV2_PreyMembranePleasureSuccess.stages.0.label>被{0}包裹按摩</RV2_PreyMembranePleasureSuccess.stages.0.label>
+  <RV2_PreyMembranePleasureSuccess.stages.0.description>{1}将我完全包裹，享受了一场超乎想象的全身按摩！~</RV2_PreyMembranePleasureSuccess.stages.0.description>
+
+  <RV2_PreyMembranePleasureInterrupted.stages.0.label>被{0}包裹按摩的过程被打断</RV2_PreyMembranePleasureInterrupted.stages.0.label>
+  <RV2_PreyMembranePleasureInterrupted.stages.0.description>{1}本想通过包裹我来场亲密接触，{1}却逃走了。真扫兴...</RV2_PreyMembranePleasureInterrupted.stages.0.description>
+
+
+  <!-- 膜储存 -->
+
+  <RV2_PredatorMembraneStoreEnd.stages.0.label>将{0}从体内储存释放</RV2_PredatorMembraneStoreEnd.stages.0.label>
+  <RV2_PredatorMembraneStoreEnd.stages.0.description>感觉身体轻盈多了！</RV2_PredatorMembraneStoreEnd.stages.0.description>
+
+  <RV2_PreyMembraneStoreEnd.stages.0.label>从{0}的体内储存中被释放</RV2_PreyMembraneStoreEnd.stages.0.label>
+  <RV2_PreyMembraneStoreEnd.stages.0.description>终于又能自由活动了。</RV2_PreyMembraneStoreEnd.stages.0.description>
+
+  <!-- 脐部同化 -->
+
+  <RV2_PredatorNavelAssimilateSuccess.stages.0.label>将{0}同化为腹部组织</RV2_PredatorNavelAssimilateSuccess.stages.0.label>
+  <RV2_PredatorNavelAssimilateSuccess.stages.0.description>已将{1}同化至我的脐部</RV2_PredatorNavelAssimilateSuccess.stages.0.description>
+
+  <RV2_PredatorNavelAssimilateInterrupted.stages.0.label>{0}的脐部同化被打断</RV2_PredatorNavelAssimilateInterrupted.stages.0.label>
+  <RV2_PredatorNavelAssimilateInterrupted.stages.0.description>尝试将{1}同化至脐部未果。也罢</RV2_PredatorNavelAssimilateInterrupted.stages.0.description>
+
+  <RV2_PreyNavelAssimilateInterrupted.stages.0.label>从{0}的脐部同化中逃脱</RV2_PreyNavelAssimilateInterrupted.stages.0.label>
+  <RV2_PreyNavelAssimilateInterrupted.stages.0.description>{1}竟想将我融入其脐部！才不要！</RV2_PreyNavelAssimilateInterrupted.stages.0.description>
+
+
+  <!-- 脐部融合 -->
+
+  <RV2_PredatorNavelAmalgamateEnd.stages.0.label>从脐部组织重塑{0}</RV2_PredatorNavelAmalgamateEnd.stages.0.label>
+  <RV2_PredatorNavelAmalgamateEnd.stages.0.description>腹部不再那么臃肿，穿衣更方便了</RV2_PredatorNavelAmalgamateEnd.stages.0.description>
+
+  <RV2_PreyNavelAmalgamateEnd.stages.0.label>从{0}的脐部组织中被重塑</RV2_PreyNavelAmalgamateEnd.stages.0.label>
+  <RV2_PreyNavelAmalgamateEnd.stages.0.description>终于能舒展身体了</RV2_PreyNavelAmalgamateEnd.stages.0.description>
+
+
+  <!-- 脐部消化 -->
+
+  <RV2_PredatorNavelDigestSuccess.stages.0.label>通过脐部消化了{0}</RV2_PredatorNavelDigestSuccess.stages.0.label>
+  <RV2_PredatorNavelDigestSuccess.stages.0.description>将{1}经由脐部咕噜咕噜地消化了。满足的一餐！</RV2_PredatorNavelDigestSuccess.stages.0.description>
+
+  <RV2_PredatorNavelDigestInterrupted.stages.0.label>对{0}的脐部消化被打断</RV2_PredatorNavelDigestInterrupted.stages.0.label>
+  <RV2_PredatorNavelDigestInterrupted.stages.0.description>试图通过脐部消化{1}未果。这下该吃什么好？</RV2_PredatorNavelDigestInterrupted.stages.0.description>
+
+  <RV2_PreyNavelDigestInterrupted.stages.0.label>逃离脐部消化</RV2_PreyNavelDigestInterrupted.stages.0.label>
+  <RV2_PreyNavelDigestInterrupted.stages.0.description>{1}竟想用脐部消化我！我才不是食物！</RV2_PreyNavelDigestInterrupted.stages.0.description>
+
+
+  <!-- 脐部快感 -->
+
+  <RV2_PredatorNavelPleasureSuccess.stages.0.label>通过脐部取悦{0}</RV2_PredatorNavelPleasureSuccess.stages.0.label>
+  <RV2_PredatorNavelPleasureSuccess.stages.0.description>将{1}吞入脐部享受紧致的蠕动感</RV2_PredatorNavelPleasureSuccess.stages.0.description>
+
+  <RV2_PredatorNavelPleasureInterrupted.stages.0.label>对{0}的脐部取悦被打断</RV2_PredatorNavelPleasureInterrupted.stages.0.label>
+  <RV2_PredatorNavelPleasureInterrupted.stages.0.description>尝试将{1}吞入脐部时被打扰。连片刻放松都不行吗？</RV2_PredatorNavelPleasureInterrupted.stages.0.description>
+
+  <RV2_PreyNavelPleasureSuccess.stages.0.label>被{0}通过脐部取悦</RV2_PreyNavelPleasureSuccess.stages.0.label>
+  <RV2_PreyNavelPleasureSuccess.stages.0.description>{1}将我引入其脐部！温暖又柔软...~</RV2_PreyNavelPleasureSuccess.stages.0.description>
+
+  <RV2_PreyNavelPleasureInterrupted.stages.0.label>被{0}脐部取悦的过程中断</RV2_PreyNavelPleasureInterrupted.stages.0.label>
+  <RV2_PreyNavelPleasureInterrupted.stages.0.description>{1}试图将我吞入脐部时被打断。真扫兴...</RV2_PreyNavelPleasureInterrupted.stages.0.description>
+
+
+  <!-- 脐部储存 -->
+
+  <RV2_PredatorNavelStoreEnd.stages.0.label>从脐部储存释放{0}</RV2_PredatorNavelStoreEnd.stages.0.label>
+  <RV2_PredatorNavelStoreEnd.stages.0.description>感觉轻盈多了！</RV2_PredatorNavelStoreEnd.stages.0.description>
+
+  <RV2_PreyNavelStoreEnd.stages.0.label>从{0}的脐部储存中释放</RV2_PreyNavelStoreEnd.stages.0.label>
+  <RV2_PreyNavelStoreEnd.stages.0.description>终于能重新舒展身体了</RV2_PreyNavelStoreEnd.stages.0.description>
+
+  <!-- 尾口消化 -->
+
+  <RV2_PredatorTailmawDigestSuccess.stages.0.label>通过尾口消化了{0}</RV2_PredatorTailmawDigestSuccess.stages.0.label>
+  <RV2_PredatorTailmawDigestSuccess.stages.0.description>用尾部的口器吞食了{1}。饱腹感十足！</RV2_PredatorTailmawDigestSuccess.stages.0.description>
+
+  <RV2_PredatorTailmawDigestInterrupted.stages.0.label>对{0}的尾口消化被打断</RV2_PredatorTailmawDigestInterrupted.stages.0.label>
+  <RV2_PredatorTailmawDigestInterrupted.stages.0.description>试图用尾部吞食{1}未果。这下该吃什么好？</RV2_PredatorTailmawDigestInterrupted.stages.0.description>
+
+  <RV2_PreyTailmawDigestInterrupted.stages.0.label>逃离尾口消化</RV2_PreyTailmawDigestInterrupted.stages.0.label>
+  <RV2_PreyTailmawDigestInterrupted.stages.0.description>{1}居然想用尾巴吃掉我！我才不是尾食！</RV2_PreyTailmawDigestInterrupted.stages.0.description>
+
+
+  <!-- 尾口快感 -->
+
+  <RV2_PredatorTailmawPleasureSuccess.stages.0.label>用尾口吞含{0}</RV2_PredatorTailmawPleasureSuccess.stages.0.label>
+  <RV2_PredatorTailmawPleasureSuccess.stages.0.description>将{1}吸入尾部，享受了一番蠕动摩擦~</RV2_PredatorTailmawPleasureSuccess.stages.0.description>
+
+  <RV2_PredatorTailmawPleasureInterrupted.stages.0.label>对{0}的尾口吞含被打断</RV2_PredatorTailmawPleasureInterrupted.stages.0.label>
+  <RV2_PredatorTailmawPleasureInterrupted.stages.0.description>试图用尾部吞入{1}时被打断。真扫兴</RV2_PredatorTailmawPleasureInterrupted.stages.0.description>
+
+  <RV2_PreyTailmawPleasureSuccess.stages.0.label>被{0}用尾口吞含</RV2_PreyTailmawPleasureSuccess.stages.0.label>
+  <RV2_PreyTailmawPleasureSuccess.stages.0.description>{1}的尾巴将我卷入其中...被紧紧包裹的感觉既安心又危险~</RV2_PreyTailmawPleasureSuccess.stages.0.description>
+
+  <RV2_PreyTailmawPleasureInterrupted.stages.0.label>被{0}尾口吞含的过程被打断</RV2_PreyTailmawPleasureInterrupted.stages.0.label>
+  <RV2_PreyTailmawPleasureInterrupted.stages.0.description>{1}试图用尾口吞下我时被打断。太遗憾了</RV2_PreyTailmawPleasureInterrupted.stages.0.description>
+
+
+  <!-- 尾喉储存 -->
+
+  <RV2_PredatorTailmawStoreEnd.stages.0.label>从尾喉储存释放{0}</RV2_PredatorTailmawStoreEnd.stages.0.label>
+  <RV2_PredatorTailmawStoreEnd.stages.0.description>尾巴轻松多了！</RV2_PredatorTailmawStoreEnd.stages.0.description>
+
+  <RV2_PreyTailmawStoreEnd.stages.0.label>从{0}的尾喉储存中释放</RV2_PreyTailmawStoreEnd.stages.0.label>
+  <RV2_PreyTailmawStoreEnd.stages.0.description>终于能重新舒展身体了</RV2_PreyTailmawStoreEnd.stages.0.description>
+
+  <!-- 乳房融合 -->
+
+  <RV2_PredatorUdderAmalgamateEnd.stages.0.label>从乳房组织重塑了{0}</RV2_PredatorUdderAmalgamateEnd.stages.0.label>
+  <RV2_PredatorUdderAmalgamateEnd.stages.0.description>乳头不再那么肿胀，行动更方便了</RV2_PredatorUdderAmalgamateEnd.stages.0.description>
+
+  <RV2_PreyUdderAmalgamateEnd.stages.0.label>从{0}的乳房组织中被重塑</RV2_PreyUdderAmalgamateEnd.stages.0.label>
+  <RV2_PreyUdderAmalgamateEnd.stages.0.description>那些挤压和摩擦的感觉...</RV2_PreyUdderAmalgamateEnd.stages.0.description>
+
+
+  <!-- 乳房同化 -->
+
+  <RV2_PredatorUdderAssimilateSuccess.stages.0.label>将{0}吸收为乳房组织</RV2_PredatorUdderAssimilateSuccess.stages.0.label>
+  <RV2_PredatorUdderAssimilateSuccess.stages.0.description>用{1}填充了我的乳头。太敏感了...！~</RV2_PredatorUdderAssimilateSuccess.stages.0.description>
+
+  <RV2_PredatorUdderAssimilateInterrupted.stages.0.label>{0}的乳房同化被打断</RV2_PredatorUdderAssimilateInterrupted.stages.0.label>
+  <RV2_PredatorUdderAssimilateInterrupted.stages.0.description>本想用{1}来丰满乳头，却被逃走了。你是讨厌乳汁吗？</RV2_PredatorUdderAssimilateInterrupted.stages.0.description>
+
+  <RV2_PreyUdderAssimilateInterrupted.stages.0.label>从{0}的乳房同化中逃脱</RV2_PreyUdderAssimilateInterrupted.stages.0.label>
+  <RV2_PreyUdderAssimilateInterrupted.stages.0.description>{1}居然想把我变成他们的乳头！我才不要被那样吸吮！</RV2_PreyUdderAssimilateInterrupted.stages.0.description>
+
+
+  <!-- 乳房转化 -->
+
+  <RV2_PredatorUdderConvertChemfuelSuccess.stages.0.label>将{0}乳腺转化为燃油</RV2_PredatorUdderConvertChemfuelSuccess.stages.0.label>
+  <RV2_PredatorUdderConvertChemfuelSuccess.stages.0.description>我将{1}从乳腺吸出并融化成燃油。要是有自动收集的装置就好了...</RV2_PredatorUdderConvertChemfuelSuccess.stages.0.description>
+
+  <RV2_PredatorUdderConvertChemfuelInterrupted.stages.0.label>{0}的乳腺燃油转化被打断</RV2_PredatorUdderConvertChemfuelInterrupted.stages.0.label>
+  <RV2_PredatorUdderConvertChemfuelInterrupted.stages.0.description>本想将{1}榨取成燃油，却被逃走了。我的乳腺都干涸了...</RV2_PredatorUdderConvertChemfuelInterrupted.stages.0.description>
+
+  <RV2_PreyUdderConvertChemfuelInterrupted.stages.0.label>从{0}的乳腺燃油转化中逃脱</RV2_PreyUdderConvertChemfuelInterrupted.stages.0.label>
+  <RV2_PreyUdderConvertChemfuelInterrupted.stages.0.description>{1}居然想把我榨成燃油！我才不要被燃烧！</RV2_PreyUdderConvertChemfuelInterrupted.stages.0.description>
+
+  <RV2_PredatorUdderConvertMilkSuccess.stages.0.label>将{0}乳腺转化为乳汁</RV2_PredatorUdderConvertMilkSuccess.stages.0.label>
+  <RV2_PredatorUdderConvertMilkSuccess.stages.0.description>将{1}转化为新鲜乳汁。真是美味的一批！</RV2_PredatorUdderConvertMilkSuccess.stages.0.description>
+
+  <RV2_PredatorUdderConvertMilkInterrupted.stages.0.label>{0}的乳汁转化被打断</RV2_PredatorUdderConvertMilkInterrupted.stages.0.label>
+  <RV2_PredatorUdderConvertMilkInterrupted.stages.0.description>尝试将{1}转化为乳汁未果。我的乳腺都干涸了...</RV2_PredatorUdderConvertMilkInterrupted.stages.0.description>
+
+  <RV2_PreyUdderConvertMilkInterrupted.stages.0.label>从{0}的乳汁转化中逃脱</RV2_PreyUdderConvertMilkInterrupted.stages.0.label>
+  <RV2_PreyUdderConvertMilkInterrupted.stages.0.description>{1}居然想把我变成乳汁！我才不是什么补钙原料！</RV2_PreyUdderConvertMilkInterrupted.stages.0.description>
+
+
+  <!-- 乳房快感 -->
+
+  <RV2_PredatorUdderPleasureSuccess.stages.0.label>将{0}作为情趣玩具吸吮</RV2_PredatorUdderPleasureSuccess.stages.0.label>
+  <RV2_PredatorUdderPleasureSuccess.stages.0.description>{1}从内部按摩了我的乳房！下次该带个同伴一起来...~</RV2_PredatorUdderPleasureSuccess.stages.0.description>
+
+  <RV2_PredatorUdderPleasureInterrupted.stages.0.label>将{0}作为情趣玩具吸吮的过程被打断</RV2_PredatorUdderPleasureInterrupted.stages.0.label>
+  <RV2_PredatorUdderPleasureInterrupted.stages.0.description>本想给{1}来个乳汁浴，{1}却逃走了。连片刻放松都不行吗？</RV2_PredatorUdderPleasureInterrupted.stages.0.description>
+
+  <RV2_PreyUdderPleasureSuccess.stages.0.label>被{0}作为情趣玩具吸吮</RV2_PreyUdderPleasureSuccess.stages.0.label>
+  <RV2_PreyUdderPleasureSuccess.stages.0.description>{1}让我在产奶源头享受了温暖悠长的乳汁浴！感觉焕然一新！</RV2_PreyUdderPleasureSuccess.stages.0.description>
+
+  <RV2_PreyUdderPleasureInterrupted.stages.0.label>被{0}作为情趣玩具吸吮的过程被打断</RV2_PreyUdderPleasureInterrupted.stages.0.label>
+  <RV2_PreyUdderPleasureInterrupted.stages.0.description>{1}本想给我来个乳汁浴却被打断。我本来还想去"温泉"放松下的...</RV2_PreyUdderPleasureInterrupted.stages.0.description>
+
+
+  <!-- 乳房储存 -->
+
+  <RV2_PredatorUdderStoreEnd.stages.0.label>从乳房储存释放{0}</RV2_PredatorUdderStoreEnd.stages.0.label>
+  <RV2_PredatorUdderStoreEnd.stages.0.description>啊，我的背部终于轻松了！</RV2_PredatorUdderStoreEnd.stages.0.description>
+
+  <RV2_PreyUdderStoreEnd.stages.0.label>从{0}的乳房储存中被释放</RV2_PreyUdderStoreEnd.stages.0.label>
+  <RV2_PreyUdderStoreEnd.stages.0.description>终于能重新舒展身体了</RV2_PreyUdderStoreEnd.stages.0.description>
+
+</LanguageData>

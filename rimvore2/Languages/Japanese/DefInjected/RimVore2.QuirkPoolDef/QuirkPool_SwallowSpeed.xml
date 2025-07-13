@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <SwallowSpeed.label>捕食の速さ</SwallowSpeed.label>
-  <SwallowSpeed.description>このキャラクターがどれだけ早く獲物を体内に収めるかを示します(つまるところ,マップから消え 捕食者の健康状態として移動するまでの時間を示します).胃などに押し込む動作への進行速度には影響がありません.</SwallowSpeed.description>
-
-
-</LanguageData>

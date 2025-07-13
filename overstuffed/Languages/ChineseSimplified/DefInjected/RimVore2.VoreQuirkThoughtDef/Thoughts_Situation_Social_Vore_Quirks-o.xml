@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 目标偏好匹配 -->
+  <RV2_GoalPreferenceMatch_Assimilate_Prey.stages.0.label>完美同化对象眼中的永久同化者</RV2_GoalPreferenceMatch_Assimilate_Prey.stages.0.label>
+  <RV2_GoalPreferenceMatch_Assimilate_Predator.stages.0.label>永久同化者眼中的完美同化对象</RV2_GoalPreferenceMatch_Assimilate_Predator.stages.0.label>
+  <RV2_GoalPreferenceMatch_Amalgamate_Prey.stages.0.label>理想同化素材眼中的可逆同化者</RV2_GoalPreferenceMatch_Amalgamate_Prey.stages.0.label>
+  <RV2_GoalPreferenceMatch_Amalgamate_Predator.stages.0.label>可逆同化者眼中的理想同化素材</RV2_GoalPreferenceMatch_Amalgamate_Predator.stages.0.label>
+
+  <!-- 类型偏好匹配 -->
+  <RV2_TypePreferenceMatch_Cleavage_Prey.stages.0.label>乳沟狂热爱好者眼中的贪婪乳沟使用者</RV2_TypePreferenceMatch_Cleavage_Prey.stages.0.label>
+  <RV2_TypePreferenceMatch_Cleavage_Predator.stages.0.label>贪婪乳沟使用者眼中的乳沟狂热爱好者</RV2_TypePreferenceMatch_Cleavage_Predator.stages.0.label>
+  <RV2_TypePreferenceMatch_Membrane_Prey.stages.0.label>皮肤狂热爱好者眼中的贪婪皮肤吞噬者</RV2_TypePreferenceMatch_Membrane_Prey.stages.0.label>
+  <RV2_TypePreferenceMatch_Membrane_Predator.stages.0.label>贪婪皮肤吞噬者眼中的皮肤狂热爱好者</RV2_TypePreferenceMatch_Membrane_Predator.stages.0.label>
+  <RV2_TypePreferenceMatch_Navel_Prey.stages.0.label>脐部狂热爱好者眼中的贪婪脐部使用者</RV2_TypePreferenceMatch_Navel_Prey.stages.0.label>
+  <RV2_TypePreferenceMatch_Navel_Predator.stages.0.label>贪婪脐部使用者眼中的脐部狂热爱好者</RV2_TypePreferenceMatch_Navel_Predator.stages.0.label>
+  <RV2_TypePreferenceMatch_Tailmaw_Prey.stages.0.label>尾口狂热爱好者眼中的贪婪尾口使用者</RV2_TypePreferenceMatch_Tailmaw_Prey.stages.0.label>
+  <RV2_TypePreferenceMatch_Tailmaw_Predator.stages.0.label>贪婪尾口使用者眼中的尾口狂热爱好者</RV2_TypePreferenceMatch_Tailmaw_Predator.stages.0.label>
+  <RV2_TypePreferenceMatch_Udder_Prey.stages.0.label>乳房狂热爱好者眼中的贪婪乳房使用者</RV2_TypePreferenceMatch_Udder_Prey.stages.0.label>
+  <RV2_TypePreferenceMatch_Udder_Predator.stages.0.label>贪婪乳房使用者眼中的乳房狂热爱好者</RV2_TypePreferenceMatch_Udder_Predator.stages.0.label>
+
+</LanguageData>

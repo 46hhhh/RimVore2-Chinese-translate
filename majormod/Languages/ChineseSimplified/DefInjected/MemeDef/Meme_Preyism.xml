@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RV2_Preyism.label>被食者论</RV2_Preyism.label>
+  <RV2_Preyism.label>猎物论</RV2_Preyism.label>
   <RV2_Preyism.description>我们为被吞噬而生</RV2_Preyism.description>
   <RV2_Preyism.generalRules.rulesStrings.0>memeAdjective->捕食的</RV2_Preyism.generalRules.rulesStrings.0>
   <RV2_Preyism.generalRules.rulesStrings.1>memeAdjective->饱食的</RV2_Preyism.generalRules.rulesStrings.1>
   <RV2_Preyism.generalRules.rulesStrings.2>memeAdjective->被食向的</RV2_Preyism.generalRules.rulesStrings.2>
   <RV2_Preyism.generalRules.rulesStrings.3>memeAdjective->顺滑的</RV2_Preyism.generalRules.rulesStrings.3>
   <RV2_Preyism.generalRules.rulesStrings.4>memeCreed->吞噬教徒</RV2_Preyism.generalRules.rulesStrings.4>
-  <RV2_Preyism.generalRules.rulesStrings.5>memeCreed->被食者</RV2_Preyism.generalRules.rulesStrings.5>
+  <RV2_Preyism.generalRules.rulesStrings.5>memeCreed->猎物</RV2_Preyism.generalRules.rulesStrings.5>
   <RV2_Preyism.generalRules.rulesStrings.6>memeCreed->顺从者</RV2_Preyism.generalRules.rulesStrings.6>
   <RV2_Preyism.generalRules.rulesStrings.7>memeCreed->邪教</RV2_Preyism.generalRules.rulesStrings.7>
   <RV2_Preyism.generalRules.rulesStrings.8>memeCreed->食粮库</RV2_Preyism.generalRules.rulesStrings.8>
   <RV2_Preyism.generalRules.rulesStrings.9>memeHyphenPrefix->吞噬</RV2_Preyism.generalRules.rulesStrings.9>
-  <RV2_Preyism.generalRules.rulesStrings.10>memeHyphenPrefix->被食者</RV2_Preyism.generalRules.rulesStrings.10>
+  <RV2_Preyism.generalRules.rulesStrings.10>memeHyphenPrefix->猎物</RV2_Preyism.generalRules.rulesStrings.10>
   <RV2_Preyism.generalRules.rulesStrings.11>memeConcept->捕食</RV2_Preyism.generalRules.rulesStrings.11>
   <RV2_Preyism.generalRules.rulesStrings.12>memeConcept->消耗</RV2_Preyism.generalRules.rulesStrings.12>
   <RV2_Preyism.generalRules.rulesStrings.13>memeConcept->暴食</RV2_Preyism.generalRules.rulesStrings.13>
-  <RV2_Preyism.generalRules.rulesStrings.14>memeConcept->被食者论</RV2_Preyism.generalRules.rulesStrings.14>
+  <RV2_Preyism.generalRules.rulesStrings.14>memeConcept->猎物论</RV2_Preyism.generalRules.rulesStrings.14>
   <RV2_Preyism.generalRules.rulesStrings.15>memeConcept->快感</RV2_Preyism.generalRules.rulesStrings.15>
   <RV2_Preyism.generalRules.rulesStrings.16>memeLeaderNoun->猎物</RV2_Preyism.generalRules.rulesStrings.16>
   <RV2_Preyism.generalRules.rulesStrings.17>memeLeaderNoun->被食僧</RV2_Preyism.generalRules.rulesStrings.17>
@@ -32,8 +32,8 @@
   <RV2_Preyism.descriptionMaker.rules.rulesStrings.5>founderJoin(tag=meme_RV2_Preyism)     ->曾是[place_job]的[founderName]遭到[foeLeader]的部下[foeSoldiers]攻击。[founderName]用[foeLeader_objective][place_personalWeapon]将其制服后，却展现慈悲并阐明真理。终于理解这无限智慧的[foeLeader]幡然悔悟，开始崇拜[deity0_name]。</RV2_Preyism.descriptionMaker.rules.rulesStrings.5>
   <RV2_Preyism.descriptionMaker.rules.rulesStrings.6>victory(tag=meme_RV2_Preyism)         ->[founderName]带领[memberNamePlural]前往[place_powerCenter]交涉，以身示范让[foeLeader]的士兵放下武器。见证这和平成果后，[deity0_name]赐予[founderName]新的[foeLeader]地位。</RV2_Preyism.descriptionMaker.rules.rulesStrings.6>
   <RV2_Preyism.descriptionMaker.rules.rulesStrings.7>setup(tag=meme_RV2_Preyism)           ->[founderName]迫降于遥远异星。虽被敌对势力包围，[founder_pronoun]通过半强迫地被吞噬后从内部施以按摩，这种怀柔手段作为特殊技艺受到崇拜，使势力壮大。</RV2_Preyism.descriptionMaker.rules.rulesStrings.7>
-  <RV2_Preyism.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_RV2_Preyism)    ->为确保誓约，[founderName]规定每周必须扮演符合"被食者"称谓的立场。</RV2_Preyism.descriptionMaker.rules.rulesStrings.8>
-  <RV2_Preyism.descriptionMaker.rules.rulesStrings.9>lessonIntro(tag=meme_RV2_Preyism)         ->最接近神格的被食者曾说：</RV2_Preyism.descriptionMaker.rules.rulesStrings.9>
+  <RV2_Preyism.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_RV2_Preyism)    ->为确保誓约，[founderName]规定每周必须扮演符合"猎物"称谓的立场。</RV2_Preyism.descriptionMaker.rules.rulesStrings.8>
+  <RV2_Preyism.descriptionMaker.rules.rulesStrings.9>lessonIntro(tag=meme_RV2_Preyism)         ->最接近神格的猎物曾说：</RV2_Preyism.descriptionMaker.rules.rulesStrings.9>
   <RV2_Preyism.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_RV2_Preyism)              ->没有比向挚爱献上全身更崇高之事</RV2_Preyism.descriptionMaker.rules.rulesStrings.10>
   <RV2_Preyism.descriptionMaker.rules.rulesStrings.11>lesson(tag=meme_RV2_Preyism)              ->即使是不从者，也能通过体内震动动摇其歧途</RV2_Preyism.descriptionMaker.rules.rulesStrings.11>
   <RV2_Preyism.descriptionMaker.rules.rulesStrings.12>lessonReinforcement(tag=meme_RV2_Preyism) ->接纳新成员时，必须使其最低限度接受这点。</RV2_Preyism.descriptionMaker.rules.rulesStrings.12>

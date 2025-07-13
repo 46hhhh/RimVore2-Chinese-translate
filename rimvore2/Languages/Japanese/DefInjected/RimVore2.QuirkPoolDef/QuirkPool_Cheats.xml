@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <Cheats.label>チート傾向</Cheats.label>
-  <Cheats.description>傾向の中には,あっても良いけど沢山は要らない...ゲームプレイを揺るがす傾向はここでデフォルトで発生率ゼロとして収納されています.設定で発生確率を設定したり,開発者モードで個人に適応させたりできます.</Cheats.description>
-
-
-</LanguageData>

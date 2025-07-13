@@ -2,27 +2,27 @@
 <LanguageData>
 
   <!-- 立场匹配 -->
-  <RV2_DispositionMatch_Prey.stages.0.label>猎物爱好者眼中的捕食者</RV2_DispositionMatch_Prey.stages.0.label>
-  <RV2_DispositionMatch_Predator.stages.0.label>捕食者眼中的猎物爱好者</RV2_DispositionMatch_Predator.stages.0.label>
+  <RV2_DispositionMatch_Prey.stages.0.label>狂热猎物眼中的狂热捕食者</RV2_DispositionMatch_Prey.stages.0.label>
+  <RV2_DispositionMatch_Predator.stages.0.label>狂热捕食者眼中的狂热猎物</RV2_DispositionMatch_Predator.stages.0.label>
 
   <!-- 目的偏好匹配 -->
-  <RV2_GoalPreferenceMatch_Digestion_Prey.stages.0.label>渴望消化者眼中的消化爱好者</RV2_GoalPreferenceMatch_Digestion_Prey.stages.0.label>
-  <RV2_GoalPreferenceMatch_Digestion_Predator.stages.0.label>消化爱好者眼中的渴望消化者</RV2_GoalPreferenceMatch_Digestion_Predator.stages.0.label>
+  <RV2_GoalPreferenceMatch_Digestion_Prey.stages.0.label>渴望消化者眼中的消化狂热爱好者</RV2_GoalPreferenceMatch_Digestion_Prey.stages.0.label>
+  <RV2_GoalPreferenceMatch_Digestion_Predator.stages.0.label>消化狂热爱好者眼中的渴望消化者</RV2_GoalPreferenceMatch_Digestion_Predator.stages.0.label>
   <RV2_GoalPreferenceMatch_Pleasure_Prey.stages.0.label>活体玩具眼中的愉悦追求者</RV2_GoalPreferenceMatch_Pleasure_Prey.stages.0.label>
   <RV2_GoalPreferenceMatch_Pleasure_Predator.stages.0.label>愉悦追求者眼中的活体玩具</RV2_GoalPreferenceMatch_Pleasure_Predator.stages.0.label>
-  <RV2_GoalPreferenceMatch_Store_Prey.stages.0.label>囚禁爱好者眼中的收藏家</RV2_GoalPreferenceMatch_Store_Prey.stages.0.label>
-  <RV2_GoalPreferenceMatch_Store_Predator.stages.0.label>收藏家眼中的囚禁爱好者</RV2_GoalPreferenceMatch_Store_Predator.stages.0.label>
+  <RV2_GoalPreferenceMatch_Store_Prey.stages.0.label>囚禁狂热爱好者眼中的收藏家</RV2_GoalPreferenceMatch_Store_Prey.stages.0.label>
+  <RV2_GoalPreferenceMatch_Store_Predator.stages.0.label>收藏家眼中的囚禁狂热爱好者</RV2_GoalPreferenceMatch_Store_Predator.stages.0.label>
 
   <!-- 类型偏好匹配 -->
-  <RV2_TypePreferenceMatch_Anal_Prey.stages.0.label>肛门爱好者眼中的贪婪后庭使用者</RV2_TypePreferenceMatch_Anal_Prey.stages.0.label>
-  <RV2_TypePreferenceMatch_Anal_Predator.stages.0.label>贪婪后庭使用者眼中的肛门爱好者</RV2_TypePreferenceMatch_Anal_Predator.stages.0.label>
-  <RV2_TypePreferenceMatch_Cock_Prey.stages.0.label>阴茎爱好者眼中的贪婪阴茎使用者</RV2_TypePreferenceMatch_Cock_Prey.stages.0.label>
-  <RV2_TypePreferenceMatch_Cock_Predator.stages.0.label>贪婪阴茎使用者眼中的阴茎爱好者</RV2_TypePreferenceMatch_Cock_Predator.stages.0.label>
-  <RV2_TypePreferenceMatch_Nipple_Prey.stages.0.label>乳首爱好者眼中的贪婪乳首使用者</RV2_TypePreferenceMatch_Nipple_Prey.stages.0.label>
-  <RV2_TypePreferenceMatch_Nipple_Predator.stages.0.label>贪婪乳首使用者眼中的乳首爱好者</RV2_TypePreferenceMatch_Nipple_Predator.stages.0.label>
-  <RV2_TypePreferenceMatch_Oral_Prey.stages.0.label>口腔爱好者眼中的贪婪口腔使用者</RV2_TypePreferenceMatch_Oral_Prey.stages.0.label>
-  <RV2_TypePreferenceMatch_Oral_Predator.stages.0.label>贪婪口腔使用者眼中的口腔爱好者</RV2_TypePreferenceMatch_Oral_Predator.stages.0.label>
-  <RV2_TypePreferenceMatch_Vaginal_Prey.stages.0.label>阴道爱好者眼中的贪婪蜜穴使用者</RV2_TypePreferenceMatch_Vaginal_Prey.stages.0.label>
-  <RV2_TypePreferenceMatch_Vaginal_Predator.stages.0.label>贪婪蜜穴使用者眼中的阴道爱好者</RV2_TypePreferenceMatch_Vaginal_Predator.stages.0.label>
+  <RV2_TypePreferenceMatch_Anal_Prey.stages.0.label>肛门狂热爱好者眼中的贪婪后庭使用者</RV2_TypePreferenceMatch_Anal_Prey.stages.0.label>
+  <RV2_TypePreferenceMatch_Anal_Predator.stages.0.label>贪婪后庭使用者眼中的肛门狂热爱好者</RV2_TypePreferenceMatch_Anal_Predator.stages.0.label>
+  <RV2_TypePreferenceMatch_Cock_Prey.stages.0.label>阴茎狂热爱好者眼中的贪婪阴茎使用者</RV2_TypePreferenceMatch_Cock_Prey.stages.0.label>
+  <RV2_TypePreferenceMatch_Cock_Predator.stages.0.label>贪婪阴茎使用者眼中的阴茎狂热爱好者</RV2_TypePreferenceMatch_Cock_Predator.stages.0.label>
+  <RV2_TypePreferenceMatch_Nipple_Prey.stages.0.label>乳首狂热爱好者眼中的贪婪乳首使用者</RV2_TypePreferenceMatch_Nipple_Prey.stages.0.label>
+  <RV2_TypePreferenceMatch_Nipple_Predator.stages.0.label>贪婪乳首使用者眼中的乳首狂热爱好者</RV2_TypePreferenceMatch_Nipple_Predator.stages.0.label>
+  <RV2_TypePreferenceMatch_Oral_Prey.stages.0.label>口腔狂热爱好者眼中的贪婪口腔使用者</RV2_TypePreferenceMatch_Oral_Prey.stages.0.label>
+  <RV2_TypePreferenceMatch_Oral_Predator.stages.0.label>贪婪口腔使用者眼中的口腔狂热爱好者</RV2_TypePreferenceMatch_Oral_Predator.stages.0.label>
+  <RV2_TypePreferenceMatch_Vaginal_Prey.stages.0.label>阴道狂热爱好者眼中的贪婪蜜穴使用者</RV2_TypePreferenceMatch_Vaginal_Prey.stages.0.label>
+  <RV2_TypePreferenceMatch_Vaginal_Predator.stages.0.label>贪婪蜜穴使用者眼中的阴道狂热爱好者</RV2_TypePreferenceMatch_Vaginal_Predator.stages.0.label>
 
 </LanguageData>

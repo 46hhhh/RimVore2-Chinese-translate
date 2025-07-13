@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <Inabilities.label>障害</Inabilities.label>
-  <Inabilities.description>このキャラクターがvoreに関する特殊な制限が設けられているかを示します.今は消化できないか消化しかできないかのみですが,更に細かい制約が追加される可能性があります.</Inabilities.description>
-
-
-</LanguageData>

@@ -5,12 +5,12 @@
 
   <RV2_FeedingRitual_Endo.roles.0.label>喂食者</RV2_FeedingRitual_Endo.roles.0.label>
   <RV2_FeedingRitual_Endo.roles.1.label>捕食者</RV2_FeedingRitual_Endo.roles.1.label>
-  <RV2_FeedingRitual_Endo.roles.2.label>被食者</RV2_FeedingRitual_Endo.roles.2.label>
+  <RV2_FeedingRitual_Endo.roles.2.label>猎物</RV2_FeedingRitual_Endo.roles.2.label>
   <RV2_FeedingRitual_Endo.letterText>结合仪式即将开始。</RV2_FeedingRitual_Endo.letterText>
 
   <RV2_FeedingRitual_Fatal.roles.0.label>喂食者</RV2_FeedingRitual_Fatal.roles.0.label>
   <RV2_FeedingRitual_Fatal.roles.1.label>捕食者</RV2_FeedingRitual_Fatal.roles.1.label>
-  <RV2_FeedingRitual_Fatal.roles.2.label>被食者</RV2_FeedingRitual_Fatal.roles.2.label>
+  <RV2_FeedingRitual_Fatal.roles.2.label>猎物</RV2_FeedingRitual_Fatal.roles.2.label>
   <RV2_FeedingRitual_Fatal.letterText>消化仪式即将开始。</RV2_FeedingRitual_Fatal.letterText>
 
 </LanguageData>

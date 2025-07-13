@@ -31,7 +31,7 @@
   <RV2_Predation.descriptionMaker.rules.rulesStrings.5>founderJoin(tag=meme_RV2_Predation)     ->曾是[place_job]的[founderName]遭到[foeLeader]的部下[foeSoldiers]攻击。[founderName]利用[foeLeader_objective][place_personalWeapon]的力量将其击倒，让无助的敌人在挣扎中坠入肉牢。这场胜利与积累的养分，都转化为[deity0_name]的力量。</RV2_Predation.descriptionMaker.rules.rulesStrings.5>
   <RV2_Predation.descriptionMaker.rules.rulesStrings.6>victory(tag=meme_RV2_Predation)         ->[founderName]带领[memberNamePlural]攻入[place_powerCenter]，杀死[foeLeader]及其大部分士兵，幸存者无一例外被纳入体内。[deity0_name]赐予[founderName]新的[foeLeader]地位。</RV2_Predation.descriptionMaker.rules.rulesStrings.6>
   <RV2_Predation.descriptionMaker.rules.rulesStrings.7>setup(tag=meme_RV2_Predation)           ->[founderName]迫降于遥远异星。面对匮乏的食物与抱怨的同伴，[founder_pronoun]通过获取大量养分，同时获得了强大力量。</RV2_Predation.descriptionMaker.rules.rulesStrings.7>
-  <RV2_Predation.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_RV2_Predation)    ->为确保誓约，[founderName]规定每周必须捕食一名符合"被食者"称谓的人。</RV2_Predation.descriptionMaker.rules.rulesStrings.8>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_RV2_Predation)    ->为确保誓约，[founderName]规定每周必须捕食一名符合"猎物"称谓的人。</RV2_Predation.descriptionMaker.rules.rulesStrings.8>
   <RV2_Predation.descriptionMaker.rules.rulesStrings.9>lessonIntro(tag=meme_RV2_Predation)         ->最接近神格的捕食者曾说：</RV2_Predation.descriptionMaker.rules.rulesStrings.9>
   <RV2_Predation.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_RV2_Predation)              ->弱者必须成为强者的养分</RV2_Predation.descriptionMaker.rules.rulesStrings.10>
   <RV2_Predation.descriptionMaker.rules.rulesStrings.11>lesson(tag=meme_RV2_Predation)              ->无人有权阻止我们猎食</RV2_Predation.descriptionMaker.rules.rulesStrings.11>

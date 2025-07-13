@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <NCP_DigestiveAcid.label>消化によって引き起こされたダメージです.</NCP_DigestiveAcid.label>
-  <NCP_DigestiveAcid.deathMessage>{0}は消化された.</NCP_DigestiveAcid.deathMessage>
-
-
-</LanguageData>

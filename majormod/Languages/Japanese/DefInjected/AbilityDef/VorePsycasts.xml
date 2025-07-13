@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <RV2_VoreSkip_Chaotic.label>インサイドスキップ</RV2_VoreSkip_Chaotic.label>
-  <RV2_VoreSkip_Chaotic.description>対象を周囲の"誰か"の"中"にテレポートさせます(対象も移動先にも,超能力の使用者を標的にできます).対象が収まる部位と末路(目的)はランダムで決定します.</RV2_VoreSkip_Chaotic.description>
-
-
-</LanguageData>

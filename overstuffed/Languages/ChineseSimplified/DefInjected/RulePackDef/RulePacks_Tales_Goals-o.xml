@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 化学燃料转化目标 -->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备将[RECIPIENT_nameDef][RV2_goalFinish_noun]。</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.0>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.1>RV2_addendum->转化为化学燃料</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.1>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.2>RV2_adverb->孜孜不倦地</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.2>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.3>RV2_adjective->温顺地</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.3>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.4>RV2_goalProduct->满罐燃料</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.4>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.5>RV2_goalProduct->化学燃料</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.5>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.6>RV2_goalFinish_verb->转化为[RV2_goalProduct]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.6>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.7>RV2_goalFinish_noun->转化成[RV2_goalProduct]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.7>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.8>RV2_goalFinish_tale_noun->[PREY_definite]变成了[RV2_goalProduct]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.8>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.9>RV2_goalFinish_tale_noun->[PREY_definite]在[PREDATOR_definite]体内化为了[RV2_goalProduct]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.9>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.10>RV2_goalFinish_desc_sentence->[PREY_definite]被制成了[RV2_goalProduct]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.10>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.11>RV2_goalFinish_desc_sentence->[PREY_definite]没留下任何可辨认的残骸</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.11>
+
+  <!-- 卵转化目标 -->
+  <RV2_Goal_ConvertEggs.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备将[RECIPIENT_nameDef][RV2_goalFinish_noun]。</RV2_Goal_ConvertEggs.rulePack.rulesStrings.0>
+  <RV2_Goal_ConvertEggs.rulePack.rulesStrings.1>RV2_addendum->转化为卵</RV2_Goal_ConvertEggs.rulePack.rulesStrings.1>
+  <RV2_Goal_ConvertEggs.rulePack.rulesStrings.2>RV2_adverb->充满母性地</RV2_Goal_ConvertEggs.rulePack.rulesStrings.2>
+  <RV2_Goal_ConvertEggs.rulePack.rulesStrings.3>RV2_goalFinish_verb->孕育成卵</RV2_Goal_ConvertEggs.rulePack.rulesStrings.3>
+  <RV2_Goal_ConvertEggs.rulePack.rulesStrings.4>RV2_goalFinish_noun->转化为卵</RV2_Goal_ConvertEggs.rulePack.rulesStrings.4>
+
+  <!-- 尿液转化目标 -->
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备将[RECIPIENT_nameDef][RV2_goalFinish_noun]。</RV2_Goal_ConvertUrine.rulePack.rulesStrings.0>
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.1>RV2_goalProduct->尿液</RV2_Goal_ConvertUrine.rulePack.rulesStrings.1>
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.2>RV2_goalProduct->排泄物</RV2_Goal_ConvertUrine.rulePack.rulesStrings.2>
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.3>RV2_goalProduct->优质肥料</RV2_Goal_ConvertUrine.rulePack.rulesStrings.3>
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.4>RV2_addendum->转化为[RV2_goalProduct]</RV2_Goal_ConvertUrine.rulePack.rulesStrings.4>
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.5>RV2_goalFinish_verb->代谢为[RV2_goalProduct]</RV2_Goal_ConvertUrine.rulePack.rulesStrings.5>
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.6>RV2_goalFinish_noun->转化成[RV2_goalProduct]</RV2_Goal_ConvertUrine.rulePack.rulesStrings.6>
+
+  <!-- 同化目标 -->
+  <RV2_Goal_Assimilate.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备将[RECIPIENT_nameDef][RV2_goalFinish_noun]。</RV2_Goal_Assimilate.rulePack.rulesStrings.0>
+  <RV2_Goal_Assimilate.rulePack.rulesStrings.1>RV2_addendum->转化为[PREDATOR_possessive][RV2_bodypart]的一部分</RV2_Goal_Assimilate.rulePack.rulesStrings.1>
+  <RV2_Goal_Assimilate.rulePack.rulesStrings.2>RV2_goalFinish_verb->同化吸收</RV2_Goal_Assimilate.rulePack.rulesStrings.2>
+  <RV2_Goal_Assimilate.rulePack.rulesStrings.3>RV2_goalFinish_noun->完全同化</RV2_Goal_Assimilate.rulePack.rulesStrings.3>
+  <RV2_Goal_Assimilate.rulePack.rulesStrings.4>RV2_goalFinish_image->[PREY_definite]已成为[PREDATOR_definite]的一部分</RV2_Goal_Assimilate.rulePack.rulesStrings.4>
+
+  <!-- 暂时融合目标 -->
+  <RV2_Goal_Amalgamate.rulePack.rulesStrings.0>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备将[RECIPIENT_nameDef][RV2_goalFinish_noun]。</RV2_Goal_Amalgamate.rulePack.rulesStrings.0>
+  <RV2_Goal_Amalgamate.rulePack.rulesStrings.1>RV2_addendum->暂时转化为[PREDATOR_possessive][RV2_bodypart]的一部分</RV2_Goal_Amalgamate.rulePack.rulesStrings.1>
+  <RV2_Goal_Amalgamate.rulePack.rulesStrings.2>RV2_goalFinish_verb->暂时融合</RV2_Goal_Amalgamate.rulePack.rulesStrings.2>
+  <RV2_Goal_Amalgamate.rulePack.rulesStrings.3>RV2_goalFinish_noun->临时融合</RV2_Goal_Amalgamate.rulePack.rulesStrings.3>
+  <RV2_Goal_Amalgamate.rulePack.rulesStrings.4>RV2_goalFinish_image->[PREY_definite]暂时成为了[PREDATOR_definite]的一部分</RV2_Goal_Amalgamate.rulePack.rulesStrings.4>
+
+</LanguageData>

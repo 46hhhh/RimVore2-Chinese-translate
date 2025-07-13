@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <RV2_DisassembleDigestedImplant.label>消化されたインプラントを分解する</RV2_DisassembleDigestedImplant.label>
-  <RV2_DisassembleDigestedImplant.description>消化や体内の工程の中で破壊されたインプラントを分解します</RV2_DisassembleDigestedImplant.description>
-  <RV2_DisassembleDigestedImplant.jobString>インプラントを解体している.</RV2_DisassembleDigestedImplant.jobString>
-
-
-</LanguageData>

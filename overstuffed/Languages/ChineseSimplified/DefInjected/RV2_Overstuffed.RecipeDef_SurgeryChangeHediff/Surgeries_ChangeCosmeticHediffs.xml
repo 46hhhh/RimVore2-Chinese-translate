@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 唇部整形手术 -->
+  <RV2_ChangeCosmeticHediff_Lips.label>调整吸收性唇部膨胀</RV2_ChangeCosmeticHediff_Lips.label>
+  <RV2_ChangeCosmeticHediff_Lips.description>调整因吸收猎物导致的唇部组织增生。</RV2_ChangeCosmeticHediff_Lips.description>
+  <RV2_ChangeCosmeticHediff_Lips.jobString>正在调整唇部吸收性膨胀</RV2_ChangeCosmeticHediff_Lips.jobString>
+
+  <RV2_ChangeCosmeticHediff_Lips_Beautiful.label>美化吸收性唇部膨胀</RV2_ChangeCosmeticHediff_Lips_Beautiful.label>
+  <RV2_ChangeCosmeticHediff_Lips_Beautiful.description>优化因吸收猎物导致的唇部组织增生形态。</RV2_ChangeCosmeticHediff_Lips_Beautiful.description>
+  <RV2_ChangeCosmeticHediff_Lips_Beautiful.jobString>正在美化唇部吸收性膨胀</RV2_ChangeCosmeticHediff_Lips_Beautiful.jobString>
+
+  <RV2_ChangeCosmeticHediff_Lips_Scarred.label>修复吸收性唇部膨胀</RV2_ChangeCosmeticHediff_Lips_Scarred.label>
+  <RV2_ChangeCosmeticHediff_Lips_Scarred.description>修复因吸收猎物导致的唇部组织增生疤痕。</RV2_ChangeCosmeticHediff_Lips_Scarred.description>
+  <RV2_ChangeCosmeticHediff_Lips_Scarred.jobString>正在修复唇部吸收性膨胀</RV2_ChangeCosmeticHediff_Lips_Scarred.jobString>
+
+  <!-- 臀部整形手术 -->
+  <RV2_ChangeCosmeticHediff_Ass.label>调整吸收性臀部膨胀</RV2_ChangeCosmeticHediff_Ass.label>
+  <RV2_ChangeCosmeticHediff_Ass.description>调整因吸收猎物导致的臀部组织增生。</RV2_ChangeCosmeticHediff_Ass.description>
+  <RV2_ChangeCosmeticHediff_Ass.jobString>正在调整臀部吸收性膨胀</RV2_ChangeCosmeticHediff_Ass.jobString>
+
+  <RV2_ChangeCosmeticHediff_Ass_Beautiful.label>美化吸收性臀部膨胀</RV2_ChangeCosmeticHediff_Ass_Beautiful.label>
+  <RV2_ChangeCosmeticHediff_Ass_Beautiful.description>优化因吸收猎物导致的臀部组织增生形态。</RV2_ChangeCosmeticHediff_Ass_Beautiful.description>
+  <RV2_ChangeCosmeticHediff_Ass_Beautiful.jobString>正在美化臀部吸收性膨胀</RV2_ChangeCosmeticHediff_Ass_Beautiful.jobString>
+
+  <RV2_ChangeCosmeticHediff_Ass_Scarred.label>修复吸收性臀部膨胀</RV2_ChangeCosmeticHediff_Ass_Scarred.label>
+  <RV2_ChangeCosmeticHediff_Ass_Scarred.description>修复因吸收猎物导致的臀部组织增生疤痕。</RV2_ChangeCosmeticHediff_Ass_Scarred.description>
+  <RV2_ChangeCosmeticHediff_Ass_Scarred.jobString>正在修复臀部吸收性膨胀</RV2_ChangeCosmeticHediff_Ass_Scarred.jobString>
+
+  <!-- 阴唇整形手术 -->
+  <RV2_ChangeCosmeticHediff_Labia.label>调整吸收性阴唇膨胀</RV2_ChangeCosmeticHediff_Labia.label>
+  <RV2_ChangeCosmeticHediff_Labia.description>调整因吸收猎物导致的阴唇组织增生。</RV2_ChangeCosmeticHediff_Labia.description>
+  <RV2_ChangeCosmeticHediff_Labia.jobString>正在调整阴唇吸收性膨胀</RV2_ChangeCosmeticHediff_Labia.jobString>
+
+  <RV2_ChangeCosmeticHediff_Labia_Beautiful.label>美化吸收性阴唇膨胀</RV2_ChangeCosmeticHediff_Labia_Beautiful.label>
+  <RV2_ChangeCosmeticHediff_Labia_Beautiful.description>优化因吸收猎物导致的阴唇组织增生形态。</RV2_ChangeCosmeticHediff_Labia_Beautiful.description>
+  <RV2_ChangeCosmeticHediff_Labia_Beautiful.jobString>正在美化阴唇吸收性膨胀</RV2_ChangeCosmeticHediff_Labia_Beautiful.jobString>
+
+  <RV2_ChangeCosmeticHediff_Labia_Scarred.label>修复吸收性阴唇膨胀</RV2_ChangeCosmeticHediff_Labia_Scarred.label>
+  <RV2_ChangeCosmeticHediff_Labia_Scarred.description>修复因吸收猎物导致的阴唇组织增生疤痕。</RV2_ChangeCosmeticHediff_Labia_Scarred.description>
+  <RV2_ChangeCosmeticHediff_Labia_Scarred.jobString>正在修复阴唇吸收性膨胀</RV2_ChangeCosmeticHediff_Labia_Scarred.jobString>
+
+  <!-- 腹部整形手术 -->
+  <RV2_ChangeCosmeticHediff_Belly.label>调整吸收性腹部膨胀</RV2_ChangeCosmeticHediff_Belly.label>
+  <RV2_ChangeCosmeticHediff_Belly.description>调整因吸收猎物导致的腹部组织增生。</RV2_ChangeCosmeticHediff_Belly.description>
+  <RV2_ChangeCosmeticHediff_Belly.jobString>正在调整腹部吸收性膨胀</RV2_ChangeCosmeticHediff_Belly.jobString>
+
+    <RV2_ChangeCosmeticHediff_Belly_Beautiful.label>美化吸收性腹部膨胀</RV2_ChangeCosmeticHediff_Belly_Beautiful.label>
+  <RV2_ChangeCosmeticHediff_Belly_Beautiful.description>优化因吸收猎物导致的腹部组织增生形态。</RV2_ChangeCosmeticHediff_Belly_Beautiful.description>
+  <RV2_ChangeCosmeticHediff_Belly_Beautiful.jobString>正在美化腹部吸收性膨胀</RV2_ChangeCosmeticHediff_Belly_Beautiful.jobString>
+
+  <RV2_ChangeCosmeticHediff_Belly_Scarred.label>修复吸收性腹部膨胀</RV2_ChangeCosmeticHediff_Belly_Scarred.label>
+  <RV2_ChangeCosmeticHediff_Belly_Scarred.description>修复因吸收猎物导致的腹部组织增生疤痕。</RV2_ChangeCosmeticHediff_Belly_Scarred.description>
+  <RV2_ChangeCosmeticHediff_Belly_Scarred.jobString>正在修复腹部吸收性膨胀</RV2_ChangeCosmeticHediff_Belly_Scarred.jobString>
+</LanguageData>

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <RV2_Proposal.label>voreの申し出</RV2_Proposal.label>
-  <RV2_Proposal.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]はvoreに関して[RECIPIENT_nameDef]に申し出た.</RV2_Proposal.logRulesInitiator.rulesStrings.0>
-
-
-</LanguageData>

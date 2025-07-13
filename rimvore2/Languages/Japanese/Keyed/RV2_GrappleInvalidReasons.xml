@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <RV2_UseGrappleGizmoInvalid_DisabledInSettings>設定で無効化中</RV2_UseGrappleGizmoInvalid_DisabledInSettings>
-	<RV2_GrappleInvalid_RaceUnable>{0}はホカクができない</RV2_GrappleInvalid_RaceUnable>
-	<RV2_GrappleInvalid_AlreadyGrappling>{0}は既にホカクしている</RV2_GrappleInvalid_AlreadyGrappling>
-	<RV2_GrappleInvalid_ChanceIsZero>{0}は成功の目がない</RV2_GrappleInvalid_ChanceIsZero>
-</LanguageData>
-
-<!-- RV2_GrappleInvalid_ -->

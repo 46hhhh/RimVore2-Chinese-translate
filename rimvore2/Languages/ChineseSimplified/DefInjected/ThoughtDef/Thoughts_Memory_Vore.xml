@@ -89,10 +89,10 @@
     <RV2_PreyAnalPleasureInterrupted.stages.0.description>{1}试图把我塞入臀部但被排出了。太遗憾了</RV2_PreyAnalPleasureInterrupted.stages.0.description>
 
     <!-- 肛门储存 -->
-    <RV2_PredatorAnalStoreEnd.stages.0.label>从肠道仓库释放了{0}</RV2_PredatorAnalStoreEnd.stages.0.label>
+    <RV2_PredatorAnalStoreEnd.stages.0.label>从肠道储存释放了{0}</RV2_PredatorAnalStoreEnd.stages.0.label>
     <RV2_PredatorAnalStoreEnd.stages.0.description>感觉轻松多了!</RV2_PredatorAnalStoreEnd.stages.0.description>
 
-    <RV2_PreyAnalStoreEnd.stages.0.label>离开了{0}的肠道仓库</RV2_PreyAnalStoreEnd.stages.0.label>
+    <RV2_PreyAnalStoreEnd.stages.0.label>离开了{0}的肠道储存</RV2_PreyAnalStoreEnd.stages.0.label>
     <RV2_PreyAnalStoreEnd.stages.0.description>明明很舒适，感觉还能伸展更多空间</RV2_PreyAnalStoreEnd.stages.0.description>
 
     <!-- 阴道转化 -->
@@ -132,10 +132,10 @@
     <RV2_PreyVaginalPleasureInterrupted.stages.0.description>{1}想把我变成活体玩具但被排出了。人家明明也很享受</RV2_PreyVaginalPleasureInterrupted.stages.0.description>
 
     <!-- 阴道储存 -->
-    <RV2_PredatorVaginalStoreEnd.stages.0.label>从子宫仓库释放了{0}</RV2_PredatorVaginalStoreEnd.stages.0.label>
+    <RV2_PredatorVaginalStoreEnd.stages.0.label>从子宫储存释放了{0}</RV2_PredatorVaginalStoreEnd.stages.0.label>
     <RV2_PredatorVaginalStoreEnd.stages.0.description>腰都快断了!</RV2_PredatorVaginalStoreEnd.stages.0.description>
 
-    <RV2_PreyVaginalStoreEnd.stages.0.label>离开了{0}的子宫仓库</RV2_PreyVaginalStoreEnd.stages.0.label>
+    <RV2_PreyVaginalStoreEnd.stages.0.label>离开了{0}的子宫储存</RV2_PreyVaginalStoreEnd.stages.0.label>
     <RV2_PreyVaginalStoreEnd.stages.0.description>明明很舒适，感觉还能伸展更多空间</RV2_PreyVaginalStoreEnd.stages.0.description>
 
     <!-- 阴道治愈 -->
@@ -176,10 +176,10 @@
 
     <!-- 阴茎存储 -->
 
-    <RV2_PredatorCockStoreEnd.stages.0.label>将{0}从阴囊仓库中取出</RV2_PredatorCockStoreEnd.stages.0.label>
+    <RV2_PredatorCockStoreEnd.stages.0.label>将{0}从阴囊储存中取出</RV2_PredatorCockStoreEnd.stages.0.label>
     <RV2_PredatorCockStoreEnd.stages.0.description>肩膀上的重担,或者说睾丸上的重担终于卸下了.</RV2_PredatorCockStoreEnd.stages.0.description>
 
-    <RV2_PreyCockStoreEnd.stages.0.label>从{0}的阴囊仓库中出来</RV2_PreyCockStoreEnd.stages.0.label>
+    <RV2_PreyCockStoreEnd.stages.0.label>从{0}的阴囊储存中出来</RV2_PreyCockStoreEnd.stages.0.label>
     <RV2_PreyCockStoreEnd.stages.0.description>明明很舒适,但感觉还有伸展的空间.</RV2_PreyCockStoreEnd.stages.0.description>
 
 
@@ -221,10 +221,10 @@
 
     <!-- 乳头存储 -->
 
-    <RV2_PredatorNippleStoreEnd.stages.0.label>将{0}从胸部仓库中取出</RV2_PredatorNippleStoreEnd.stages.0.label>
+    <RV2_PredatorNippleStoreEnd.stages.0.label>将{0}从胸部储存中取出</RV2_PredatorNippleStoreEnd.stages.0.label>
     <RV2_PredatorNippleStoreEnd.stages.0.description>脊髓还远远没到极限！</RV2_PredatorNippleStoreEnd.stages.0.description>
 
-    <RV2_PreyNippleStoreEnd.stages.0.label>从{0}的胸部仓库中出来</RV2_PreyNippleStoreEnd.stages.0.label>
+    <RV2_PreyNippleStoreEnd.stages.0.label>从{0}的胸部储存中出来</RV2_PreyNippleStoreEnd.stages.0.label>
     <RV2_PreyNippleStoreEnd.stages.0.description>明明很舒适,但感觉还有伸展的空间.</RV2_PreyNippleStoreEnd.stages.0.description>
 
 

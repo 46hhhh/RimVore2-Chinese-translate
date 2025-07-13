@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <NCP_Category>食肉植物</NCP_Category>
-  <NCP_PlantsIgnoreFatalDesignation>植物は消化ルールを無視する</NCP_PlantsIgnoreFatalDesignation>
-  <NCP_PlantsIgnoreFatalDesignation_Tip>消化のみ可能な植物も,ルールにて消化を許可されていないキャラクターを捕食できるようになります.</NCP_PlantsIgnoreFatalDesignation_Tip>
-</LanguageData>

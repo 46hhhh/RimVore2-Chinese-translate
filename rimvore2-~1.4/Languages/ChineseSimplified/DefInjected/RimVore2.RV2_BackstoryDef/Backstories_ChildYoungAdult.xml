@@ -136,14 +136,14 @@
   <RV2_CYA_PredAnytypeTempEndo_OpenWilling_ExperimenterEndo.description>[PAWN_nameDef]曾与众多伴侣进行性学研究。（安全的）吞噬作为[PAWN_possessive]终究爱好后，[PAWN_pronoun]给自己冠以"人体性器狂魔"的绰号。</RV2_CYA_PredAnytypeTempEndo_OpenWilling_ExperimenterEndo.description>
 
 
-  <!-- 被食者 任意类型 消化 公开 自愿 -->
+  <!-- 猎物 任意类型 消化 公开 自愿 -->
 
   <RV2_CYA_PreyAnytypeDigest_OpenWilling_FodderNatural.title>RV2 天生饵料</RV2_CYA_PreyAnytypeDigest_OpenWilling_FodderNatural.title>
   <RV2_CYA_PreyAnytypeDigest_OpenWilling_FodderNatural.titleShort>饲料</RV2_CYA_PreyAnytypeDigest_OpenWilling_FodderNatural.titleShort>
   <RV2_CYA_PreyAnytypeDigest_OpenWilling_FodderNatural.description>不知为何，[PAWN_nameDef]始终暗怀被消化成糜的渴望。[PAWN_pronoun]期盼早日成为命中注定的掠食者腹中美餐。</RV2_CYA_PreyAnytypeDigest_OpenWilling_FodderNatural.description>
 
 
-  <!-- 被食者 口腔 临时容纳 公开 自愿 -->
+  <!-- 猎物 口腔 临时容纳 公开 自愿 -->
 
   <RV2_CYA_PreyOralTempEndo_OpenWilling_SquireBiteKnight.title>RV2 噬骑士侍从</RV2_CYA_PreyOralTempEndo_OpenWilling_SquireBiteKnight.title>
   <RV2_CYA_PreyOralTempEndo_OpenWilling_SquireBiteKnight.titleShort>随从</RV2_CYA_PreyOralTempEndo_OpenWilling_SquireBiteKnight.titleShort>

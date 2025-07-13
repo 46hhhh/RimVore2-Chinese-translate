@@ -15,8 +15,8 @@
   <RV2_RMB_RandomPreferred>偏好随机</RV2_RMB_RandomPreferred>
   
   <!-- 排出操作 -->
-  <RV2_RMB_EjectPrey_Self>排出被食者</RV2_RMB_EjectPrey_Self>
-  <RV2_RMB_EjectPrey_Target>让{0}排出被食者</RV2_RMB_EjectPrey_Target>
+  <RV2_RMB_EjectPrey_Self>排出猎物</RV2_RMB_EjectPrey_Self>
+  <RV2_RMB_EjectPrey_Target>让{0}排出猎物</RV2_RMB_EjectPrey_Target>
   <RV2_RMB_AlreadyAttemptedEject>已尝试过</RV2_RMB_AlreadyAttemptedEject>
   <RV2_RMB_EjectIncapable>无法使用暴力</RV2_RMB_EjectIncapable>
 

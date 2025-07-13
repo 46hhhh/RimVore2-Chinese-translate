@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- goal preference quirks assimilate -->
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryGood.stages.0.label>欢欣鼓舞地吸收了{0}</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryGood.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryGood.stages.0.description>又变大了一点，更性感了！</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryGood.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Good.stages.0.label>愉快地吸收了{0}</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Good.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Good.stages.0.description>真是美味的肉块！</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Good.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Bad.stages.0.label>不情不愿地吸收了{0}</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Bad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Bad.stages.0.description>就为了这么点肉量？</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Bad.stages.0.description>
+
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryBad.stages.0.label>在抗拒中吸收了{0}</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryBad.stages.0.label>
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryBad.stages.0.description>...和另一个完整的人融合后，这具身体还能算是自己的吗？</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks predator Cleavage -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryGood.stages.0.label>从乳沟处愉悦地吞食了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryGood.stages.0.description>胸部被填满的感觉真好！</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Good.stages.0.label>从乳沟处享用{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Good.stages.0.description>舒适的包裹感，轻盈的体态。</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Bad.stages.0.label>勉强从乳沟吞下{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Bad.stages.0.description>完全没有饱腹的实感。</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryBad.stages.0.label>在抗拒中从乳沟吞食{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryBad.stages.0.description>说是"生吞活剥"，实际体验却大打折扣。</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks predator Membrane -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryGood.stages.0.label>通过皮肤欢欣地包裹了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryGood.stages.0.description>黏液层充满营养！</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Good.stages.0.label>通过皮肤愉快地包裹了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Good.stages.0.description>咕嘟一声！</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Bad.stages.0.label>不情愿地用体表包裹{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Bad.stages.0.description>吞噬他人并不是什么愉快的事。</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryBad.stages.0.label>在厌恶中体表包裹了{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryBad.stages.0.description>我才不是什么宿主，再见。</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks predator Navel -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryGood.stages.0.label>通过脐孔愉悦地吞噬{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryGood.stages.0.description>腹部中央传来的快感！</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Good.stages.0.label>通过肚脐享用{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Good.stages.0.description>肚脐终于派上用场了！</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Bad.stages.0.label>勉强通过脐孔吞下{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Bad.stages.0.description>总觉得这个孔洞本该是闭合的。</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryBad.stages.0.label>在不适中通过肚脐吸收{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryBad.stages.0.description>得重新系紧它，太糟糕了。</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks predator Tailmaw -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryGood.stages.0.label>通过尾口欢快地吞食{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryGood.stages.0.description>尾巴被填满的感觉！</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Good.stages.0.label>用尾口享用{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Good.stages.0.description>美味...？太美味了！</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Bad.stages.0.label>勉强用尾口吞下{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Bad.stages.0.description>回头看着自己吞噬他人的过程比想象中更难熬。</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryBad.stages.0.label>在厌恶中被尾口吞噬{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryBad.stages.0.description>还是自己的嘴巴更靠谱。</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks predator Udder -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryGood.stages.0.label>通过乳房欢愉地吸收{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryGood.stages.0.description>乳房充盈的感觉！</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Good.stages.0.label>通过乳房享用{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Good.stages.0.description>乳汁与猎物交织的优雅快感。</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Bad.stages.0.label>勉强用乳房吸收{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Bad.stages.0.description>实在无法理解乳房的感受。</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryBad.stages.0.label>在抗拒中用乳房吞噬{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryBad.stages.0.description>这个部位不能过度刺激否则肮脏得难以忍受。</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks prey Cleavage -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryGood.stages.0.label>欢欣地被{0}从乳沟吞食</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryGood.stages.0.description>乳沟才是最温暖的归宿！</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Good.stages.0.label>愉快地被{0}从乳沟吞噬</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Good.stages.0.description>温暖又紧致的包裹...！</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Bad.stages.0.label>不情愿地被{0}从乳沟吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Bad.stages.0.description>和想象中柔软的触感不同。</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryBad.stages.0.label>在抗拒中被{0}从乳沟吞噬</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryBad.stages.0.description>完全没有被完整吞食的实感。</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks prey Membrane -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryGood.stages.0.label>欣喜地被{0}通过体表吸收</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryGood.stages.0.description>黏液之中才是归宿！</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Good.stages.0.label>愉悦地被{0}用皮肤包裹</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Good.stages.0.description>黏糊糊的...！</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Bad.stages.0.label>勉强被{0}通过体表吸收</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Bad.stages.0.description>过度蠕动令人不安。</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryBad.stages.0.label>在恐惧中被{0}体表包裹</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryBad.stages.0.description>我这是被当成了展示品吗？</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks prey Navel -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryGood.stages.0.label>欢愉地被{0}通过脐孔吞噬</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryGood.stages.0.description>肚脐深处才是安乐窝！</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Good.stages.0.label>享受被{0}从肚脐吞入</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Good.stages.0.description>软绵绵的...</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Bad.stages.0.label>不情愿地被{0}通过脐孔吸收</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Bad.stages.0.description>和想象中的"啵"一声完全不同。</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryBad.stages.0.label>在抗拒中被{0}从肚脐吞噬</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryBad.stages.0.description>脐带还是打个结比较安全！</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks prey Tailmaw -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryGood.stages.0.label>欣喜地被{0}通过尾口吞食</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryGood.stages.0.description>尾巴内部才是最棒的安乐窝！</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Good.stages.0.label>享受被{0}用尾巴吞噬</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Good.stages.0.description>柔软尾喉的极致体验！</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Bad.stages.0.label>勉强被{0}通过尾口吞下</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Bad.stages.0.description>这和所谓的睡袋区别太大了。</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryBad.stages.0.label>在痛苦中被{0}尾口吞噬</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryBad.stages.0.description>差点忍不住尖叫出声。</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryBad.stages.0.description>
+
+
+  <!-- type preference quirks prey Udder -->
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryGood.stages.0.label>欢愉地被{0}通过乳房吸收</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryGood.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryGood.stages.0.description>乳房内部才是终极归宿！</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryGood.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Good.stages.0.label>享受被{0}用乳房包裹</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Good.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Good.stages.0.description>浸泡在乳香中的感觉。</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Good.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Bad.stages.0.label>不情愿地被{0}通过乳房吞噬</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Bad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Bad.stages.0.description>充满野性的气息...</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Bad.stages.0.description>
+
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryBad.stages.0.label>在厌恶中被{0}乳房吸收</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryBad.stages.0.label>
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryBad.stages.0.description>乳房是哺育幼兽的部位，不该用来吞噬人类。</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryBad.stages.0.description>
+
+
+</LanguageData>

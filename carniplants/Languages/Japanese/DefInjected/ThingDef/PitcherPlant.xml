@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <NCP_PitcherPlant.label>ピッチャープラント</NCP_PitcherPlant.label>
-  <NCP_PitcherPlant.description>&lt;i&gt;俗名ウツボカズラ&lt;/i&gt;\n巨大な昆虫蔓延る辺境世界で,食虫植物はそれに追いつくように巨大化し,結果的に殆どの生き物を収める体と分解して栄養にする能力を得ました.\n\nこの植物は,その口を開くとき特殊なフェロモンを分泌し放出します.植物の周りに漂う甘ったるい空気に長時間さらされた生き物は幻覚が見え始め,植物に近づくよう洗脳されます.ひとたび犠牲者が近づき,匂いを嗅ごうとすると,足元のぬめりが酸のプールへと誘おうとします.体内が獲物で満たされるとその蓋を閉じ,逃げ道を塞ぎます.</NCP_PitcherPlant.description>
-  <NCP_PitcherPlant.tools.0.label>頭</NCP_PitcherPlant.tools.0.label>
-
-
-</LanguageData>

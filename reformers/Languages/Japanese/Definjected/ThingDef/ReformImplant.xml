@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <ReformChip.label>リフォーメーションチップ</ReformChip.label>
-  <ReformChip.description>消化器官における不慮の事故に巻き込まれた保持者を自動的に復活させる,希少なインプラントです.</ReformChip.description>
-  <ReformChip.comps.0.useLabel>チップを使用し適用させる</ReformChip.comps.0.useLabel>
-
-</LanguageData>

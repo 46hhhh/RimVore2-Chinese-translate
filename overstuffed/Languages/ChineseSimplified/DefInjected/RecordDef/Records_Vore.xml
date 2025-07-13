@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 基础记录 -->
+  <RV2_Predator.label>吞噬记录：捕食者</RV2_Predator.label>
+  <RV2_Predator.description>作为捕食者吞食猎物的次数。</RV2_Predator.description>
+
+  <RV2_Prey.label>吞噬记录：猎物</RV2_Prey.label>
+  <RV2_Prey.description>作为猎物被吞食的次数。</RV2_Prey.description>
+
+  <!-- 捕食类型记录 -->
+  <RV2_Type_Oral_Predator.label>吞噬记录：捕食者(口腔)</RV2_Type_Oral_Predator.label>
+  <RV2_Type_Oral_Predator.description>通过口腔吞食猎物的次数。</RV2_Type_Oral_Predator.description>
+
+  <RV2_Type_Oral_Prey.label>吞噬记录：猎物(口腔)</RV2_Type_Oral_Prey.label>
+  <RV2_Type_Oral_Prey.description>被口腔吞食的次数。</RV2_Type_Oral_Prey.description>
+
+  <RV2_Type_Anal_Predator.label>吞噬记录：捕食者(肛门)</RV2_Type_Anal_Predator.label>
+  <RV2_Type_Anal_Predator.description>通过肛门吞食猎物的次数。</RV2_Type_Anal_Predator.description>
+
+  <RV2_Type_Anal_Prey.label>吞噬记录：猎物(肛门)</RV2_Type_Anal_Prey.label>
+  <RV2_Type_Anal_Prey.description>被肛门吞食的次数。</RV2_Type_Anal_Prey.description>
+
+  <RV2_Type_Cock_Predator.label>吞噬记录：捕食者(阴茎)</RV2_Type_Cock_Predator.label>
+  <RV2_Type_Cock_Predator.description>通过阴茎吞食猎物的次数。</RV2_Type_Cock_Predator.description>
+
+  <RV2_Type_Cock_Prey.label>吞噬记录：猎物(阴茎)</RV2_Type_Cock_Prey.label>
+  <RV2_Type_Cock_Prey.description>被阴茎吞食的次数。</RV2_Type_Cock_Prey.description>
+
+  <RV2_Type_Vaginal_Predator.label>吞噬记录：捕食者(阴道)</RV2_Type_Vaginal_Predator.label>
+  <RV2_Type_Vaginal_Predator.description>通过阴道吞食猎物的次数。</RV2_Type_Vaginal_Predator.description>
+
+  <RV2_Type_Vaginal_Prey.label>吞噬记录：猎物(阴道)</RV2_Type_Vaginal_Prey.label>
+  <RV2_Type_Vaginal_Prey.description>被阴道吞食的次数。</RV2_Type_Vaginal_Prey.description>
+
+  <RV2_Type_Nipple_Predator.label>吞噬记录：捕食者(乳头)</RV2_Type_Nipple_Predator.label>
+  <RV2_Type_Nipple_Predator.description>通过乳头吞食猎物的次数。</RV2_Type_Nipple_Predator.description>
+
+  <RV2_Type_Nipple_Prey.label>吞噬记录：猎物(乳头)</RV2_Type_Nipple_Prey.label>
+  <RV2_Type_Nipple_Prey.description>被乳头吞食的次数。</RV2_Type_Nipple_Prey.description>
+
+  <RV2_Type_FullTour_Predator.label>吞噬记录：捕食者(完整消化系统)</RV2_Type_FullTour_Predator.label>
+  <RV2_Type_FullTour_Predator.description>使被吞食的猎物通过完成消化系统循环而次数。</RV2_Type_FullTour_Predator.description>
+
+  <RV2_Type_FullTour_Prey.label>吞噬记录：猎物(完整消化系统)</RV2_Type_FullTour_Prey.label>
+  <RV2_Type_FullTour_Prey.description>被完整通过消化系统的次数。</RV2_Type_FullTour_Prey.description>
+  
+    <!-- 基础吞噬类型统计 -->
+  <RV2_Type_Cleavage_Predator.label>吞噬记录：捕食者(乳沟)</RV2_Type_Cleavage_Predator.label>
+  <RV2_Type_Cleavage_Predator.description>通过乳沟吞噬猎物的次数统计</RV2_Type_Cleavage_Predator.description>
+
+  <RV2_Type_Cleavage_Prey.label>吞噬记录：猎物(乳沟)</RV2_Type_Cleavage_Prey.label>
+  <RV2_Type_Cleavage_Prey.description>作为猎物被乳沟吞噬的次数统计</RV2_Type_Cleavage_Prey.description>
+
+  <RV2_Type_CockBladder_Predator.label>吞噬记录：捕食者(阴茎膀胱)</RV2_Type_CockBladder_Predator.label>
+  <RV2_Type_CockBladder_Predator.description>通过阴茎将猎物压入膀胱的次数统计</RV2_Type_CockBladder_Predator.description>
+
+  <RV2_Type_CockBladder_Prey.label>吞噬记录：猎物(阴茎膀胱)</RV2_Type_CockBladder_Prey.label>
+  <RV2_Type_CockBladder_Prey.description>作为猎物被阴茎压入膀胱的次数统计</RV2_Type_CockBladder_Prey.description>
+
+  <RV2_Type_VaginalBladder_Predator.label>吞噬记录：捕食者(阴道膀胱)</RV2_Type_VaginalBladder_Predator.label>
+  <RV2_Type_VaginalBladder_Predator.description>通过阴道将猎物压入膀胱的次数统计</RV2_Type_VaginalBladder_Predator.description>
+
+  <RV2_Type_VaginalBladder_Prey.label>吞噬记录：猎物(阴道膀胱)</RV2_Type_VaginalBladder_Prey.label>
+  <RV2_Type_VaginalBladder_Prey.description>作为猎物被阴道压入膀胱的次数统计</RV2_Type_VaginalBladder_Prey.description>
+
+  <RV2_Type_Membrane_Predator.label>吞噬记录：捕食者(皮肤)</RV2_Type_Membrane_Predator.label>
+  <RV2_Type_Membrane_Predator.description>通过皮肤吞噬猎物的次数统计</RV2_Type_Membrane_Predator.description>
+
+  <RV2_Type_Membrane_Prey.label>吞噬记录：猎物(皮肤)</RV2_Type_Membrane_Prey.label>
+  <RV2_Type_Membrane_Prey.description>作为猎物被皮肤吞噬的次数统计</RV2_Type_Membrane_Prey.description>
+
+  <RV2_Type_Navel_Predator.label>吞噬记录：捕食者(肚脐)</RV2_Type_Navel_Predator.label>
+  <RV2_Type_Navel_Predator.description>通过肚脐吞噬猎物的次数统计</RV2_Type_Navel_Predator.description>
+
+  <RV2_Type_Navel_Prey.label>吞噬记录：猎物(肚脐)</RV2_Type_Navel_Prey.label>
+  <RV2_Type_Navel_Prey.description>作为猎物被肚脐吞噬的次数统计</RV2_Type_Navel_Prey.description>
+
+  <RV2_Type_Tailmaw_Predator.label>吞噬记录：捕食者(尾口)</RV2_Type_Tailmaw_Predator.label>
+  <RV2_Type_Tailmaw_Predator.description>通过尾部口器吞噬猎物的次数统计</RV2_Type_Tailmaw_Predator.description>
+
+  <RV2_Type_Tailmaw_Prey.label>吞噬记录：猎物(尾口)</RV2_Type_Tailmaw_Prey.label>
+  <RV2_Type_Tailmaw_Prey.description>作为猎物被尾部口器吞噬的次数统计</RV2_Type_Tailmaw_Prey.description>
+
+  <RV2_Type_Udder_Predator.label>吞噬记录：捕食者(乳房)</RV2_Type_Udder_Predator.label>
+  <RV2_Type_Udder_Predator.description>通过乳房吞噬猎物的次数统计</RV2_Type_Udder_Predator.description>
+
+  <RV2_Type_Udder_Prey.label>吞噬记录：猎物(乳房)</RV2_Type_Udder_Prey.label>
+  <RV2_Type_Udder_Prey.description>作为猎物被乳房吞噬的次数统计</RV2_Type_Udder_Prey.description>
+
+
+  <!-- 捕食结果记录 -->
+  <RV2_Goal_Digest_Predator.label>吞噬记录：捕食者(消化)</RV2_Goal_Digest_Predator.label>
+  <RV2_Goal_Digest_Predator.description>成功消化猎物的次数。</RV2_Goal_Digest_Predator.description>
+
+  <RV2_Goal_Digest_Prey.label>吞噬记录：猎物(消化)</RV2_Goal_Digest_Prey.label>
+  <RV2_Goal_Digest_Prey.description>被完全消化的次数。</RV2_Goal_Digest_Prey.description>
+
+  <RV2_Goal_ConvertLube_Predator.label>吞噬记录：捕食者(润滑转化)</RV2_Goal_ConvertLube_Predator.label>
+  <RV2_Goal_ConvertLube_Predator.description>将猎物转化为润滑液的次数。</RV2_Goal_ConvertLube_Predator.description>
+
+  <RV2_Goal_ConvertLube_Prey.label>吞噬记录：猎物(润滑转化)</RV2_Goal_ConvertLube_Prey.label>
+  <RV2_Goal_ConvertLube_Prey.description>被转化为润滑液的次数。</RV2_Goal_ConvertLube_Prey.description>
+
+  <RV2_Goal_ConvertMilk_Predator.label>吞噬记录：捕食者(乳汁转化)</RV2_Goal_ConvertMilk_Predator.label>
+  <RV2_Goal_ConvertMilk_Predator.description>将猎物转化为乳汁的次数。</RV2_Goal_ConvertMilk_Predator.description>
+
+  <RV2_Goal_ConvertMilk_Prey.label>吞噬记录：猎物(乳汁转化)</RV2_Goal_ConvertMilk_Prey.label>
+  <RV2_Goal_ConvertMilk_Prey.description>被转化为乳汁的次数。</RV2_Goal_ConvertMilk_Prey.description>
+
+  <RV2_Goal_ConvertSperm_Predator.label>吞噬记录：捕食者(精液转化)</RV2_Goal_ConvertSperm_Predator.label>
+  <RV2_Goal_ConvertSperm_Predator.description>将猎物转化为精液的次数。</RV2_Goal_ConvertSperm_Predator.description>
+
+  <RV2_Goal_ConvertSperm_Prey.label>吞噬记录：猎物(精液转化)</RV2_Goal_ConvertSperm_Prey.label>
+  <RV2_Goal_ConvertSperm_Prey.description>被转化为精液的次数。</RV2_Goal_ConvertSperm_Prey.description>
+
+  <RV2_Goal_Reform_Predator.label>吞噬记录：捕食者(重组)</RV2_Goal_Reform_Predator.label>
+  <RV2_Goal_Reform_Predator.description>重组猎物的次数。</RV2_Goal_Reform_Predator.description>
+
+  <RV2_Goal_Reform_Prey.label>吞噬记录：猎物(重组)</RV2_Goal_Reform_Prey.label>
+  <RV2_Goal_Reform_Prey.description>被重组的次数。</RV2_Goal_Reform_Prey.description>
+
+  <RV2_Goal_Heal_Predator.label>吞噬记录：捕食者(治疗)</RV2_Goal_Heal_Predator.label>
+  <RV2_Goal_Heal_Predator.description>通过捕食治疗猎物的次数。</RV2_Goal_Heal_Predator.description>
+
+  <RV2_Goal_Heal_Prey.label>吞噬记录：猎物(治疗)</RV2_Goal_Heal_Prey.label>
+  <RV2_Goal_Heal_Prey.description>被治疗性吞食的次数。</RV2_Goal_Heal_Prey.description>
+
+  <RV2_Goal_Pleasure_Predator.label>吞噬记录：捕食者(快感)</RV2_Goal_Pleasure_Predator.label>
+  <RV2_Goal_Pleasure_Predator.description>为获得快感而吞食猎物的次数。</RV2_Goal_Pleasure_Predator.description>
+
+  <RV2_Goal_Pleasure_Prey.label>吞噬记录：猎物(快感)</RV2_Goal_Pleasure_Prey.label>
+  <RV2_Goal_Pleasure_Prey.description>被用于快感获取而吞食的次数。</RV2_Goal_Pleasure_Prey.description>
+
+  <RV2_Goal_Store_Predator.label>吞噬记录：捕食者(长期储存)</RV2_Goal_Store_Predator.label>
+  <RV2_Goal_Store_Predator.description>长期储存猎物的次数。</RV2_Goal_Store_Predator.description>
+
+  <RV2_Goal_Store_Prey.label>吞噬记录：猎物(长期储存)</RV2_Goal_Store_Prey.label>
+  <RV2_Goal_Store_Prey.description>被长期储存的次数。</RV2_Goal_Store_Prey.description>
+
+  <RV2_Goal_Hold_Predator.label>吞噬记录：捕食者(临时储存)</RV2_Goal_Hold_Predator.label>
+  <RV2_Goal_Hold_Predator.description>临时储存猎物的次数。</RV2_Goal_Hold_Predator.description>
+
+  <RV2_Goal_Hold_Prey.label>吞噬记录：猎物(临时储存)</RV2_Goal_Hold_Prey.label>
+  <RV2_Goal_Hold_Prey.description>被临时储存的次数。</RV2_Goal_Hold_Prey.description>
+
+  <RV2_Goal_ConvertChemfuel_Predator.label>吞噬记录：捕食者(燃油转化)</RV2_Goal_ConvertChemfuel_Predator.label>
+  <RV2_Goal_ConvertChemfuel_Predator.description>将猎物转化为燃油的次数统计</RV2_Goal_ConvertChemfuel_Predator.description>
+
+  <RV2_Goal_ConvertChemfuel_Prey.label>吞噬记录：猎物(燃油转化)</RV2_Goal_ConvertChemfuel_Prey.label>
+  <RV2_Goal_ConvertChemfuel_Prey.description>作为猎物被转化为燃油的次数统计</RV2_Goal_ConvertChemfuel_Prey.description>
+
+  <RV2_Goal_ConvertEggs_Predator.label>吞噬记录：捕食者(卵化)</RV2_Goal_ConvertEggs_Predator.label>
+  <RV2_Goal_ConvertEggs_Predator.description>将猎物卵化的次数统计</RV2_Goal_ConvertEggs_Predator.description>
+
+  <RV2_Goal_ConvertEggs_Prey.label>吞噬记录：猎物(卵化)</RV2_Goal_ConvertEggs_Prey.label>
+  <RV2_Goal_ConvertEggs_Prey.description>作为猎物被卵化的次数统计</RV2_Goal_ConvertEggs_Prey.description>
+
+  <RV2_Goal_ConvertUrine_Predator.label>吞噬记录：捕食者(尿液转化)</RV2_Goal_ConvertUrine_Predator.label>
+  <RV2_Goal_ConvertUrine_Predator.description>将猎物转化为尿液的次数统计</RV2_Goal_ConvertUrine_Predator.description>
+
+  <RV2_Goal_ConvertUrine_Prey.label>吞噬记录：猎物(尿液转化)</RV2_Goal_ConvertUrine_Prey.label>
+  <RV2_Goal_ConvertUrine_Prey.description>作为猎物被转化为尿液的次数统计</RV2_Goal_ConvertUrine_Prey.description>
+
+  <RV2_Goal_Assimilate_Predator.label>吞噬记录：捕食者(永久融合)</RV2_Goal_Assimilate_Predator.label>
+  <RV2_Goal_Assimilate_Predator.description>永久融合猎物的次数统计</RV2_Goal_Assimilate_Predator.description>
+
+  <RV2_Goal_Assimilate_Prey.label>吞噬记录：猎物(永久融合)</RV2_Goal_Assimilate_Prey.label>
+  <RV2_Goal_Assimilate_Prey.description>作为猎物被永久融合的次数统计</RV2_Goal_Assimilate_Prey.description>
+
+  <RV2_Goal_Amalgamate_Predator.label>吞噬记录：捕食者(可逆融合)</RV2_Goal_Amalgamate_Predator.label>
+  <RV2_Goal_Amalgamate_Predator.description>与猎物可逆融合的次数统计</RV2_Goal_Amalgamate_Predator.description>
+
+  <RV2_Goal_Amalgamate_Prey.label>吞噬记录：猎物(可逆融合)</RV2_Goal_Amalgamate_Prey.label>
+  <RV2_Goal_Amalgamate_Prey.description>作为猎物被可逆融合的次数统计</RV2_Goal_Amalgamate_Prey.description>
+
+</LanguageData>

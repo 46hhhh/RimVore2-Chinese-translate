@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <RV2_ExternalEjectChance.label>脱出補助の成功率</RV2_ExternalEjectChance.label>
-  <RV2_ExternalEjectChance.description>他の捕食者に対して,被食者を出させる試みを成功させられる確率です.</RV2_ExternalEjectChance.description>
-
-</LanguageData>

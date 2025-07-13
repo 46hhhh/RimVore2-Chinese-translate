@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 目标激活器 -->
+  <!-- 主要解锁角色现有类型的新目标 -->
+  
+  <RV2_GoalEnabler_Absorb.label>同化激活细胞</RV2_GoalEnabler_Absorb.label>
+  <RV2_GoalEnabler_Absorb.description>通过特殊机械纳米技术改变皮肤特性，使穿戴者能够可逆或不可逆地同化猎物的装置。</RV2_GoalEnabler_Absorb.description>
+
+  <RV2_GoalEnabler_ConvertChemfuel.label>燃油转化激活器</RV2_GoalEnabler_ConvertChemfuel.label>
+  <RV2_GoalEnabler_ConvertChemfuel.description>利用特殊机械纳米技术激活器官转化液，将生物组织转化为液态燃料的装置。</RV2_GoalEnabler_ConvertChemfuel.description>
+
+  <RV2_GoalEnabler_ConvertEggs.label>卵化激活器</RV2_GoalEnabler_ConvertEggs.label>
+  <RV2_GoalEnabler_ConvertEggs.description>通过特殊机械纳米技术激活卵巢转化液，将生物质转化为卵细胞的装置。</RV2_GoalEnabler_ConvertEggs.description>
+
+  <RV2_GoalEnabler_ConvertUrine.label>尿液转化激活器</RV2_GoalEnabler_ConvertUrine.label>
+  <RV2_GoalEnabler_ConvertUrine.description>运用特殊机械纳米技术激活肾脏转化液，将代谢废物转化为优质肥料尿液的装置。</RV2_GoalEnabler_ConvertUrine.description>
+
+  <!-- 类型激活器 -->
+  <!-- 主要解锁角色现有目标的新吞噬类型 -->
+
+  <RV2_TypeEnabler_Cleavage.label>胸部陷落装置</RV2_TypeEnabler_Cleavage.label>
+  <RV2_TypeEnabler_Cleavage.description>通过特殊机械纳米技术在胸部形成通往胃部的腔道，使穿戴者能够通过乳沟完整吞噬猎物的装置。</RV2_TypeEnabler_Cleavage.description>
+
+  <RV2_TypeEnabler_Membrane.label>表皮异化激活器</RV2_TypeEnabler_Membrane.label>
+  <RV2_TypeEnabler_Membrane.description>利用特殊机械纳米技术将生物表皮转化为黏液态组织，使穿戴者能够通过体表直接吞噬猎物的装置。</RV2_TypeEnabler_Membrane.description>
+
+  <RV2_TypeEnabler_Navel.label>腹部陷落探针</RV2_TypeEnabler_Navel.label>
+  <RV2_TypeEnabler_Navel.description>通过特殊机械纳米技术增强腹部延展性，将脐部改造为连通胃部的吞噬通道，实现脐部完整吞噬的装置。</RV2_TypeEnabler_Navel.description>
+
+  <RV2_TypeEnabler_Tailmaw.label>尾口觉醒器</RV2_TypeEnabler_Tailmaw.label>
+  <RV2_TypeEnabler_Tailmaw.description>运用特殊机械纳米技术在尾部构建与胃部相连的消化道，形成可吞噬猎物的尾部口腔的装置。</RV2_TypeEnabler_Tailmaw.description>
+
+  <RV2_TypeEnabler_Udder.label>乳房软化器</RV2_TypeEnabler_Udder.label>
+  <RV2_TypeEnabler_Udder.description>通过特殊机械纳米技术激活乳房组织延展性，使穿戴者能够通过乳腺系统完整吞噬猎物的装置。</RV2_TypeEnabler_Udder.description>
+
+</LanguageData>
+

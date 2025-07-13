@@ -22,7 +22,7 @@
   <RV2R_EndoRecovery.stages.5.label>沉醉</RV2R_EndoRecovery.stages.5.label>
 
   <RV2R_VoreEncumbrence.label>猎物负重</RV2R_VoreEncumbrence.label>
-  <RV2R_VoreEncumbrence.description>因被食者的重量而对捕食者造成的行动阻碍。</RV2R_VoreEncumbrence.description>
+  <RV2R_VoreEncumbrence.description>因猎物的重量而对捕食者造成的行动阻碍。</RV2R_VoreEncumbrence.description>
 
   <RV2R_PreyInStomachDrain.label>胃中猎物</RV2R_PreyInStomachDrain.label>
   <RV2R_PreyInStomachDrain.description>该角色正在尝试从猎物身上汲取营养，同时保持其存活。</RV2R_PreyInStomachDrain.description>

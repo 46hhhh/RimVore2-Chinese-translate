@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MH: pretend it makes sense that you can pick up and move a puddle. they, uh, store it perfectly in their mouths and spit it out -->
+
+  <RV2_Container_PissPuddle.label>尿液水洼</RV2_Container_PissPuddle.label>
+  <RV2_Container_PissPuddle.description>一个气味浓重的小便水，表面可能漂浮着未溶解的残留物。</RV2_Container_PissPuddle.description>
+
+</LanguageData>
