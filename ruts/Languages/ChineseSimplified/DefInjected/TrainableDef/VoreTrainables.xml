@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlayVore.label>嬉戏性捕食</PlayVore.label>
+  <PlayVore.description>使家畜能自发地对殖民者或其他家畜发起安全的嬉戏性捕食行为。</PlayVore.description>
+
+  <EnemyVore.label>战斗性捕食</EnemyVore.label>
+  <EnemyVore.description>使家畜会主动吞食附近倒地的敌对单位。</EnemyVore.description>
+
+  <HealVore.label>治疗性吞噬</HealVore.label>
+  <HealVore.description>使家畜会通过吞食来救治附近倒地的殖民者或盟友。\n需要"治愈猎物的再生体液"特性支持。</HealVore.description>
+
+</LanguageData>

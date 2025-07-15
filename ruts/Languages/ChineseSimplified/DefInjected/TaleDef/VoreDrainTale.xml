@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RV2R_GoalFinish_Drain.label>完成捕食目标</RV2R_GoalFinish_Drain.label>
+  <RV2R_GoalFinish_Drain.rulePack.rulesString>
+    <li>circumstance_phrase->毫无自责之意地</li>
+    <li>circumstance_phrase->在冷酷的效率中</li>
+    <li>circumstance_phrase->带着狂热的气势</li>
+    <li>circumstance_phrase->以迅捷机械的动作</li>
+    <li>circumstance_phrase->仿佛不存在任何情感</li>
+    <li>circumstance_phrase->迫于无奈的理由</li>
+    <li>circumstance_phrase->半途而废地颤抖着</li>
+    <li>circumstance_phrase->以囫囵吞枣的方式</li>
+    
+    <li>RV2_goalFinish_tale_noun->[PREDATOR_definite]完成了对[PREY_definite]的[RV2_goalFinish_verb]</li>
+    <li>RV2_goalFinish_tale_noun->[PREDATOR_definite][RV2_adverb]完成了对[PREY_definite]的[RV2_goalFinish_verb]</li>
+    <li>RV2_goalFinish_tale_noun->[PREDATOR_definite][RV2_addendum]完成了对[PREY_definite]的[RV2_goalFinish_verb]</li>
+    <li>RV2_goalFinish_tale_noun->[PREDATOR_definite]完成了[PREY_definite]的[RV2_goalFinish_noun]过程</li>
+    <li>RV2_goalFinish_tale_noun->[PREDATOR_definite]在[RV2_adjective]中完成了[PREY_definite]的[RV2_goalFinish_noun]过程</li>
+    <li>RV2_goalFinish_tale_noun->[PREDATOR_definite][RV2_addendum]完成了[PREY_definite]的[RV2_goalFinish_noun]过程</li>
+    <li>RV2_goalFinish_tale_noun->[PREDATOR_definite]对猎物完成了[VOREGOAL_label]</li>
+    
+    <li>RV2_goalFinish_image->[PREDATOR_definite]完成了[RV2_goalFinish_noun]过程</li>
+    <li>RV2_goalFinish_image->[PREDATOR_definite]在[RV2_adjective]中完成了[RV2_goalFinish_noun]过程</li>
+    <li>RV2_goalFinish_image->[PREDATOR_definite]完成了[PREY_definite]的[RV2_goalFinish_noun]过程</li>
+    <li>RV2_goalFinish_image->[PREDATOR_definite]在[RV2_adjective]中完成了[PREY_definite]的[RV2_goalFinish_noun]过程</li>
+    
+    <li>RV2_goalFinish_desc_sentence->[PREY_definite]在[PREDATOR_definite]体内完全失去了方向感，分不清上下左右</li>
+    <li>RV2_goalFinish_desc_sentence->[PREDATOR_possessive]身体为适应[PREY_definite]而产生扭曲，[PREDATOR_definite]愉快地活动着这处隆起</li>
+    <li>RV2_goalFinish_desc_sentence->[PREY_definite]像爬行般从体内挣脱而出</li>
+    
+    <li>RV2_goalFinish_init(p=2)-></li>
+    <li>RV2_goalFinish_init->[PREDATOR_definite]总算将[PREY_definite]吞了下去</li>
+    <li>RV2_goalFinish_init->[PREY_definite]被[PREDATOR_definite]吞入腹中</li>
+    <li>RV2_goalFinish_init->[PREY_definite]失去踪迹，确认存在于[PREDATOR_definite]体内</li>
+    <li>RV2_goalFinish_init->[PREDATOR_definite]把玩着[PREY_definite]，将其收入[PREDATOR_pronoun]体内</li>
+    <li>RV2_goalFinish_init->[PREDATOR_definite]强行将[PREY_definite]塞入[PREDATOR_pronoun]体内</li>
+    <li>RV2_goalFinish_init->[PREY_definite]明知会发生什么，还是进入了[PREDATOR_definite]体内</li>
+    
+    <li>RV2_goalFinish_desc_capacity(p=2)-></li>
+    <li>RV2_goalFinish_desc_capacity->[PREDATOR_definite]几乎将[PREY_definite]压扁，[PREY_pronoun]赖以生存的空气全被污浊地排出</li>
+    <li>RV2_goalFinish_desc_capacity->[PREDATOR_definite]紧紧束缚着[PREY_definite]，使其无法动弹</li>
+    <li>RV2_goalFinish_desc_capacity->[PREY_definite]尚有足够的活动空间</li>
+    <li>RV2_goalFinish_desc_capacity->[PREY_definite]在[PREDATOR_definite]体内伸展身体放松</li>
+    
+    <li>RV2_goalFinish_desc_sound(p=5)-></li>
+    <li>RV2_goalFinish_desc_sound->[PREY_definite]竖起耳朵，等待着被释放的时刻</li>
+    <li>RV2_goalFinish_desc_sound->[PREY_definite]甚至听不清[PREDATOR_definite]在说什么</li>
+    <li>RV2_goalFinish_desc_sound->[PREY_definite]艰难地分辨着[PREDATOR_definite]对[PREY_pronoun]说的话</li>
+    <li>RV2_goalFinish_desc_sound->[PREY_definite]勉强能听见周围机器的运转声</li>
+    <li>RV2_goalFinish_desc_sound->[PREDATOR_possessive]声音产生共鸣，让[PREY_definite]感到舒适</li>
+    <li>RV2_goalFinish_desc_sound->[PREDATOR_possessive]声音在体内回响，嘲笑着[PREY_definite]</li>
+    <li>RV2_goalFinish_desc_sound->[PREDATOR_definite]体外似乎传来嘈杂的声响</li>
+    <li>RV2_goalFinish_desc_sound->[PREDATOR_definite]体外似乎传来火药爆炸的声音</li>
+    <li>RV2_goalFinish_desc_sound->周围笼罩着诡异的寂静</li>
+    <li>RV2_goalFinish_desc_sound->体内回荡着震耳欲聋的冲击</li>
+    
+    <li>RV2_goalFinish_desc_sight(p=5)-></li>
+    <li>RV2_goalFinish_desc_sight->[PREY_definite]被遮蔽光线的肉壁包围，陷入完全的黑暗</li>
+    <li>RV2_goalFinish_desc_sight->[PREY_definite]在[PREDATOR_definite]体内什么都看不见</li>
+    <li>RV2_goalFinish_desc_sight->[PREY_definite]能隐约看见微光透过捕食者的肉壁照射进来</li>
+    <li>RV2_goalFinish_desc_sight->[PREDATOR_possessive]肉体某处发出异常光亮，为[PREY_definite]提供了勉强可见的光线</li>
+    <li>RV2_goalFinish_desc_sight->[PREY_definite]发现了其他猎物在[PREDATOR_definite]体内存在的痕迹</li>
+    <li>RV2_goalFinish_desc_sight->[PREY_definite]发现了[PREDATOR_definite]昔日猎物试图逃脱的痕迹</li>
+    <li>RV2_goalFinish_desc_sight->[PREY_definite]完全浸没在液体中</li>
+    <li>RV2_goalFinish_desc_sight->[PREY_definite]周围仅存的空间几乎全被液体填满</li>
+    <li>RV2_goalFinish_desc_sight->[PREY_definite]周围的一切都覆盖着薄薄一层液体</li>
+    
+    <li>desc_sentence->[RV2_goalFinish_init] [RV2_goalFinish_desc_capacity] [RV2_goalFinish_desc_sound] [RV2_goalFinish_desc_sight] [RV2_goalFinish_desc_sentence]</li>
+  </RV2R_GoalFinish_Drain.rulePack.rulesString>
+
+  <RV2R_VoreExit_OralDrain.label>捕食行为结束</RV2R_VoreExit_OralDrain.label>
+  <RV2R_VoreExit_OralDrain.rulePack.rulesString>
+    <li>circumstance_phrase->毫无悔意地</li>
+    <li>circumstance_phrase->在冷酷的效率中</li>
+    <li>circumstance_phrase->带着狂热的势头</li>
+    <li>circumstance_phrase->以迅捷机械的动作</li>
+    <li>circumstance_phrase->仿佛毫无情感波动</li>
+    <li>circumstance_phrase->迫于无奈的理由</li>
+    <li>circumstance_phrase->犹豫不决地颤抖着</li>
+    <li>circumstance_phrase->以囫囵吞枣的方式</li>
+    
+    <li>RV2_exit_tale_noun->[PREDATOR_definite]将[PREY_nameDef][RV2_exit_predVerb]</li>
+    <li>RV2_exit_tale_noun->[PREDATOR_definite][RV2_adverb]将[PREY_nameDef][RV2_exit_predVerb]</li>
+    
+    <li>tale_noun->[RV2_exit_tale_noun]</li>
+    
+    <li>RV2_exit_image->[PREY_definite]被[PREDATOR_definite][RV2_exit_preyVerb]</li>
+    <li>RV2_exit_image->[PREY_definite][RV2_adverb]被[PREDATOR_definite][RV2_exit_preyVerb]</li>
+    
+    <li>image->[RV2_exit_image]</li>
+    
+    <li>RV2_exit_desc_sentence->[PREDATOR_definite]正在为下一个猎物做准备</li>
+    <li>RV2_exit_desc_sentence->[PREDATOR_definite]找到了更好的猎物</li>
+    
+    <li>desc_sentence(p=2)->[RV2_exit_desc_sentence]</li>
+    
+    <li>RV2_exit_predVerb->排出</li>
+    <li>RV2_exit_preyVerb->排出</li>
+  </RV2R_VoreExit_OralDrain.rulePack.rulesString>
+  
+
+  <RV2R_VoreExit_AnalDrain.label>捕食行为结束</RV2R_VoreExit_OralDrain.label>
+  <RV2R_VoreExit_AnalDrain.rulePack.rulesString>
+    <li>circumstance_phrase->毫无悔意地</li>
+    <li>circumstance_phrase->在冷酷的效率中</li>
+    <li>circumstance_phrase->带着狂热的势头</li>
+    <li>circumstance_phrase->以迅捷机械的动作</li>
+    <li>circumstance_phrase->仿佛毫无情感波动</li>
+    <li>circumstance_phrase->迫于无奈的理由</li>
+    <li>circumstance_phrase->犹豫不决地颤抖着</li>
+    <li>circumstance_phrase->以囫囵吞枣的方式</li>
+    
+    <li>RV2_exit_tale_noun->[PREDATOR_definite]将[PREY_nameDef][RV2_exit_predVerb]</li>
+    <li>RV2_exit_tale_noun->[PREDATOR_definite][RV2_adverb]将[PREY_nameDef][RV2_exit_predVerb]</li>
+    
+    <li>tale_noun->[RV2_exit_tale_noun]</li>
+    
+    <li>RV2_exit_image->[PREY_definite]被[PREDATOR_definite][RV2_exit_preyVerb]</li>
+    <li>RV2_exit_image->[PREY_definite][RV2_adverb]被[PREDATOR_definite][RV2_exit_preyVerb]</li>
+    
+    <li>image->[RV2_exit_image]</li>
+    
+    <li>RV2_exit_desc_sentence->[PREDATOR_definite]正在为下一个猎物做准备</li>
+    <li>RV2_exit_desc_sentence->[PREDATOR_definite]找到了更好的猎物</li>
+    
+    <li>desc_sentence(p=2)->[RV2_exit_desc_sentence]</li>
+    
+    <li>RV2_exit_predVerb->排出</li>
+    <li>RV2_exit_preyVerb->排出</li>
+  </RV2R_VoreExit_AnalDrain.rulePack.rulesString>
+
+  <RV2R_VoreInitiation_OralDrain.label>捕食行为开始</RV2R_VoreInitiation_OralDrain.label>
+  <RV2R_VoreInitiation_OralDrain.rulePack.rulesString>
+    <li>circumstance_phrase->毫无愧疚地</li>
+    <li>circumstance_phrase->在冰冷的效率中</li>
+    <li>circumstance_phrase->带着狂热的势头</li>
+    <li>circumstance_phrase->以迅捷机械的动作</li>
+    <li>circumstance_phrase->仿佛毫无情感波动</li>
+    <li>circumstance_phrase->迫于无奈的理由</li>
+    <li>circumstance_phrase->犹豫不决地颤抖着</li>
+    <li>circumstance_phrase->以囫囵吞枣的方式</li>
+    
+    <li>RV2_init_tale_noun->[PREDATOR_definite]将[PREY_definite][RV2_init_predVerb]</li>
+    <li>RV2_init_tale_noun->[PREDATOR_definite]用[PREDATOR_possessive][RV2_bodypart]将[PREY_definite][RV2_init_predVerb]</li>
+    <li>RV2_init_tale_noun->[PREDATOR_definite]为将[PREY_definite][RV2_init_predVerb]而扩张[VOREPATH_label]</li>
+    <li>RV2_init_tale_noun->[PREDATOR_definite][RV2_adverb]将[PREY_definite][RV2_init_predVerb]</li>
+    <li>RV2_init_tale_noun->[PREDATOR_definite][RV2_addendum]将[PREY_definite][RV2_init_predVerb]</li>
+    <li>RV2_init_tale_noun->[PREY_definite]被[PREDATOR_definite][RV2_init_preyVerb]</li>
+    <li>RV2_init_tale_noun->[PREY_definite]被[PREDATOR_definite]的[RV2_bodypart][RV2_init_preyVerb]</li>
+    
+    <li>tale_noun->[RV2_init_tale_noun]</li>
+    
+    <li>RV2_init_image->[PREDATOR_definite]将[PREY_definite][RV2_init_predVerb]</li>
+    <li>RV2_init_image->[PREY_definite]被[PREDATOR_definite][RV2_init_preyVerb]</li>
+    <li>RV2_init_image->[PREDATOR_definite]膨胀[PREDATOR_possessive][RV2_bodypart]</li>
+    <li>RV2_init_image->[PREDATOR_definite]为容纳[PREY_definite]而膨胀[PREDATOR_possessive][RV2_bodypart]</li>
+    <li>RV2_init_image->[PREY_definite]消失在[PREDATOR_definite]的[RV2_bodypart]中</li>
+    <li>RV2_init_image->[PREDATOR_definite]将[PREY_definite]塞入[PREDATOR_possessive][RV2_bodypart]</li>
+    <li>RV2_init_image->[PREY_definite]沉入[PREDATOR_possessive][RV2_bodypart]</li>
+    <li>RV2_init_image->[PREDATOR_definite]和[PREDATOR_possessive][RV2_bodypart]正容纳着[PREY_definite]</li>
+    <li>RV2_init_image->[PREY_definite]的轮廓浮现在[PREDATOR_definite]和[PREDATOR_possessive][RV2_bodypart]上</li>
+    
+    <li>image->[RV2_init_image]</li>
+    
+    <li>RV2_init_desc_sentence->[PREY_definite]消失前留下了最后的微弱声音</li>
+    <li>RV2_init_desc_sentence->[PREY_definite]成为了[PREDATOR_definite]身上的隆起</li>
+    <li>RV2_init_desc_sentence->[PREY_definite]只是变成了[PREDATOR_definite]的[RV2_bodypart]上的一个隆起</li>
+    <li>RV2_init_desc_sentence->[PREDATOR_definite][RV2_addendum]进行着这个过程</li>
+    <li>RV2_init_desc_sentence->[PREDATOR_definite]充满了[RV2_adjective]</li>
+    <li>RV2_init_desc_sentence->[PREDATOR_definite]感受着[PREDATOR_possessive][RV2_bodypart]的伸缩性</li>
+    
+    <li>desc_sentence->[RV2_init_desc_sentence]</li>
+    
+    <li>RV2_init_predVerb->吞入</li>
+    <li>RV2_init_preyVerb->吞没</li>
+    <li>RV2_init_preyVerb->被[RV2_adverb]吞没</li>
+    <li>RV2_init_preyVerb->在面前消失</li>
+    <li>RV2_init_preyVerb->消失在内部</li>
+    
+    <li>RV2_adverb->愉悦地</li>
+    <li>RV2_adverb->恶意地</li>
+    
+    <li>RV2_addendum->在[RV2_adjective]之中</li>
+    
+    <li>RV2_adjective->欢愉</li>
+    <li>RV2_adjective->恶意</li>
+  </RV2R_VoreInitiation_OralDrain.rulePack.rulesString>
+  
+  <RV2R_VoreInitiation_AnalDrain.label>捕食行为开始</RV2R_VoreInitiation_OralDrain.label>
+  <RV2R_VoreInitiation_AnalDrain.rulePack.rulesString>
+    <li>circumstance_phrase->毫无愧疚地</li>
+    <li>circumstance_phrase->在冰冷的效率中</li>
+    <li>circumstance_phrase->带着狂热的势头</li>
+    <li>circumstance_phrase->以迅捷机械的动作</li>
+    <li>circumstance_phrase->仿佛毫无情感波动</li>
+    <li>circumstance_phrase->迫于无奈的理由</li>
+    <li>circumstance_phrase->犹豫不决地颤抖着</li>
+    <li>circumstance_phrase->以囫囵吞枣的方式</li>
+    
+    <li>RV2_init_tale_noun->[PREDATOR_definite]将[PREY_definite][RV2_init_predVerb]</li>
+    <li>RV2_init_tale_noun->[PREDATOR_definite]用[PREDATOR_possessive][RV2_bodypart]将[PREY_definite][RV2_init_predVerb]</li>
+    <li>RV2_init_tale_noun->[PREDATOR_definite]为将[PREY_definite][RV2_init_predVerb]而扩张[VOREPATH_label]</li>
+    <li>RV2_init_tale_noun->[PREDATOR_definite][RV2_adverb]将[PREY_definite][RV2_init_predVerb]</li>
+    <li>RV2_init_tale_noun->[PREDATOR_definite][RV2_addendum]将[PREY_definite][RV2_init_predVerb]</li>
+    <li>RV2_init_tale_noun->[PREY_definite]被[PREDATOR_definite][RV2_init_preyVerb]</li>
+    <li>RV2_init_tale_noun->[PREY_definite]被[PREDATOR_definite]的[RV2_bodypart][RV2_init_preyVerb]</li>
+    
+    <li>tale_noun->[RV2_init_tale_noun]</li>
+    
+    <li>RV2_init_image->[PREDATOR_definite]将[PREY_definite][RV2_init_predVerb]</li>
+    <li>RV2_init_image->[PREY_definite]被[PREDATOR_definite][RV2_init_preyVerb]</li>
+    <li>RV2_init_image->[PREDATOR_definite]膨胀[PREDATOR_possessive][RV2_bodypart]</li>
+    <li>RV2_init_image->[PREDATOR_definite]为容纳[PREY_definite]而膨胀[PREDATOR_possessive][RV2_bodypart]</li>
+    <li>RV2_init_image->[PREY_definite]消失在[PREDATOR_definite]的[RV2_bodypart]中</li>
+    <li>RV2_init_image->[PREDATOR_definite]将[PREY_definite]塞入[PREDATOR_possessive][RV2_bodypart]</li>
+    <li>RV2_init_image->[PREY_definite]沉入[PREDATOR_possessive][RV2_bodypart]</li>
+    <li>RV2_init_image->[PREDATOR_definite]和[PREDATOR_possessive][RV2_bodypart]正容纳着[PREY_definite]</li>
+    <li>RV2_init_image->[PREY_definite]的轮廓浮现在[PREDATOR_definite]和[PREDATOR_possessive][RV2_bodypart]上</li>
+    
+    <li>image->[RV2_init_image]</li>
+    
+    <li>RV2_init_desc_sentence->[PREY_definite]消失前留下了最后的微弱声音</li>
+    <li>RV2_init_desc_sentence->[PREY_definite]成为了[PREDATOR_definite]身上的隆起</li>
+    <li>RV2_init_desc_sentence->[PREY_definite]只是变成了[PREDATOR_definite]的[RV2_bodypart]上的一个隆起</li>
+    <li>RV2_init_desc_sentence->[PREDATOR_definite][RV2_addendum]进行着这个过程</li>
+    <li>RV2_init_desc_sentence->[PREDATOR_definite]充满了[RV2_adjective]</li>
+    <li>RV2_init_desc_sentence->[PREDATOR_definite]感受着[PREDATOR_possessive][RV2_bodypart]的伸缩性</li>
+    
+    <li>desc_sentence->[RV2_init_desc_sentence]</li>
+    
+    <li>RV2_init_predVerb->吞入</li>
+    <li>RV2_init_preyVerb->吞没</li>
+    <li>RV2_init_preyVerb->被[RV2_adverb]吞没</li>
+    <li>RV2_init_preyVerb->在面前消失</li>
+    <li>RV2_init_preyVerb->消失在内部</li>
+    
+    <li>RV2_adverb->愉悦地</li>
+    <li>RV2_adverb->恶意地</li>
+    
+    <li>RV2_addendum->在[RV2_adjective]之中</li>
+    
+    <li>RV2_adjective->欢愉</li>
+    <li>RV2_adjective->恶意</li>
+  </RV2R_VoreInitiation_AnalDrain.rulePack.rulesString>
+  
+</LanguageData>
