@@ -2,10 +2,10 @@
 <LanguageData>
 
   <RV2_DigestionStrength.label>消化强度</RV2_DigestionStrength.label>
-  <RV2_DigestionStrength.description>溶解猎物所需的时间速率。</RV2_DigestionStrength.description>
+  <RV2_DigestionStrength.description>溶解猎物的速度。</RV2_DigestionStrength.description>
 
-  <RV2_DigestionResistance.label>消化抗性</RV2_DigestionResistance.label>
-  <RV2_DigestionResistance.description>作为猎物时抵抗被溶解的速度。</RV2_DigestionResistance.description>
+  <RV2_DigestionResistance.label>被消化速度</RV2_DigestionResistance.label>
+  <RV2_DigestionResistance.description>作为猎物被溶解的速度。</RV2_DigestionResistance.description>
 
   <RV2_SwallowSpeed.label>吞咽/排出速度</RV2_SwallowSpeed.label>
   <RV2_SwallowSpeed.description>将猎物纳入体内或排出时的速度。</RV2_SwallowSpeed.description>
