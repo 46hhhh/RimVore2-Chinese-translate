@@ -298,51 +298,51 @@
 
   <!-- Membrane -->
 
-  <RV2_PreyInMembraneDumping.stages.0.label>Shedding remains from membrane</RV2_PreyInMembraneDumping.stages.0.label>
-  <RV2_PreyInMembraneDumping.stages.0.description>Gotta keep my insides clean!</RV2_PreyInMembraneDumping.stages.0.description>
-  <RV2_PreyInMembraneDumping.stages.1.label>SHedding multiple remains from membrane</RV2_PreyInMembraneDumping.stages.1.label>
-  <RV2_PreyInMembraneDumping.stages.1.description>Everyone always leaving so much junk inside me... At least it feels nice coming out!</RV2_PreyInMembraneDumping.stages.1.description>
+  <RV2_PreyInMembraneDumping.stages.0.label>从融膜上脱离残留物</RV2_PreyInMembraneDumping.stages.0.label>
+  <RV2_PreyInMembraneDumping.stages.0.description>必须保持我的内部清洁！</RV2_PreyInMembraneDumping.stages.0.description>
+  <RV2_PreyInMembraneDumping.stages.1.label>从融膜上脱离几个残留物</RV2_PreyInMembraneDumping.stages.1.label>
+  <RV2_PreyInMembraneDumping.stages.1.description>每个人总是在我部里留下很多垃圾......至少现在排出来的感觉很好！</RV2_PreyInMembraneDumping.stages.1.description>
 
-  <RV2_PreyInMembraneExiting.stages.0.label>Releasing prey from membrane</RV2_PreyInMembraneExiting.stages.0.label>
-  <RV2_PreyInMembraneExiting.stages.0.description>I guess we're splitting here!</RV2_PreyInMembraneExiting.stages.0.description>
-  <RV2_PreyInMembraneExiting.stages.1.label>Releasing multiple prey from membrane</RV2_PreyInMembraneExiting.stages.1.label>
-  <RV2_PreyInMembraneExiting.stages.1.description>I feel so much squishier!</RV2_PreyInMembraneExiting.stages.1.description>
+  <RV2_PreyInMembraneExiting.stages.0.label>从融膜中释放猎物</RV2_PreyInMembraneExiting.stages.0.label>
+  <RV2_PreyInMembraneExiting.stages.0.description>我想我们该分开了！</RV2_PreyInMembraneExiting.stages.0.description>
+  <RV2_PreyInMembraneExiting.stages.1.label>从融膜中释放几个猎物</RV2_PreyInMembraneExiting.stages.1.label>
+  <RV2_PreyInMembraneExiting.stages.1.description>我感觉现在自己变得更加柔软了！</RV2_PreyInMembraneExiting.stages.1.description>
 
-  <RV2_PreyInMembranePassing.stages.0.label>Prey partially-engulfed</RV2_PreyInMembranePassing.stages.0.label>
-  <RV2_PreyInMembranePassing.stages.0.description>Come on in; the water's fine!</RV2_PreyInMembranePassing.stages.0.description>
-  <RV2_PreyInMembranePassing.stages.1.label>Multiple prey partially-engulfed</RV2_PreyInMembranePassing.stages.1.label>
-  <RV2_PreyInMembranePassing.stages.1.description>Pool party!~</RV2_PreyInMembranePassing.stages.1.description>
+  <RV2_PreyInMembranePassing.stages.0.label>猎物被部分吞噬</RV2_PreyInMembranePassing.stages.0.label>
+  <RV2_PreyInMembranePassing.stages.0.description>进来吧，水很好的哦！</RV2_PreyInMembranePassing.stages.0.description>
+  <RV2_PreyInMembranePassing.stages.1.label>多个猎物被部分吞噬</RV2_PreyInMembranePassing.stages.1.label>
+  <RV2_PreyInMembranePassing.stages.1.description>游泳池派对~</RV2_PreyInMembranePassing.stages.1.description>
 
-  <RV2_PreyInMembranePleasuring.stages.0.label>Pleasuring prey in membrane</RV2_PreyInMembranePleasuring.stages.0.label>
-  <RV2_PreyInMembranePleasuring.stages.0.description>This is just the start of the massage!</RV2_PreyInMembranePleasuring.stages.0.description>
-  <RV2_PreyInMembranePleasuring.stages.1.label>Pleasuring prey in membrane</RV2_PreyInMembranePleasuring.stages.1.label>
-  <RV2_PreyInMembranePleasuring.stages.1.description>Careful now! Y'all don't wanna tug me apart, do you?</RV2_PreyInMembranePleasuring.stages.1.description>
+  <RV2_PreyInMembranePleasuring.stages.0.label>融膜中取乐猎物</RV2_PreyInMembranePleasuring.stages.0.label>
+  <RV2_PreyInMembranePleasuring.stages.0.description>按摩时间！</RV2_PreyInMembranePleasuring.stages.0.description>
+  <RV2_PreyInMembranePleasuring.stages.1.label>融膜中取乐几个猎物</RV2_PreyInMembranePleasuring.stages.1.label>
+  <RV2_PreyInMembranePleasuring.stages.1.description>小心点！你们不会是想把我扯开吧？</RV2_PreyInMembranePleasuring.stages.1.description>
 
 
   <!-- Mouth -->
 
-  <RV2_PreyInMouthAmalgamating.stages.0.label>One prey amalgamated into lips</RV2_PreyInMouthAmalgamating.stages.0.label>
-  <RV2_PreyInMouthAmalgamating.stages.0.description>I promise to take good care of you.</RV2_PreyInMouthAmalgamating.stages.0.description>
-  <RV2_PreyInMouthAmalgamating.stages.1.label>Two prey amalgamated into lips</RV2_PreyInMouthAmalgamating.stages.1.label>
-  <RV2_PreyInMouthAmalgamating.stages.1.description>Padding for each lip!</RV2_PreyInMouthAmalgamating.stages.1.description>
-  <RV2_PreyInMouthAmalgamating.stages.2.label>Three prey amalgamated into lips</RV2_PreyInMouthAmalgamating.stages.2.label>
-  <RV2_PreyInMouthAmalgamating.stages.2.description>You're gonna make my lips so full and juicy!</RV2_PreyInMouthAmalgamating.stages.2.description>
-  <RV2_PreyInMouthAmalgamating.stages.3.label>Several prey amalgamated into lips</RV2_PreyInMouthAmalgamating.stages.3.label>
-  <RV2_PreyInMouthAmalgamating.stages.3.description>I could kiss the lot of you, if I didn't have to take you out to do that!</RV2_PreyInMouthAmalgamating.stages.3.description>
+  <RV2_PreyInMouthAmalgamating.stages.0.label>一个猎物融合进嘴唇</RV2_PreyInMouthAmalgamating.stages.0.label>
+  <RV2_PreyInMouthAmalgamating.stages.0.description>我保证会好好照顾你的。</RV2_PreyInMouthAmalgamating.stages.0.description>
+  <RV2_PreyInMouthAmalgamating.stages.1.label>两个猎物融合进嘴唇</RV2_PreyInMouthAmalgamating.stages.1.label>
+  <RV2_PreyInMouthAmalgamating.stages.1.description>每个嘴唇都有好好照顾哦!</RV2_PreyInMouthAmalgamating.stages.1.description>
+  <RV2_PreyInMouthAmalgamating.stages.2.label>三个猎物融合进嘴唇</RV2_PreyInMouthAmalgamating.stages.2.label>
+  <RV2_PreyInMouthAmalgamating.stages.2.description>你们让我的嘴唇丰满且多汁！</RV2_PreyInMouthAmalgamating.stages.2.description>
+  <RV2_PreyInMouthAmalgamating.stages.3.label>几个猎物融合进嘴唇</RV2_PreyInMouthAmalgamating.stages.3.label>
+  <RV2_PreyInMouthAmalgamating.stages.3.description>如果你们不出去的话，我会好好亲吻你们所有人~</RV2_PreyInMouthAmalgamating.stages.3.description>
 
-  <RV2_PreyInMouthAssimilating.stages.0.label>Assimilating prey into lips</RV2_PreyInMouthAssimilating.stages.0.label>
-  <RV2_PreyInMouthAssimilating.stages.0.description>Juicy!</RV2_PreyInMouthAssimilating.stages.0.description>
-  <RV2_PreyInMouthAssimilating.stages.1.label>Assimilating two prey into lips</RV2_PreyInMouthAssimilating.stages.1.label>
-  <RV2_PreyInMouthAssimilating.stages.1.description>Padding for each lip!</RV2_PreyInMouthAssimilating.stages.1.description>
-  <RV2_PreyInMouthAssimilating.stages.2.label>Assimilating three prey into lips</RV2_PreyInMouthAssimilating.stages.2.label>
-  <RV2_PreyInMouthAssimilating.stages.2.description>You're gonna make my lips so full and juicy!</RV2_PreyInMouthAssimilating.stages.2.description>
-  <RV2_PreyInMouthAssimilating.stages.3.label>Assimilating several prey into lips</RV2_PreyInMouthAssimilating.stages.3.label>
-  <RV2_PreyInMouthAssimilating.stages.3.description>Anyone else want a kiss?~</RV2_PreyInMouthAssimilating.stages.3.description>
+  <RV2_PreyInMouthAssimilating.stages.0.label>一个猎物同化成嘴唇</RV2_PreyInMouthAssimilating.stages.0.label>
+  <RV2_PreyInMouthAssimilating.stages.0.description>美味！</RV2_PreyInMouthAssimilating.stages.0.description>
+  <RV2_PreyInMouthAssimilating.stages.1.label>两个猎物同化成嘴唇</RV2_PreyInMouthAssimilating.stages.1.label>
+  <RV2_PreyInMouthAssimilating.stages.1.description>每个嘴唇都有哦!</RV2_PreyInMouthAssimilating.stages.1.description>
+  <RV2_PreyInMouthAssimilating.stages.2.label>三个猎物同化成嘴唇</RV2_PreyInMouthAssimilating.stages.2.label>
+  <RV2_PreyInMouthAssimilating.stages.2.description>你们让我的嘴唇丰满且多汁！</RV2_PreyInMouthAssimilating.stages.2.description>
+  <RV2_PreyInMouthAssimilating.stages.3.label>几个猎物同化成嘴唇</RV2_PreyInMouthAssimilating.stages.3.label>
+  <RV2_PreyInMouthAssimilating.stages.3.description>还有谁想要吻吗？~</RV2_PreyInMouthAssimilating.stages.3.description>
 
-  <RV2_PreyInMouthContacting.stages.0.label>Pre-absorption oral pleasure</RV2_PreyInMouthContacting.stages.0.label>
-  <RV2_PreyInMouthContacting.stages.0.description>Who says I can't play with my lip-fillers before I absorb them?</RV2_PreyInMouthContacting.stages.0.description>
-  <RV2_PreyInMouthContacting.stages.1.label>Pre-absorption oral pleasure</RV2_PreyInMouthContacting.stages.1.label>
-  <RV2_PreyInMouthContacting.stages.1.description>Everyone's fighting for a kiss!</RV2_PreyInMouthContacting.stages.1.description>
+  <RV2_PreyInMouthContacting.stages.0.label>猎物融合进嘴唇前的快感</RV2_PreyInMouthContacting.stages.0.label>
+  <RV2_PreyInMouthContacting.stages.0.description>谁说在猎物融合进嘴唇前我不能玩弄它们？</RV2_PreyInMouthContacting.stages.0.description>
+  <RV2_PreyInMouthContacting.stages.1.label>猎物同化成嘴唇前的快感</RV2_PreyInMouthContacting.stages.1.label>
+  <RV2_PreyInMouthContacting.stages.1.description>大家都在争相亲吻哦！</RV2_PreyInMouthContacting.stages.1.description>
 
   <RV2_PreyInMouthLoosening.stages.0.label>Loosening up to absorb prey into lips</RV2_PreyInMouthLoosening.stages.0.label>
   <RV2_PreyInMouthLoosening.stages.0.description>Don't mind the warmth in my kiss, dear. That's just... my breath!</RV2_PreyInMouthLoosening.stages.0.description>
