@@ -160,7 +160,7 @@
 
     <RV2_PreyInIntestinesProcessing.stages.0.label>猎物在肠道中吸收</RV2_PreyInIntestinesProcessing.stages.0.label>
     <RV2_PreyInIntestinesProcessing.stages.0.description>结束了吗？</RV2_PreyInIntestinesProcessing.stages.0.description>
-    <RV2_PreyInIntestinesProcessing.stages.1.label>2人の獲物を腸で吸収する</RV2_PreyInIntestinesProcessing.stages.1.label>
+    <RV2_PreyInIntestinesProcessing.stages.1.label>2个猎物在肠道中吸收</RV2_PreyInIntestinesProcessing.stages.1.label>
     <RV2_PreyInIntestinesProcessing.stages.1.description>Nothing left but mush...</RV2_PreyInIntestinesProcessing.stages.1.description>
     <RV2_PreyInIntestinesProcessing.stages.2.label>3人の獲物を腸で吸収する</RV2_PreyInIntestinesProcessing.stages.2.label>
     <RV2_PreyInIntestinesProcessing.stages.2.description>I can feel nature calling already...</RV2_PreyInIntestinesProcessing.stages.2.description>
