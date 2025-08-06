@@ -160,21 +160,21 @@
 
     <RV2_PreyInIntestinesProcessing.stages.0.label>猎物在肠道中吸收</RV2_PreyInIntestinesProcessing.stages.0.label>
     <RV2_PreyInIntestinesProcessing.stages.0.description>结束了吗？</RV2_PreyInIntestinesProcessing.stages.0.description>
-    <RV2_PreyInIntestinesProcessing.stages.1.label>2人の獲物を腸で吸収する</RV2_PreyInIntestinesProcessing.stages.1.label>
-    <RV2_PreyInIntestinesProcessing.stages.1.description>Nothing left but mush...</RV2_PreyInIntestinesProcessing.stages.1.description>
-    <RV2_PreyInIntestinesProcessing.stages.2.label>3人の獲物を腸で吸収する</RV2_PreyInIntestinesProcessing.stages.2.label>
-    <RV2_PreyInIntestinesProcessing.stages.2.description>I can feel nature calling already...</RV2_PreyInIntestinesProcessing.stages.2.description>
-    <RV2_PreyInIntestinesProcessing.stages.3.label>いくつもの獲物を腸で吸収する</RV2_PreyInIntestinesProcessing.stages.3.label>
-    <RV2_PreyInIntestinesProcessing.stages.3.description>I could just lie on my belly like a beanbag...~</RV2_PreyInIntestinesProcessing.stages.3.description>
+    <RV2_PreyInIntestinesProcessing.stages.1.label>两个猎物在肠道中吸收</RV2_PreyInIntestinesProcessing.stages.1.label>
+    <RV2_PreyInIntestinesProcessing.stages.1.description>什么都没剩下，只剩下些糊状物了……</RV2_PreyInIntestinesProcessing.stages.1.description>
+    <RV2_PreyInIntestinesProcessing.stages.2.label>三个猎物在肠道中吸收</RV2_PreyInIntestinesProcessing.stages.2.label>
+    <RV2_PreyInIntestinesProcessing.stages.2.description>我已经感受到大自然的召唤了……</RV2_PreyInIntestinesProcessing.stages.2.description>
+    <RV2_PreyInIntestinesProcessing.stages.3.label>几个猎物在肠道中吸收</RV2_PreyInIntestinesProcessing.stages.3.label>
+    <RV2_PreyInIntestinesProcessing.stages.3.description>我可以像趴在沙发上一样趴在肚子上……〜</RV2_PreyInIntestinesProcessing.stages.3.description>
 
     <RV2_PreyInIntestinesStoring.stages.0.label>獲物を腸に閉じ込める</RV2_PreyInIntestinesStoring.stages.0.label>
-    <RV2_PreyInIntestinesStoring.stages.0.description>They're in deep!</RV2_PreyInIntestinesStoring.stages.0.description>
+    <RV2_PreyInIntestinesStoring.stages.0.description>他们陷得好深！</RV2_PreyInIntestinesStoring.stages.0.description>
     <RV2_PreyInIntestinesStoring.stages.1.label>2人の獲物を腸に閉じ込める</RV2_PreyInIntestinesStoring.stages.1.label>
-    <RV2_PreyInIntestinesStoring.stages.1.description>Two little gut-sluts, wrapped tight like little sausage-links!~</RV2_PreyInIntestinesStoring.stages.1.description>
+    <RV2_PreyInIntestinesStoring.stages.1.description>两个小可爱像小香肠一样紧紧地连着！〜</RV2_PreyInIntestinesStoring.stages.1.description>
     <RV2_PreyInIntestinesStoring.stages.2.label>3人の獲物を腸に閉じ込める</RV2_PreyInIntestinesStoring.stages.2.label>
-    <RV2_PreyInIntestinesStoring.stages.2.description>Three links, end-to-end!</RV2_PreyInIntestinesStoring.stages.2.description>
+    <RV2_PreyInIntestinesStoring.stages.2.description>他们三首尾紧紧地相连着！</RV2_PreyInIntestinesStoring.stages.2.description>
     <RV2_PreyInIntestinesStoring.stages.3.label>いくつもの獲物を腸に閉じ込める</RV2_PreyInIntestinesStoring.stages.3.label>
-    <RV2_PreyInIntestinesStoring.stages.3.description>I hope I don't get backed up...~</RV2_PreyInIntestinesStoring.stages.3.description>
+    <RV2_PreyInIntestinesStoring.stages.3.description>我希望我不会被堵住...~</RV2_PreyInIntestinesStoring.stages.3.description>
 
 
     <!-- currently unused, will be needed when path reversal makes it in
