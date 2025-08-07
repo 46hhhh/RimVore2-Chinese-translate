@@ -1,7 +1,8 @@
-# Rimvore-CN 中文翻译模组
+# Rimvore-CN 中文翻译模组/46hhhh分支
 
 ## 模组说明
-本模组为Rimworld的Rimvore系列模组提供中文翻译支持。请注意，本模组包含补丁文件，安装时请谨慎。
+为 430230562/RimVore2-Chinese-translate 的分支 添加了原版小人闲话的翻译内容、部分扩展的闲话翻译
+正在积极拉去进  430230562/RimVore2-Chinese-translate 的翻译模组中。
 
 ## 支持模组列表
 - [Rimvore-2](https://gitlab.com/Nabber/rimvore-2)
@@ -18,15 +19,3 @@
 - RV2-Aspirations (找不到链接)
 - [RimVore2 - Esegn's Additions](https://gitlab.com/ASarcasticDragon/RV2-Esegn-Additions)  
 
-## 已知未翻译内容
-- Rimvore-2和Overstuffed模组中关于吞噬(vore)过程中的心情文本和稀有度设定(因工作量过大暂未完成)
-
-## 问题反馈
-如果您发现以下问题，欢迎报告：
-1. 补丁相关的功能问题
-2. 翻译错误(上述已知未翻译内容除外)
-
-如果您发现新的Rimvore相关模组需要翻译支持，及时报告可能会加快翻译进度。
-
-## 注意事项
-本翻译模组仍在完善中，可能会存在部分内容未完全本地化的情况。
