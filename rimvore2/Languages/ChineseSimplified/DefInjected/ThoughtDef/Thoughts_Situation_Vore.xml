@@ -167,13 +167,13 @@
     <RV2_PreyInIntestinesProcessing.stages.3.label>几个猎物在肠道中吸收</RV2_PreyInIntestinesProcessing.stages.3.label>
     <RV2_PreyInIntestinesProcessing.stages.3.description>我可以像趴在沙发上一样趴在肚子上……〜</RV2_PreyInIntestinesProcessing.stages.3.description>
 
-    <RV2_PreyInIntestinesStoring.stages.0.label>獲物を腸に閉じ込める</RV2_PreyInIntestinesStoring.stages.0.label>
+    <RV2_PreyInIntestinesStoring.stages.0.label>猎物存储在肠内</RV2_PreyInIntestinesStoring.stages.0.label>
     <RV2_PreyInIntestinesStoring.stages.0.description>他们陷得好深！</RV2_PreyInIntestinesStoring.stages.0.description>
-    <RV2_PreyInIntestinesStoring.stages.1.label>2人の獲物を腸に閉じ込める</RV2_PreyInIntestinesStoring.stages.1.label>
+    <RV2_PreyInIntestinesStoring.stages.1.label>两个猎物存储在肠内</RV2_PreyInIntestinesStoring.stages.1.label>
     <RV2_PreyInIntestinesStoring.stages.1.description>两个小可爱像小香肠一样紧紧地连着！〜</RV2_PreyInIntestinesStoring.stages.1.description>
-    <RV2_PreyInIntestinesStoring.stages.2.label>3人の獲物を腸に閉じ込める</RV2_PreyInIntestinesStoring.stages.2.label>
+    <RV2_PreyInIntestinesStoring.stages.2.label>三个猎物存储在肠内</RV2_PreyInIntestinesStoring.stages.2.label>
     <RV2_PreyInIntestinesStoring.stages.2.description>他们三首尾紧紧地相连着！</RV2_PreyInIntestinesStoring.stages.2.description>
-    <RV2_PreyInIntestinesStoring.stages.3.label>いくつもの獲物を腸に閉じ込める</RV2_PreyInIntestinesStoring.stages.3.label>
+    <RV2_PreyInIntestinesStoring.stages.3.label>几个猎物存储在肠内</RV2_PreyInIntestinesStoring.stages.3.label>
     <RV2_PreyInIntestinesStoring.stages.3.description>我希望我不会被堵住...~</RV2_PreyInIntestinesStoring.stages.3.description>
 
 
@@ -194,60 +194,60 @@
     </stages>
   </ThoughtDef> -->
 
-    <RV2_PreyInMouthPassing.stages.0.label>獲物を呑み込む</RV2_PreyInMouthPassing.stages.0.label>
-    <RV2_PreyInMouthPassing.stages.0.description>Delicious!</RV2_PreyInMouthPassing.stages.0.description>
-    <RV2_PreyInMouthPassing.stages.1.label>一度に2人の獲物を呑み込む</RV2_PreyInMouthPassing.stages.1.label>
-    <RV2_PreyInMouthPassing.stages.1.description>Jaws, don't fail me now!</RV2_PreyInMouthPassing.stages.1.description>
-    <RV2_PreyInMouthPassing.stages.2.label>一度に3人の獲物を呑み込む</RV2_PreyInMouthPassing.stages.2.label>
-    <RV2_PreyInMouthPassing.stages.2.description>I think I bit off more than I can chew...</RV2_PreyInMouthPassing.stages.2.description>
-    <RV2_PreyInMouthPassing.stages.3.label>一度にいくつもの獲物を呑み込む</RV2_PreyInMouthPassing.stages.3.label>
-    <RV2_PreyInMouthPassing.stages.3.description>Must suppress... gag reflex...</RV2_PreyInMouthPassing.stages.3.description>
+    <RV2_PreyInMouthPassing.stages.0.label>吞下一个猎物</RV2_PreyInMouthPassing.stages.0.label>
+    <RV2_PreyInMouthPassing.stages.0.description>好吃！</RV2_PreyInMouthPassing.stages.0.description>
+    <RV2_PreyInMouthPassing.stages.1.label>吞下两个猎物</RV2_PreyInMouthPassing.stages.1.label>
+    <RV2_PreyInMouthPassing.stages.1.description>原力，别让我失望！（星球大战台词）</RV2_PreyInMouthPassing.stages.1.description>
+    <RV2_PreyInMouthPassing.stages.2.label>吞下三个猎物</RV2_PreyInMouthPassing.stages.2.label>
+    <RV2_PreyInMouthPassing.stages.2.description>感觉这次玩大了...</RV2_PreyInMouthPassing.stages.2.description>
+    <RV2_PreyInMouthPassing.stages.3.label>吞下几个猎物</RV2_PreyInMouthPassing.stages.3.label>
+    <RV2_PreyInMouthPassing.stages.3.description>要吐出来了！</RV2_PreyInMouthPassing.stages.3.description>
 
-    <RV2_PreyInMouthPleasuring.stages.0.label>獲物を口で弄ぶ</RV2_PreyInMouthPleasuring.stages.0.label>
-    <RV2_PreyInMouthPleasuring.stages.0.description>Let's sample the platter, shall we?~</RV2_PreyInMouthPleasuring.stages.0.description>
-    <RV2_PreyInMouthPleasuring.stages.1.label>獲物を口で弄ぶ</RV2_PreyInMouthPleasuring.stages.1.label>
-    <RV2_PreyInMouthPleasuring.stages.1.description>At this rate, I'm not sure I'll get the chance to taste *all* of you to the fullest!</RV2_PreyInMouthPleasuring.stages.1.description>
+    <RV2_PreyInMouthPleasuring.stages.0.label>猎物在口中玩弄</RV2_PreyInMouthPleasuring.stages.0.label>
+    <RV2_PreyInMouthPleasuring.stages.0.description>我们来尝尝拼盘吧~</RV2_PreyInMouthPleasuring.stages.0.description>
+    <RV2_PreyInMouthPleasuring.stages.1.label>几个猎物在口中玩弄</RV2_PreyInMouthPleasuring.stages.1.label>
+    <RV2_PreyInMouthPleasuring.stages.1.description>人好多，根本尝不完~</RV2_PreyInMouthPleasuring.stages.1.description>
 
 
     <!-- MH: this might be worth creating a variant for in case of a non-consumable resource like chemfuel, but that's not high priority this pass -->
 
-    <RV2_PreyInNippleDumping.stages.0.label>乳首から成れ果てを出す</RV2_PreyInNippleDumping.stages.0.label>
-    <RV2_PreyInNippleDumping.stages.0.description>Anyone care for a drink?</RV2_PreyInNippleDumping.stages.0.description>
-    <RV2_PreyInNippleDumping.stages.1.label>乳首から2人分の成れ果てを出す</RV2_PreyInNippleDumping.stages.1.label>
-    <RV2_PreyInNippleDumping.stages.1.description>Anyone care for a drink?</RV2_PreyInNippleDumping.stages.1.description>
-    <RV2_PreyInNippleDumping.stages.2.label>乳首から何人分もの成れ果てを出す</RV2_PreyInNippleDumping.stages.2.label>
-    <RV2_PreyInNippleDumping.stages.2.description>I don't know if I'll ever stop leaking after this...</RV2_PreyInNippleDumping.stages.2.description>
+    <RV2_PreyInNippleDumping.stages.0.label>排出乳头的残留物</RV2_PreyInNippleDumping.stages.0.label>
+    <RV2_PreyInNippleDumping.stages.0.description>有人想喝点东西吗？</RV2_PreyInNippleDumping.stages.0.description>
+    <RV2_PreyInNippleDumping.stages.1.label>排出乳头的两个残留物</RV2_PreyInNippleDumping.stages.1.label>
+    <RV2_PreyInNippleDumping.stages.1.description>有人想喝点东西吗？大杯装哦！</RV2_PreyInNippleDumping.stages.1.description>
+    <RV2_PreyInNippleDumping.stages.2.label>排出乳头的多个残留物</RV2_PreyInNippleDumping.stages.2.label>
+    <RV2_PreyInNippleDumping.stages.2.description>怎么还有?</RV2_PreyInNippleDumping.stages.2.description>
 
-    <RV2_PreyInNippleExiting.stages.0.label>獲物を乳首から出す</RV2_PreyInNippleExiting.stages.0.label>
-    <RV2_PreyInNippleExiting.stages.0.description>Enjoy your bath? I did!</RV2_PreyInNippleExiting.stages.0.description>
-    <RV2_PreyInNippleExiting.stages.1.label>2人の獲物を乳首から出す</RV2_PreyInNippleExiting.stages.1.label>
-    <RV2_PreyInNippleExiting.stages.1.description>Taking out the bra-stuffers...</RV2_PreyInNippleExiting.stages.1.description>
-    <RV2_PreyInNippleExiting.stages.2.label>いくつもの獲物を乳首から出す</RV2_PreyInNippleExiting.stages.2.label>
-    <RV2_PreyInNippleExiting.stages.2.description>I don't know if I'll ever stop leaking after this...</RV2_PreyInNippleExiting.stages.2.description>
+    <RV2_PreyInNippleExiting.stages.0.label>猎物从乳头排出</RV2_PreyInNippleExiting.stages.0.label>
+    <RV2_PreyInNippleExiting.stages.0.description>奶浴愉快！我猜？</RV2_PreyInNippleExiting.stages.0.description>
+    <RV2_PreyInNippleExiting.stages.1.label>两个猎物从乳头排出</RV2_PreyInNippleExiting.stages.1.label>
+    <RV2_PreyInNippleExiting.stages.1.description>好像把填充物取出来了！</RV2_PreyInNippleExiting.stages.1.description>
+    <RV2_PreyInNippleExiting.stages.2.label>几个猎物从乳头排出</RV2_PreyInNippleExiting.stages.2.label>
+    <RV2_PreyInNippleExiting.stages.2.description>奶水还在源源不断的流出呢！</RV2_PreyInNippleExiting.stages.2.description>
 
-    <RV2_PreyInNipplePassing.stages.0.label>獲物を乳首に収める</RV2_PreyInNipplePassing.stages.0.label>
-    <RV2_PreyInNipplePassing.stages.0.description>Drink up!</RV2_PreyInNipplePassing.stages.0.description>
-    <RV2_PreyInNipplePassing.stages.1.label>2人の獲物を乳首に収める</RV2_PreyInNipplePassing.stages.1.label>
-    <RV2_PreyInNipplePassing.stages.1.description>Gotta keep the symmetry!</RV2_PreyInNipplePassing.stages.1.description>
-    <RV2_PreyInNipplePassing.stages.2.label>いくつもの獲物を乳首に収める</RV2_PreyInNipplePassing.stages.2.label>
-    <RV2_PreyInNipplePassing.stages.2.description>Two at a time! Please!~</RV2_PreyInNipplePassing.stages.2.description>
+    <RV2_PreyInNipplePassing.stages.0.label>猎物被乳头吸收</RV2_PreyInNipplePassing.stages.0.label>
+    <RV2_PreyInNipplePassing.stages.0.description>喝吧！</RV2_PreyInNipplePassing.stages.0.description>
+    <RV2_PreyInNipplePassing.stages.1.label>两个猎物被乳头吸收</RV2_PreyInNipplePassing.stages.1.label>
+    <RV2_PreyInNipplePassing.stages.1.description>现在对称了，嘻嘻！</RV2_PreyInNipplePassing.stages.1.description>
+    <RV2_PreyInNipplePassing.stages.2.label>几个猎物被乳头吸收</RV2_PreyInNipplePassing.stages.2.label>
+    <RV2_PreyInNipplePassing.stages.2.description>请求两个一起吧，不燃一大一小太奇怪了~</RV2_PreyInNipplePassing.stages.2.description>
 
-    <RV2_PreyInNipplePleasuring.stages.0.label>獲物を乳首で弄ぶ</RV2_PreyInNipplePleasuring.stages.0.label>
-    <RV2_PreyInNipplePleasuring.stages.0.description>Oh, that tingles!</RV2_PreyInNipplePleasuring.stages.0.description>
-    <RV2_PreyInNipplePleasuring.stages.1.label>2人の獲物を乳首で弄ぶ</RV2_PreyInNipplePleasuring.stages.1.label>
-    <RV2_PreyInNipplePleasuring.stages.1.description>Pump 'em in, pump 'em out!</RV2_PreyInNipplePleasuring.stages.1.description>
-    <RV2_PreyInNipplePleasuring.stages.2.label>たくさんの獲物を乳首で弄ぶ</RV2_PreyInNipplePleasuring.stages.2.label>
-    <RV2_PreyInNipplePleasuring.stages.2.description>I really ought to do this one per nip, but...</RV2_PreyInNipplePleasuring.stages.2.description>
+    <RV2_PreyInNipplePleasuring.stages.0.label>猎物在乳头玩弄</RV2_PreyInNipplePleasuring.stages.0.label>
+    <RV2_PreyInNipplePleasuring.stages.0.description>噢，真让人兴奋！</RV2_PreyInNipplePleasuring.stages.0.description>
+    <RV2_PreyInNipplePleasuring.stages.1.label>两个猎物在乳头玩弄</RV2_PreyInNipplePleasuring.stages.1.label>
+    <RV2_PreyInNipplePleasuring.stages.1.description>把它们塞进去，再挤出来！</RV2_PreyInNipplePleasuring.stages.1.description>
+    <RV2_PreyInNipplePleasuring.stages.2.label>几个猎物在乳头玩弄</RV2_PreyInNipplePleasuring.stages.2.label>
+    <RV2_PreyInNipplePleasuring.stages.2.description>按理说该一个个慢慢搞的...算了一起吧！</RV2_PreyInNipplePleasuring.stages.2.description>
 
 
     <!-- Stomach -->
 
-    <RV2_PreyInStomachChurning.stages.0.label>獲物を完全に溶かす</RV2_PreyInStomachChurning.stages.0.label>
-    <RV2_PreyInStomachChurning.stages.0.description>Stopped kicking? Already stewing into mush...</RV2_PreyInStomachChurning.stages.0.description>
-    <RV2_PreyInStomachChurning.stages.1.label>2人の獲物を完全に溶かす</RV2_PreyInStomachChurning.stages.1.label>
-    <RV2_PreyInStomachChurning.stages.1.description>I'm feeling a bit gassy already.</RV2_PreyInStomachChurning.stages.1.description>
-    <RV2_PreyInStomachChurning.stages.2.label>3人の獲物を完全に溶かす</RV2_PreyInStomachChurning.stages.2.label>
-    <RV2_PreyInStomachChurning.stages.2.description>I'm really urpy now! But, like, in a good way!</RV2_PreyInStomachChurning.stages.2.description>
+    <RV2_PreyInStomachChurning.stages.0.label>猎物完全溶解</RV2_PreyInStomachChurning.stages.0.label>
+    <RV2_PreyInStomachChurning.stages.0.description>不踢了？看来已经烂成糊状了……</RV2_PreyInStomachChurning.stages.0.description>
+    <RV2_PreyInStomachChurning.stages.1.label>两个猎物完全溶解</RV2_PreyInStomachChurning.stages.1.label>
+    <RV2_PreyInStomachChurning.stages.1.description>我已经感觉有点胀了~</RV2_PreyInStomachChurning.stages.1.description>
+    <RV2_PreyInStomachChurning.stages.2.label>三个猎物完全溶解</RV2_PreyInStomachChurning.stages.2.label>
+    <RV2_PreyInStomachChurning.stages.2.description>我现在真的胀！不过，感觉还行！</RV2_PreyInStomachChurning.stages.2.description>
     <RV2_PreyInStomachChurning.stages.3.label>いくつもの獲物を完全に溶かす</RV2_PreyInStomachChurning.stages.3.label>
     <RV2_PreyInStomachChurning.stages.3.description>Still no regrets!~</RV2_PreyInStomachChurning.stages.3.description>
 
