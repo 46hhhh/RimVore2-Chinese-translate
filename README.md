@@ -1,7 +1,7 @@
 # Rimvore-CN 中文翻译模组/46hhhh分支
 
 ## 模组说明
-为 430230562/RimVore2-Chinese-translate 的分支 添加了原版小人闲话的翻译内容、部分扩展的闲话翻译\b
+为 430230562/RimVore2-Chinese-translate 的分支 添加了原版小人闲话的翻译内容、部分扩展的闲话翻译\n
 正在积极拉去进  430230562/RimVore2-Chinese-translate 的翻译模组中。
 
 ## 支持模组列表
