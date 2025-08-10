@@ -1,17 +1,16 @@
-<!-- Precepts_GenderedPreyism.xml -->
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RV2_GenderedPreyism_FemaleOnly.label>仅限女性捕食者</RV2_GenderedPreyism_FemaleOnly.label>
-  <RV2_GenderedPreyism_FemaleOnly.description>只有雌性身体适合作为捕食者。</RV2_GenderedPreyism_FemaleOnly.description>
+    <RV2_GenderedPreyism_FemaleOnly.label>仅限女性捕食者</RV2_GenderedPreyism_FemaleOnly.label>
+    <RV2_GenderedPreyism_FemaleOnly.description>只有雌性身体适合作为捕食者。</RV2_GenderedPreyism_FemaleOnly.description>
 
-  <RV2_GenderedPreyism_FemalePreferred.label>偏好女性捕食者</RV2_GenderedPreyism_FemalePreferred.label>
-  <RV2_GenderedPreyism_FemalePreferred.description>这类身体应优先考虑作为捕食者。</RV2_GenderedPreyism_FemalePreferred.description>
+    <RV2_GenderedPreyism_FemalePreferred.label>偏好女性捕食者</RV2_GenderedPreyism_FemalePreferred.label>
+    <RV2_GenderedPreyism_FemalePreferred.description>女性应优先考虑作为捕食者。</RV2_GenderedPreyism_FemalePreferred.description>
 
-  <RV2_GenderedPreyism_MalePreferred.label>偏好男性捕食者</RV2_GenderedPreyism_MalePreferred.label>
-  <RV2_GenderedPreyism_MalePreferred.description>这类身体应优先考虑作为捕食者。</RV2_GenderedPreyism_MalePreferred.description>
+    <RV2_GenderedPreyism_MalePreferred.label>偏好男性捕食者</RV2_GenderedPreyism_MalePreferred.label>
+    <RV2_GenderedPreyism_MalePreferred.description>女性应优先考虑作为捕食者。</RV2_GenderedPreyism_MalePreferred.description>
 
-  <RV2_GenderedPreyism_MaleOnly.label>仅限男性捕食者</RV2_GenderedPreyism_MaleOnly.label>
-  <RV2_GenderedPreyism_MaleOnly.description>只有雄性身体适合作为捕食者。</RV2_GenderedPreyism_MaleOnly.description>
+    <RV2_GenderedPreyism_MaleOnly.label>仅限男性捕食者</RV2_GenderedPreyism_MaleOnly.label>
+    <RV2_GenderedPreyism_MaleOnly.description>只有雄性身体适合作为捕食者。</RV2_GenderedPreyism_MaleOnly.description>
 
 </LanguageData>

@@ -1,30 +1,29 @@
-<!-- Precepts_AnimalPrey.xml -->
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 厌恶 -->
-  <RV2_AnimalPrey_Disliked.label>厌恶</RV2_AnimalPrey_Disliked.label>
-  <RV2_AnimalPrey_Disliked.description>吞噬动物的行为不应被提倡。</RV2_AnimalPrey_Disliked.description>
+    <!-- 厌恶 -->
+    <RV2_AnimalPrey_Disliked.label>厌恶</RV2_AnimalPrey_Disliked.label>
+    <RV2_AnimalPrey_Disliked.description>吞噬动物的行为不应被提倡。</RV2_AnimalPrey_Disliked.description>
 
-  <!-- 憎恶 -->
-  <RV2_AnimalPrey_Abhorrent.label>憎恶</RV2_AnimalPrey_Abhorrent.label>
-  <RV2_AnimalPrey_Abhorrent.description>动物并非为被吞噬而生，这种行为是对我们信仰的亵渎。</RV2_AnimalPrey_Abhorrent.description>
+    <!-- 憎恶 -->
+    <RV2_AnimalPrey_Abhorrent.label>憎恶</RV2_AnimalPrey_Abhorrent.label>
+    <RV2_AnimalPrey_Abhorrent.description>动物并非为被吞噬而生，这种行为是对我们信仰的亵渎。</RV2_AnimalPrey_Abhorrent.description>
 
-  <!-- 喜好 -->
-  <RV2_AnimalPrey_Liked.label>喜好</RV2_AnimalPrey_Liked.label>
-  <RV2_AnimalPrey_Liked.description>吞噬动物的行为应当被鼓励。</RV2_AnimalPrey_Liked.description>
+    <!-- 喜好 -->
+    <RV2_AnimalPrey_Liked.label>喜好</RV2_AnimalPrey_Liked.label>
+    <RV2_AnimalPrey_Liked.description>吞噬动物的行为应当被鼓励。</RV2_AnimalPrey_Liked.description>
 
-  <!-- 必须 -->
-  <RV2_AnimalPrey_Required.label>必须</RV2_AnimalPrey_Required.label>
-  <RV2_AnimalPrey_Required.description>我们生来就是为了吞噬动物，这个事实必须在日常生活中得到确认。</RV2_AnimalPrey_Required.description>
-  <RV2_AnimalPrey_Required.comps.3.description>{VORERELATEDINTERVAL}天内未吞噬动物</RV2_AnimalPrey_Required.comps.3.description>
+    <!-- 必须 -->
+    <RV2_AnimalPrey_Required.label>必须</RV2_AnimalPrey_Required.label>
+    <RV2_AnimalPrey_Required.description>我们生来就是为了吞噬动物，这个事实必须在日常生活中得到确认。</RV2_AnimalPrey_Required.description>
+    <RV2_AnimalPrey_Required.comps.3.description>{VORERELATEDINTERVAL}天内未吞噬动物</RV2_AnimalPrey_Required.comps.3.description>
 
-  <!-- 圣兽憎恶 -->
-  <RV2_AnimalPrey_Abhorrent_Venerated.label>憎恶(圣兽)</RV2_AnimalPrey_Abhorrent_Venerated.label>
-  <RV2_AnimalPrey_Abhorrent_Venerated.description>吞噬圣兽是不可饶恕的行为。</RV2_AnimalPrey_Abhorrent_Venerated.description>
+    <!-- 圣兽憎恶 -->
+    <RV2_AnimalPrey_Abhorrent_Venerated.label>憎恶(圣兽)</RV2_AnimalPrey_Abhorrent_Venerated.label>
+    <RV2_AnimalPrey_Abhorrent_Venerated.description>吞噬圣兽是不可饶恕的行为。</RV2_AnimalPrey_Abhorrent_Venerated.description>
 
-  <!-- 圣兽喜好 -->
-  <RV2_AnimalPrey_Liked_Venerated.label>喜好(圣兽)</RV2_AnimalPrey_Liked_Venerated.label>
-  <RV2_AnimalPrey_Liked_Venerated.description>吞噬圣兽的行为应当被鼓励。</RV2_AnimalPrey_Liked_Venerated.description>
+    <!-- 圣兽喜好 -->
+    <RV2_AnimalPrey_Liked_Venerated.label>喜好(圣兽)</RV2_AnimalPrey_Liked_Venerated.label>
+    <RV2_AnimalPrey_Liked_Venerated.description>吞噬圣兽的行为应当被鼓励。</RV2_AnimalPrey_Liked_Venerated.description>
 
 </LanguageData>

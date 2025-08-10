@@ -6,11 +6,17 @@
 	<modIconPath IgnoreIfNoMatchingField="True">ModIcon</modIconPath>
 	<url></url>
 	<supportedVersions>
-		
 		<li>1.4</li>
 		<li>1.5</li>
 		<li>1.6</li>
 	</supportedVersions>
+	<modDependencies>
+	    <li>
+	    <packageId>Nabber.RimVore2</packageld>
+	    <displayName>RimVore-2</displayName>
+	    <downloadUrl>https://gitlab.com/Nabber/rimvore-2.git</downloadUrl>
+	    </li>
+	</modDependencies>
 	<loadAfter>
 		<li>Nabber.RimVore2</li>
 		<li>MamaHorseteeth.RimVore2ExtraVores</li>
