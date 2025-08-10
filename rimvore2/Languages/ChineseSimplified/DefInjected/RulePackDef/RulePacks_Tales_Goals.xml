@@ -2,7 +2,7 @@
 <LanguageData>
 
     <RV2_Goal_Digest.rulePack.rulesStrings>
-        <li>extraSentencePack->将[RECIPIENT_nameDef]并准备[RV2_goalFinish_noun][RECIPIENT_nameDef]</li>
+        <li>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef]</li>
         <li>RV2_digestion_product->无定形块状物</li>
         <li>RV2_digestion_product->粥状物</li>
         <li>RV2_digestion_product->糊状物</li>
@@ -38,7 +38,7 @@
     </RV2_Goal_Digest.rulePack.rulesStrings>
 
     <RV2_Goal_Pleasure.rulePack.rulesStrings>
-        <li>extraSentencePack->将[RECIPIENT_nameDef]并准备[RV2_goalFinish_noun]</li>
+        <li>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef]</li>
         <li>RV2_adverb->色欲地</li>
         <li>RV2_adverb->充满爱意地</li>
         <li>RV2_adverb->饥渴地</li>
@@ -58,7 +58,7 @@
     </RV2_Goal_Pleasure.rulePack.rulesStrings>
 
     <RV2_Goal_Store.rulePack.rulesStrings>
-        <li>extraSentencePack->将[RECIPIENT_nameDef]并准备[RV2_goalFinish_noun]</li>
+        <li>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef]</li>
         <li>RV2_adverb->充满爱意地</li>
         <li>RV2_adverb->长久地</li>
         <li>RV2_adverb->永久地</li>
@@ -82,7 +82,7 @@
     </RV2_Goal_Store.rulePack.rulesStrings>
 
     <RV2_Goal_Hold.rulePack.rulesStrings>
-        <li>extraSentencePack->将[RECIPIENT_nameDef]并准备[RV2_goalFinish_noun]</li>
+        <li>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun][RECIPIENT_nameDef]</li>
         <li>RV2_adverb->充满爱意地</li>
         <li>RV2_adverb->匆忙地</li>
         <li>RV2_adjective->充满爱意的</li>
@@ -102,7 +102,7 @@
     </RV2_Goal_Hold.rulePack.rulesStrings>
 
     <RV2_Goal_ConvertLube.rulePack.rulesStrings>
-        <li>extraSentencePack->将[RECIPIENT_nameDef]并准备[RV2_goalFinish_noun]</li>
+        <li>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun]</li>
         <li>RV2_goalProduct->爱液</li>
         <li>RV2_goalProduct->润滑液</li>
         <li>RV2_goalProduct->潮吹液</li>
@@ -122,7 +122,7 @@
     </RV2_Goal_ConvertLube.rulePack.rulesStrings>
 
     <RV2_Goal_ConvertMilk.rulePack.rulesStrings>
-        <li>extraSentencePack->将[RECIPIENT_nameDef]并准备[RV2_goalFinish_noun]</li>
+        <li>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun]</li>
         <li>RV2_goalProduct->乳汁</li>
         <li>RV2_goalProduct->母乳</li>
         <li>RV2_adverb->母亲般地</li>
@@ -135,7 +135,7 @@
     </RV2_Goal_ConvertMilk.rulePack.rulesStrings>
 
     <RV2_Goal_ConvertSperm.rulePack.rulesStrings>
-        <li>extraSentencePack->将[RECIPIENT_nameDef]并准备[RV2_goalFinish_noun]</li>
+        <li>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun]</li>
         <li>RV2_goalProduct->精浆</li>
         <li>RV2_goalProduct->精液</li>
         <li>RV2_goalProduct->精子</li>
@@ -152,7 +152,7 @@
     </RV2_Goal_ConvertSperm.rulePack.rulesStrings>
 
     <RV2_Goal_Heal.rulePack.rulesStrings>
-        <li>extraSentencePack->将[RECIPIENT_nameDef]并准备[RV2_goalFinish_noun]</li>
+        <li>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun]</li>
         <li>RV2_adverb->小心翼翼地</li>
         <li>RV2_adverb->临床式地</li>
         <li>RV2_adverb->充满爱意地</li>
@@ -174,7 +174,7 @@
     </RV2_Goal_Heal.rulePack.rulesStrings>
 
     <RV2_Goal_Reform.rulePack.rulesStrings>
-        <li>extraSentencePack->将[RECIPIENT_nameDef]并准备[RV2_goalFinish_noun]</li>
+        <li>extraSentencePack->将[RECIPIENT_nameDef]吞下并准备[RV2_goalFinish_noun]</li>
         <li>RV2_adverb->充满爱意地</li>
         <li>RV2_adjective->关怀的</li>
         <li>RV2_adjective->充满爱意的</li>
