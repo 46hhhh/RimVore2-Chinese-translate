@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Rimvore-translate</name>
+	<name>Rimvore2-Chinese-translate</name>
 	<author>pardon</author>
 	<packageId>pardon.RimvoreTrans</packageId>
 	<modIconPath IgnoreIfNoMatchingField="True">ModIcon</modIconPath>
-	<url></url>
+	<url>https://github.com/430230562/RimVore2-Chinese-translate</url>
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
@@ -12,7 +12,7 @@
 	</supportedVersions>
 	<modDependencies>
 	    <li>
-	    <packageId>Nabber.RimVore2</packageld>
+	    <packageId>Nabber.RimVore2</packageId>
 	    <displayName>RimVore-2</displayName>
 	    <downloadUrl>https://gitlab.com/Nabber/rimvore-2.git</downloadUrl>
 	    </li>
