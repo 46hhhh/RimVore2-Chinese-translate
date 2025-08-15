@@ -3,7 +3,6 @@
 	<name>Rimvore2-Chinese-translate</name>
 	<author>pardon</author>
 	<packageId>pardon.RimvoreTrans</packageId>
-	<modIconPath IgnoreIfNoMatchingField="True">ModIcon</modIconPath>
 	<url>https://github.com/430230562/RimVore2-Chinese-translate</url>
 	<supportedVersions>
 		<li>1.4</li>
@@ -11,11 +10,11 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<modDependencies>
-	    <li>
-	    <packageId>Nabber.RimVore2</packageId>
-	    <displayName>RimVore-2</displayName>
-	    <downloadUrl>https://gitlab.com/Nabber/rimvore-2.git</downloadUrl>
-	    </li>
+		<li>
+			<packageId>Nabber.RimVore2</packageId>
+			<displayName>RimVore-2</displayName>
+			<downloadUrl>https://gitlab.com/Nabber/rimvore-2.git</downloadUrl>
+		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>Nabber.RimVore2</li>
@@ -30,7 +29,6 @@
 		<li>Rutrix.RimVore2Interactions</li>
 		<li>Rutrix.RutsRimVoreStuff</li>
 	</loadAfter>
-	<modDependencies></modDependencies>
 	<incompatibleWith>
 
 	</incompatibleWith>
